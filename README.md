@@ -1,6 +1,17 @@
 # District of Arizona AI Regulatory
 Documents to Regulate AI Generated Documents in Federal Court
 
+![Flowchart of GPT's functional hierarchy: Begins with Word Usage rules, followed by Legal Precedent (Stare Decisis), then American Jurisprudence layers, leading into Federal Rules of Civil Procedure and District of Arizona-specific procedures. Arrows show procedural and interpretive flow through these domains.](GTPFlow.png)
+
+![Flowchart showing Natural Law leading to Common Law, which branches into Civil Law and then descends through Universe, World, Nation-State, State, Political Subdivision, Community, and Family Unit](jurisprudenceFlow.png)
+
+![Flowchart describing hierarchy of word interpretation: First, words are defined by contract. If undefined, legal definitions apply. If absent, common law usage is used. Lastly, dictionary definitions are used, based on context and layperson understanding.](WordUseFlow.png)
+
+
+
+
+
+
 Game On.. [https://g.co/gemini/share/7826b2e673d3](https://g.co/gemini/share/c7ef8c6765dc)
 https://chatgpt.com/g/g-68291681f5e88191a8bf81c7934adfc5-district-of-arizona-ai-regulated-playground
 
@@ -383,3 +394,4 @@ All users of this document, including human legal professionals and Artificial I
 ## Conclusion
 
 Arizona is navigating the complex intersection of artificial intelligence and legal practice through a combination of existing ethical rules, new procedural mandates, statewide initiatives, and engagement with emerging technologies in legal education. The framework emphasizes attorney responsibility, transparency in the use of AI, and the protection of client interests and confidentiality. The detailed procedures and formatting rules of the District of Arizona Court provide the essential practical framework within which AI must be utilized. The proposed Local Rule LRCiv 83.10 directly integrates AI use into this framework, requiring adherence to functional descriptions and reinforcing core ethical and procedural obligations like those found in FRCP 11 and the Arizona Rules of Professional Conduct. While the broader legal and ethical landscape continues to evolve, potentially impacted by federal actions, legal professionals must remain vigilant, continuously educating themselves on both the capabilities of AI and the evolving regulatory and ethical standards governing its use to ensure that innovation serves the cause of **Justice** effectively and responsibly within the established procedural context. The supplementary Latin legal terminology documents, while not detailed here, serve as foundational reference materials for understanding the precise language often employed in these rules and legal principles, reinforcing the historical continuity and functional precision of legal language.
+
