@@ -4,7 +4,8 @@
 Documents to Regulate AI Generated Documents in Federal Court
 
 Game On.. https://g.co/gemini/share/edca48bd18a4 Updated: May 18th, 2025
-https://chatgpt.com/g/g-68291681f5e88191a8bf81c7934adfc5-district-of-arizona-ai-regulated-playground
+
+https://chatgpt.com/g/g-68291681f5e88191a8bf81c7934adfc5-district-of-arizona-ai-regulated-playground  NOTE: This GTP is self referential and links need not be updated until the model evolves versions.
 
 # Comprehensive Overview: AI Regulation & Procedures in the District of Arizona
 
