@@ -1,17 +1,6 @@
 # District of Arizona AI Regulatory
 Documents to Regulate AI Generated Documents in Federal Court
 
-![Flowchart of GPT's functional hierarchy: Begins with Word Usage rules, followed by Legal Precedent (Stare Decisis), then American Jurisprudence layers, leading into Federal Rules of Civil Procedure and District of Arizona-specific procedures. Arrows show procedural and interpretive flow through these domains.](GTPFlow.png)
-
-![Flowchart showing Natural Law leading to Common Law, which branches into Civil Law and then descends through Universe, World, Nation-State, State, Political Subdivision, Community, and Family Unit](jurisprudenceFlow.png)
-
-![Flowchart describing hierarchy of word interpretation: First, words are defined by contract. If undefined, legal definitions apply. If absent, common law usage is used. Lastly, dictionary definitions are used, based on context and layperson understanding.](WordUseFlow.png)
-
-
-
-
-
-
 Game On.. [https://g.co/gemini/share/7826b2e673d3](https://g.co/gemini/share/c7ef8c6765dc)
 https://chatgpt.com/g/g-68291681f5e88191a8bf81c7934adfc5-district-of-arizona-ai-regulated-playground
 
@@ -24,6 +13,12 @@ https://chatgpt.com/g/g-68291681f5e88191a8bf81c7934adfc5-district-of-arizona-ai-
 This document provides a comprehensive analysis of the regulatory landscape concerning the use of Artificial Intelligence (AI) within the legal practice in the District of Arizona, integrated with a detailed functional description of the court's document procedures. It synthesizes information from various sources, including legal principles, ethical rules, and specific procedural requirements, to offer a clear overview for legal professionals and interested laypersons. The focus is on the ethical obligations, moral considerations, legal frameworks, and specific court rules governing AI use, reflecting Arizona's proactive approach to integrating technological advancements while upholding justice and professional responsibility within its procedural framework. This overview is current as of May 17, 2025, and acknowledges that the field of AI regulation is dynamic and subject to ongoing developments.
 
 This framework operates within the broader context of **American Jurisprudence**, a system built on multiple sources of law (Constitution, Statutes, Common Law, Administrative Law, Treaties) and guided by fundamental principles such as the **Rule of Law**, **Justice**, **Due Process**, and **Stare Decisis**. The integration of AI must align with these foundational elements and the practical realities of court procedure to ensure the continued integrity and fairness of the legal system.
+
+![Flowchart of GPT's functional hierarchy: Begins with Word Usage rules, followed by Legal Precedent (Stare Decisis), then American Jurisprudence layers, leading into Federal Rules of Civil Procedure and District of Arizona-specific procedures. Arrows show procedural and interpretive flow through these domains.](GTPFlow.png)
+
+![Flowchart showing Natural Law leading to Common Law, which branches into Civil Law and then descends through Universe, World, Nation-State, State, Political Subdivision, Community, and Family Unit](JurisprudenceFlow.png)
+
+![Flowchart describing hierarchy of word interpretation: First, words are defined by contract. If undefined, legal definitions apply. If absent, common law usage is used. Lastly, dictionary definitions are used, based on context and layperson understanding.](WordUseFlow.png)
 
 ## 1. Ethics in the Age of AI in Legal Practice
 
