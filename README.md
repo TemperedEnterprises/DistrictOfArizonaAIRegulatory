@@ -3,7 +3,7 @@
 # District of Arizona AI Regulatory
 Documents to Regulate AI Generated Documents in Federal Court
 
-Game On.. https://g.co/gemini/share/edca48bd18a4 Updated: May 18th, 2025
+Game On.. https://gemini.google.com/gem/658d1cb60960 Converted to GEM on May 20th, 2025
 
 https://chatgpt.com/g/g-68291681f5e88191a8bf81c7934adfc5-district-of-arizona-ai-regulated-playground  NOTE: This GTP is self referential and links need not be updated until the model evolves versions.
 
