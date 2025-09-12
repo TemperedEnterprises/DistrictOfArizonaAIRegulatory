@@ -1,4 +1,6 @@
-![Peace and Tranquility Through Law: A symbolic depiction of American legal foundations, ethics, unity, and justice – incorporating imagery from U.S. history, the Constitution, the people, and the principle of 'In God We Trust'](Preamble.png)
+![District of Arizona AI Seal](DistrictofArizonaAiSealbyAi.png)
+
+![Peace and Tranq uility Through Law: A symbolic depiction of American legal foundations, ethics, unity, and justice – incorporating imagery from U.S. history, the Constitution, the people, and the principle of 'In God We.  Trust'](Preamble.png)
 
 # District of Arizona AI Regulatory
 Documents to Regulate AI Generated Documents in Federal Court
