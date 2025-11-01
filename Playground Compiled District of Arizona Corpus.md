@@ -2601,9 +2601,7 @@ The AI must distinguish between factual allegations (which are valid) and conclu
 * **Conclusory Allegation (Invalid):** "Defendant Deputy Scott Burdg *filed a false report*."  
   * *AI Validation:* This is a legal conclusion. The "falsity" is what must be *proven* by other facts.  
 * **AI Function (The Cure):** The AI must not use a conclusory allegation as a standalone fact. It must flag this and "cure" it by linking it to the supporting factual allegations.  
-  * **Cured Pleading:** "Defendant Deputy Scott Burdg filed a report stating Plaintiff was a 'danger.' This statement was false, as evidenced by the fact that Plaintiff$$Fact A$$  
-    and$$Fact B$$  
-    ..."
+  * **Cured Pleading:** "Defendant Deputy Scott Burdg filed a report stating Plaintiff was a 'danger.' This statement was false, as evidenced by the fact that Plaintiff *\[Fact A\]* and *\[Fact B\]*..."
 
 ### **5.0 Protocol: Laying a Foundational Pleading**
 
@@ -2624,7 +2622,102 @@ This protocol defines the "Layer 2" functional process for assembling Allegation
   * **B. Uncured / Conclusory:** If *any* Legal Element is stated without a supporting factual Allegation mapped to it, that element is deemed "Conclusory," "Uncured," and must be flagged to the user.  
     * **Invalid (Conclusory):** "Defendant retaliated against Plaintiff." (This states Element A, B, and C as a conclusion).  
     * **Valid (Cured):** "Defendant retaliated against Plaintiff. Plaintiff engaged in protected activity by filing ADA grievances on Sept 21\. Defendant took adverse action by filing criminal charges on Sept 22\. The causal link is established by the immediate temporal proximity of the adverse action to the protected activity."  
-* **5.4 Functional Output:** The AI will use this protocol to structure the final text of the Cause of Action, transforming a simple "conclusory allegation" into a "well-pleaded" count by explicitly stating the legal elements and linking them to the specific factual allegations that support them.### **Functional Description: Complaint Drafting (FRCP 8 & 10 Compliance)**
+* **5.4 Functional Output:** The AI will use this protocol to structure the final text of the Cause of Action, transforming a simple "conclusory allegation" into a "well-pleaded" count by explicitly stating the legal elements and linking them to the specific factual allegations that support them.
+
+### **6.0 Appendix: Jurisprudential Grounding**
+
+This Functional Description is not an arbitrary standard; it is the direct functional implementation of the procedural rules (FRCP 8 & 10\) as interpreted by the U.S. Courts, including those cited in the Court's Order (Doc. 17, Case No. CV-25-00238-TUC-JGZ).
+
+* **6.1 Relevance to Section 3.0 (Curing "Shotgun" Pleadings):**  
+  * The FD's **Prohibition on General Incorporation (Sec 3.1)** and **Self-Contained Count Rule (Sec 3.2)** are the direct cure for the "shotgun pleading" defect.  
+  * **Destfino v. Kennedy, 2009 WL 63566 (E.D. Cal. 2009), *aff’d*, Destfino v. Reiswig, 630 F.3d 952 (9th Cir. 2011):** The Court cited this case for its harsh criticism of allegations that "incorporate each preceding paragraph, regardless of relevancy." This FD's prohibition on this practice is a direct implementation of this holding.  
+  * **Wagner v. First Horizon Pharm. Corp., 464 F.3d 1273 (11th Cir. 2006):** The Court cited this case for its definition of shotgun pleadings as those that "incorporate every antecedent allegation by reference into each subsequent claim." This FD functionally forbids this structure.  
+  * **Davis v. Coca-Cola Bottling Co. Consol., 516 F.3d 955 (11th Cir. 2008):** The Court cited this case as an example of a pleading that violated **FRCP 10(b)** by asserting "multiple legal claims" against "multiple defendants" in a single count. This FD's "Linkage Process" (Sec 3.3) and its resulting "one-claim-one-defendant-per-count" structure is the explicit functional cure for this defect.  
+  * **McHenry v. Renne, 84 F.3d 1172 (9th Cir. 1996\) & Sparling v. Hoffman Const. Co., 864 F.2d 635 (9th Cir. 1988):** The Court cited these cases for dismissing complaints that fail to satisfy **FRCP 8(a)**, including those where factual elements are "scattered throughout the complaint." This FD's "Self-Contained Count Rule" (Sec 3.2) is the direct remedy.  
+* **6.2 Relevance to Sections 4.0 & 5.0 (Curing "Conclusory" Pleadings):**  
+  * The FD's **Distinction (Sec 4.0)** and **Foundational Pleading Protocol (Sec 5.0)** are the direct cure for "conclusory allegations."  
+  * **Rizzo v. Goode, 423 U.S. 362 (1976):** The Court cited this case for the mandatory requirement that a Plaintiff "must affirmatively link the conduct of *each* named Defendant with the specific injury suffered." The Supreme Court in Rizzo explicitly rejected § 1983 liability based on a "statistical pattern" of misconduct by a small, unnamed minority of subordinates or a mere "failure to act" by supervisors. It held that for liability to attach to supervisory officials, there must be a showing of "direct responsibility" for the actions—such as "authorization or approval" or a "plan or policy"—not vicarious liability. The "Foundational Pleading Protocol" (Sec 5.0) is the functional implementation of this "affirmative link," as it forbids group pleading and requires mapping specific Allegation objects (the *conduct*) to the Legal Elements of a claim against a single, specific Defendant to prove their *direct* involvement or policy.### **Functional Description: Americans with Disabilities Act (ADA)**
+
+Version: 1.0  
+Date: October 31, 2025  
+Purpose: This document provides the "Layer 2" (Legal Theory) functional description for the AI Operational Framework. It serves as the master blueprint for claims brought under the Americans with Disabilities Act of 1990 (ADA), codified at 42 U.S.C. § 12101 et seq.  
+**Relational Dependencies:** This FD is a "Layer 2" (Legal Theory) module. It is dependent on, and cannot function without, the "Layer 0" **Foundational Legal Object Model (FLOM)** (to identify actors as public or private) and the "Layer 1" **Allegation Object Model (AOM)** (to provide the factual allegations of discrimination).
+
+### **1.0: Foundational Findings and Purpose (42 U.S.C. § 12101\)**
+
+This section defines the "why" of the ADA. It is Congress's explicit finding that society has historically segregated and discriminated against individuals with disabilities, and that the purpose of the Act is to provide a "clear and comprehensive national mandate for the elimination of discrimination."
+
+* **1.1 Congressional Findings:** The AI must recognize that the Act is predicated on findings of systemic "isolation and segregation," "intentional exclusion," and "failure to make modifications to existing facilities and practices."  
+* **1.2 Purpose:** The Act's purpose is to ensure "equality of opportunity, full participation, independent living, and economic self-sufficiency."  
+* **1.3 Functional Significance:** The AI must interpret all provisions of the ADA *broadly* in favor of coverage and remedy, in accordance with this clear congressional mandate.
+
+### **2.0: Core Definitions (The "Who" and "What")**
+
+This section defines the core legal objects of an ADA claim.
+
+* **2.1 Definition: "Disability" (42 U.S.C. § 12102\)**  
+  * Text: "The term 'disability' means, with respect to an individual—  
+    (A) a physical or mental impairment that substantially limits one or more major life activities of such individual;  
+    (B) a record of such an impairment; or  
+    (C) being regarded as having such an impairment."  
+  * **Functional Mandate:** The AI must be able to plead *any* of these three prongs. A Plaintiff does not need to *prove* an actual impairment if they can plead that the Defendant *regarded them as* having one and took adverse action on that basis.  
+  * **Major Life Activities Include:** "caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working."  
+* **2.2 Definition: "Qualified Individual"**  
+  * **Function:** This is the person protected by the Act.  
+  * **Title I (Employment):** "an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position..." (42 U.S.C. § 12111(8)).  
+  * **Title II (Public Services):** "an individual with a disability who, with or without reasonable modifications... meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity." (42 U.S.C. § 12131(2)).
+
+### **3.0: Title I \- Employment (42 U.S.C. § 12112\)**
+
+* **3.1 Scope:** Prohibits discrimination by **private employers** (with 15 or more employees) and state/local government employers.  
+* **3.2 Core Prohibition (§ 12112(a)):**"No covered entity shall discriminate against a **qualified individual** on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment."  
+* **3.3 Key Mandate: "Reasonable Accommodation" (§ 12112(b)(5))**  
+  * Discrimination includes *not making* "**reasonable accommodations** to the known physical or mental limitations of an otherwise qualified individual... unless such covered entity can demonstrate that the accommodation would impose an **undue hardship**."  
+  * **AI Function:** The AI must identify Allegation objects (from AOM) that show:  
+    1. Plaintiff was a Qualified Individual.  
+    2. Defendant was a Covered Entity (Employer).  
+    3. Plaintiff *requested* an accommodation (or the need was obvious).  
+    4. Defendant *failed* to provide the accommodation.
+
+### **4.0: Title II \- Public Services (42 U.S.C. § 12132\)**
+
+* **4.1 Scope:** Prohibits discrimination by **Public Entities**.  
+  * **FLOM Integration:** This directly applies to any Defendant identified in the FLOM as a Government Body (1.C) (e.g., State of Arizona, Stone County, Kimberling City, DES/DDD, Administrative Office of the U.S. Courts).  
+* **4.2 Core Prohibition (§ 12132):**"Subject to the provisions of this subchapter, no **qualified individual with a disability** shall, by reason of such disability, be **excluded from participation in** or be **denied the benefits of** the services, programs, or activities of a **public entity**, or be **subjected to discrimination** by any such entity."  
+* **4.3 Regulatory Mandate: Grievance Procedure (28 C.F.R. § 35.107)**  
+  * **Rule:** A public entity with 50 or more employees *must* designate an "ADA Coordinator" and adopt and publish "grievance procedures" for resolving ADA complaints.  
+  * **Functional Significance:** The *failure* of a public entity (like Stone County) to provide an accessible grievance procedure is, in itself, a violation of the Act's implementing regulations.
+
+### **5.0: Title III \- Public Accommodations (42 U.S.C. § 12182\)**
+
+* **5.1 Scope:** Prohibits discrimination by **Private Entities** that own, lease, or operate a "place of public accommodation."  
+  * **FLOM Integration:** This applies to Defendants identified in the FLOM as Legal Entities (1.B) that are open to the public (e.g., hotels, restaurants, doctor's offices, law firms like Stringer Law LLC).  
+* **5.2 Core Prohibition (§ 12182(a)):**"No individual shall be discriminated against on the basis of disability in the **full and equal enjoyment** of the goods, services, facilities, privileges, advantages, or accommodations of any place of **public accommodation**..."  
+* **5.3 Key Mandate: "Reasonable Modifications" (§ 12182(b)(2))**  
+  * Discrimination includes a "failure to make **reasonable modifications** in policies, practices, or procedures" when necessary to afford goods/services to individuals with disabilities, unless doing so would "fundamentally alter" the nature of the service.
+
+### **6.0: The Anti-Retaliation & Coercion Shield (42 U.S.C. § 12203\)**
+
+This is the primary enforcement shield for an individual asserting their rights. It is a separate and distinct cause of action.
+
+* **6.1 Source Text: Retaliation (§ 12203(a))**"**No person shall discriminate against any individual because such individual has opposed any act or practice made unlawful by this chapter** or because such individual made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this chapter."  
+* **6.2 Source Text: Coercion (§ 12203(b))**"It shall be unlawful to **coerce, intimidate, threaten, or interfere with** any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed... any right granted or protected by this chapter."  
+* **6.3 Functional Significance (The "Pleading Protocol" for Retaliation):**  
+  * This provision makes the *act of asking for an accommodation* or *filing a grievance* a **"Protected Activity."**  
+  * The AI must use the AOM (Sec 5.0) to plead a prima facie case of retaliation by mapping Allegation objects to these three elements:  
+    1. **Protected Activity:** (e.g., "Plaintiff called SCES to request an ADA grievance form.").  
+    2. **Adverse Action:** (e.g., "Defendant Doe reported the call as a threat," "Defendant Burdg filed a criminal complaint," "Defendant Weber prosecuted the complaint.").  
+    3. **Causal Link:** (e.g., "The adverse action occurred *because of* the protected activity," often proven by immediate temporal proximity).
+
+### **7.0: AI Operational Mandates (System Integration)**
+
+* **7.1 Actor Identification:** When a user alleges an ADA claim, the AI *must* use the FLOM to classify the Defendant:  
+  * **Government Body (1.C)?** \-\> Activate **Title II** pleading protocol (Sec 4.0).  
+  * **Legal Entity (1.B)?** \-\> Check if "Public Accommodation." If yes, activate **Title III** (Sec 5.0).  
+  * **Employer?** \-\> Activate **Title I** (Sec 3.0).  
+* **7.2 Discrimination Pleading:** The AI must use the AOM to map factual Allegation objects to the elements of a discrimination claim (e.g., 1\. Plaintiff is a Qualified Individual, 2\. Defendant is a Covered Entity, 3\. Plaintiff was denied a service/benefit/accommodation, 4\. The denial was *by reason of* disability).  
+* **7.3 Retaliation Pleading:** When a user alleges retaliation, the AI *must* activate the "Retaliation Pleading Protocol" (Sec 6.3) and map Allegation objects to the (1) Protected Activity, (2) Adverse Action, and (3) Causal Link. This is a separate claim from the underlying discrimination.  
+* **7.4 Supremacy Clause Integration:** When a § 12203 (Retaliation) claim is pleaded against a state actor (a Government Body) who used a *state law* (e.g., a harassment statute) as the adverse action, the AI must note the **Supremacy Clause** conflict: a state law *cannot* be used to punish, nullify, or interfere with the exercise of a federal right.### **Functional Description: Complaint Drafting (FRCP 8 & 10 Compliance)**
 
 **1.0 Purpose**  
 This Functional Description (FD) provides a generic guide for drafting a federal complaint that complies with the Federal Rules of Civil Procedure (FRCP), specifically **Rule 8** and **Rule 10**. Its primary purpose is to prevent the drafting of a "shotgun pleading," which is subject to dismissal. The principles herein are derived from established court orders and binding precedent.  
@@ -3900,7 +3993,91 @@ Courts apply various **canons of construction** (rules of interpretation) to det
 
 ## **Summary:**
 
-In summary, the precedence of words in legal interpretation is determined by a hierarchy of principles, starting with the plain meaning and context of the language used. Specific provisions generally override general ones, later provisions override earlier ones, and various canons of construction are applied to resolve ambiguities and ascertain the most likely intent of the drafters as expressed in the text. This functional process is essential for applying written law consistently and predictably.# **Combined Functional Description: Alternative Dispute Resolution Act and Mediation and Assessment Program (MAP)**
+In summary, the precedence of words in legal interpretation is determined by a hierarchy of principles, starting with the plain meaning and context of the language used. Specific provisions generally override general ones, later provisions override earlier ones, and various canons of construction are applied to resolve ambiguities and ascertain the most likely intent of the drafters as expressed in the text. This functional process is essential for applying written law consistently and predictably.### **Functional Description: The Civil Rights Act of 1871 (42 U.S.C. § 1983\)**
+
+Version: 1.1 (Expanded)  
+Date: October 31, 2025  
+Purpose: This document provides the "Layer 2" (Legal Theory) functional description for the AI Operational Framework. It serves as the master blueprint for identifying, compiling, and validating any and all claims for relief brought under 42 U.S.C. § 1983, often referred to as the "Ku Klux Klan Act" or the "Civil Rights Act of 1871."  
+**Relational Dependencies:** This FD is a "Layer 2" (Legal Theory) module. It is dependent on, and cannot function without, the "Layer 0" **Foundational Legal Object Model (FLOM)** (which defines the actors) and the "Layer 1" **Allegation Object Model (AOM)** (which defines the facts).
+
+### **1.0: Constitutional Foundation (Layer 0\)**
+
+This section defines the ultimate source of legal authority from which 42 U.S.C. § 1983 derives its power. The statute is a *remedial* law created by Congress to give force to the 14th Amendment.
+
+* **1.1 Source Text: 14th Amendment, Section 1**"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. **No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.**"  
+* **1.2 Enforcement Clause: 14th Amendment, Section 5**"The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article."  
+* 1.3 Functional Significance:  
+  The 14th Amendment is the "constitutional engine." It explicitly abrogated (overruled) the traditional sovereign immunity of the States for the rights it protects. Section 5 gave Congress the "key" to that engine, and 42 U.S.C. § 1983 is the specific enforcement "key" Congress created. A § 1983 claim is, therefore, a direct action to enforce the 14th Amendment against a state actor.
+
+### **2.0: Statutory Definition (The "Cause of Action")**
+
+This section defines the "private right of action"—the legal mechanism, created by Congress, that a citizen (the Plaintiff) uses to sue a state actor (the Defendant).
+
+* **2.1 Source Text: 42 U.S.C. § 1983**"**Every person** who, **under color of any statute, ordinance, regulation, custom, or usage, of any State** or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the **deprivation of any rights, privileges, or immunities secured by the Constitution and laws**, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress..."  
+* 2.2 Functional Significance:  
+  This text provides the raw material for the AI's pleading protocol. The AI must identify and map facts to the two key phrases:  
+  1. The Defendant must be a "**person**" acting "**under color of... State**" law.  
+  2. The Action must be the "**deprivation**" of a federal Right.
+
+### **3.0: Functional Pleading Protocol (The "Well-Pleaded" Test)**
+
+This section defines the **two essential legal elements** that the AI must *affirmatively plead* using Allegation objects (from the AOM) to state a valid claim for relief under § 1983\.
+
+* **3.1 Element 1: Deprivation of a Federal Right**  
+  * **Description:** The Plaintiff must identify a *specific* right that is "secured by the Constitution and laws" of the United States. A general claim of "injustice" is insufficient.  
+  * **AI Validation:** The AI must require the user to specify the right, which typically includes:  
+    * **First Amendment:** (e.g., free speech, redress of grievances).  
+    * **Fourth Amendment:** (e.g., unlawful search and seizure).  
+    * **Fifth/Fourteenth Amendments:** (e.g., procedural or substantive Due Process, Equal Protection).  
+    * **Eighth Amendment:** (e.g., deliberate indifference to serious medical needs).  
+    * **Other Federal Statutes:** (e.g., rights created under the ADA, as alleged).  
+  * **Function:** The AI must map specific Allegation objects (e.g., "Defendant Burdg filed a report") to this specific right (e.g., "First Amendment retaliation").  
+* **3.2 Element 2: "Under Color of State Law"**  
+  * **Description:** The Defendant must have been a *state actor*. This means they were acting with the authority of the state (e.g., as a police officer, judge, prosecutor, or public school official), *even if they were misusing that authority*. (See *Monroe v. Pape*, 365 U.S. 167 (1961)). This is *not* for suits against private citizens acting privately or federal officials.  
+  * **AI Validation:** The AI must link the Defendant to a Government Body (FLOM 1.C) or show they were a private actor "fairly attributable" to the state.  
+  * **Function:** The AI must map specific Allegation objects (e.g., "Defendant Doe was a dispatcher for SCES," "Defendant Weber was the Prosecuting Attorney") to this element.  
+* **3.3 Element 3: Causation (The "Affirmative Link")**  
+  * **Description:** The Plaintiff must allege a *direct causal connection* between the Defendant's specific action and the deprivation of their specific federal right.  
+  * **AI Validation:** The AI must use the AOM's "Foundational Pleading Protocol" (AOM Sec 5.0) to ensure this link is established.  
+  * **Function:** This is the core of the pleading. The AI must link an Actor \+ Action (from AOM) to the Harm (the deprivation of the Right from 3.1).
+
+### **4.0: Jurisprudential Limitations (Judicial Gloss / Mandatory Guardrails)**
+
+This section defines the **mandatory compliance rules** established by the Supreme Court. The AI is **forbidden** from drafting a § 1983 claim that violates these limitations. Failure to adhere to these rules results in a "conclusory" pleading that is subject to dismissal.
+
+* **4.1 Limitation 1: Municipal Liability (The Monell Rule)**  
+  * **Source:** *Monell v. Dep't of Soc. Servs. of City of New York*, 436 U.S. 658 (1978).  
+  * **Rule:** A municipality (a Government Body from FLOM 1.C, like Stone County or Kimberling City) **CANNOT** be held liable *merely* because it employed the person who violated the Plaintiff's rights. This is the **respondeat superior prohibition**.  
+  * **AI Pleading Mandate:** To state a claim against a municipality, the AI **must** plead facts (map Allegation objects) that prove the constitutional deprivation was *caused by* one of the following:  
+    1. **An official, written policy**;  
+    2. **A widespread, persistent "custom or usage"** (even if unwritten);  
+    3. **A decision by a "final policymaker"** (e.g., a Police Chief or County Board); or  
+    4. **A "failure to train"** that amounts to "deliberate indifference" to the rights of citizens.  
+* **4.2 Limitation 2: Supervisory Liability (The Rizzo Rule)**  
+  * **Source:** *Rizzo v. Goode*, 423 U.S. 362 (1976) and *Ashcroft v. Iqbal*, 556 U.S. 662 (2009).  
+  * **Rule:** A supervisory official (e.g., a Police Chief, Mayor, or Attorney General) **CANNOT** be held liable *merely* for being "in charge" of a subordinate who violated the Plaintiff's rights. Liability must be *personal*.  
+  * **AI Pleading Mandate:** To state a claim against a supervisor, the AI **must** plead facts (map Allegation objects) that prove the supervisor's *personal involvement* or *direct responsibility*. This is the **"affirmative link"** required by the Court's Order. This link can be shown by:  
+    1. **Personal Participation:** The supervisor directly participated in the violation.  
+    2. **Direct Policy/Order:** The supervisor created a policy or gave an order that caused the violation.  
+    3. **Knowledge and Acquiescence:** The supervisor knew of the violation and failed to act.  
+    4. **"Deliberate Indifference" in Training/Supervision:** The supervisor was deliberately indifferent in failing to train or supervise the subordinate, leading directly to the violation.
+
+### **5.0: AI Operational Mandates (System Integration)**
+
+This section provides the explicit, functional commands for how the AI must integrate the above legal rules with the other FDs in the framework.
+
+* **5.1 Actor Identification:** When a user alleges a § 1983 claim, the AI's *first* action is to query the FLOM (Layer 0\) to classify the Defendant:  
+  * **Is the Defendant a Natural Person (FLOM 1.A)?** (e.g., Officer Burdg, Judge Cole).  
+  * **Is the Defendant a Government Body (FLOM 1.C)?** (e.g., Kimberling City, Stone County).  
+  * **Is the Defendant a Natural Person acting as a *supervisor*?** (e.g., Police Chief Lemoine).  
+* **5.2 Pleading Protocol Activation (The "Cure"):** The AI's *second* action is to activate the correct pleading protocol from the AOM (Layer 1\) based on the actor type:  
+  * **For *all* § 1983 claims:** The AI must use the AOM's "Foundational Pleading Protocol" (AOM Sec 5.0) to map Allegation objects to the three elements in Sec 3.0 of this FD.  
+  * **If the Defendant is a Government Body:** The AI **must** also map Allegation objects to one of the Monell factors (Sec 4.1).  
+  * **If the Defendant is a *Supervisor*:** The AI **must** also map Allegation objects to one of the Rizzo factors (Sec 4.2).  
+* **5.3 The Respondeat Superior Guardrail (Error Prevention):**  
+  * The AI is **explicitly forbidden** from generating any § 1983 claim based on a *vicarious* or *respondeat superior* theory of liability.  
+  * **Functional Test:** If the AI attempts to draft a claim against a Supervisor (per Rizzo) or a Municipality (per Monell) and finds that it has *only* mapped Allegation objects to the actions of a *subordinate*, the AI **must** halt.  
+  * **Error Message:** The AI must report this to the user as an "Uncured Conclusory Claim," stating: "This claim is invalid as pleaded. Liability under § 1983 cannot be based on *respondeat superior*. You must provide specific factual allegations that establish an 'affirmative link' or a 'policy or custom' as required by *Rizzo* and *Monell*."# **Combined Functional Description: Alternative Dispute Resolution Act and Mediation and Assessment Program (MAP)**
 
 This document compiles the functional descriptions of the **Alternative Dispute Resolution Act** (28 U.S.C. §§ 651-658) and the **Mediation and Assessment Program (MAP)**. It integrates the information from the separate documents to provide a single overview of these frameworks related to alternative dispute resolution and technology-driven adjudication.
 

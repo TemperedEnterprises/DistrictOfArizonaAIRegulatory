@@ -61,9 +61,7 @@ The AI must distinguish between factual allegations (which are valid) and conclu
 * **Conclusory Allegation (Invalid):** "Defendant Deputy Scott Burdg *filed a false report*."  
   * *AI Validation:* This is a legal conclusion. The "falsity" is what must be *proven* by other facts.  
 * **AI Function (The Cure):** The AI must not use a conclusory allegation as a standalone fact. It must flag this and "cure" it by linking it to the supporting factual allegations.  
-  * **Cured Pleading:** "Defendant Deputy Scott Burdg filed a report stating Plaintiff was a 'danger.' This statement was false, as evidenced by the fact that Plaintiff$$Fact A$$  
-    and$$Fact B$$  
-    ..."
+  * **Cured Pleading:** "Defendant Deputy Scott Burdg filed a report stating Plaintiff was a 'danger.' This statement was false, as evidenced by the fact that Plaintiff *\[Fact A\]* and *\[Fact B\]*..."
 
 ### **5.0 Protocol: Laying a Foundational Pleading**
 
@@ -85,3 +83,17 @@ This protocol defines the "Layer 2" functional process for assembling Allegation
     * **Invalid (Conclusory):** "Defendant retaliated against Plaintiff." (This states Element A, B, and C as a conclusion).  
     * **Valid (Cured):** "Defendant retaliated against Plaintiff. Plaintiff engaged in protected activity by filing ADA grievances on Sept 21\. Defendant took adverse action by filing criminal charges on Sept 22\. The causal link is established by the immediate temporal proximity of the adverse action to the protected activity."  
 * **5.4 Functional Output:** The AI will use this protocol to structure the final text of the Cause of Action, transforming a simple "conclusory allegation" into a "well-pleaded" count by explicitly stating the legal elements and linking them to the specific factual allegations that support them.
+
+### **6.0 Appendix: Jurisprudential Grounding**
+
+This Functional Description is not an arbitrary standard; it is the direct functional implementation of the procedural rules (FRCP 8 & 10\) as interpreted by the U.S. Courts, including those cited in the Court's Order (Doc. 17, Case No. CV-25-00238-TUC-JGZ).
+
+* **6.1 Relevance to Section 3.0 (Curing "Shotgun" Pleadings):**  
+  * The FD's **Prohibition on General Incorporation (Sec 3.1)** and **Self-Contained Count Rule (Sec 3.2)** are the direct cure for the "shotgun pleading" defect.  
+  * **Destfino v. Kennedy, 2009 WL 63566 (E.D. Cal. 2009), *aff’d*, Destfino v. Reiswig, 630 F.3d 952 (9th Cir. 2011):** The Court cited this case for its harsh criticism of allegations that "incorporate each preceding paragraph, regardless of relevancy." This FD's prohibition on this practice is a direct implementation of this holding.  
+  * **Wagner v. First Horizon Pharm. Corp., 464 F.3d 1273 (11th Cir. 2006):** The Court cited this case for its definition of shotgun pleadings as those that "incorporate every antecedent allegation by reference into each subsequent claim." This FD functionally forbids this structure.  
+  * **Davis v. Coca-Cola Bottling Co. Consol., 516 F.3d 955 (11th Cir. 2008):** The Court cited this case as an example of a pleading that violated **FRCP 10(b)** by asserting "multiple legal claims" against "multiple defendants" in a single count. This FD's "Linkage Process" (Sec 3.3) and its resulting "one-claim-one-defendant-per-count" structure is the explicit functional cure for this defect.  
+  * **McHenry v. Renne, 84 F.3d 1172 (9th Cir. 1996\) & Sparling v. Hoffman Const. Co., 864 F.2d 635 (9th Cir. 1988):** The Court cited these cases for dismissing complaints that fail to satisfy **FRCP 8(a)**, including those where factual elements are "scattered throughout the complaint." This FD's "Self-Contained Count Rule" (Sec 3.2) is the direct remedy.  
+* **6.2 Relevance to Sections 4.0 & 5.0 (Curing "Conclusory" Pleadings):**  
+  * The FD's **Distinction (Sec 4.0)** and **Foundational Pleading Protocol (Sec 5.0)** are the direct cure for "conclusory allegations."  
+  * **Rizzo v. Goode, 423 U.S. 362 (1976):** The Court cited this case for the mandatory requirement that a Plaintiff "must affirmatively link the conduct of *each* named Defendant with the specific injury suffered." The Supreme Court in Rizzo explicitly rejected § 1983 liability based on a "statistical pattern" of misconduct by a small, unnamed minority of subordinates or a mere "failure to act" by supervisors. It held that for liability to attach to supervisory officials, there must be a showing of "direct responsibility" for the actions—such as "authorization or approval" or a "plan or policy"—not vicarious liability. The "Foundational Pleading Protocol" (Sec 5.0) is the functional implementation of this "affirmative link," as it forbids group pleading and requires mapping specific Allegation objects (the *conduct*) to the Legal Elements of a claim against a single, specific Defendant to prove their *direct* involvement or policy.
