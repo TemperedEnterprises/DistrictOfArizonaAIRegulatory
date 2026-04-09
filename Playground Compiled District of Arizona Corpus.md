@@ -22332,3 +22332,8142 @@ upon:\]
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \[Typed Name of Attorney/Plaintiff\]
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+16A A.R.S. Rules Crim.Proc., Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., Refs & Annos, AZ ST RCRP Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+16A A.R.S. Rules Crim.Proc., Comment
+Prefatory Comment to the 2018 Amendments
+Currentness
+The 2018 amendments make extensive changes to the Arizona Rules of Criminal Procedure (“ARCrP”).
+These amendments “restyle” the ARCrP in a manner similar to the 2017 restyling of the Arizona Rules of Civil Procedure. The 2018 version of the ARCrP adds informative titles and subheadings, which should make particular rules and sections easier to locate. By using clearer language and, if possible, plain English, these rules should be easier to understand. The restyled rules avoid long sentences, ambiguous terminology (such as the word “shall”), and legal jargon. These rules also use consistent formatting conventions and terminology.
+The amended rules also include substantive changes, including but not limited to the following:
+(a) Rule 1 has been extensively reorganized and revised to include a variety of provisions regarding the form of documents, service, and electronic filing. The changes are generally consistent with the 2017 amendments to the Arizona Rules of Civil Procedure.
+(b) Rule 7, which deals generally with release, conditions for release, and revocation of release, has been revised to conform to the recommendations of the FAIR Justice Task Force.
+(c) An amendment to Rule 8.2 requires that a trial begin within 90 days after a court enters an order for a new trial under Rule 32 or in a collateral federal proceeding.
+(d) A new Rule 11.8 provides a separate rule for the determination of a defendant's mental status at the time of the offense. Currently, that inquiry is in the same rule, and subject to the same requirements, as a determination of a defendant's competence to stand trial.
+(e) New provisions were added to Rule 15 to augment a party's disclosure obligations if the party's intends to call a “cold” expert, i.e., a witness who will be testifying about general principles without reference to any of the facts of the case.
+(f) The multiple hearing provisions in former Rule 16.3, 16.4, and 16.5--including provisions for an “omnibus” hearing--were replaced by a single Rule 16.3 governing pretrial conferences.
+(g) Rule 20 was amended to permit a defendant to make a post-verdict motion for acquittal without having made such a motion before the close of the evidence.
+(h) Former Rule 30 was abrogated because it is largely duplicative of the Superior Court Rules of Appellate Procedure-Criminal.
+(i) Rule 31, which deals generally with appeals in criminal cases, has been extensively revised to conform the rule to changes made in 2015 and 2017 to the Arizona Rules of Civil Appellate Procedure.
+(j) Rule 32.12(d) was amended to remove the requirement that before ordering a post-conviction DNA testing, a court must find that the evidence is in a condition that allows DNA testing to be conducted. Given the current state of the art, such a determination cannot be made without actually performing the testing.
+The wording of an amended rule may be very different, or only slightly different, from the rule that it replaces. The intent of these differences is to make the ARCrP more functional, and easier to understand and use. Prior case law continues to be authoritative, unless it would be inappropriate because of a new requirement or provision in these amended rules.
+The amended rules attempt to incorporate substantive requirements previously contained within comments to the former ARCrP. Because of that, these amendments delete most of those comments, along with comments that have long ago outlived their usefulness. Parties may continue to refer to comments to pre-2018 versions of the ARCrP to the extent those comments still apply to these amended rules.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Comment, AZ ST RCRP Comment
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+16A A. R. S. Rules Crim. Proc., R. 1, Refs & Annos, AZ ST RCRP R. 1, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+16A A.R.S. Rules Crim.Proc., Rule 1.1
+Rule 1.1. Scope
+Currentness
+These rules govern procedures in all criminal proceedings in Arizona state courts, unless specifically stated otherwise in a particular rule.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 1.1, AZ ST RCRP Rule 1.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+16A A.R.S. Rules Crim.Proc., Rule 1.2
+Rule 1.2. Purpose and Construction
+Currentness
+These rules are intended to provide for the just and speedy determination of every criminal proceeding. Courts, parties, and crime victims should construe these rules to secure simplicity in procedure, fairness in administration, the elimination of unnecessary delay and expense, and to protect the fundamental rights of the individual while preserving the public welfare.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 1.2, AZ ST RCRP Rule 1.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 1.3
+Rule 1.3. Victim Participation
+Currentness
+Although a victim is not a party in a criminal proceeding, a victim has a right to participate in the proceeding pursuant to the rights provided by law, including rights detailed in Rule 39 and in the section (v) provisions (“Victims' Rights”) of these rules.
+Credits
+Added Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 1.3, AZ ST RCRP Rule 1.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 1.4
+Rule 1.4. Definitions
+Currentness
+(a) The Defendant. “The defendant” is a person named as such in a complaint, indictment, or information. “The defendant” as used in these rules includes an arrested person who at the time of arrest is not named in a charging document. “The defendant” in the context of certain rules includes the attorney who represents the defendant.
+(b) Limited Jurisdiction Court. A “limited jurisdiction court” is a justice court under A.R.S. §§ 22-101 et seq., or a municipal court under A.R.S. §§ 22-401 et seq.
+(c) Magistrate. “Magistrate” means an officer having power to issue a warrant for the arrest of a person charged with a public offense and includes the Chief Justice and justices of the Supreme Court, judges of the superior court, judges of the court of appeals, justices of the peace, and judges of a municipal court.
+(d) Parties. “Parties” means the State of Arizona and the defendants in a case. Use of the word “party” in these rules means either, or any, party.
+(e) Person. “Person” includes an entity.
+(f) Presiding Judge.
+(1) For the Superior Court. The superior court presiding judge is the county's presiding judge. In a county that has only one superior court judge, that judge is the presiding judge. In other counties, the Chief Justice of the Supreme Court designates the presiding judge, who may appoint other judges to carry out one or more of the presiding judge's duties.
+(2) For a Limited Jurisdiction Court. If a court consists only of one judge, that judge is the presiding judge. In courts having more than one judge, the presiding judge is designated by the appropriate authority.
+(g) The State. “The State” means the State of Arizona, or any other Arizona state or local governmental entity that files a criminal charge in an Arizona court. “The State” in the context of certain rules includes the prosecutor representing the State.
+(v) Victims' Rights. “Victim” means a person against whom the criminal offense has been committed, including a minor, or if the person is killed or incapacitated, the person's spouse, parent, child, grandparent or sibling, any other person related to the person by consanguinity or affinity to the second degree or any other lawful representative of the person, except if the person or the person's spouse, parent, child, grandparent, sibling, other person related to the person by consanguinity or affinity to the second degree or other lawful representative is in custody for an offense or is the accused.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 1.4, AZ ST RCRP Rule 1.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+I. General Provisions
+Rule 1. Scope, Purpose and Construction, and Other General Provisions (Refs & Annos)
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 1.5
+Formerly cited as AZ ST RCRP Rule 1.6
+Rule 1.5. Interactive Audiovisual Systems
+Currentness
+(a) Generally. If the appearance of a defendant or counsel is required in any court, the appearance may be made by using an interactive audiovisual system that complies with the provisions of this rule. Any interactive audiovisual system must meet or exceed minimum operational guidelines required by ACJA § 5-208 or adopted by the Administrative Office of the Courts.
+(b) Requirements. If an interactive audiovisual system is used:
+(1) the system must operate so the court and all parties can view and converse with each other simultaneously;
+(2) a full record of the proceedings must be made consistent with the requirements of applicable statutes and rules; and
+(3) provisions must be made to:
+(A) allow for confidential communications between the defendant and defendant's counsel before, during, and immediately after the proceeding;
+(B) allow the public a means to view the proceedings consistent with applicable law; and
+(C) allow for use of interpreter services when necessary and, if an interpreter is required, the interpreter must be present with the defendant absent compelling circumstances.
+(c) When a Defendant May Appear by Interactive Audiovisual Means.
+(1) In the Court's Discretion. A court may require a defendant's appearance by use of an interactive audiovisual system without the parties' consent at any of the following:
+(A) an initial appearance;
+(B) a misdemeanor arraignment;
+(C) a not-guilty felony arraignment;
+(D) a hearing on a motion to continue that does not include a waiver of time under Rule 8;
+(E) a hearing on an uncontested motion;
+(F) a pretrial or status conference;
+(G) a change of plea in a misdemeanor case;
+(H) an informal conference held under Rule 32.7; or
+(I) a hearing under Rule 7.7(c).
+(2) Generally Not Permitted. A court may not require a defendant's appearance by use of an interactive audiovisual system at any trial, contested probation violation hearing, felony sentencing, or felony probation disposition hearing, unless the court finds extraordinary circumstances and the parties consent by written stipulation or on the record.
+(3) By Stipulation. For any proceeding not included in (c)(1) and (c)(2), the parties may stipulate that the defendant may appear at the proceeding by use of an interactive audiovisual system. The parties must file a stipulation before the proceeding begins or state the stipulation on the record at the start of the proceeding. Before accepting the stipulation, the court must find that the defendant knowingly, intelligently and voluntarily agrees to appear at the proceeding by use of an interactive audiovisual system.
+(4) Change in Hearing's Scope. If the scope of a hearing expands beyond that specified in (c)(1) and (c)(3), the court must reschedule an interactive audiovisual proceeding and require the defendant's personal appearance.
+(v) Victims' Rights.
+(1) An interactive audiovisual system must allow a victim a means to view and participate in the proceeding and ensure compliance with all victims' rights laws.
+(2) If the court reschedules a hearing under (c)(4), the victim upon request must be notified of the rescheduled court date.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended effective Sept. 9, 2022. Amended on an emergency basis effective Dec. 8, 2022. Amended Dec. 8, 2022, effective July 1, 2023; emergency amendments permanently effective Aug. 24, 2023; amended Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 1.5, AZ ST RCRP Rule 1.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 3, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+I. General Provisions
+Rule 1. Scope, Purpose and Construction, and Other General Provisions (Refs & Annos)
+Effective: December 3, 2024
+16A A.R.S. Rules Crim.Proc., Rule 1.6
+Formerly cited as AZ ST RCRP Rule 1.5
+Rule 1.6. Form of Documents
+Currentness
+(a) Caption. Documents filed with the court must contain the following information as single-spaced text, typed or printed, on the first page of the document:
+(1) to the left of the center and at the top of the page:
+(A) the filing attorney's or self-represented litigant's name, address, telephone number, and email address; and
+(B) if an attorney, the attorney's State Bar of Arizona attorney identification number, any State Bar of Arizona law firm identification number, and the name of the party the attorney represents;
+(2) centered on the page and immediately below the filer information, the title of the court;
+(3) below the title of the court and to the left of the center of the page, the title of the action or proceeding;
+(4) opposite the title, in the space to the right of the center of the page, the case number of the action or proceeding; and
+(5) immediately below the case number, a brief description of the document.
+(b) Document Format.
+(1) Generally. Unless the court orders otherwise, all filed documents, other than a document submitted as an exhibit or attachment to a filing, must be prepared as follows:
+(A) Text and Background. The text must be black on a plain white background. All documents filed must be single-sided.
+(B) Type Size and Font. Notwithstanding any local rule, every typed document must use at least a 13-point type size. The court prefers proportionally spaced serif fonts. Footnotes must be in at least a 13-point type size and must not appear in the space required for the bottom margin.
+(C) Page Size. Each page of a document must be 8 ½ by 11 inches.
+(i) Exhibits, attachments to documents, or documents from jurisdictions outside Arizona that are larger than the specified size must be folded to the specified size or folded and fastened to pages of the specified size.
+(ii) Exhibits or attachments to documents smaller than the specified size must be fastened to pages of the specified size.
+(iii) A document that is not in compliance with these provisions may be filed only if compliance is not reasonably practicable.
+(D) Margins and Page Numbers. Page margins must be at least one inch on the top and bottom of the page and between one inch and 1 ½ inches on each side. Except for the first page, the bottom margin must include a page number.
+(E) Handwritten Documents. Handwritten documents are discouraged, but if a document is handwritten, the text must be legibly printed and not include cursive writing or script. The number of pages in handwritten briefs, motions, and petitions must not exceed the number of words specified in a rule, divided by 280. A handwritten submission to an appellate court must include an original and one copy.
+(F) Line Spacing. Text must be double-spaced and may not exceed 28 lines per page, but headings, quotations, and footnotes may be single-spaced. A single-spaced quotation must be indented on the left and right sides.
+(G) Headings and Emphasis. Headings must be underlined, in italics, or in bold type, or in any combination of the three. Underlining, italics, or bold type also may be used for emphasis.
+(H) Citations. Case names and citation signals must be in italics or underlined.
+(I) Originals. Unless filing electronically, only originals may be filed. If it is necessary to file more than one copy of a document, the additional copies may be photocopies or computer-generated duplicates.
+(J) Court Forms. Printed court forms, court-generated form, and forms generated by a court-authorized electronic filing system or vendor may deviate from the requirements of this rule. Such court forms must be single-sided. They may be single-spaced, but any signature lines must be at least two lines below the last line of text. All hard-copy court forms must be on paper of sufficient quality and weight to assure legibility upon duplication, microfilming, or imaging.
+(2) Signatures. Every document filed with the court must include the attorney of record's signature. If there is no attorney of record, the document must include the signature of a self-represented person.
+(c) Electronically Filed Documents.
+(1) Form. Arizona Code of Judicial Administration (ACJA) § 1-901 governs the form of electronically filed documents, including the format, file type and size, format of exhibits and attachments, use of hyperlinks and bookmarks, and originals.
+(2) Signature. All electronic filings must be signed. ACJA § 1-901 governs how a person may sign a document filed through the person's electronic filing service provider account. “Electronic filing service provider” has the same meaning as provided in ACJA § 1-901.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Jan. 26, 2018, effective Feb. 14, 2018, adopted on a permanent basis Aug. 28, 2018. Amended on an emergency basis, effective Aug. 29, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023; amended Aug. 24, 2023, effective Jan. 1, 2024; amended on an emergency basis, effective Aug. 22, 2024, permanently adopted effective Dec. 3, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 1.6, AZ ST RCRP Rule 1.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 1.7. Filing and Service of Documents
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 3, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+I. General Provisions
+Rule 1. Scope, Purpose and Construction, and Other General Provisions (Refs & Annos)
+Effective: December 3, 2024
+16A A.R.S. Rules Crim.Proc., Rule 1.7
+Formerly cited as AZ ST RCRP Rule 35.5
+Rule 1.7. Filing and Service of Documents
+Currentness
+(a) “Filing with the Court” Defined. The filing of a document with the court is accomplished only by filing it with the clerk. If a judge permits, a document may be submitted directly to a judge, who must transmit it to the clerk for filing and notify the clerk of the date of its receipt.
+(b) Effective Date of Filing.
+(1) Paper Documents. A document is deemed filed on the date the clerk receives and accepts it. If a document is submitted to a judge and is later transmitted to the clerk for filing, the document is deemed filed on the date the judge receives it.
+(2) Electronically Filed Documents. The effective date of filing of an electronically filed document is as provided in ACJA § 1-901.
+(3) Late Filing Because of an Interruption in Service. ACJA § 1-901 governs the procedures if a person fails to meet a deadline for filing a document because of a failure in the document's electronic transmission or receipt.
+(4) Incarcerated Parties. If a party is incarcerated and another party contends that the incarcerated party did not timely file a document, the court must deem the filing date to be the date when the document was delivered to jail or prison authorities to deposit in the mail.
+(c) Service of All Documents Required; Manner of Service. Every person filing a document with any court must serve a copy of the document on all other parties as follows:
+(1) Serving an Attorney. If a party is represented by an attorney, service under this rule must be made on the attorney unless the court orders service on the party.
+(2) Service Generally. A document is served under this rule by any of the following:
+(A) handing it to the person;
+(B) leaving it:
+(i) at the person's office with a clerk or other person in charge or, if no one is in charge, in a conspicuous place in the office; or
+(ii) if the person has no office or the office is closed, at the person's dwelling or usual place of abode with someone of suitable age and discretion who resides there;
+(C) mailing it by U.S. mail to the person's last-known address--in which event service is complete upon mailing;
+(D) delivering it by any other means, including electronic means other than that described in (c)(2)(E), if the recipient consents in writing to that method of service or if the court orders service in that manner--in which event service is complete upon transmission; or
+(E) transmitting it through an electronic filing service provider approved by the Administrative Office of the Courts as provided by ACJA § 1-901.
+(3) Certificate of Service. The date and manner of service must be noted on the last page of the original of the served document or in a separate certificate, in a form substantially as follows:
+A copy has been or will be mailed/emailed/hand-delivered [select one] on [insert date] to:
+[Name of opposing party or attorney]
+[Address of opposing party or attorney]
+If the precise manner in which service has actually been made is not noted, it will be presumed that the document was served by mail. This presumption will only apply if service in some form has actually been made.
+(d) Electronic Signatures and Electronic Notarizations. The clerk must accept for filing any document that purports to have a signature, including documents that appear to be electronically signed or electronically notarized in accordance with applicable law. If the authenticity or sufficiency of an electronic signature or electronic notarization is disputed, a judicial officer will make a determination under applicable substantive law.
+(v) Victims' Rights. When the victim is represented by an attorney, the certificate of service required by (c)(3) must show that a copy of the filed document was provided to the victim's attorney.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023; Aug. 24, 2023, effective Jan. 1, 2024; amended on an emergency basis, effective Aug. 22, 2024, permanently adopted effective Dec. 3, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 1.7, AZ ST RCRP Rule 1.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 1.8. Clerk's Distribution of Minute Entries and Other Documents
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+I. General Provisions
+Rule 1. Scope, Purpose and Construction, and Other General Provisions (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 1.8
+Formerly cited as AZ ST RCRP Rule 35.6
+Rule 1.8. Clerk's Distribution of Minute Entries and Other Documents
+Currentness
+(a) Generally. The clerk must distribute, either by U.S. mail, electronic mail, or attorney drop box, copies of every minute entry to all parties.
+(b) Electronic Distribution. The clerk may distribute minute entries, notices and other court-generated documents to a party or a party's attorney by electronic means. Electronic distribution of a document is complete when the clerk transmits it to the email address that the party or attorney has provided to the clerk.
+(v) Victims' Rights. The clerk must include every victim's attorney who has filed a notice of appearance under Rule 6.3(v)(2) in the clerk's distributions of minute entries and other documents under (a) and (b).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 1.8, AZ ST RCRP Rule 1.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 1.9. Motions, Oral Argument, and Proposed Orders
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+I. General Provisions
+Rule 1. Scope, Purpose and Construction, and Other General Provisions (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 1.9
+Formerly cited as AZ ST RCRP Rule 35.1;  AZ ST RCRP Rule 35.2;  AZ ST RCRP Rule 35.3;  AZ ST RCRP Rule 35.4;  AZ ST RCRP Rule 35.7
+Rule 1.9. Motions, Oral Argument, and Proposed Orders
+Currentness
+(a) Content. A motion must include a memorandum that states facts, arguments, and authorities pertinent to the motion.
+(b) Service of Motion; Response; Reply. The moving party must serve the motion on all other parties. No later than 10 days after service, another party may file and serve a response, and, no later than 3 days after service of a response, the moving party may file and serve a reply. A reply must be directed only to matters raised in a response. If no response is filed, the court may deem the motion submitted on the record.
+(c) Length. Unless the court orders otherwise, a motion or response, including a supporting memorandum, may not exceed 11 pages, exclusive of attachments, and a reply may not exceed 6 pages, exclusive of attachments.
+(d) Waiver of Requirements. On a party's request or on its own, the court may waive a requirement specified in this rule, or it may overlook a formal defect in a motion.
+(e) Oral Argument. On a party's request or on its own, the court may set a motion for argument or hearing.
+(f) Proposed Orders. A proposed order must be prepared as a separate document and may not be included as part of a motion, stipulation, or other document. There must be at least two lines of text on the signature page of a proposed order. A party must serve the proposed order on the court and all other parties. A party must not file a proposed order, and the court will not docket it, until a judge has reviewed and signed it. Absent a notice of filing, proposed orders will not be part of the record.
+(v) Victims' Rights.
+(1) In the Trial Court. A victim has standing to file motions that request the court to enforce any right guaranteed to victims, or that challenge an order denying any such right. A victim may file a reply concerning that motion. A victim may also file a response to a party's motion if the party's motion impacts a victim's right.
+(2) Special Action. Under Rule 5(b)(1)(B) of the Rules of Procedure for Special Actions, a victim may file a petition for special action seeking relief from an order affecting any victim's right guaranteed by law.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023; Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 1.9, AZ ST RCRP Rule 1.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 1.10. Computation of Time
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+I. General Provisions
+Rule 1. Scope, Purpose and Construction, and Other General Provisions (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 1.10
+Rule 1.10. Computation of Time
+Currentness
+(a) General Time Computation. When computing any time period more than 24 hours prescribed by these rules, by court order, or by an applicable statute, the following rules apply:
+(1) Day of the Event. Exclude the day of the act or event from which the designated time period begins to run.
+(2) Last Day. Include the last day of the period, unless it is a Saturday, Sunday or legal holiday, in which case the period ends on the next day that is not a Saturday, Sunday, or legal holiday.
+(3) Time Period Less Than 7 Days. If the time period is less than 7 days, exclude intermediate Saturdays, Sundays and legal holidays from the computation.
+(4) Next Day. The “next day” is determined by counting forward when the period is measured after an event, and backward when measured before an event.
+(5) Additional Time After Service. If a party may or must act within a specified time after service and service is made under a method authorized by Rule 1.7(c)(2)(C), (D), or (E), 5 calendar days are added after the specified time period would otherwise expire under (a)(1)-(4), except as provided in Rule 31.3(d). This provision does not apply to the clerk's distribution of notices, minute entries, or other court-generated documents.
+(b) If an Arraignment is not Held. If an arraignment is not held under Rule 14.5, the date of arraignment for the purpose of computing time is the date the defendant receives notice of the next court date under Rule 5.8.
+(c) Entry. A court order is entered when the clerk files it.
+(v) Victims' Rights. The time computation provisions of (a) also apply to victims.
+Credits
+Formerly Rule 1.3, added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 1.10 and amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 1.10, AZ ST RCRP Rule 1.10
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 2, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings
+16A A.R.S. Rules Crim.Proc., R. 2, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 2, Refs & Annos, AZ ST RCRP R. 2, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 2.1. Misdemeanors
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2021
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings (Refs & Annos)
+Effective: January 1, 2021
+16A A.R.S. Rules Crim.Proc., Rule 2.1
+Rule 2.1. Misdemeanors
+Currentness
+(a) Limited Jurisdiction Courts. The State may commence misdemeanor and petty offense actions triable in limited jurisdiction courts by filing with the court:
+(1) an Arizona Traffic Ticket and Complaint;
+(2) any complaint form approved by the Arizona Supreme Court; or
+(3) a complaint under Rule 2.3.
+(b) Superior Court. The State may commence a misdemeanor action by filing an indictment or information directly in the superior court. A prosecutor also may commence a misdemeanor action not otherwise triable in the superior court by filing a complaint in the Justice Court under Rule 2.2(b) and then following the procedures applicable in felony cases.
+(c) Filing a Motion to Transfer to the Correct Precinct. A party may file a motion to transfer a case to the correct precinct under A.R.S. § 22-301 or the court sua sponte may transfer the case. A motion to transfer a case to the correct precinct must be filed, or the court may order a sua sponte transfer, no later than 30 days after arraignment.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Aug. 26, 2020, amendment adopted on a permanent basis, effective Jan. 1, 2021.
+16A A. R. S. Rules Crim. Proc., Rule 2.1, AZ ST RCRP Rule 2.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 2.2. Felonies
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 2.2
+Rule 2.2. Felonies
+Currentness
+The State may commence a felony action by the following:
+(a) the return of an indictment under Rule 12 which may, but need not, be preceded by a complaint; or
+(b) filing a complaint in a limited jurisdiction court, or in superior court with permission of a judge of such court.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 2.2, AZ ST RCRP Rule 2.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 2.3. Content of Complaint
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 2.3
+Rule 2.3. Content of Complaint
+Currentness
+(a) Complaint, Generally. A complaint is a written statement of the essential facts constituting a public offense. A complaint must be:
+(1) signed by a prosecutor;
+(2) sworn before a magistrate; or
+(3) made in compliance with A.R.S. § 13-3903.
+(b) Electronic Oath or Signature. The constitutional requirement that a complaint must be under oath is satisfied by an electronic oath or by an affidavit containing an electronic signature of a peace officer or a law enforcement agency representative under penalty of perjury.
+(c) Notice to the Clerk. If a complaint, indictment, or information charges a defendant with any offense listed in A.R.S. §§ 13-1401 et seq., 13-3101 et seq., 13-3501 et seq., or 13-3551 et seq., or an offense in which the victim was a juvenile at the time of the offense, the prosecuting agency must advise the clerk at the time of filing the charge that the case is subject to Supreme Court Rule 123(g)(1)(D)(ii)(h).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 2.3, AZ ST RCRP Rule 2.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 2.4. Duty of Magistrate upon Presentation of Complaint or Affidavit Under A.R.S. § 13 3897...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings (Refs & Annos)
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 2.4
+Rule 2.4. Duty of Magistrate upon Presentation of Complaint or Affidavit Under A.R.S. § 13 3897(A)
+Currentness
+(a) Complaint Under Oath. If a complaint is presented under Rule 2.3(a)(2), the magistrate must determine whether there is probable cause to believe an offense has been committed and whether the defendant committed it. If the magistrate finds probable cause, the magistrate must proceed under Rule 3.1. If the magistrate does not find probable cause, the magistrate must dismiss the complaint.
+(b) Complaint Signed by a Prosecutor. If a complaint is signed by a prosecutor, the magistrate must proceed under Rule 3.1.
+(c) Affidavit Under A.R.S. § 13-3897(A). If an affidavit is presented under A.R.S. § 13-3897(A), the magistrate must determine whether there is probable cause to believe a felony offense has been committed and whether the person named in the affidavit committed it. If the magistrate finds probable cause, the magistrate must proceed under Rules 2.7 and 3.1. If the magistrate does not find probable cause, the magistrate must deny the request.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Aug. 28, 2025, effective Sept. 26, 2025; amended on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 2.4, AZ ST RCRP Rule 2.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 2.5. Refusal to Provide a DNA Sample
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 2.5
+Formerly cited as AZ ST RCRP Rule 2.6
+Rule 2.5. Refusal to Provide a DNA Sample
+Currentness
+If an arresting authority or custodial agency files a petition under penalty of perjury stating that a person in custody for an offense listed in A.R.S. § 13-610(O)(3) refused to provide buccal cells or other bodily substances for DNA testing, the court must order that the person appear at a designated time and place and permit the taking of buccal cells or other bodily substances for DNA testing. The arresting authority or custodial agency must serve the person with a copy of the court order before or at the time of taking the sample.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 2.5, AZ ST RCRP Rule 2.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 2.6. Search Warrant Applications and Returns; Maintenance of Search Warrant Records; Data ...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings (Refs & Annos)
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 2.6
+Rule 2.6. Search Warrant Applications and Returns; Maintenance of Search Warrant Records; Data Collection
+Currentness
+(a) Applicability. Rule 2.6(b) and (c) apply to search warrant applications requesting an unannounced entry into a structure. Rule 2.6(d) applies to applications requesting service of a search warrant at night. Rule 2.6(e) applies to search warrant returns. Rule 2.6(f) applies to the maintenance of search warrant records. Rule 2.6(g) and (h), which pertain to data collection, apply to every issued search warrant.
+(b) Required Findings for an Unannounced Entry into a Structure.
+(1) A magistrate may not authorize an unannounced entry into a structure under A.R.S. § 13-3915(B) unless the magistrate finds that:
+(A) a supervising law enforcement officer in the affiant's agency has approved the search warrant application;
+(B) the application discusses specific facts and safety factors that demonstrate why an announced entry would endanger the safety of any person or would result in the destruction of evidence sought by the warrant; and
+(C) if the application requests an unannounced entry based on the potential destruction of evidence, the application explains the likelihood of destruction of that evidence, and the magistrate has weighed that likelihood against the risk to personal safety associated with an unannounced entry.
+(2) The magistrate's signature on a search warrant confirms that the magistrate has made the required findings.
+(c) Safety Factors for an Unannounced Entry Into a Structure. An application for an unannounced entry into a structure must discuss safety factors, as determined by surveillance or other investigative methods, that apply to the circumstances of the case. Safety factors include but are not limited to the following:
+(1) Criminal Activity. The nature of the criminal activity that forms the basis for the search.
+(2) Violence. Any history of violence, or the violence potential, of persons known to live at or occupy the place to be searched.
+(3) Weapons. Weapons that the affiant reasonably believes are at the place to be searched, including the number and type of weapons and whether any occupant has previously used or threatened to use a weapon during criminal activity.
+(4) Security Characteristics. Particular characteristics of the exterior or interior of the place to be searched, such as the presence of gates, locks, alarms, guard dogs, or other animals that might pose a risk to officers; security screens or window bars; security cameras or other security devices; and explosives, fortifications, booby traps, or other dangerous conditions.
+(5) Hostages. The presence at the place to be searched of any persons held against their will.
+(6) Occupants. The number of occupants at the place to be searched and the identity of known occupants; the presence of children, the elderly, and persons with disabilities; and whether any occupant of the place to be searched is experiencing a mental health crisis.
+(7) Other Information. Any other relevant information.
+(d) Nighttime Service. An application requesting service at any time of the day or night under A.R.S. § 13-3917 must contain specific facts that provide good cause why service only during the day would not be reasonable or feasible.
+(e) Return of Search Warrant and Inventory.
+(1) Return to Issuing Court; Additional Returns. The return on a search warrant must be made to the magistrate who issued the warrant by delivering a written form of return to that magistrate's court along with a written inventory of the property taken. Supplemental, amended, and corrected returns and inventories may be made with respect to any search warrant. If additional property is seized or received after the initial return of the warrant, a supplemental return and inventory must be made.
+(2) Manner of Delivery. Delivery of a search warrant return and inventory must be made by facsimile, electronic means, in a manner permitted by the court, or in person.
+(3) Contents of Inventory; Signed Written Oath. The return and inventory must recite that it contains a true and detailed account of all the property taken, and if applicable, state that further property is expected to be taken or received pursuant to the warrant and how that information is known.
+(4) Verification. The return and inventory must be verified through a signed, written oath swearing or affirming that the information on the return and inventory is true and detailed. A signed written oath on a return and inventory, including those signed electronically, has the same legal effect as if taken in the presence of the magistrate.
+(f) Maintenance of Search Warrant Records.
+(1) Clerk of Court. The clerk of the court that issued the warrant must maintain a record of the warrant and any return and inventory.
+(2) Request to Modify the Time Search Warrant Records Are Maintained Outside of the Public Record. A request to modify the time search warrant documents are maintained outside the public record that is made at the time the return and inventory is delivered must be submitted on a separate page accompanying the return and inventory, be signed by the affiant or the officer returning the warrant, state the reasons establishing good cause for the request, and state specifically whether the request pertains to:
+(A) the application and affidavit;
+(B) the issued search warrant;
+(C) the return and inventory;
+(D) any other specific document; or
+(E) all documents associated with the search warrant.
+(3) Submission Through an Electronic Portal. For search warrants that are submitted and issued through an electronic portal approved by the Administrative Office of the Courts, a request to modify the time before a document relating to a search warrant is open to the public record may be programmed or incorporated into the return and inventory documents compiled by the electronic system rather than submitted as a separate page.
+(g) Cover Sheet for the Return. The return on a warrant must be accompanied by a cover sheet completed and signed by the affiant or the officer returning the warrant. The cover sheet must be in a format, and contain information, as determined by the Director of the Administrative Office of the Courts. The cover sheet must specify whether service of the warrant required entry into a structure. If service of the search warrant required entry into a structure, the cover sheet also must indicate whether the warrant:
+(1) authorized an unannounced entry and was executed by an unannounced entry;
+(2) authorized an unannounced entry but was executed by knocking and announcing before entry;
+(3) did not authorize an unannounced entry and was executed by knocking and announcing before entry;
+(4) did not authorize an unannounced entry but was executed by an unannounced entry;
+(5) authorized nighttime service; and/or
+(6) was executed at night.
+(h) Court Data.
+(1) Each court must collect and maintain the following data:
+(A) the total number of search warrants the court authorized during the reporting period; and
+(B) the total number of warrants for each of the categories identified in the cover sheets submitted to the court under Rule 2.6(e).
+(2) Courts must submit this data as directed by the Director of the Administrative Office of the Courts.
+(i) Definitions. For purposes of this rule:
+(1) “Night” means the period from 10 p.m. to 6:30 a.m.
+(2) “Structure” means any building, place, or vehicle with sides, a door, and a floor, which a reasonable person would believe is used for permanent or temporary lodging or for a business.
+Credits
+Added Aug. 29, 2022, effective March 1, 2023. Amended Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 2.6, AZ ST RCRP Rule 2.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 2.7. Pre-Charge Arrest Warrants (A.R.S. § 13-3897(A))
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 2. Commencement of Criminal Proceedings (Refs & Annos)
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 2.7
+Rule 2.7. Pre-Charge Arrest Warrants (A.R.S. § 13-3897(A))
+Currentness
+(a) Scope and Applicability. This rule applies only to pre-charge arrest warrants. For purposes of these rules, a “pre-charge arrest warrant” means a warrant issued under A.R.S. § 13-3897(A).
+(b) Generally. If a magistrate makes a probable cause finding under Rule 2.4(c), the magistrate must issue a warrant for the person's arrest.
+(c) Affidavit Under A.R.S. § 13-3897(A). A person presenting an affidavit under A.R.S. § 13-3897(A) must use Form 2(d) or a substantially equivalent form. The person may sign the affidavit using an electronic signature.
+(d) Warrant Form. A person requesting a pre-charge arrest warrant must provide a pre-filled Form 2(c) to the magistrate. The person requesting the warrant must complete Form 2(c) to the greatest extent possible.
+(e) Electronically Transmitted Warrants.
+(1) Electronic Requests. Upon the court's approval, any forms required to request or issue a pre-charge arrest warrant may be transmitted through a secure internet connection.
+(2) Electronic Oaths. The court may use an electronic oath for electronically transmitted warrants.
+(3) Orders. The electronic copy of the warrant with the electronic signature will be considered the original order.
+(f) Appearance by Virtual or Telephonic Means. A person requesting a pre-charge arrest warrant may appear by virtual or telephonic means if the magistrate permits it.
+(g) Pre-Charge Arrest Warrants Issued After Hours. If a pre-charge arrest warrant is issued outside normal court hours, the magistrate must transmit the court's copy of documents the next business day to the court in order to comply with Rule 2.7(1).
+(h) Alternative to Written Affidavit; Authorization for Magistrate Signature. If a peace officer is appearing by telephonic or virtual means and is unable, due to technological capability, to receive a signed pre-charge arrest warrant from the magistrate:
+(1) Oral Recital. When requesting the warrant, in lieu of a peace officer submitting a written affidavit to the magistrate, if the magistrate permits it, the peace officer may prepare Form 2(d), be sworn under oath, and recite the affidavit to the magistrate verbatim. The recital must be recorded on tape, wire, or other comparable method by the peace officer reciting the affidavit to the magistrate. This recital may be made by telephone, virtual appearance, or other means of electronic communication. Reciting the affidavit to the magistrate meets the requirements for presentation of an affidavit for the purposes of issuing a pre-charge arrest warrant. The recording must be transcribed at the court's or either party's request. Any transcript produced under this provision must be certified by the magistrate and submitted to the court to maintain as provided in Rule 2.7(1).
+(2) Authorization to Sign the Magistrate's Name. The magistrate may orally authorize a peace officer requesting a pre-charge arrest warrant to sign the magistrate's name on the warrant. A warrant signed using this procedure is deemed an arrest warrant and satisfies the requirements of Rule 3.2(a)(1)(A).
+(3) Name to be Signed; Expiration; Victim Indication; Warrant Number. The magistrate must inform the peace officer of the exact name the magistrate wants the peace officer to sign on the pre-charge arrest warrant. The peace officer must sign the magistrate's name so that the signature reflects the magistrate's instructions. The magistrate must also inform the peace officer of the expiration date if the warrant expires sooner than 90 days and whether the offense is, or is materially related to, a victims' rights applicable offense. The peace officer must include this information on the warrant as directed by the magistrate and inform the magistrate of the warrant number.
+(4) Magistrate's Duties. The magistrate must record the exact time of issuance of the pre-charge arrest warrant, the name and date of birth of the person to be arrested, the warrant number, and the expiration date.
+(5) Providing the Pre-Charse Arrest Warrant to the Court. The peace officer who signs the magistrate's name under Rule 2.7(h)(3) must provide a copy of the affidavit and warrant to the court the next business day. The court must maintain the copy as provided in Rule 2.7(1). The warrant must be returned as provided in Rule 2.7(k).
+(i) Release Conditions. A person arrested on a pre-charge arrest warrant must not be released on bond or the person's own recognizance without having an initial appearance under Rule 4.2.
+(j) Expiration. Any warrant a magistrate issues under A.R.S. § 13-3897(A) expires 90 days after it is issued, unless the magistrate orders a shorter expiration.
+(k) Return of Warrant. A pre-charge arrest warrant must be returned to the issuing court after the warrant is executed, expires, or there is a request to quash the warrant. The return must be made to the issuing court no later than 72 hours after the arrest or expiration. The return must be made in person or by facsimile or electronic means, or in another manner permitted by the court.
+(l) Warrant Records. The clerk of court, or in the case of a limited jurisdiction court, the court, must maintain records relating to pre-charge arrest warrants, including a copy of the warrant, affidavit, and related documents, and must use a tracking or indexing system in which each warrant is assigned a unique identifier.
+Credits
+Added on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 2.7, AZ ST RCRP Rule 2.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+R. 3, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+II. Preliminary Proceedings
+Rule 3. Arrest Warrant or Summons upon Commencement of Criminal Proceedings
+16A A.R.S. Rules Crim.Proc., R. 3, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 3, Refs & Annos, AZ ST RCRP R. 3, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 3.1. Issuance of Summons or Warrant
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 3. Arrest Warrant or Summons upon Commencement of Criminal Proceedings (Refs & Annos)
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 3.1
+Rule 3.1. Issuance of Summons or Warrant
+Currentness
+(a) Issuance. A summons commands a defendant to appear before a magistrate. A warrant commands the arrest of a defendant by a peace officer for the purpose of bringing a defendant before a magistrate.
+(1) Return of Indictment. If a grand jury returns an indictment, the court must promptly issue a warrant or summons, or a notice of supervening indictment under Rule 12.6(c).
+(2) Finding of Probable Cause Under Rule 2.4(a). If a magistrate makes a finding of probable cause under Rule 2.4(a), the court must promptly issue a warrant or summons.
+(3) Prosecutor's Complaint. If a prosecutor presents a signed complaint, the court must promptly issue a summons or, if the court finds probable cause, the court may issue a warrant.
+(4) Finding of Probable Cause on Affidavit Under Rule 2.4(c). If a magistrate makes a finding of probable cause under Rule 2.4(c), the court must issue a warrant and not a summons.
+(b) Preference for Summons. Unless there is good cause to issue a warrant or a warrant is otherwise required by law, a court should issue a summons if the defendant is not in custody, the offense charged is bailable as a matter of right, and there is reason to believe that the defendant will appear. If a prosecutor requests a warrant, the prosecutor must state the reasons for issuing a warrant rather than a summons.
+(c) Initial Arrest Warrant. Before issuing a warrant, the magistrate must determine that probable cause exists that the defendant committed the offense or find that such a determination was previously made. If an affidavit is presented under A.R.S. § 13-3897(A), the court must issue a warrant. In all other cases, the court may issue an initial arrest warrant if:
+(1) a defendant failed to appear after being served with a summons;
+(2) there is good cause to believe that the defendant will not appear; or
+(3) a summons cannot readily be served or delivered.
+(d) Pre-Disposition Warrant. After the initial appearance and before the disposition of a case, the court may issue a warrant to secure a defendant's appearance if the defendant fails to appear after receiving proper notice.
+(e) Warrants in Criminal ATTC Cases. If a person served with an Arizona Traffic Ticket and Complaint provides a written promise to appear in court at a designated time and date and fails to appear, personally or by counsel, on or before that date, the court may issue a warrant. If a complaint is filed under A.R.S. § 13-3903(F), the court must issue a warrant for that proceeding.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Aug. 28, 2025, effective Sept. 26, 2025; amended on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 3.1, AZ ST RCRP Rule 3.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 3.2. Content of a Warrant or Summons
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 3. Arrest Warrant or Summons upon Commencement of Criminal Proceedings (Refs & Annos)
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 3.2
+Rule 3.2. Content of a Warrant or Summons
+Currentness
+(a) Warrant.
+(1) Mandatory Provisions. A warrant must:
+(A) be signed with an electronic or other signature by the issuing magistrate or by a deputy clerk of the superior court, except that only a magistrate may sign a pre-charge arrest warrant;
+(B) contain the defendant's name or, if the defendant's name is unknown, any name or description by which the defendant can be identified with reasonable certainty;
+(C) state the alleged or charged offense and whether the offense is one to which victims' rights provisions apply; and
+(D) command that:
+(i) the defendant be arrested and brought before the nearest or most accessible magistrate in the county where the arrest occurs if the offense was committed in that county;
+(ii) if the defendant is arrested outside the county where the offense was committed, the person must be taken to the nearest or most accessible magistrate in the county of arrest or to a magistrate in the county where the offense was committed; and
+(iii) notwithstanding Rule 3.2(a)(1)(D)(i) and (ii), if the defendant is not eligible for release on bond under Rule 7.2(b)(1) or (2), the defendant must be brought before the issuing magistrate. If the issuing magistrate is unavailable or unable to act, the person must be taken to the nearest or most accessible magistrate in the county where the warrant originated.
+(2) Bond for Felony Warrants. Except for pre-charge arrest warrants, if the defendant is eligible for release at the initial appearance, the issuing magistrate may include on the felony warrant a recommended deposit, cash, unsecured, or secured appearance bond and a recommended bond amount. However, when the warrant is issued for a felony offense, the defendant must not be released on bond without having an initial appearance before a magistrate.
+(3) Bond for Misdemeanor Warrants. If the warrant is issued for a misdemeanor offense, the warrant may state the amount of deposit, cash, unsecured, or secured appearance bond.
+(b) Summons.
+(1) Form. A summons must be in the same form as a warrant except it must summon the defendant to appear at a date, time and place no more than 30 days after an indictment, information, or complaint is filed.
+(2) Photograph and Fingerprints. At the prosecutor's request or by court order, the summons may command the defendant to report to a designated place to be photographed and fingerprinted before the defendant's appearance in response to the summons. If the defendant fails to report to be photographed and fingerprinted as directed, the defendant may be arrested when the defendant appears in response to the summons and the magistrate must order the defendant to report immediately for photographing and fingerprinting.
+(3) 10-Print Fingerprints Required. If a summons is issued for a defendant who is charged with one of the following offenses, the summons must direct the defendant to provide 10-print fingerprints to the applicable law enforcement agency: a felony offense; a violation of an offense listed in Title 13, Chapters 12, 14, 15 except A.R.S. § 13-1509, 18, 20 through 23, 32, 34, or 34.1; a domestic violence offense as defined in A.R.S. § 13-3601; a violation of A.R.S. §§ 13-1604, 13-2406, 13-2904, 13-2907 to 13-2907.05, 13-2910, 13-2916, 13-3102, 13-3103, 13-3513, 13-3555, 13-3558, 13-3613, 13-3619, 13-3623, 13-3704, or 46-215; or a violation of an offense listed in Title 28, Chapter 4.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 26, 2020, effective Jan. 1, 2021; amended on an emergency basis Aug. 29, 2022, effective Jan. 1, 2023, permanently adopted with additional amendments Dec. 8, 2022, effective Jan. 1, 2023; amended on an emergency basis Aug. 28, 2025, effective Sept. 26, 2025; amended on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 3.2, AZ ST RCRP Rule 3.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 3.3. Execution and Return of Warrant; Defective Warrants
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 3. Arrest Warrant or Summons upon Commencement of Criminal Proceedings (Refs & Annos)
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 3.3
+Formerly cited as AZ ST RCRP Rule 3.5
+Rule 3.3. Execution and Return of Warrant; Defective Warrants
+Currentness
+(a) By Whom. The warrant is directed to, and may be executed by, all peace officers in Arizona.
+(b) Manner of Execution. A warrant is executed by arresting the defendant named in the warrant. The officer does not need to possess the warrant when the arrest is made, but the officer must show the warrant to the defendant as soon as possible if the defendant asks to see it. If the officer does not have the warrant when the arrest is made, the officer must inform the defendant of the charged or alleged offense and the fact that a warrant has been issued.
+(c) Return. Except for pre-charge arrest warrants, the warrant must be returned either to the magistrate who issued it or to the magistrate at the initial appearance. Pre-charge arrest warrants must be returned to the issuing court as provided in Rule 2.7.
+(d) Defective Form. A defect in form does not invalidate the warrant or require the release of a person in custody. A magistrate may amend a warrant to correct a defect in form.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 3.3, AZ ST RCRP Rule 3.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 3.4. Service of Summons
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 3. Arrest Warrant or Summons upon Commencement of Criminal Proceedings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 3.4
+Rule 3.4. Service of Summons
+Currentness
+(a) Territorial Limits of Effective Service. A summons may be served anywhere within Arizona.
+(b) Service by Mail. A summons may be served by first-class mail or by certified mail, return receipt requested. Return of the signed receipt is presumptive evidence of service.
+(c) Serving an Individual. Unless (d), (e), or (f) applies, an individual may be served by:
+(1) delivering the summons to that individual personally;
+(2) leaving the summons at that individual's dwelling or usual place of abode with someone of suitable age and discretion who resides there; or
+(3) delivering the summons to an agent authorized by appointment or by law to receive service of process.
+(d) Serving a Minor. Unless (e) applies, a minor less than 16 years old may be served by delivering the summons to the minor in the manner set forth in (c) and also delivering the summons:
+(1) to the minor's parent or guardian, if any of them reside or may be found within Arizona; or
+(2) if none of them resides or is found within Arizona, to any adult having the care and control of the minor, or any person of suitable age and discretion with whom the minor resides.
+(e) Serving a Minor Who Has a Guardian. If a court has appointed a guardian for a minor, the minor must be served by serving the guardian in the manner set forth in (c), and separately serving the minor in that same manner.
+(f) Serving a Person Adjudicated Incompetent Who Has a Guardian. If a court has declared a person to be insane, gravely disabled, incapacitated, or mentally incompetent to manage that person's property, and has appointed a guardian for the person, the person must be served by serving the guardian in the manner set forth in (c), and separately serving the person in that same manner.
+(g) Serving a Corporation, Partnership, or Other Unincorporated Association. A domestic or foreign corporation, partnership, or other unincorporated association may be served by delivering the summons to a partner, an officer, a managing or general agent, or any other agent authorized by appointment or by law to receive service of process and--if the agent is one authorized by statute and the statute so requires--by also mailing the summons to the defendant.
+(h) Serving a Corporation if an Authorized Officer or Agent Is Not Found Within Arizona.
+(1) Generally. If a domestic corporation, or a foreign corporation authorized to transact business in Arizona, does not have an officer or an agent within Arizona on whom process can be served, the corporation may be served by depositing two copies of the summons with the Arizona Corporation Commission. Following this procedure constitutes personal service on that corporation.
+(2) Evidence. If the sheriff of the county in which the action is pending states in the return that, after diligent search or inquiry, the sheriff has been unable to find an officer or agent of such corporation on whom process may be served, the statement constitutes prima facie evidence that the corporation does not have such an officer or agent in Arizona.
+(3) Commission's Responsibilities. The Arizona Corporation Commission must retain one of the copies of the summons being served for its records and immediately mail the other copy, postage prepaid, to the corporation or any of the corporation's officers or directors, using any address obtained from the corporation's articles of incorporation, other Corporation Commission records, or any other source.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 3.4, AZ ST RCRP Rule 3.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 3.5. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 3. Arrest Warrant or Summons upon Commencement of Criminal Proceedings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 3.5
+Rule 3.5. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 3.5, AZ ST RCRP Rule 3.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+R. 4, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+II. Preliminary Proceedings
+Rule 4. Initial Appearance
+16A A.R.S. Rules Crim.Proc., R. 4, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 4, Refs & Annos, AZ ST RCRP R. 4, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 4.1. Procedure upon Arrest
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 4. Initial Appearance (Refs & Annos)
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 4.1
+Rule 4.1. Procedure upon Arrest
+Currentness
+(a) Prompt Appearance Before a Magistrate. An arrested person must be promptly taken before a magistrate for an initial appearance. At the initial appearance, the magistrate will advise the arrested person of those matters set forth in Rule 4.2. If the initial appearance does not occur within 24 hours after arrest, the arrested person must be immediately released from custody. If a misdemeanor warrant states the amount of a deposit, cash, unsecured, or secured appearance bond as provided in Rule 3.2(a)(3), and the arrested person has posted the bond prior to the initial appearance, the arrested person must be promptly released from custody.
+(b) On Arrest Without a Warrant or an Arrest With a Warrant Issued Under A.R.S. § 13-3897(A).
+(1) Where a Person Must Be Taken. A person arrested without a warrant or arrested with a warrant issued under A.R.S. § 13-3897(A) must be taken before the nearest or most accessible magistrate either in the county of arrest or in the county where the offense was committed.
+(2) Complaint. A complaint, if not already filed, must be promptly prepared and filed. If a complaint is not filed within 48 hours after the initial appearance before the magistrate, the arrested person must be immediately released from custody and any pending preliminary hearing dates must be vacated.
+(3) Warrant and Affidavit for Persons Arrested on a Warrant Issued Under A.R.S. § 13 3897(A). If a person is arrested on a warrant issued under A.R.S. § 13-3897(A), the arresting officer must submit to the court a copy of the warrant, if available, when filing Rule 41, Form 4(a). If a copy of the warrant is not available, the arresting officer must indicate on Form 4(a) that the person was arrested pursuant to a warrant issued under A.R.S. § 13-3897(A). A court may require the affidavit, if available, be submitted to the court when filing Rule 41, Form 4(a).
+(c) On Arrest with a Warrant Other Than a Warrant Issued Under A.R.S. § 13-3897(A).
+(1) Arrest in the County of Offense. A person arrested in the county where the offense was committed must be taken to the nearest or most accessible magistrate in the county of arrest, except that if the person is not eligible for release on bond under Rule 7.2(b)(1) or (2), the person must be taken before the issuing magistrate. If the issuing magistrate is unavailable or unable to act, the person must be taken to the nearest or most accessible magistrate in the county where the warrant originated.
+(2) Arrest in Another County. If a person is arrested in a county other than the one where the offense was committed, the person must be taken before the nearest or most accessible magistrate in the county of arrest or to a magistrate in the county where the offense was committed. If eligible for release as a matter of right, the person must then be released under Rule 7.2. If not released immediately, the arrested person must be taken to the issuing magistrate in the county where the warrant originated, or, if that magistrate is absent or unable to act, before the nearest or most accessible magistrate in the county where the warrant originated.
+(d) Assurance of Availability of Magistrate and the Setting of a Time for Initial Appearance. Each presiding judge must make a magistrate available every day of the week to hold the initial appearances required under Rule 4.1(a). The presiding judge also must set at least one fixed time each day for conducting initial appearances, and notify local law enforcement agencies of the fixed time(s).
+(e) Sample for DNA Testing; Proof of Compliance. If the arresting authority is required to secure a sample of buccal cells or other bodily substances for DNA testing under A.R.S. § 13-610(K), it must provide proof of compliance to the court before the initial appearance.
+(v) Victims' Rights. Upon request, the victim must be informed of the date, time, and place for the defendant's initial appearance in accordance with A.R.S. § 13-4406. The victim upon request must be notified of the defendant's release from custody at or after the initial appearance.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 26, 2020, effective Jan. 1, 2021; amended on an emergency basis Aug. 25, 2021, effective Sept. 29, 2021, adopted on a permanent basis effective Jan. 1, 2022; amended Dec. 8, 2022, effective July 1, 2023; amended on an emergency basis Aug. 28, 2025, effective Sept. 26, 2025; amended on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 4.1, AZ ST RCRP Rule 4.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 4.2. Initial Appearance
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: November 26, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 4. Initial Appearance (Refs & Annos)
+Effective: November 26, 2025
+16A A.R.S. Rules Crim.Proc., Rule 4.2
+Rule 4.2. Initial Appearance
+Currentness
+(a) Generally. At an initial appearance, a magistrate must:
+(1) determine the defendant's true name and address and, if necessary, amend the formal charges to correct the name and instruct the person to promptly notify the court of any change of address;
+(2) inform the defendant of the charges and, if available, provide the person with a copy of the complaint, information, or indictment;
+(3) inform the defendant of the right to counsel and the right to remain silent;
+(4) determine whether there is probable cause for purposes of release from custody, and, if no probable cause is found, immediately release the person from custody;
+(5) appoint counsel if the defendant is eligible for appointed counsel under Rule 6;
+(6) unless the magistrate determines under (a)(7) that release on bail is prohibited, determine the conditions of release under Rule 7.2(a);
+(7) determine whether probable cause exists to believe:
+(A) the defendant committed a capital offense or any felony offense committed while the person was on pretrial release for a separate felony charge; or
+(B) the defendant committed a felony for which release on bail is prohibited because the defendant poses a substantial danger and no conditions of release will reasonably assure the safety of the victim, any other person, or the community based on the considerations provided in Rule 7.2(b)(3);
+(8) if the court determines that the defendant is not eligible for bail based on a determination under (a)(7)(A) or (B), schedule a bail eligibility hearing in superior court as required under Rule 7.2(b)(4);
+(9) order a summoned defendant to be 10-print fingerprinted no later than 20 calendar days by the appropriate law enforcement agency at a designated time and place if:
+(A) the defendant is charged with a felony offense; a violation of an offense listed in Title 13, Chapters 12, 14, 15 except A.R.S. § 13-1509, 18, 20 through 23, 32, 34, or 34.1; a domestic violence offense as defined in A.R.S. § 1 3-3601; a violation of A.R.S. §§ 13-1604, 13-2406, 13-2904, 13-2907 to 13-2907.05, 13-2910, 13-2916, 13-3102, 13-3103, 13-3513, 13-3555, 13-3558, 13-3613, 13-3619, 13-3623, 13-3704, or 46-215; or a violation of an offense listed in Title 28, Chapter 4; and
+(B) the defendant does not present a completed mandatory fingerprint compliance form to the court, or if the court has not received the process control number; and
+(10) order the arresting agency to secure a sample of buccal cells or other bodily substances for DNA testing if:
+(A) the defendant is in-custody and was arrested for an offense listed in A.R.S. § 13-610(O)(3); and
+(B) the court has not received proof of compliance with A.R.S. § 13-610(K).
+(b) Felonies Charged by Complaint. If a defendant is charged in a complaint with a felony, in addition to following the procedures in (a), the magistrate must:
+(1) inform the defendant of the right to a preliminary hearing and the procedures by which that right may be waived; and
+(2) unless waived, set the time for a preliminary hearing under Rule 5.1.
+(c) Combining an Initial Appearance With an Arraignment. If the defendant is charged with a misdemeanor or indicted for a felony and defense counsel is present or the defendant waives the presence of counsel, the magistrate may arraign a defendant under Rule 14 during an initial appearance under (a). If, however, the magistrate lacks jurisdiction to try the offense, the magistrate may not arraign the defendant and must instead transfer the case to the proper court for arraignment. If the court finds that delaying the defendant's arraignment is indispensable to the interests of justice, the court must set a date for the continued arraignment.
+(v) Victims' Rights.
+(1) At the defendant's initial appearance, a victim has a right to be heard concerning the defendant's possible release and the conditions of release.
+(2) If a magistrate combines an initial appearance and an arraignment under (c), the victim must be given sufficient notice and an opportunity to be present and to be heard. If a magistrate delays an arraignment under (c), sufficient notice must be provided to the victim of the date for the continued arraignment.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Sept. 28, 2017, effective April 2, 2018. Amended on an emergency basis June 8, 2018, effective July 1, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis Aug. 29, 2022, effective Jan. 1, 2023, permanently adopted with additional amendments Dec. 8, 2022, effective Jan. 1, 2023. Amended Dec. 8, 2022, effective July 1, 2023. Amended on an emergency basis, effective Dec. 6, 2023, permanently adopted effective Aug. 22, 2024; amended on an emergency basis Aug. 28, 2025, effective Sept. 26, 2025, permanently adopted with additional changes, effective Nov. 26, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 4.2, AZ ST RCRP Rule 4.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 4.3. Initial Appearance Masters
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 4. Initial Appearance (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 4.3
+Formerly cited as AZ ST RCRP Rule 1.7
+Rule 4.3. Initial Appearance Masters
+Currentness
+(a) Appointment. A county's presiding judge may appoint one or more masters to conduct initial appearances under Rule 4. Masters under this rule have a one-year term and may be reappointed for additional terms.
+(b) Compensation. The presiding judge will set masters' compensation, which will be paid from any available funding source the presiding judge identifies.
+(c) Qualifications and Training. The presiding judge will determine whether an individual has sufficient education and work experience to conduct initial appearances as a master under this rule. Masters do not need to be members of the State Bar of Arizona. Before assignment, a master must successfully complete relevant training regarding the law, procedures, and judicial conduct. Masters must receive annual training concerning changes in relevant statutes, rules, and case law.
+(d) Authority and Assignment. The master's authority is limited to conducting initial appearances. Presiding judges may assign masters only if no justice of the peace, magistrate, or judge pro tempore is reasonably available to conduct initial appearances.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 4.3, AZ ST RCRP Rule 4.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 5, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing
+16A A.R.S. Rules Crim.Proc., R. 5, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 5, Refs & Annos, AZ ST RCRP R. 5, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 5.1. Right to a Preliminary Hearing; Waiver; Continuance
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 5.1
+Rule 5.1. Right to a Preliminary Hearing; Waiver; Continuance
+Currentness
+(a) Right to a Preliminary Hearing. A defendant has a right to a preliminary hearing if charged in a complaint with a felony. A preliminary hearing must commence before a magistrate no later than 10 days after the defendant's initial appearance if the defendant is in custody, or no later than 20 days after the defendant's initial appearance if the defendant is not in custody, unless:
+(1) the complaint is dismissed;
+(2) the hearing is waived;
+(3) the defendant has been transferred from the juvenile court for criminal prosecution on specified charges;
+(4) the magistrate orders the hearing continued under (c); or
+(5) the court made a probable cause finding at a bail eligibility hearing under Rule 7.2(b)(4).
+(b) Waiver. The parties may waive a preliminary hearing but the waiver must be in writing and the defendant, defense counsel, and the State must sign it.
+(c) Continuance.
+(1) Release Absent Continuance. If a preliminary hearing for an in-custody defendant did not commence within 10 days as required under (a) and was not continued, the defendant must be released from custody, unless the defendant is charged with a non-bailable offense, in which case the magistrate must immediately notify that county's presiding judge of the reasons for the delay.
+(2) Continuance. On motion or on its own, a magistrate may continue a preliminary hearing beyond the 20-day deadline specified in (a). A magistrate may continue the hearing only if it finds that extraordinary circumstances exist and that delay is indispensable to the interests of justice. The magistrate also must file a written order detailing the reasons for these findings. The court must promptly notify the parties of the order.
+(3) Resetting Hearing Date. If the magistrate orders a continuance, the order must reset the preliminary hearing for a specific date to avoid uncertainty and additional delay.
+(d) Hearing Demand. A defendant who is in custody may demand that the court hold a preliminary hearing as soon as practicable. In that event, the magistrate must set a hearing date and must not delay its commencement more than necessary to secure the attendance of counsel and necessary witnesses, and ensure the ability to record a verbatim record of the proceeding.
+(v) Victims' Rights.
+(1) Upon request by the victim, the State must notify the victim of a preliminary hearing.
+(2) Before continuing a preliminary hearing on motion or on its own initiative under (c), a magistrate must also consider the victim's right to a speedy disposition. If the magistrate orders a continuance of the preliminary hearing, the victim, if requested, must be notified of the magistrate's order and the new hearing date under A.R.S. § 13-4409.
+(3) If an in-custody defendant demands a preliminary hearing under (d), the hearing date set by the magistrate must allow for sufficient notice to the victim under A.R.S. § 13-4409.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Sept. 28, 2017, effective April 2, 2018; amended on an emergency basis, effective Sept. 30, 2021, adopted on a permanent basis effective Jan. 1, 2022. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 5.1, AZ ST RCRP Rule 5.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 5.2. Summoning Witnesses; Record of Proceedings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 5.2
+Rule 5.2. Summoning Witnesses; Record of Proceedings
+Currentness
+(a) Summoning Witnesses. If requested, the magistrate must issue subpoenas to secure the attendance of witnesses.
+(b) Record of Proceedings. The magistrate must make a verbatim record of the preliminary hearing. Proceedings may be recorded by a certified reporter or, in accordance with A.R.S. § 38-424, by electronic means or other means authorized by the presiding judge of the superior court.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 5.2, AZ ST RCRP Rule 5.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 5.3. Nature of the Preliminary Hearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 5.3
+Rule 5.3. Nature of the Preliminary Hearing
+Currentness
+(a) Procedure.
+(1) Permitted Evidence. During a preliminary hearing, a magistrate may admit evidence only if it is material to whether there is probable cause to hold the defendant for trial.
+(2) Cross-Examination; Witness Statements. All parties have the right to cross-examine a witness who testifies in person at the hearing, and to review any of the witness's previous written statements before conducting cross-examination.
+(3) Probable Cause Ruling. At the close of the State's case, the magistrate must determine and state for the record whether the State's case establishes probable cause.
+(4) Offer of Proof. If the magistrate rules that there is probable cause, the defendant may make a specific offer of proof to the contrary, including the identities of witnesses who would testify or produce the offered evidence. The magistrate must allow the defendant to present the offered evidence, unless the magistrate determines that, even if true, the evidence would be insufficient to rebut the probable cause finding.
+(b) Unlawfully Obtained Evidence. A court must not exclude evidence during a preliminary hearing solely on the ground that it was obtained unlawfully.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 5.3, AZ ST RCRP Rule 5.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 5.4. Determining Probable Cause
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 5.4
+Rule 5.4. Determining Probable Cause
+Currentness
+(a) Holding a Defendant to Answer. If a magistrate finds that there is probable cause to believe that an offense has been committed and that the defendant committed it, the magistrate must file a written order holding the defendant to answer for the offense before the superior court. Upon request, the magistrate may reconsider the conditions of release. Upon the State's request, this rule's requirements are satisfied if a probable cause or proof evident or presumption great finding was made at a bail eligibility hearing under Rule 7.2(b)(4).
+(b) Amending the Complaint. A magistrate may grant a motion to amend a complaint so that its factual allegations conform to the evidence, but the magistrate must not hold the defendant to answer for crimes different than those charged in the original complaint.
+(c) Evidence. A magistrate must base a probable cause finding on substantial evidence, which may include hearsay in the following forms:
+(1) a written report of an expert witness;
+(2) documentary evidence, even without foundation, if there is a substantial basis for believing that foundation will be available at trial and the document is otherwise admissible; or
+(3) a witness's testimony about another person's declarations if such evidence is cumulative or if there are reasonable grounds to believe that the declarant will be personally available for trial.
+(d) Lack of Probable Cause. The magistrate must dismiss the complaint and discharge the defendant if a magistrate finds that there is not probable cause to believe that an offense has been committed or that the defendant committed it.
+(v) Victims' Rights. The victim has a right to be heard whenever the defendant under (a) requests a magistrate to reconsider the conditions of the defendant's release.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Sept. 28, 2017, effective April 2, 2018; Aug. 27, 2019, effective Jan. 1, 2020; Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 5.4, AZ ST RCRP Rule 5.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 5.5. Review of a Magistrate's Probable Cause Determination
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 5.5
+Rule 5.5. Review of a Magistrate's Probable Cause Determination
+Currentness
+(a) Grounds. The superior court may review a magistrate's determination to bind over a defendant only if the defendant files a motion for a new probable cause finding. The court may grant the motion only if the defendant was denied a substantial procedural right or the magistrate's probable cause finding was not supported by credible evidence. If the motion challenges the sufficiency of the evidence supporting the probable cause finding, it must state specifically the ways in which credible evidence was lacking.
+(b) Timeliness. A motion under this rule must be filed no later than 25 days after the preliminary hearing is completed.
+(c) Evidence. A superior court's review of the evidence is limited to the certified transcript and exhibits admitted at the preliminary hearing.
+(d) Relief. If the court grants a motion for a new probable cause finding, the court must remand the action to the magistrate with appropriate instructions. Unless a new preliminary hearing is commenced within 15 days after the remand order is filed, the case must be dismissed.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 5.5, AZ ST RCRP Rule 5.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 5.6. Transmittal and Transcription of the Record
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 5.6
+Rule 5.6. Transmittal and Transcription of the Record
+Currentness
+(a) Transmittal. The magistrate must transmit to the superior court clerk the record of any preliminary hearing no later than 3 days after the hearing is waived or completed. The transmittal must be accompanied by a transmittal certification form and include any documents or exhibits submitted at the hearing.
+(b) Transcript Preparation and Filing. If a party makes a written request and avows that there is a material need for a transcript, the court must order a certified reporter or an authorized transcriber of an electronic recording to prepare a transcript. The certified reporter or authorized transcriber must file the transcript in the superior court no later than 20 days after the order's filing.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 5.6, AZ ST RCRP Rule 5.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 5.7. Preservation of Recording
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 5.7
+Rule 5.7. Preservation of Recording
+Currentness
+The clerk must retain and preserve any electronic recording of a preliminary hearing in the same manner as required for the original notes of a certified reporter under Rule 28.1(c).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 5.7, AZ ST RCRP Rule 5.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 5.8. Notice if an Arraignment is Not Held
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+II. Preliminary Proceedings
+Rule 5. Preliminary Hearing (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 5.8
+Rule 5.8. Notice if an Arraignment is Not Held
+Currentness
+(a) Notice. If a defendant is held to answer in a county where an arraignment is not held as provided in Rule 14.2(d), the magistrate must:
+(1) enter a plea of not guilty for the defendant and provide the defendant and defense counsel with a notice specifying that a plea of not guilty has been entered;
+(2) set dates for a trial or pretrial conference;
+(3) advise the parties in writing of the dates set for further proceedings and other important deadlines;
+(4) advise the defendant of the defendant's right to be present at all future proceedings, that any proceeding may be held in the defendant's absence, and that if the defendant fails to appear, the defendant may be charged with an offense and a warrant may be issued for the defendant's arrest; and
+(5) advise the defendant of the right to a jury trial, if applicable.
+(b) Notice Form. The magistrate must provide written notice to the defendant of the matters in (a). The defendant and defense counsel must sign the notice and return it to the court.
+(v) Victims' Rights. Pursuant to A.R.S. § 13-4409, a victim has a right to receive notice from the prosecutor, on request, of dates for further proceedings.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 5.8, AZ ST RCRP Rule 5.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+R. 6, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts
+16A A.R.S. Rules Crim.Proc., R. 6, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 6, Refs & Annos, AZ ST RCRP R. 6, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 6.1. Right to Counsel; Right to Appointment of an Attorney; Waiver of the Right to Counsel...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: August 22, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+Effective: August 22, 2024
+16A A.R.S. Rules Crim.Proc., Rule 6.1
+Rule 6.1. Right to Counsel; Right to Appointment of an Attorney; Waiver of the Right to Counsel; Authority of a Legal Paraprofessional
+Currentness
+(a) Right to Be Represented by Counsel. A defendant has the right to be represented by counsel in any criminal proceeding. The right to be represented by counsel includes the right to consult privately with counsel, or the counsel's agent, as soon as feasible after a defendant has been taken into custody, at reasonable times after being taken into custody, and sufficiently in advance of a proceeding to allow counsel to adequately prepare for the proceeding.
+(b) Right to Appointment of an Attorney.
+(1) As of Right. An indigent defendant is entitled to a court-appointed attorney in any criminal proceeding:
+(A) that may result in punishment involving a loss of liberty; or
+(B) while incarcerated because of a bond imposed at the initial appearance. The appointment will terminate upon the defendant's release from incarceration unless continued appointment is otherwise required by law or ordered by the court.
+(2) Discretionary. In any other criminal proceeding, the court may appoint an attorney for an indigent defendant if required by the interests of justice.
+(c) Waiver of Right to Counsel. A defendant may waive the right to counsel if the waiver is in writing and if the court finds that the defendant's waiver is knowing, intelligent, and voluntary. After a defendant waives the right to counsel, the court may appoint advisory counsel for the defendant at any stage of the proceedings. In all further matters, the court must give advisory counsel the same notice that is given to the defendant.
+(d) Unreasonable Delay in Retaining Counsel. If a defendant appears at a proceeding without counsel, the court may proceed if:
+(1) the defendant is indigent and has refused appointed counsel; or
+(2) the defendant is not indigent and has had a reasonable opportunity to obtain counsel.
+(e) Withdrawal of Waiver. A defendant may withdraw a waiver of the right to counsel at any time. But the fact that counsel is later appointed or retained does not alone establish a basis for repeating any proceeding previously held or waived.
+(f) Right to Be Represented by a Legal Paraprofessional. A defendant may be represented by a legal paraprofessional in criminal cases and proceedings as provided in ACJA § 7-210. This does not affect the right to appointment of an attorney under (b)(1)(B). A legal paraprofessional must be permitted to consult privately with the defendant as soon as feasible after a defendant has been taken into custody, at reasonable times after being taken into custody, and sufficiently in advance of a proceeding to allow a legal paraprofessional to adequately prepare for the proceeding. A legal paraprofessional must comply with all duties in Rule 6.3(a), (c), and (d).
+(g) Definition of Indigency. For the purposes of this rule, “indigent” means a person who is not financially able to retain counsel.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 30, 2021, effective Jan. 1, 2022; Aug. 29, 2022, effective Jan. 1, 2023. Amended on an emergency basis, effective Dec. 6, 2023, permanently adopted effective Aug. 22, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 6.1, AZ ST RCRP Rule 6.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 6.2. Appointment of Counsel for Indigent Defendants
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 6.2
+Rule 6.2. Appointment of Counsel for Indigent Defendants
+Currentness
+(a) Procedure. The presiding judge of each county must establish a procedure for the superior court and limited jurisdiction courts to appoint counsel for indigent defendants.
+(b) Capital Trial Proceedings. In all capital trial proceedings where the defendant is indigent, the presiding judge must appoint two attorneys--lead counsel and co-counsel--under Rule 6.8(b). The appointed lead counsel may designate co-counsel if co-counsel is willing to accept the appointment and meets the requirements of Rule 6.8. If lead counsel does not promptly designate co-counsel, the court must do so.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 6.2, AZ ST RCRP Rule 6.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 6.3. Duties of Counsel; Withdrawal
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 6.3
+Rule 6.3. Duties of Counsel; Withdrawal
+Currentness
+(a) Notice of Appearance.
+(1) Generally. Before representing the defendant in court, counsel--whether privately retained or appointed by the court--must file a notice of appearance.
+(2) Earlier Appearance in a Limited Jurisdiction Court. Counsel who has filed a notice of appearance in a felony case in a limited jurisdiction court does not need to file a new notice of appearance if the defendant is bound over to superior court.
+(b) Duty of Continuing Representation. Unless the court permits counsel to withdraw, counsel who represents a defendant at any stage of a case has a continuing duty to represent the defendant in all further proceedings in the trial court, including the filing of a notice of appeal.
+(c) Withdrawal.
+(1) If the Defendant Is Ineligible for Appointed Counsel. Appointed counsel may not withdraw after arraignment on the ground that the defendant is ineligible for appointed counsel unless counsel shows that withdrawal will not disrupt the orderly processing of the case.
+(2) If the Case Is Set for Trial. After a case is set for trial, the court may not permit counsel to withdraw unless counsel files a motion that provides:
+(A) the name and address of new counsel and a signed statement from the new counsel that acknowledges the trial date and avows that the new counsel will be prepared for trial; or
+(B) ethical grounds for withdrawing.
+(d) Duty of Defense Counsel to Preserve the File. Defense counsel must:
+(1) maintain records of the case in a manner that will inform successor counsel of all significant developments relevant to the case; and
+(2) make available to successor counsel the client's complete records and files, as well as all information regarding every aspect of the representation.
+(e) Duty of Successor Counsel to Collect the File in a Capital Case. Immediately upon undertaking representation of a defendant in a capital case in which the defendant was previously represented by counsel, defense counsel must collect the complete file from prior counsel and maintain the records and files in a manner that complies with (d).
+(v) Victims' Rights.
+(1) Court Consideration of the Victim's Rights Under (c). If a motion to withdraw under (c) could result in a continuance of the trial date, the court in deciding the motion must consider the victim's right to a speedy disposition.
+(2) Appearance and Withdrawal of the Victim's Attorney. Before representing a victim in a criminal proceeding, a victim's attorney must file a notice of appearance. Unless the court orders otherwise, a victim's attorney may file a notice of withdrawal at any time.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 6.3, AZ ST RCRP Rule 6.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 6.4. Determining Whether a Person is Indigent
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 6.4
+Rule 6.4. Determining Whether a Person is Indigent
+Currentness
+(a) Questionnaire. To show indigency, a defendant must complete under oath a financial resources form approved by the Supreme Court. A judicial officer responsible for determining whether a defendant is indigent may question the defendant under oath regarding the defendant's financial resources. Before questioning, the court must advise the defendant of the penalties for perjury set forth in A.R.S. §§ 13-2701 et seq.
+(b) Redetermination of Indigency. If there is a material change in circumstances, the defendant, defense counsel, or the State may request that the court make a new indigency determination.
+(c) Payment by the Defendant.
+(1) Generally. If a court finds that a defendant can afford to pay part of the cost of appointed counsel without incurring substantial hardship, the court may order the defendant to pay that amount to the clerk.
+(2) Failure to Pay. A defendant's failure to pay an amount ordered by the court is not a basis for finding the defendant in contempt, and appointed counsel may not withdraw solely on this ground. But the county or municipality may enforce an order under (c)(1) as a civil judgment.
+(3) Court Order Required. Without court approval, an attorney, organization, or agency may not request or accept payment from the defendant for providing legal services under the court appointment.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 6.4, AZ ST RCRP Rule 6.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 6.5. Manner of Appointment
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 6.5
+Rule 6.5. Manner of Appointment
+Currentness
+(a) Appointment Order. The court must appoint counsel by a written order and provide a copy of the order to the defendant, the appointed attorney, and the State.
+(b) Public Defender Appointment. In counties that have a public defender, the court must appoint the public defender to represent persons entitled to appointed counsel whenever the public defender is authorized by law to undertake the representation and is able to do so.
+(c) Other Appointments. If the court does not appoint a public defender, the court must appoint a private attorney. In appointing private counsel, the court must take into account the skill likely to be required in handling the case.
+(d) Requests for Representation Before a Grand Jury. A request for appointment of counsel must be made and processed as if proceedings had already begun in superior court.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 6.5, AZ ST RCRP Rule 6.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 6.6. Compensation of Appointed Counsel
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 6.6
+Formerly cited as AZ ST RCRP Rule 6.7
+Rule 6.6. Compensation of Appointed Counsel
+Currentness
+(a) Where to File a Compensation Claim. A private attorney appointed to represent an indigent defendant must file a claim for compensation as provided by local rule in the county in which the appointment was made or from which the appeal was taken.
+(b) When to File a Compensation Claim.
+(1) Trial Court. Trial counsel may file claims for compensation at intervals permitted by the court, and must file a final claim at the completion of all trial, sentencing, or post-conviction proceedings.
+(2) Appellate Court. Appellate counsel may file claims for compensation at intervals permitted by the court, and must file a final claim at the completion of all appellate proceedings.
+(c) Proceedings in a Limited Jurisdiction Court. An attorney is entitled to compensation for services rendered in a limited jurisdiction court.
+(d) Amount of Compensation. An attorney must be reasonably compensated for the services performed, considering the hours worked, the experience of counsel, the seriousness and complexity of the case, the quality of the work performed, and any other relevant factors. The manner of determining reasonable compensation is provided by local rule and A.R.S. § 13-4013.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 6.6, AZ ST RCRP Rule 6.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 6.7. Appointment of Investigators and Expert Witnesses for Indigent Defendants
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 6.7
+Rule 6.7. Appointment of Investigators and Expert Witnesses for Indigent Defendants
+Currentness
+(a) Appointment. On application, if the court finds that such assistance is reasonably necessary to adequately present a defense at trial or at sentencing, the court may appoint an investigator, expert witnesses, and/or, in a felony matter, a mitigation specialist for an indigent defendant at county or city expense.
+(b) Ex Parte Proceeding. A defendant may not make an ex parte request under this rule without showing a need for confidentiality. The court must make a verbatim record of any ex parte proceeding, communication, or request, which must be available for appellate review.
+(c) Definition of a “Mitigation Specialist.” As used in this rule, a “mitigation specialist” is a person qualified by knowledge, skill, experience, or other training as a mental health or sociology professional to investigate, evaluate, and present psycho-social and other mitigation evidence.
+(d) Capital Case. In a capital case, a defendant should make any motion for an expert or mitigation specialist no later than 60 days after the State makes its disclosure under Rule 15.1(i)(3).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 6.7, AZ ST RCRP Rule 6.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 6.8. Standards for Appointment and Performance of Counsel in Capital Cases
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 6. Right to Counsel; Duties of Counsel; Court-Appointed Attorneys, Investigators, and Experts (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 6.8
+Rule 6.8. Standards for Appointment and Performance of Counsel in Capital Cases
+Currentness
+(a) Generally. To be eligible for appointment in a capital case, an attorney must:
+(1) have been a member in good standing of the State Bar of Arizona for at least 5 years immediately before the appointment;
+(2) have practiced criminal litigation in Arizona state courts for 3 years immediately before the appointment;
+(3) have demonstrated the necessary proficiency and commitment that exemplifies the quality of representation appropriate to capital cases;
+(4) have successfully completed, within one year before the initial appointment, at least 6 hours of relevant training or educational programs in the area of capital defense; and successfully completed within one year before any later appointment, at least 12 hours of relevant training or educational programs in the area of criminal defense;
+(5) be familiar with and guided by the performance standards in the 2003 American Bar Association Guidelines for the Appointment and Performance of Defense Counsel in Death Penalty Cases, and the 2008 Supplementary Guidelines for the Mitigation Function of Defense Teams in Death Penalty Cases.
+If an attorney is a member in good standing of the State Bar of Arizona, the attorney's practice in a federal jurisdiction or in another state may be considered for purposes of satisfying the requirements of (a)(1) and (a)(2).
+(b) Trial Counsel.
+(1) Lead Counsel. To be eligible for appointment as lead trial counsel, an attorney must meet the requirements of (a) and must have:
+(A) practiced criminal litigation in Arizona state courts for 5 years immediately before the appointment; and
+(B) been lead counsel in at least 9 felony jury trials that were tried to completion, and have been lead counsel or co-counsel in at least one capital jury trial.
+(2) Co-Counsel. To be eligible for appointment as co-counsel, an attorney must be a member in good standing of the State Bar of Arizona and meet the requirements of (a)(4) and (a)(5).
+(c) Appellate Counsel. To be eligible for appointment as appellate counsel, an attorney must meet the qualifications set forth in (a) and the attorney must:
+(1) within 3 years immediately before the appointment, have been lead counsel in an appeal in a case in which a death sentence was imposed (including petitions for review of post-conviction proceedings); and prior experience as lead counsel in the appeal of at least 3 felony convictions; or
+(2) prior experience as lead counsel in merits briefing in the appeal of at least 6 felony convictions, including two appeals from first- or second-degree murder convictions.
+(d) Post-Conviction Counsel. To be eligible for appointment as post-conviction counsel, an attorney must meet the qualifications set forth in (a) and the attorney must:
+(1) within 3 years immediately before the appointment, have been lead counsel in a trial in which a death sentence was sought or in an appeal or post-conviction proceeding in a case in which a death sentence was imposed, and prior experience as lead counsel in the appeal of at least 3 felony convictions and a trial or post-conviction proceeding with an evidentiary hearing; or
+(2) have been lead counsel in the appeal of at least 6 felony convictions, including two appeals from first- or second-degree murder convictions, and lead counsel in at least two felony trials or post-conviction proceedings with evidentiary hearings.
+(e) Exceptions. In exceptional circumstances, a court may appoint an attorney who does not meet the qualifications set forth in this rule if:
+(1) the Supreme Court consents;
+(2) the attorney meets the requirements set forth in (a)(3)--(5);
+(3) the attorney's experience, stature, and record establishes that the attorney's ability significantly exceeds the standards set forth in this rule; and
+(4) the attorney associates with a lawyer who meets the qualifications set forth in this rule and the associating attorney is appointed by the court for this purpose.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 6.8, AZ ST RCRP Rule 6.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+R. 7, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+III. Rights of Parties
+Rule 7. Release
+16A A.R.S. Rules Crim.Proc., R. 7, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 7, Refs & Annos, AZ ST RCRP R. 7, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 7.1. Definitions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 7. Release (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 7.1
+Rule 7.1. Definitions
+Currentness
+(a) Own Recognizance. “Own recognizance” is a release of a defendant without requiring the posting of a bond as a condition of release.
+(b) Unsecured Appearance Bond. An “unsecured appearance bond” is an undertaking, on a form approved by the Supreme Court, to pay the clerk a specified sum of money upon the defendant's failure to comply with the conditions of the bond.
+(c) Cash Bond. A “cash bond” is a secured appearance bond consisting of actual cash deposited by the defendant or someone acting on the defendant's behalf.
+(d) Deposit Bond. A “deposit bond” is a partially-secured appearance bond in which the defendant, or someone acting on the defendant's behalf other than a professional bondsman, deposits a percentage of the full bond amount in cash.
+(e) Secured Appearance Bond. A “secured appearance bond” is an appearance bond secured by deposit with the clerk of security equal to the full amount of the bond.
+(f) Security. “Security” is cash, a surety's undertaking, or any property of value, deposited with the clerk to secure an appearance bond. The value of that property is determined by the clerk or, at the clerk's or a party's request, by the court.
+(g) Surety. A “surety” is a person or company, other than the defendant, who executes an appearance bond and agrees to pay the amount of the bond if the defendant fails to comply with its conditions. A surety must file an affidavit with an appearance bond stating that the surety is not an attorney or person authorized to take bail, and that the surety owns property in Arizona (or is an Arizona resident owning property) with a value equal to or more than the amount of the appearance bond. The property's value is calculated after deducting the amount exempt from execution and all liabilities, including the amount of any other outstanding appearance bonds that the surety has entered into involving the same property.
+(h) Professional Bondsman. Any person who is a surety simultaneously on more than 4 appearance bonds is a “professional bondsman.” A person may not be a professional bondsman unless the person annually certifies in writing under oath to the superior court clerk that the person:
+(1) is an Arizona resident;
+(2) is licensed with the Arizona Department of Insurance under A.R.S. § 20-340.01;
+(3) has sufficient financial net worth to satisfy reasonable obligations as a surety;
+(4) agrees to assume an affirmative duty to the court to remain in regular contact with any defendant released under an appearance bond on which the person is a surety;
+(5) has not been convicted of a felony, except as otherwise provided in A.R.S. § 20-340.03;
+(6) has no outstanding judgments arising out of surety undertakings; and
+(7) has not, within a period of two years, violated any provisions of these rules or any court order.
+The clerk or the court may revoke or withhold a professional bondsman's capacity to act as surety if the bondsman violates this rule's provisions.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 7.1, AZ ST RCRP Rule 7.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 7.2. Right to Release
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 7. Release (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 7.2
+Rule 7.2. Right to Release
+Currentness
+(a) Before Conviction; Bailable Offenses.
+(1) Presumption of Innocence. A defendant charged with a crime but not yet convicted is presumed to be innocent.
+(2) Right to Release. Except as these rules otherwise provide, any defendant charged with an offense bailable as a matter of right must be released pending and during trial on the defendant's own recognizance with only the mandatory conditions of release required under Rule 7.3(a), unless the court determines that additional conditions are reasonably necessary to assure the defendant's appearance or protect the victim, any other person, or the community from risk of harm by the defendant. If the court makes such a determination, it must impose the least onerous conditions of release set forth in Rule 7.3(c).
+(3) Determining Method of Release or Bond Amount. In determining the method of release or a bond amount, the court must take into account all of the factors set forth in A.R.S. § 13-3967(B).
+(b) Before Conviction; Defendants Charged with an Offense Not Eligible for Bail.
+(1) Not Eligible Based on Commission of a Specified Felony or Any Felony While on Pretrial Release. A defendant must not be released if the court finds the proof is evident or the presumption great that the defendant committed:
+(A) a capital offense;
+(B) any felony offense while the defendant was on pretrial release for a separate felony charge.
+(2) Not Eligible Based on Commission of any Felony and Other Factors. Under article 2, section 22(A)(3) of the Arizona Constitution, the court may not release any defendant charged with a felony if the court finds all of the following:
+(A) the proof is evident or the presumption great that the defendant committed one or more of the charged felony offenses;
+(B) clear and convincing evidence that the defendant poses a substantial danger to the victim, any other person, or the community or, on certification by motion of the state, the defendant engaged in conduct constituting a dangerous crime against children or terrorism; and
+(C) no condition or combination of conditions of release will reasonably assure the safety of the victim, any other person, or the community.
+(3) Bail Eligibility Considerations. In making the determinations required by (b)(2)(B) and (b)(2)(C), the court must consider:
+(A) the nature and circumstances of the offense charged, including whether the offense is a “dangerous offense” as defined in A.R.S. § 13-105;
+(B) the weight of the evidence against the defendant;
+(C) the history and characteristics of the defendant, including the defendant's character, physical and mental condition, past conduct including membership in a criminal street gang, history relating to drug or alcohol abuse, and criminal history;
+(D) the nature and seriousness of the danger to the victim, any other person, or the community that would be posed by releasing the defendant on bail, including any threat to a victim or other participants in the judicial process;
+(E) the recommendation of the pretrial services program based on an appropriate risk assessment instrument;
+(F) any victim statement about the offense and release on bail; and
+(G) any other factor relevant to the determination required under (b)(2)(B) and (b)(2)(C).
+(4) Bail Eligibility Hearing.
+(A) Generally. The superior court must hold a hearing to determine whether a defendant held in custody under Rule 4.2(a)(8) is not eligible for bail as required under (b)(1) or (b)(2), unless the defendant waives this hearing.
+(B) Timing. If the State makes an oral motion under A.R.S. § 13-3961(E), the court must hold this hearing within 24 hours of the initial appearance, subject to continuances as provided in A.R.S. § 13-3961. If this motion is not made, the hearing must be held as soon as practicable, but no later than 7 days after the initial appearance unless the detained defendant moves for a continuance or the court finds that extraordinary circumstances exist and delay is indispensable to the interests of justice. For this purpose, extraordinary circumstances are events that would prohibit the hearing from occurring and that are beyond the prosecutor's control. Upon a finding of extraordinary circumstances, the court may continue the hearing once and for no more than 3 calendar days.
+(C) Determination of Probable Cause and Release Conditions. If the court does not find the proof evident or the presumption great under (b)(1) or (b)(2)(A) and there has been no prior finding of probable cause for the charges by a grand jury or through a preliminary hearing, the court must determine whether there is probable cause to believe that an offense was committed and that the defendant committed it.
+(i) Probable Cause Found. If the court finds probable cause, or probable cause for the charges was previously determined by a grand jury or through a preliminary hearing, the court must determine release conditions under (a).
+(ii) No Probable Cause Found. Unless there was a finding of probable cause for the charges by a grand jury or through a preliminary hearing, if the court does not find probable cause, the defendant must be released from custody. Upon the State's request, the court must schedule a preliminary hearing as provided in Rule 5.1(a). If the state does not request a preliminary hearing, the court must dismiss the complaint and discharge the defendant, unless probable cause for the charges was previously determined by a grand jury or through a preliminary hearing.
+(D) Effect of Findings. If the court finds the proof is evident or the presumption great or finds probable cause, upon the State's request, the court will hold the defendant to answer before the superior court as provided in Rule 5.4(a).
+(E) Findings on the Record. The court's findings must be on the record.
+(c) After Conviction.
+(1) Superior Court.
+(A) Before Sentencing. After a defendant is convicted of an offense for which the defendant will, in all reasonable probability, receive a sentence of imprisonment, the court may not release the defendant on bail or on the defendant's own recognizance unless:
+(i) the court finds that reasonable grounds exist to believe that the conviction may be set aside on a motion for new trial, judgment of acquittal, or other post-trial motion; or
+(ii) the parties stipulate otherwise and the court approves the stipulation.
+(B) After a Sentence Involving Imprisonment. If a defendant is convicted of a felony offense and is sentenced to prison, the court may not release the defendant on bail or on the defendant's own recognizance pending appeal unless the court finds the defendant is in such a physical condition that continued confinement would endanger the defendant's life.
+(C) Protecting Safety. In determining release conditions if the defendant is released under (c)(1)(A) or (B), the court must impose conditions that will protect the victim, any other person, or the community from risk of harm by the defendant.
+(D) After Sentence, Pending Appeal. If a defendant is released pending appeal but fails to diligently pursue the appeal, the court must revoke the release.
+(E) Release upon Sentence Completion. A defendant held in custody pending appeal must be released if the term of incarceration is completed before the appeal is decided.
+(2) Limited Jurisdiction Courts.
+(A) Conditions of Release on Appeal. If a defendant files a timely notice of appeal of a conviction for an offense for which the court has imposed a sentence of incarceration, the defendant may remain out of custody under the same conditions of release imposed at or after the defendant's initial appearance or arraignment.
+(B) Lack of Diligence on Appeal. If a defendant is released pending appeal but fails to diligently pursue the appeal, the court must revoke the release.
+(C) Motion to Amend Conditions of Release.
+(i) Upon the filing of a timely notice of appeal, the court--on motion or on its own--may amend the conditions of release if it finds a substantial risk exists that the defendant presents a danger to the victim, another person or the community, or the defendant is unlikely to return to court if required to do so after the appeal concludes.
+(ii) The court must hear a motion under this rule no later than 3 days after filing, although it may continue the hearing for good cause. The defendant may be detained pending the hearing. The hearing must be on the record, and the defendant is entitled to representation by counsel. Any testimony by the defendant is not admissible in another proceeding except as it relates to compliance with prior conditions of release, perjury, or impeachment. The court must state its findings on the record.
+(iii) The court may amend the conditions of release in accordance with the standards set forth in Rule 7.3 and Rule 7.4(b). In determining the method of release or the amount of bail, the court must consider the nature and circumstances of the offense, family or local ties, employment, financial resources, the defendant's character and mental condition, the length of residence in the community, the record of arrests or convictions, the risk of harm to the victim, other persons, or the community, and appearances at prior court proceedings.
+(D) Release upon Sentence Completion. A defendant held in custody pending appeal must be released if the defendant's term of incarceration is completed before the appeal is decided.
+(E) Superior Court Review. If the trial court enters an order setting a bond or requiring incarceration during the appeal, the defendant may petition the superior court to stay the execution of sentence and to allow the defendant's release either without bond or on a reduced bond.
+(d) Burden of Proof. A court must determine issues under (a) and (c) by a preponderance of the evidence. The State bears the burden of establishing factual issues under (a), (b) and (c)(2). The defendant bears the burden of establishing factual issues under (c)(1).
+(v) Victims' Rights. Upon request, a victim has the rights to be notified of, present at, and heard at any proceeding involving a post-arrest release decision, and to be informed if a defendant is released from custody.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Sept. 28, 2017, effective April 2, 2018. Amended on an emergency basis June 8, 2018, effective July 1, 2018, adopted on a permanent basis Dec. 13, 2018. Amended Aug. 27, 2019, effective Jan. 1, 2020; Aug. 30, 2021, effective Jan. 1, 2022; Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 7.2, AZ ST RCRP Rule 7.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 7.3. Conditions of Release
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 7. Release (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 7.3
+Rule 7.3. Conditions of Release
+Currentness
+(a) Mandatory Conditions. Every order of release must contain the following conditions:
+(1) the defendant must appear at all court proceedings;
+(2) the defendant must not commit any criminal offense;
+(3) the defendant must not leave Arizona without the court's permission; and
+(4) if a defendant is released during an appeal after judgment and sentence, the defendant will diligently pursue the appeal.
+(b) Victim Protection. The court must order the defendant not to contact a victim if such an order is reasonably necessary to protect a victim from physical harm, harassment, intimidation, or abuse.
+(c) Mandatory Condition if Charged with an Offense Listed in A.R.S. § 13-610(O)(3) or a new Violation of A.R.S. § 13-2910.
+(1) Generally. If a defendant is charged with an offense listed in A.R.S. § 13-610(O)(3) and has been summoned to appear in court, the court must order the defendant to report to the arresting law enforcement agency or its designee no later than 5 days after release, and submit a sample of buccal cells or other bodily substances for DNA testing as directed. The defendant must provide proof of compliance at the next scheduled court proceeding.
+(2) Required Notice. The court must inform the defendant that a willful failure to comply with an order under (b)(1) will result in revocation of release.
+(3) New Violation of A.R.S. § 13-2910. If a defendant is serving a term of probation for committing animal cruelty under A.R.S. § 13-2910 and is charged with a new violation of A.R.S. § 13-2910, and if the defendant is released on their own recognizance or on bail, the court must impose a condition of release that prohibits the defendant from possessing or having contact with any animal.
+(d) Additional Conditions. The court may impose as a condition of release one or more of the following conditions, if the court finds the condition is reasonably necessary to secure the defendant's appearance or to protect another person or the community from risk of harm by the defendant. In making determinations under this rule, the court must consider, if provided, the results of a risk assessment approved by the Supreme Court and a law enforcement agency's lethality assessment.
+(1) Non-Monetary Conditions. A court may impose the following non-monetary conditions:
+(A) placing the defendant in the custody of a designated person or organization that agrees to provide supervision;
+(B) restricting the defendant's travel, associations, or residence;
+(C) prohibiting the defendant from possessing any dangerous weapon;
+(D) engaging in certain described activities, or consuming intoxicating liquors or any controlled substance that is not properly prescribed;
+(E) requiring the defendant to report regularly to and remain under the supervision of an officer of the court;
+(F) returning the defendant to custody after specified hours; or
+(G) imposing any other non-monetary condition that is reasonably related to securing the defendant's appearance or protecting others or the community from risk of harm by the defendant.
+(2) Monetary Conditions.
+(A) Generally. A court's imposition of a monetary condition of release must be based on an individualized determination of the defendant's risk of non-appearance, risk of harm to others or the community, and the defendant's financial circumstances. The court may not rely on a schedule of charge-based bond amounts, and it must not impose a monetary condition that results in unnecessary pretrial incarceration solely because the defendant is unable to pay the imposed monetary condition.
+(B) Least Onerous Alternative. If the court determines a monetary condition is necessary, it must impose the least onerous type of condition in the lowest amount necessary to secure the defendant's appearance or protect other persons or the community from risk of harm by the defendant.
+(C) Types of Conditions. The types of monetary conditions a court may impose include the following:
+(i) an unsecured appearance bond;
+(ii) a deposit bond;
+(iii) another type of secured bond; and
+(iv) a cash bond.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Aug. 29, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023; amended Aug. 29, 2022, effective Jan. 1, 2023; Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 7.3, AZ ST RCRP Rule 7.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 7.4. Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 7. Release (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 7.4
+Rule 7.4. Procedure
+Currentness
+(a) Initial Appearance. At an initial appearance, the court must determine bail eligibility and the conditions for release. If the court decides that the defendant is eligible for release, the court must issue an order containing the conditions of release. The order must inform the defendant of the conditions and possible consequences for violating a condition, and that the court may immediately issue a warrant for the defendant's arrest if there is a violation.
+(b) Bail Eligibility Hearing.
+(1) Right to Secure Witnesses, Cross-Examine, and Review Witness Statements. At a bail eligibility hearing, each party has the right to secure the attendance of witnesses, cross-examine any witness who testifies, and to review any previous written statement by the witness before cross-examination.
+(2) Admissibility. Evidence is admissible at the hearing only if it is material to whether, and under what conditions, to release the defendant on bail and whether probable cause exists to hold the defendant for trial on each charge. Rules or objections calling for the exclusion of evidence are inapplicable at a bail eligibility hearing.
+(c) Later Review of Conditions.
+(1) Generally. On motion or on its own, a court may reexamine bail eligibility or the conditions of release if the case is transferred to a different court, if a motion alleges the existence of material facts not previously presented to the court or the defendant is unable to post bond due to the defendant's financial condition. The court may hold oral argument or an evidentiary hearing.
+(2) Motion Requirements and Hearing. The court may modify the conditions of release only after giving the parties an opportunity to respond to the proposed modification.
+(3) Eligibility for Bail. If the motion is by the State and involves a defendant previously held eligible for bail at the initial appearance, it need not allege new material facts. The court must hold a hearing on the record as soon as practicable, but no later than 7 days after the motion's filing.
+(d) Evidence. A court may base a release determination under this rule on evidence that is not admissible under the Arizona Rules of Evidence.
+(e) Defendant's Bail Status. If the court makes the findings required under Rule 7.2(b)(1) or (b)(2) to deny bail, the court must order the defendant held without bail until further order. If not, the court must order the defendant released on bail under Rule 7.2(a).
+(f) Review of Conditions of Release for Misdemeanors. No later than 10 days after the initial appearance, the court must determine whether to amend the conditions of release for any defendant held in custody on bond for a misdemeanor. The court may hold oral argument or an evidentiary hearing.
+(g) Appointment of Counsel. The court must appoint counsel in any case in which the defendant is eligible for the appointment of counsel under Rule 6.1(b).
+(v) Victims' Rights. Upon request, a victim has the rights to be notified of, present at, and heard at any proceeding involving a post-arrest release decision, and to be informed if a defendant is released from custody.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Sept. 28, 2017, effective April 2, 2018; Aug. 27, 2019, effective Jan. 1, 2020; Aug. 30, 2021, effective Jan. 1, 2022; Aug. 29, 2022, effective Jan. 1, 2023; Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 7.4, AZ ST RCRP Rule 7.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 7.5. Review of Conditions; Revocation of Release
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 7. Release (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 7.5
+Rule 7.5. Review of Conditions; Revocation of Release
+Currentness
+(a) On State's Petition. If the State files a verified petition stating facts or circumstances showing the defendant has violated a condition of release, the court may issue a summons or warrant under Rule 3.2, or a notice setting a hearing, to secure the defendant's presence in court and to consider the matters raised in the petition. A copy of the petition must be provided with the summons, warrant, or notice.
+(b) On Pretrial Services' Report. If pretrial services submits a written report to the court stating facts or circumstances showing the defendant has violated a condition of release, the court may issue a summons or warrant under Rule 3.2, or a notice setting a hearing, to secure the defendant's presence in court and to consider the matters raised in the report. A copy of the report must be provided to the State and provided with the summons, warrant, or notice.
+(c) On Victim's Petition. If the prosecutor decides not to file a petition under (a), the victim may petition the court to revoke the defendant's bond or own recognizance release, or otherwise modify the defendant's conditions of release. Before filing a petition, the victim must consult with the prosecutor about the requested relief. The petition must include a statement under oath by the victim asserting any harassment, threats, physical violence, or intimidation by the defendant, or on the defendant's behalf, against the victim or the victim's immediate family.
+(d) Hearing; Modification of Conditions; Revocation.
+(1) Modification of Conditions of Release. After a hearing on the matters set forth in the petition or report, the court may impose different or additional conditions of release if it finds that the defendant has willfully violated the conditions of release.
+(2) Revocation of Release on a Felony Offense. The court may revoke release of a defendant charged with a felony if, after a hearing, the court finds that the proof is evident or presumption great as to the present charge and:
+(A) probable cause exists to believe that the defendant committed another felony during the period of release; or
+(B) the defendant poses a substantial danger to another person or the community, and no other conditions of release will reasonably assure the safety of the other person or the community.
+(e) Revocation of Release: DNA Testing. The State may file a motion asking the court to revoke a defendant's release for failing to comply with the court's order to provide a sample of buccal cells or other bodily substances for DNA testing under A.R.S. § 13-3967(F)(4) and to provide proof of compliance. The motion must state facts establishing probable cause to believe that the defendant has not complied with the order. At the defendant's next court appearance, the court must proceed in accordance with this rule's requirements and A.R.S. § 13-3967(F)(4).
+(f) Revocation of Release: 10-print Fingerprinting. If a defendant fails to timely present a completed mandatory fingerprint compliance form or if the court has not received the process control number, the court may remand the defendant into custody for 10-print fingerprinting. If otherwise eligible for release, the defendant must be released from custody after being 10-print fingerprinted.
+(v) Victims' Rights. Upon request, a victim has the rights to be notified of, present at, and heard at any proceeding involving a post-arrest release decision, and to be informed if a defendant is released from custody.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 7.5, AZ ST RCRP Rule 7.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 7.6. Transfer and Disposition of Bond
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: April 21, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 7. Release (Refs & Annos)
+Effective: April 21, 2023
+16A A.R.S. Rules Crim.Proc., Rule 7.6
+Rule 7.6. Transfer and Disposition of Bond
+Currentness
+(a) Transfer upon Supervening Indictment. An appearance bond or release order issued following the filing of a felony complaint in justice court will automatically be transferred to a criminal case in superior court after an indictment is filed that alleges the same charges.
+(b) Filing and Custody of Appearance Bonds and Security. A defendant must file an appearance bond and security, if ordered, with the clerk of the court in which a case is pending or the court in which the initial appearance is held. If the case is transferred to another court, the transferring court must transfer any appearance bond and security.
+(c) Forfeiture Procedure.
+(1) Arrest Warrant and Notice to Surety. If the court is informed that the defendant has violated a condition of an appearance bond, it may issue a warrant for the defendant's arrest. No later than 10 days after the warrant's issuance, the court must notify the surety, in writing or electronically, that the warrant was issued.
+(2) Defendant's Failure to Appear. If the court is informed that the defendant who is released on an appearance bond failed to appear for a required court appearance and the court issues a warrant for the defendant's arrest, the court, no later than 10 days after the warrant's issuance, must notify the surety and the bail bond agent who is responsible for the defendant's appearance. Notice must be by email if the surety or bail bond agent provided an email address, or to the physical address that is included in the undertaking of bail if no email address was provided.
+(3) Hearing and Notice. After issuing the arrest warrant, the court must set a hearing within a reasonable time, no later than 120 days after it issued the warrant, requiring the parties and any surety to show cause why the bond should not be forfeited. The court must notify the parties and any surety of the hearing in writing or electronically. The forfeiture hearing may be combined with a Rule 7.5(d) hearing.
+(4) Forfeiture. If the court finds that the violation is not excused, it may enter an order forfeiting all or part of the bond amount, and the State may enforce that order as a civil judgment. The order must comply with Arizona Rule of Civil Procedure 58(a).
+(d) Exoneration.
+(1) Generally. If the court finds before a violation that there is no further need for an appearance bond, it must exonerate the bond and order the return of any security.
+(2) Amount Returned. When a deposit bond or cash bond is exonerated, the court must order the return of the entire amount deposited unless forfeited under Rule 7.6(c)(3) or the bond depositor authorizes it be applied to a financial obligation.
+(3) If the Defendant Is Surrendered, In-Custody, or Transferred. The court must exonerate the bond if:
+(A) the surety surrenders the defendant to the sheriff of the county in which the prosecution is pending, and:
+(i) the surrender is on or before the day and time the defendant is ordered to appear in court; and
+(ii) the sheriff informs the court of the defendant's surrender;
+(B) the defendant is in the custody of the sheriff of the county in which the prosecution is pending on or before the day and time the defendant is ordered to appear in court under the following conditions:
+(i) the surety provides the sheriff with an affidavit of surrender of the appearance bond; and
+(ii) the sheriff reports the defendant is in custody and that the surety has provided an affidavit of surrender of the appearance bond; or
+(C) before the defendant was released to the custody of the surety, the defendant was released or transferred to the custody of another government agency, preventing the defendant from appearing in court on the scheduled court date and the surety establishes:
+(i) the surety did not know and could not have reasonably known of the release or transfer or that a release or transfer was likely to occur; and
+(ii) the defendant's failure to appear was a direct result of the release or transfer.
+(4) Conditions When Not Required to Exonerate Bond. The court is not required to exonerate the bond under (d)(3)(C) if a detainer was placed on the defendant before the bond was posted or the release or transfer to another government agency was for 24 hours or less.
+(5) Other Circumstances. In all other instances, the decision whether or not to exonerate a bond is within the discretion of the court.
+(6) Post-Forfeiture Notice. After filing an order of forfeiture, the court must provide:
+(A) a copy of the order to the State, the defendant, the defendant's attorney, and the surety; and
+(B) a copy of a signed order to the county attorney for collection.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Aug. 25, 2021, effective Jan. 1, 2022, adopted on a permanent basis effective Jan. 1, 2022. Amended effective April 21, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 7.6, AZ ST RCRP Rule 7.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 7.7. Detaining a Juvenile Transferred for Criminal Prosecution or Charged Pursuant to A.R....
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: August 24, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 7. Release (Refs & Annos)
+Effective: August 24, 2023
+16A A.R.S. Rules Crim.Proc., Rule 7.7
+Rule 7.7. Detaining a Juvenile Transferred for Criminal Prosecution or Charged Pursuant to A.R.S. § 13-501
+Currentness
+(a) Generally. A juvenile may not be detained in an adult detention facility unless the juvenile can be detained separately from, and with no sight or sound contact between, any adult charged with or convicted of a crime, except to the extent authorized by federal law or regulation.
+(b) Determining Where the Juvenile Will Be Detained. In determining whether a juvenile should be detained in a juvenile detention facility or an adult detention facility, the court must consider the following factors:
+(1) the best interests of the juvenile who is detained in the adult detention facility and other juveniles in the juvenile detention facility;
+(2) the juvenile's age;
+(3) the juvenile's physical and mental maturity;
+(4) the juvenile's present mental state, including whether the juvenile presents an imminent risk of self-harm;
+(5) the nature and circumstances of the alleged offense;
+(6) the juvenile's history of prior delinquent acts;
+(7) the ability of the juvenile and adult detention facilities to meet the specific needs of the juvenile while also protecting the safety of the public and the safety of other detained juveniles;
+(8) the existing programs and facilities for juveniles at the juvenile and adult detention facilities; and
+(9) any other factors the court deems relevant.
+(c) Review of Detention Placement. If a juvenile is detained in an adult detention facility, the court must hold a hearing at least every 30 days to determine whether the juvenile should remain in the adult detention facility. The court's determination must be in writing and must consider the factors in (b)(1) through (9).
+(d) Time Limit. A juvenile cannot be detained in an adult detention facility for more than 180 days unless the court makes a written finding that good cause exists to keep the juvenile in the adult detention facility, or the juvenile consents to remaining in the adult detention facility and the court determines that the consent is knowing, intelligent, and voluntary.
+Credits
+Added on an emergency basis, effective Dec. 8, 2022, permanently adopted August 24, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 7.7, AZ ST RCRP Rule 7.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 8, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+III. Rights of Parties
+Rule 8. Speedy Trial
+16A A.R.S. Rules Crim.Proc., R. 8, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 8, Refs & Annos, AZ ST RCRP R. 8, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 8.1. Priorities in Scheduling Criminal Cases
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 8. Speedy Trial (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 8.1
+Rule 8.1. Priorities in Scheduling Criminal Cases
+Currentness
+(a) Priority of Criminal Trials. A trial of a criminal case has priority over a trial of a civil case.
+(b) Preferences. The trial of a defendant in custody, and the trial of a defendant whose pretrial liberty may present unusual risks, have preference over other criminal cases.
+(c) Duty of the Prosecutor. The prosecutor must advise the court of facts relevant to the priority of cases for trial.
+(d) Duty of Defense Counsel. Defense counsel must advise the court of an impending expiration of time limits. A court may sanction counsel for failing to do so, and should consider a failure to timely notify the court of an expiring time limit in determining whether to dismiss an action with prejudice under Rule 8.6.
+(e) Suspension of Rule 8. No later than 25 days after a superior court arraignment, either party may move for a hearing to establish extraordinary circumstances requiring a suspension of Rule 8. No later than 5 days after the motion is filed, the court must hold a hearing on the motion and make findings of fact about whether extraordinary circumstances exist that justify the suspension of Rule 8. If the trial court finds that Rule 8 should be suspended, the court must immediately transmit its findings to the Supreme Court Chief Justice. If the Chief Justice approves the findings, the trial court may suspend Rule 8's provisions and reset the trial for a later specified date.
+(v) Victims' Rights. When presented with a motion to suspend Rule 8, the court must permit the victim to be heard and must consider the victim's right to a speedy disposition.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 8.1, AZ ST RCRP Rule 8.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 8.2. Time Limits
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 8. Speedy Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 8.2
+Rule 8.2. Time Limits
+Currentness
+(a) Generally. Subject to Rule 8.4, the court must try every defendant against whom an indictment, information, or complaint is filed within the following times:
+(1) Defendants in Custody. No later than 150 days after arraignment if the defendant is in custody, except as provided in (a)(3).
+(2) Defendants out of Custody. No later than 180 days after arraignment if the defendant is released under Rule 7, except as provided in (a)(3).
+(3) Defendants in Complex Cases. No later than 270 days after arraignment if the defendant is charged with any of the following:
+(A) first degree murder, except as provided in (a)(4);
+(B) offenses that will require the court to consider evidence obtained as the result of an order permitting the interception of wire, electronic, or oral communication; or
+(C) any case the court determines by written factual findings to be complex.
+(4) Capital Cases. No later than 24 months after the date the State files a notice of intent to seek the death penalty under Rule 15.1(i).
+(b) Waiver of Appearance at Arraignment. If a defendant waives an appearance at arraignment under Rule 14.3, the date of an arraignment held in the defendant's absence is deemed to be the arraignment date.
+(c) New Trial. A trial ordered after a mistrial or the granting of a new trial must begin no later than 60 days after entry of the court's order. A trial ordered upon an appellate court's reversal of a judgment must begin no later than 90 days after the appellate court issues its mandate. A new trial ordered by a state court under Rule 32 or a federal court under collateral review must begin no later than 90 days after entry of the court's order.
+(d) Extension of Time Limits. The court may extend the time limits in (a) and (c) under Rule 8.5.
+(e) Specific Date for Trial. The superior court must set a specific trial date either at the arraignment or a pretrial conference, unless the court has suspended Rule 8.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 8.2, AZ ST RCRP Rule 8.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 8.3. Prisoner's Right to a Speedy Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 8. Speedy Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 8.3
+Rule 8.3. Prisoner's Right to a Speedy Trial
+Currentness
+(a) Prisoner in Another State. Within 90 days after receiving a written request from a person charged with a crime who is incarcerated in another state, or within a reasonable time after otherwise learning of the person's incarceration, the State must take action as required by law to obtain that person's presence for trial. The defendant must be brought to trial no later than 90 days after having been delivered into the custody of the appropriate authority of the State of Arizona.
+(b) Prisoner in Arizona.
+(1) Request for Final Disposition. A defendant imprisoned in Arizona may request the final disposition of any untried indictment, information, or complaint pending in Arizona. The request must be in writing, addressed to the court in which the case is filed, and to the responsible prosecuting agency. The request must state the defendant's place of imprisonment.
+(2) Detainer. No later than 30 days after a detainer is filed against a defendant incarcerated in Arizona, the prosecuting agency that is prosecuting the charge that resulted in the detainer must inform the defendant about the detainer and about the defendant's right to request its final disposition under (b)(1).
+(3) Deadline for Acting on a Request. The defendant must be brought to trial on the charge no later than 90 days after sending a request for final disposition to the court and prosecutor.
+(4) Escape from Custody. A defendant's request for final disposition is void if the defendant later escapes from custody.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 8.3, AZ ST RCRP Rule 8.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 8.4. Excluded Periods
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 8. Speedy Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 8.4
+Rule 8.4. Excluded Periods
+Currentness
+(a) Generally. Delays caused or resulting from the following time periods are excluded from the time computations set forth in Rules 8.2 and 8.3:
+(1) those caused by or on behalf of the defendant, whether or not intentional or willful, including, but not limited to, delays caused by an examination and hearing to determine competency or intellectual disability, the defendant's absence or incompetence, or the defendant's inability to be arrested or taken into custody in Arizona;
+(2) a remand for a new probable cause determination under Rules 5.5 or 12.9;
+(3) a time extension for disclosure under Rule 15.6;
+(4) trial calendar congestion, but only if the congestion is due to extraordinary circumstances, in which case the presiding judge must promptly apply to the Supreme Court Chief Justice to suspend Rule 8 or any other Rule of Criminal Procedure;
+(5) continuances granted under Rule 8.5;
+(6) joinder for trial with another defendant for whom the time limits have not run, if good cause exists for denying severance, but in all other cases, severance should be granted to preserve the applicable time limits; and
+(7) the setting of a transfer hearing under Rule 40.
+(b) Excluding Time After a Finding of Competency or Restoration. If a court finds that a defendant is competent, has been restored to competency, or is no longer absent, and if the finding is made within 30 days of when the time limits in Rules 8.2 and 8.3 will otherwise expire, the court must exclude an additional 30 days in computing the time limits under those rules.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 8.4, AZ ST RCRP Rule 8.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 8.5. Continuing a Trial Date
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 8. Speedy Trial (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 8.5
+Rule 8.5. Continuing a Trial Date
+Currentness
+(a) Motion. A party may ask to continue trial by filing a motion stating the specific reasons for the request.
+(b) Grounds. A court may continue trial only on a showing that extraordinary circumstances exist, and that delay is indispensable to the interests of justice, and only for so long as is necessary to serve the interests of justice. The court must consider the rights of the defendant to a speedy disposition of the case. The court must state specific reasons for continuing trial.
+(v) Victims' Rights. In deciding a motion to continue a trial date, the court must also consider the victim's views and the right of the victim to a speedy disposition of the case.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 8.5, AZ ST RCRP Rule 8.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 8.6. Denial of Speedy Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 8. Speedy Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 8.6
+Rule 8.6. Denial of Speedy Trial
+Currentness
+If the court determines, after excluding any applicable time periods, that a time limit established by these rules has been violated, the court must dismiss the prosecution with or without prejudice.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 8.6, AZ ST RCRP Rule 8.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 8.7. Accelerating Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 8. Speedy Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 8.7
+Rule 8.7. Accelerating Trial
+Currentness
+If there are special circumstances relating to the victim or other good cause, the court may accelerate the trial to the earliest possible date consistent with the defendant's right to a fair trial. The presiding judge may assign another judge to preside at trial to ensure that the trial begins on the scheduled date.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 8.7, AZ ST RCRP Rule 8.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 9.1. The Defendant's Waiver of the Right to Be Present
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 9. Presence of the Defendant, Witnesses, and Spectators
+16A A.R.S. Rules Crim.Proc., Rule 9.1
+Rule 9.1. The Defendant's Waiver of the Right to Be Present
+Currentness
+Except for sentencing or as these rules otherwise provide, a defendant's voluntary absence waives the right to be present at any proceeding. The court may infer that a defendant's absence is voluntary if the defendant had actual notice of the date and time of the proceeding, notice of the right to be present, and notice that the proceeding would go forward in the defendant's absence.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 9.1, AZ ST RCRP Rule 9.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 9.2. Defendant's Forfeiture of the Right to Be Present Due to Disruptive Conduct
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 9. Presence of the Defendant, Witnesses, and Spectators
+16A A.R.S. Rules Crim.Proc., Rule 9.2
+Rule 9.2. Defendant's Forfeiture of the Right to Be Present Due to Disruptive Conduct
+Currentness
+(a) Generally. A defendant who engages in disruptive conduct, after being warned that such conduct will result in expulsion from a proceeding, forfeits the right to be present at that proceeding. At the time of expulsion, the court must inform the defendant that he or she can return upon a promise to the court of future orderly conduct.
+(b) Continuing Duty to Permit Participation. After expulsion, the court must use every feasible means to allow the defendant to watch, hear, and be informed of the proceeding's progress, and to consult with counsel at reasonable intervals. The court should inquire periodically if the defendant wishes to reacquire the right to be present.
+(c) Reacquiring the Right. The court must allow the defendant to return to the proceeding if the defendant personally assures the court of future good behavior. If the defendant later engages in disruptive conduct, the court may exclude the defendant from the proceeding without additional warning.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 9.2, AZ ST RCRP Rule 9.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 9.3. Exclusion of Witnesses and Spectators
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 9. Presence of the Defendant, Witnesses, and Spectators
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 9.3
+Rule 9.3. Exclusion of Witnesses and Spectators
+Currentness
+(a) Witnesses.
+(1) Generally. The court may, and at the request of either party must, exclude prospective witnesses from the courtroom during opening statements and other witnesses' testimony. If the court finds that a party's claim that a person is a prospective witness is not made in good faith, it may not exclude the person.
+(2) Investigator. If the court enters an exclusion order, both the defendant and the State are nevertheless entitled to the presence of one investigator at counsel table.
+(3) Instruction. As part of its exclusion order, the court must instruct the witnesses not to communicate with each other about the case until all of them have testified.
+(4) After Testifying. Once a witness has testified on direct examination and has been made available to all parties for cross-examination, the court must allow the witness to remain in the courtroom, unless a party requests continued exclusion because the witness may be recalled or the court finds that the witness's presence would be prejudicial to a fair trial.
+(b) Spectators.
+(1) Generally. All proceedings must be open to the public, including news media representatives, unless the court finds, on motion or on its own, that an open proceeding presents a clear and present danger to the defendant's right to a fair trial by an impartial jury.
+(2) Record. The court must keep a complete record of any closed proceedings and make it available to the public following the trial's completion or, if no trial occurs, the final disposition of the case.
+(c) Protection of a Witness. The court may exclude all spectators, except news media representatives, during a witness's testimony if the court finds it is reasonably necessary to protect the witness's safety or to protect the witness from embarrassment or emotional disturbance.
+(v) Victims' Rights. A victim has a right to be present at all proceedings at which the defendant has that right.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 9.3, AZ ST RCRP Rule 9.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 10.1. Change of Judge for Cause
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 10. Change of Judge or Place of Trial
+16A A.R.S. Rules Crim.Proc., Rule 10.1
+Rule 10.1. Change of Judge for Cause
+Currentness
+(a) Grounds. A party is entitled to a change of judge if the party shows that the assigned judge's interest or prejudice would prevent a fair and impartial hearing or trial.
+(b) Procedure.
+(1) Motion, Timing, and Form. A party seeking a change of judge for cause must file a motion no later than 10 days after discovering that grounds exist, but may not file a motion after a hearing or trial begins. The motion must state specific grounds for the change of judge and be supported by an affidavit. Allegations of interest or prejudice that prevent a fair and impartial hearing or trial that arise after commencement of the hearing or trial may be preserved for appeal by making an appropriate motion.
+(2) Further Action by Judge. If a party files a timely motion for change of judge, the judge should not proceed, except to enter necessary temporary orders before the action can be transferred to the presiding judge or the presiding judge's designee. If the named judge is the presiding judge, that judge must assign the motion to another judge.
+(c) Hearing, Disposition, and Effect on Other Defendants.
+(1) Hearing and Ruling. Promptly after a party files a timely motion under this rule, the presiding judge must provide for a hearing on the motion before a judge other than the challenged judge. After holding the hearing, the hearing judge must decide the issues by a preponderance of the evidence and enter an order stating findings and ruling on the motion. The hearing judge will then return the matter to the presiding judge.
+(2) Assignment or Reassignment. The presiding judge will promptly assign the action back to the original judge if the motion is denied, or will make a new assignment if the motion is granted.
+(3) Effect on Other Defendants. If there are multiple defendants, the grant of a motion for change of judge filed by one or more defendants does not require a change of judge as to the other defendants, even though the change of judge may result in severance for trial purposes.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 10.1, AZ ST RCRP Rule 10.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 10.2. Change of Judge as a Matter of Right
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 10. Change of Judge or Place of Trial
+16A A.R.S. Rules Crim.Proc., Rule 10.2
+Formerly cited as AZ ST RCRP Rule 10.4
+Rule 10.2. Change of Judge as a Matter of Right
+Currentness
+(a) Entitlement.
+(1) Generally. Each side in a criminal case is entitled to one change of judge as a matter of right. If two or more parties on a side have adverse or hostile interests, the presiding judge or that judge's designee may allow additional changes of judge as a matter of right.
+(2) Meaning of “Side.” Each case, including one that is consolidated, is treated as having only two sides.
+(3) Per Party Limit. A party exercising a change of judge as a matter of right is not entitled to another change of judge as a matter of right.
+(4) Inapplicability to Certain Proceedings. A party is not entitled to a change of judge as a matter of right in a remand for resentencing.
+(b) Procedure.
+(1) Generally. A party may exercise a right to change of judge by filing a “Notice of Change of Judge” signed by counsel or a self-represented defendant, and stating the name of the judge to be changed. The notice also must include an avowal that the party is making the request in good faith and not for an improper purpose. An attorney's avowal is in the attorney's capacity as an officer of the court.
+(2) “Improper Purpose.” “Improper purpose” means:
+(A) for the purpose of delay;
+(B) to obtain a severance;
+(C) to interfere with the judge's reasonable case management practices;
+(D) to remove a judge for reasons of race, gender or religious affiliation;
+(E) for the purpose of using the rule against a particular judge in a blanket fashion by a prosecuting agency, defender group, or law firm;
+(F) to obtain a more convenient geographical location; or
+(G) to obtain an advantage or avoid a disadvantage in connection with a plea bargain or at sentencing, except as permitted under Rule 17.4(g).
+(3) Further Action by the Judge. If a notice of change of judge is timely filed, the judge should proceed no further in the action, except to enter any necessary temporary orders before the action can be transferred to the presiding judge or the presiding judge's designee. If the named judge is the presiding judge, that judge may continue to perform the functions of the presiding judge.
+(c) Timing.
+(1) Generally. Except as provided in (c)(2), or extended by local rule, a party must file a notice of change of judge no later than 10 days after any of the following:
+(A) the arraignment, if the case is assigned to a judge and the parties are given actual notice of the assignment at or before the arraignment;
+(B) the superior court clerk's filing of a mandate issued by an appellate court; or
+(C) in all other cases, actual notice to the requesting party of the assignment of the case to a judge.
+(2) Exception. Despite (c)(1), if a new judge is assigned to a case less than 10 days before trial (inclusive of the date of assignment), a notice of change of judge must be filed, with appropriate actual notice to the other party or parties, no later than by 5:00 p.m. on the next business day following actual receipt of a notice of the assignment or by the start of trial, whichever occurs earlier.
+(d) Assignment to a New Judge and Effect on Other Defendants.
+(1) On Stipulation. If a notice of change of judge is timely filed, the notice may inform the court that all the parties have agreed on a judge who is available and willing to accept the assignment. Such an agreement may be honored and, if so, it bars further changes of judge as a matter of right, unless the agreed-on judge later becomes unavailable. If a judge to whom the action has been assigned by agreement later becomes unavailable because of a change of calendar assignment, death, illness, or other legal incapacity, the parties may assert any rights under this rule that existed immediately before the assignment of the action to that judge.
+(2) Absent Stipulation. If a timely notice of judge has been filed and no judge has been agreed on, the presiding judge must immediately reassign the action to another judge.
+(3) Effect on Other Defendants. If there are multiple defendants, a notice of change of judge filed by one or more defendants does not require a change of judge as to the other defendants, even though the notice of change of judge may result in severance for trial purposes.
+(e) Waiver. A party loses the right to a change of judge under this rule if the party participates before that judge in any contested matter in the case, a proceeding under Rule 17, or the beginning of trial.
+(f) Following Remand. Unless previously exercised, a party may exercise a change of judge as a matter of right following an appellate court's remand for new trial, and no event connected with the first trial constitutes a waiver. A party may not exercise a change of judge as a matter of right following a remand for resentencing.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended effective Jan. 11, 2021.
+16A A. R. S. Rules Crim. Proc., Rule 10.2, AZ ST RCRP Rule 10.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 10.3. Changing the Place of Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 10. Change of Judge or Place of Trial
+16A A.R.S. Rules Crim.Proc., Rule 10.3
+Rule 10.3. Changing the Place of Trial
+Currentness
+(a) Grounds. A party is entitled to change the place of trial to another county if the party shows that the party cannot have a fair and impartial trial in that place for any reason other than the trial judge's interest or prejudice.
+(b) Prejudicial Pretrial Publicity. If the grounds to change the place of trial are based on pretrial publicity, the moving party must prove that the dissemination of the prejudicial material probably will result in the party being deprived of a fair trial.
+(c) Procedure. A party seeking to change the place of trial must file a motion seeking that relief. The motion must be filed before trial, and, in superior court, at or before a pretrial conference.
+(d) Waiver. A party loses the right to change the place of trial if the party allows a proceeding to begin or continue without raising a timely objection after learning of the cause for challenge.
+(e) Renewal on Remand. If an appellate court remands an action for a new trial on one or more offenses charged in an indictment or information, all parties' rights to change the place of trial are renewed, and no event connected with the first trial constitutes a waiver.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 10.3, AZ ST RCRP Rule 10.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 10.4. Transfer to Another County
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 10. Change of Judge or Place of Trial
+16A A.R.S. Rules Crim.Proc., Rule 10.4
+Formerly cited as AZ ST RCRP Rule 10.5
+Rule 10.4. Transfer to Another County
+Currentness
+If the court transfers a case to another county, the clerk in the transferring county must transmit to the clerk in the receiving county the court file, any evidence in the clerk's custody, and any appearance bond or security. If the defendant is in custody, the sheriff in the transferring county must transport the defendant to the sheriff of the receiving county.
+The action will retain the case number and geographic designation of the matter while it was in the transferring county.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 10.4, AZ ST RCRP Rule 10.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 10.5. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 10. Change of Judge or Place of Trial
+16A A.R.S. Rules Crim.Proc., Rule 10.5
+Rule 10.5. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 10.5, AZ ST RCRP Rule 10.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 10.6. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 10. Change of Judge or Place of Trial
+16A A.R.S. Rules Crim.Proc., Rule 10.6
+Rule 10.6. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 10.6, AZ ST RCRP Rule 10.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 11, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations
+16A A.R.S. Rules Crim.Proc., R. 11, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 11, Refs & Annos, AZ ST RCRP R. 11, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 11.1. Definitions, Effect of Incompetence, and Right to Counsel
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 11.1
+Rule 11.1. Definitions, Effect of Incompetence, and Right to Counsel
+Currentness
+(a) Definitions.
+(1) Mental Illness, Defect, or Disability. “Mental illness, defect, or disability” means a psychiatric or neurological disorder that is evidenced by behavioral or emotional symptoms, including congenital mental conditions, conditions resulting from injury or disease, and developmental disabilities as defined in A.R.S. § 36-551.
+(2) Incompetence. “Incompetence” means a defendant is unable to understand the nature and objective of the proceedings or to assist in his or her defense because of a mental illness, defect, or disability.
+(b) Effect of Incompetence. A defendant may not be tried, convicted, or sentenced while that defendant is incompetent. A defendant is not incompetent to stand trial merely because the defendant has a mental illness, defect, or disability. This rule does not bar a court from proceeding under A.R.S. §§ 36-3707(D) or 13-4521.
+(c) Right to Counsel. During proceedings under this rule, a defendant is entitled to representation by counsel as provided in Rule 6.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 11.1, AZ ST RCRP Rule 11.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 11.2. Motion for an Examination of a Defendant's Competence to Stand Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 11.2
+Rule 11.2. Motion for an Examination of a Defendant's Competence to Stand Trial
+Currentness
+(a) Motion and Order for Examination.
+(1) Generally. At any time after an information is filed or an indictment is returned in superior court or a misdemeanor complaint is filed, the court may, on motion or on its own, order a defendant's examination to determine whether the defendant is competent to stand trial.
+(2) Motion to Determine Competence. The moving party or the court must state facts for the requested mental examination.
+(3) Parties Authorized to Move for Competence Determination. Any party, including a co-defendant, may move for a competence evaluation.
+(4) Proposed Examiners. A party's motion may include a list of 3 mental health experts qualified under Rule 11.3 to conduct the examination. Any other party may include such a list in its response to the motion.
+(b) Medical and Criminal History Records. No later than 3 days after the appointment of experts, the parties must provide the examining mental health experts with all of the defendant's available medical and criminal history records.
+(c) Preliminary Examination. A court may order the defendant to undergo a preliminary examination to assist the court in determining if reasonable grounds exist to order the defendant's further examination.
+(d) Jurisdiction.
+(1) Superior Court. The superior court has exclusive jurisdiction over all competence hearings except as provided in (d)(2). If a limited jurisdiction court determines that reasonable grounds exist for further competence hearings, it must immediately transfer the matter to the superior court for the appointment of mental health experts.
+(2) Limited Jurisdiction Court. If the matter of a defendant's competence arises in a misdemeanor case in a limited jurisdiction court, a limited jurisdiction court judge may hear the matter if the presiding superior court judge has issued an administrative order authorizing the limited jurisdiction court to do so.
+(e) If Defendant Is Competent. If any court determines that a defendant is either competent or restored to competence, regular proceedings must proceed without delay.
+(f) Dismissal of Misdemeanor Charges. If the court finds that a person has been previously adjudicated incompetent to stand trial under this rule, the court may hold a hearing to dismiss any misdemeanor charge against the incompetent person under A.R.S. § 13-4504.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 11.2, AZ ST RCRP Rule 11.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 11.3. Appointment of Experts
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 11.3
+Rule 11.3. Appointment of Experts
+Currentness
+(a) Appointment of Experts.
+(1) Definition of a “Mental Health Expert.” “Mental health expert” means a physician licensed under A.R.S. §§ 32-1421 to -1437 or 32-1821 to -1830; or a psychologist licensed under A.R.S. §§ 32-2071 to -2076.
+(2) Generally. If the court finds that reasonable grounds exist for a competence examination, it must appoint one or more qualified mental health experts for a defendant charged with only a misdemeanor, or two or more qualified mental health experts for a defendant charged with a felony to:
+(A) examine the defendant;
+(B) report to the court in writing no later than 10 business days after examining the defendant; and
+(C) testify, if necessary, about the defendant's competence.
+(3) Psychiatry Background. A party may request or the court may order that at least one of the mental health experts be a physician specializing in psychiatry.
+(4) Stipulation for Only One Examiner. With the court's approval, the State and the defendant may stipulate to the appointment of only one expert.
+(5) Examiner Qualifications. A mental health expert must be:
+(A) familiar with Arizona's standards and statutes for competence and criminal and involuntary commitment statutes;
+(B) familiar with the treatment, training, and restoration programs that are available in Arizona; and
+(C) approved by the court as meeting court-developed guidelines, including demonstrated experience in forensic matters, completion of a court-approved training program and any court-required continuing forensic education programs, and annual review criteria.
+(6) Replacement. If the appointed expert is unable to examine the defendant within the time allotted, the expert must immediately inform the court, and the court may appoint a different expert to perform the examination.
+(b) Custody Status of the Defendant During Competence Proceedings. Pending the court's determination of competence, the court must determine the defendant's custody status under A.R.S. § 13-4507.
+(c) Expert Report. An expert's report must conform to A.R.S. § 13-4509.
+(d) Additional Expert Assistance. If necessary for an adequate determination of the defendant's mental competence, the court may appoint additional experts and order the defendant to submit to additional physical, neurological, or psychological examinations.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Aug. 25, 2021, effective Sept. 29, 2021, adopted on a permanent basis effective Jan. 1, 2022; amended Aug. 24, 2023, effective Jan. 1, 2024; Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 11.3, AZ ST RCRP Rule 11.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 11.4. Disclosure of Experts' Reports
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 11.4
+Rule 11.4. Disclosure of Experts' Reports
+Currentness
+(a) Reports of Appointed Experts Under Rule 11.3.
+(1) Deadline. An expert appointed under Rule 11.3, or under A.R.S. § 13-4505, must submit a report to the court no later than 10 business days after the expert's examination is completed. The expert must inform the court if the report cannot be made available at least 7 days before the scheduled hearing.
+(2) Availability. An expert's report completed under Rule 11.3 must be made available to the examined defendant and the State, except that any statement by the defendant about the charged offense or any other charged or uncharged offense (or any summary of such a statement) may be made available only to the defendant. Upon receipt, court staff will copy and provide the expert's report to the court and defense counsel. Defense counsel is responsible for editing a copy of the report for the State. Defense counsel must provide the edited report to court staff to be made available to the State no later than 3 days after receiving the unedited report.
+(b) Reports of Other Experts. For any other mental health expert who has personally examined the defendant or any evidence in connection with the case to determine competence or the defendant's mental status at the time of the offense, the defendant and the State must disclose to each other at least 15 business days before any Rule 11.5 hearing:
+(1) the expert's name, address, and qualifications;
+(2) the results of any mental examinations, scientific tests, experiments, or comparisons conducted on the defendant or on any evidence in the case by or on the behalf of the mental health expert; and
+(3) any written report or statement in connection with the case or, if the expert will testify without preparing a written report, a summary of the general subject matter and opinions on which the expert is expected to testify.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 13, 2017, effective April 2, 2018; Aug. 25, 2021, effective Jan. 1, 2022; Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 11.4, AZ ST RCRP Rule 11.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 11.5. Hearing and Orders
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 11.5
+Rule 11.5. Hearing and Orders
+Currentness
+(a) Hearing. No later than 30 days after the experts appointed under Rule 11.3 submit their reports to the court, the court must hold a hearing to determine the defendant's competence. The court may grant additional time for good cause. The defendant and the State may introduce other evidence about the defendant's mental condition. If the defendant and the State stipulate in writing or on the record, the court may determine competence based solely on the experts' reports.
+(b) Orders.
+(1) If Competent. If the court finds that the defendant is competent, the court must direct that proceedings continue without delay.
+(2) If Incompetent but Restorable.
+(A) Superior Court. If a superior court determines that the defendant is incompetent, it must either dismiss the charges on the State's motion or order competency restoration treatment, unless there is clear and convincing evidence that the defendant will not regain competence within 15 months.
+(B) Limited Jurisdiction Court. If a limited jurisdiction court determines that the defendant is incompetent, it must dismiss the charges on the State's motion, transfer the case to the superior court for further proceedings pursuant to A.R.S. § 13-4517, or, if authorized by the presiding judge of the superior court, order competency restoration treatment, unless there is clear and convincing evidence that the defendant will not regain competence within the time period provided for the maximum possible sentence as defined in A.R.S. § 13-4515.
+(C) Extended Treatment. The court may extend treatment if it finds that the defendant is progressing toward competence. The extension may be 6 months beyond the 15-month limit so long as this period does not exceed the defendant's maximum possible sentence as defined in A.R.S. § 13-4515.
+(D) Involuntary Treatment. The court must determine whether the defendant will be subject to treatment without consent.
+(E) Treatment Order. A treatment order must specify:
+(i) the place where treatment will occur;
+(ii) whether the treatment is inpatient or outpatient under A.R.S. § 13-4512(A);
+(iii) the means of transportation to the treatment site;
+(iv) the length of treatment;
+(v) the means of transporting the defendant after treatment; and
+(vi) that the court is to be notified if the defendant regains competence before the expiration of the treatment order.
+(F) Modification and Limitation. The court may modify a treatment order at any time. Treatment orders are effective for no longer than 6 months.
+(3) If Incompetent and Not Restorable.
+(A) Superior Court. If the superior court determines that the defendant is incompetent and that there is no substantial probability that the defendant will become competent within 21 months or within the defendant's maximum possible sentence as defined by A.R.S. § 13-4515, whichever is less, the court may on request of the examined defendant or the State do one or more of the following:
+(i) Remand the defendant to an evaluating agency approved and licensed under Title 36 to begin civil commitment proceedings under A.R.S. §§ 36-501 et seq.;
+(ii) Order appointment of a guardian ad litem to investigate whether the defendant is or may be in need of a guardian, a conservator or any other protective order under A.R.S. §§ 14-5301 et seq.;
+(iii) Release the defendant from custody and dismiss the charges without prejudice; or
+(iv) If the defendant is charged with a serious offense as defined in A.R.S. § 13-706, order a trial to determine whether the defendant is dangerous and should be involuntarily committed under A.R.S. § 13-4521.
+(B) Limited Jurisdiction Court. If a limited jurisdiction court determines that the defendant is incompetent and that there is no substantial probability that the defendant will become competent within the timeframes as defined in A.R.S. § 13-4515, the court must do one of the following:
+(i) Dismiss the action on the State's motion; or
+(ii) Transfer the case to the superior court for further proceedings pursuant to A.R.S. § 13-4517.
+(4) Additional Actions. If the court enters an order under (b)(3)(A)(i) or (ii), it may retain jurisdiction and enter further orders as specified in A.R.S. §§ 13-4517 and 13-4518. If the court enters an order under (b)(3)(A)(iv), it may retain jurisdiction and enter further orders as provided in A.R.S. §§ 13-4517, 13-4518, and 13-4521.
+(c) Restoration to Competency: Reports About Treatment.
+(1) Generally. The court must order the treatment supervisor to submit a report to the court and to provide copies to defense counsel and the clinical liaison. Defense counsel may redact the report under Rule 11.4(a)(2) before returning it to the court to be provided to the State.
+(2) When to Report. The treatment supervisor must submit a report:
+(A) for inpatient treatment, 120 days after the filing of the court's original treatment order and then every 180 days after the first report;
+(B) for outpatient treatment, every 60 days following the filing of the court's original treatment order;
+(C) when the treatment supervisor believes the defendant is competent to stand trial;
+(D) when the treatment supervisor concludes that the defendant will not be restored to competence within 21 months of the court's finding of incompetence; and
+(E) 14 days before the expiration of the court's last treatment order.
+(3) Content of Report.
+(A) Generally. The treatment supervisor's report must include at least the following:
+(i) the treatment supervisor's name;
+(ii) a description of the nature, content, extent, and results of the supervisor's examination of the defendant and any tests the supervisor conducted;
+(iii) the facts on which the treatment supervisor's findings are based; and
+(iv) the treatment supervisor's opinion regarding the defendant's competence to understand the nature of the court proceedings against the defendant and to assist in his or her defense.
+(B) If Still Incompetent. If the treatment supervisor finds the defendant is still incompetent, the report also must include:
+(i) the nature of the mental illness, defect, or disability that is the cause of the incompetence;
+(ii) a prognosis regarding the defendant's restoration to competence and an estimate of how long it will take to restore the defendant's competence; and
+(iii) any recommendations for treatment modifications.
+(C) If Competent. If the treatment supervisor finds the defendant has regained competence by virtue of ongoing treatment with psychotropic medication, the court may appoint a mental health expert who is a physician to address the necessity of continuing any ongoing treatment with psychotropic medication and any limitations that the medication may have on competency.
+(d) Time Calculation. When calculating time limits under A.R.S. § 13-4515(A), the court must consider only the time a defendant actually spends in a program to restore competence.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 13, 2017, effective April 2, 2018; Aug. 28, 2018, effective Jan. 1, 2019. Amended on an emergency basis, effective Aug. 27, 2019, adopted on a permanent basis Dec. 12, 2019. Amended on an emergency basis Aug. 29, 2022, effective Sept. 22, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023; amended Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 11.5, AZ ST RCRP Rule 11.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 11.6. Later Hearings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 11.6
+Rule 11.6. Later Hearings
+Currentness
+(a) Grounds. The court must hold an additional hearing to determine the defendant's competence:
+(1) upon receiving a report from an authorized official of the institution in which a defendant is treated under Rule 11.5(b)(2) or (b)(3)(A) stating that, in the official's opinion, the defendant has become competent to stand trial;
+(2) upon a defendant's motion supported by the certificate of a mental health expert stating that, in the expert's opinion, the defendant is competent to stand trial;
+(3) at the expiration of the maximum period set by the court under Rule 11.5(b)(2); or
+(4) if the court determines that it is appropriate to do so.
+(b) Experts. The court may appoint new mental health experts under Rule 11.3.
+(c) Finding of Competence. If the court finds that the defendant is competent, regular proceedings must begin again without delay. The defendant is entitled to repeat any proceeding if there are reasonable grounds to believe the defendant was prejudiced by previous incompetence.
+(d) Finding of Continuing Incompetence. If the court finds that the defendant is still incompetent, it must proceed in accordance with Rules 11.5(b)(2) or (3). If the court proceeds under Rule 11.5(b)(2) and determines that there is a substantial probability that the defendant will regain competence in the foreseeable future, then the court may renew and may modify the treatment order for no more than an additional 180 days or the time period provided for the defendant's maximum possible sentence by A.R.S. § 13-4515, whichever is less.
+(e) Dismissal of Charges. At any time after providing notice and a hearing under A.R.S. § 13-4515(C), the court may order the dismissal of the charges against a defendant adjudged incompetent. The defendant must be released from custody upon dismissal of the charges unless the court finds that the defendant's mental condition warrants a civil commitment hearing under A.R.S. §§ 36-501 et seq. or involuntary commitment proceedings under A.R.S. § 13-4521.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 28, 2018, effective Jan. 1, 2019; Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 11.6, AZ ST RCRP Rule 11.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 11.7. Privilege and Confidentiality
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 11.7
+Formerly cited as AZ ST RCRP Rule 11.8
+Rule 11.7. Privilege and Confidentiality
+Currentness
+(a) Generally. Evidence obtained under Rule 11 is not admissible in a proceeding to determine guilt, unless the defendant presents evidence, either directly or through cross-examination, intended to rebut the presumption of sanity.
+(b) Privileged Statements of the Defendant.
+(1) Concerning the Charged Offense. Unless the defendant consents or the exception in (a) applies, no statement of a defendant obtained under Rule 11, or evidence resulting from such a statement, concerning the factual basis for the charged offense is admissible at the defendant's trial, or at any later proceeding to determine guilt.
+(2) Concerning Other Events or Transactions. Unless the defendant consents or the exception in (a) applies, no statement of a defendant obtained under Rule 11, or evidence resulting from such a statement, concerning any other event or transaction is admissible at any later proceeding to determine the defendant's guilt.
+(3) In Title 36 Proceedings. Notwithstanding (b)(1) and (b)(2), a statement of the defendant obtained in a Rule 11 matter, or evidence resulting from that statement, may be used by any party in a proceeding to determine whether the defendant is eligible for court-ordered treatment under A.R.S. §§ 36-501 et seq. or 36-4001 et seq., or is a sexually violent person.
+(c) Confidentiality of Reports.
+(1) Generally. The court and counsel must treat reports of Rule 11 experts as confidential in all respects. They may, however, disclose other expert reports to mental health experts in proceedings related to A.R.S. §§ 13-4501 et seq. and §§ 36-501 et seq., or as otherwise excluded in A.R.S. §§ 13-4508 and 13-4516.
+(2) Sealing. After the defendant is found competent or unable to regain competence, the court must order the mental health experts' reports sealed. By later order, the court may grant access to a report, but only for further competence or sanity evaluations, statistical study, the examined defendant's mitigation investigation, in a trial conducted pursuant to A.R.S. § 13-4521, or if necessary to assist in mental health treatment for restoration of competence or under A.R.S. § 13-502.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 13, 2017, effective April 2, 2018; Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 11.7, AZ ST RCRP Rule 11.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 11.8. Examination of a Defendant's Mental Status at the Time of the Offense
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 11.8
+Rule 11.8. Examination of a Defendant's Mental Status at the Time of the Offense
+Currentness
+(a) Applicability. At any time after an information is filed or an indictment is returned in superior court or a misdemeanor complaint is filed, an examination under this rule may be requested separately from, or in addition to, an examination under Rule 11.2.
+(b) Screening Report. On its own or on motion of the defendant or the State with the defendant's consent, the court may order an initial screening report to preliminarily investigate the defendant's mental status at the time of the offense.
+(c) If the Guilty Except Insane Defense Is Raised. If the defendant raises a defense under A.R.S. § 13-502 and a reasonable basis exists to support the defense, the court may, on its own or on motion of the defendant or the State, order that an appointed mental health expert provide a screening report. Either the screening report under (b) or the examination under (c) must include the following:
+(1) the defendant's mental status at the time of the offense; and
+(2) if the expert determines that the defendant suffered from a mental disease, defect, or disability at the time of the offense, the relationship of the disease, defect, or disability to the alleged offense.
+(d) Required Records. No later than 3 days after the appointment of experts, the parties must provide the examining mental health expert with all of the defendant's available medical and criminal history records. No later than 10 business days after the expert's appointment, the parties must provide the appointed expert with any additional medical or criminal history records requested by the court or the appointed expert.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 11.8, AZ ST RCRP Rule 11.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 11.9. Capital Cases
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+III. Rights of Parties
+Rule 11. Incompetence and Mental Examinations (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 11.9
+Rule 11.9. Capital Cases
+Currentness
+Unless the defendant objects, the court in a capital case must order the defendant to undergo one or more mental health examinations required under A.R.S. §§ 13-753 and 13-754.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 11.9, AZ ST RCRP Rule 11.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+R. 12, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+IV. Pretrial Procedures
+Rule 12. The Grand Jury
+16A A.R.S. Rules Crim.Proc., R. 12, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 12, Refs & Annos, AZ ST RCRP R. 12, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 12.1. Selecting and Preparing Grand Jurors
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.1
+Rule 12.1. Selecting and Preparing Grand Jurors
+Currentness
+(a) Summons. Grand jurors are summoned and impaneled as provided by law.
+(b) Voir Dire. Each prospective grand juror must be examined under oath or affirmation to confirm that the prospective juror will act impartially and without prejudice, and that the prospective juror is qualified under A.R.S. § 21-201. Inquiry also may be made about other relevant subjects.
+(c) Oath. Each grand juror must take the following oath: “I swear (or affirm) that I will give careful attention to the proceedings, abide by the court's instructions, and decide matters placed before the grand jury in accordance with the law and evidence presented to me (so help me God).”
+(d) Instructions. The court must inform the grand jurors of:
+(1) the duty to be present at each grand jury session;
+(2) the duty to inquire into every offense that is presented;
+(3) the duty of a grand juror to disqualify himself or herself in a particular matter for any of the reasons listed in Rule 12.2;
+(4) the duty to return an indictment only if they are convinced there is probable cause to believe an offense has been committed and the person under investigation committed it;
+(5) the right to ask the State to present additional evidence; and
+(6) the confidentiality of grand jury matters and materials, and the penalties for unlawful disclosure.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.1, AZ ST RCRP Rule 12.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 12.2. Grounds to Disqualify a Grand Juror
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.2
+Rule 12.2. Grounds to Disqualify a Grand Juror
+Currentness
+A grand juror is disqualified from serving in any particular matter if the juror is:
+(a) a witness in the matter;
+(b) interested directly or indirectly in the matter under investigation;
+(c) related within the fourth degree by either consanguinity or affinity to a person under investigation, a victim, or a witness; or
+(d) biased or prejudiced in favor of either the State or a person under investigation.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.2, AZ ST RCRP Rule 12.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 12.3. Grand Jury Foreperson
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.3
+Formerly cited as AZ ST RCRP Rule 12.4
+Rule 12.3. Grand Jury Foreperson
+Currentness
+(a) Appointment and Powers. The court must appoint a foreperson and an acting foreperson to serve in the foreperson's absence. The foreperson will preside over the grand jury's proceedings and act as the court's representative in maintaining order, administering oaths, excluding unauthorized persons and persons acting in an unauthorized manner, appointing officers within the grand jury as necessary for its orderly functioning, and performing other duties as may be imposed on the foreperson by law or by court order.
+(b) Request for Contempt Proceeding. The foreperson may request the court to initiate a contempt proceeding against a person whose conduct violates these rules or disrupts grand jury proceedings.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.3, AZ ST RCRP Rule 12.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.4. Who May Be Present During Grand Jury Sessions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 12.4
+Formerly cited as AZ ST RCRP Rule 12.5
+Rule 12.4. Who May Be Present During Grand Jury Sessions
+Currentness
+(a) General. Only the following individuals may be present during grand jury sessions:
+(1) the witness under examination;
+(2) counsel for a witness if the witness is a person under investigation by the grand jury;
+(3) a law enforcement officer or detention officer accompanying an in-custody witness;
+(4) prosecutors authorized to present evidence to the grand jury;
+(5) a certified reporter; and
+(6) an interpreter, if any.
+(b) Deliberations. Only grand jurors may be present during their deliberation and voting.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 12.4, AZ ST RCRP Rule 12.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.5. Appearance of a Person Under Investigation
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.5
+Formerly cited as AZ ST RCRP Rule 12.6
+Rule 12.5. Appearance of a Person Under Investigation
+Currentness
+(a) The Person. A person under investigation by the grand jury may be compelled to appear before the grand jury, or may be permitted to appear upon the person's written request. The person must be advised of the right to remain silent and the right to have counsel present to advise the person while giving testimony.
+(b) Counsel. If counsel accompanies the person under investigation, counsel may not communicate, or attempt to communicate, with anyone other than the person. The foreperson may expel counsel from the grand jury session if counsel violates this rule.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.5, AZ ST RCRP Rule 12.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.6. Indictment
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.6
+Formerly cited as AZ ST RCRP Rule 12.7
+Rule 12.6. Indictment
+Currentness
+(a) Number of Grand Jurors Necessary to Indict. An indictment requires the concurrence of at least 9 grand jurors, regardless of the number of grand jurors hearing a matter.
+(b) Return of Indictment. The indictment must be returned by the foreperson in open court and in the presence of the grand jury and the prosecutor.
+(c) Notice of Supervening Indictment. If the defendant previously has had an initial appearance under Rule 4.2, the court must prepare and send to the defendant and defense counsel a notice of supervening indictment instead of issuing a warrant or summons.
+(d) No Indictment Returned. If a person is in custody or has posted bond on a matter presented to the grand jury and no indictment is returned, the foreperson through the prosecutor must promptly inform the court in writing that the grand jury did not return an indictment.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.6, AZ ST RCRP Rule 12.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 12.7. Record of Grand Jury Proceedings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022 to June 30, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+Effective: January 1, 2022 to June 30, 2026
+16A A.R.S. Rules Crim.Proc., Rule 12.7
+Formerly cited as AZ ST RCRP Rule 12.8
+Rule 12.7. Record of Grand Jury Proceedings
+Currentness
+(a) Certified Reporter. The presiding or impaneling judge must assign a certified reporter to record all grand jury proceedings, except its deliberations.
+(b) Foreperson. The foreperson must keep a record of how many grand jurors voted for and against an indictment, but must not record how each grand juror voted. If the grand jury returns an indictment, the foreperson's record of the vote must be transcribed by the certified reporter and filed with the court no later than 20 days after the return of the indictment, and may be made available only to the court, the State, and the defendant.
+(c) Filing the Transcript and Minutes. The certified reporter's record of grand jury proceedings must be transcribed and filed with the superior court clerk no later than 20 days after return of the indictment, and may be made available only to the court, the State, and the defendant.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 12.7, AZ ST RCRP Rule 12.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.8. Challenge to a Grand Jury or a Grand Juror
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.8
+Formerly cited as AZ ST RCRP Rule 12.3
+Rule 12.8. Challenge to a Grand Jury or a Grand Juror
+Currentness
+(a) Grounds for a Challenge.
+(1) The grand jury may be challenged only on the ground that the grand jurors were not drawn or selected according to law.
+(2) An individual grand juror may be challenged on the ground that the juror is not qualified to sit on the grand jury or on a particular matter.
+(b) Method of Challenge.
+(1) A challenge by the State to a grand jury or a grand juror must be directed to the presiding or impaneling judge.
+(2) A defendant may challenge a grand jury or grand juror only after the indictment has been returned.
+(3) Any challenge made after the grand jurors are sworn must be in writing.
+(c) Effect of Sustaining a Challenge.
+(1) If a challenge to the grand jury is sustained, the grand jury must be discharged.
+(2) If a challenge to an individual juror is sustained, the juror must be discharged or excluded from deliberation on the particular matter that was the subject of the challenge.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.8, AZ ST RCRP Rule 12.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.9. Challenge to Grand Jury Proceedings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.9
+Rule 12.9. Challenge to Grand Jury Proceedings
+Currentness
+(a) Grounds. A defendant may challenge a grand jury proceeding only by filing a motion for a new finding of probable cause alleging that the defendant was denied a substantial procedural right or that an insufficient number of qualified grand jurors concurred in the indictment.
+(b) Timing. A defendant must file a motion under (a) no later than 45 days after the certified transcript and minutes of the grand jury proceedings are filed or no later than 45 days after the defendant's arraignment, whichever is later.
+(c) Relief. If the court grants a motion for a new finding of probable cause, the State may proceed with the prosecution of the case by filing a complaint under Rule 2 or by resubmitting the matter to the same or another grand jury. On motion or on its own, the court must dismiss the case without prejudice unless a complaint is filed, or a grand jury's consideration begins, no later than 15 days after entry of the order granting the motion for a new finding of probable cause.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.9, AZ ST RCRP Rule 12.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 12.10. Preservation of Grand Jury Evidence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section One. Rules for Grand Juries
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 12.10
+Rule 12.10. Preservation of Grand Jury Evidence
+Currentness
+(a) Transmittal. The foreperson must transmit all physical evidence, including records, presented to or considered by the grand jury to the superior court clerk. The clerk must preserve the evidence and make it available for inspection and viewing by the State, the court, and the defendant.
+(b) Release or Retention. Nothing in this rule is intended to abrogate any right of a person under applicable law to possess or regain custody of physical evidence, but the court must impose limitations on access, use, transport, care, and disposal as necessary to ensure that the evidence is preserved.
+Credits
+Added Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 12.10, AZ ST RCRP Rule 12.10
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 12.21. Applicability of Other Provisions of Rule 12
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 12.21
+Rule 12.21. Applicability of Other Provisions of Rule 12
+Currentness
+The provisions of Rule 12 pertaining to grand juries also apply to state grand juries, except that Rule 12.22(a) [“Summons”] applies instead of Rule 12.1(a); Rule 12.22(d) [“Examination”] applies instead of Rule 12.1(b); Rule 12.25 [“Preservation of State Grand Jury Evidence”] applies instead of Rule 12.10; and Rule 12.28 [“Challenge to State Grand Jury Proceedings”] applies instead of Rule 12.8.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 12.21, AZ ST RCRP Rule 12.21
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 12.22. Selection and Preparation of State Grand Jurors
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.22
+Rule 12.22. Selection and Preparation of State Grand Jurors
+Currentness
+(a) Summons. State grand jurors are summoned and impaneled as provided by statute and Rule 12.
+(b) Assistance. The Supreme Court Chief Justice must designate the assignment judge for a state grand jury, as provided in A.R.S. § 21-421. The presiding judge and jury commissioner in each county must assist the assignment judge in impaneling a state grand jury. At the assignment judge's direction, the jury commissioner of each county must submit to the assignment judge, by a date set by that judge, a specified number of prospective jurors selected at random. The total number of prospective jurors must be based on reasonably proportional representation for each county according to the most recently published federal statewide census, and should include no less than 3 prospective state grand jurors from each county.
+(c) Preliminary Selection. With the assistance of the jury commissioner in the county in which the assignment judge is serving, the assignment judge must send a questionnaire to each prospective state grand juror. From those prospective state grand jurors who return questionnaires and who are qualified and not excused, the jury commissioner must select at random a number of them sufficient for the final selection of state grand jurors. Each person must be summoned to appear before the assignment judge for final selection. The jury commissioner must keep a permanent record of the reason for excusing a prospective state grand juror.
+(d) Examination. Each prospective state grand juror must be examined under oath or affirmation to confirm that the prospective juror is qualified to be a state grand juror; that service as a state grand juror would not impose an undue hardship; and that the prospective juror will act impartially and without prejudice. Inquiry also may be made about other relevant subjects. A verbatim record of this examination must be made, transcribed, and filed with the superior court clerk of the county in which the assignment judge is serving.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.22, AZ ST RCRP Rule 12.22
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.23. Size of State Grand Jury
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.23
+Rule 12.23. Size of State Grand Jury
+Currentness
+When impaneled, a state grand jury must be composed of at least 12 but not more than 16 persons.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.23, AZ ST RCRP Rule 12.23
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.24. Location of State Grand Jury Sessions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.24
+Rule 12.24. Location of State Grand Jury Sessions
+Currentness
+Sessions of a state grand jury may be held at any county seat in the State of Arizona designated by the assignment judge.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.24, AZ ST RCRP Rule 12.24
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 12.25. Preservation of State Grand Jury Evidence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 12.25
+Rule 12.25. Preservation of State Grand Jury Evidence
+Currentness
+(a) Transmittal. The foreperson must transmit all physical evidence, including records, presented to or considered by a state grand jury to the superior court clerk of the county where the state grand jury has been empaneled. The clerk must preserve the evidence and make it available for inspection and viewing by the State, the court, and the defendant.
+(b) Release or Retention. Nothing in this rule is intended to abrogate any right of a person under applicable law to possess or regain custody of physical evidence, but the court must impose limitations on access, use, transport, care, and disposal as necessary to ensure that the evidence is preserved.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 12.25, AZ ST RCRP Rule 12.25
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.26. Return of Indictment
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.26
+Rule 12.26. Return of Indictment
+Currentness
+The foreperson must return an indictment in open court in the presence of the state grand jury and the Attorney General or the Attorney General's designee. The assignment judge or court commissioner must order the indictment to be kept secret until the defendant is in custody or served with a summons. No one may disclose the indictment's contents except if necessary to issue and execute a warrant or summons.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.26, AZ ST RCRP Rule 12.26
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.27. Disclosure of a Lack of Indictment
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.27
+Rule 12.27. Disclosure of a Lack of Indictment
+Currentness
+If a state grand jury investigation ends or is terminated without the return of any indictments, the assignment judge may publicly disclose this fact in a minute entry if extraordinary circumstances exist and the furtherance of justice requires it.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.27, AZ ST RCRP Rule 12.27
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 12.28. Challenge to State Grand Jury, Grand Juror, or Grand Jury Proceedings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.28
+Rule 12.28. Challenge to State Grand Jury, Grand Juror, or Grand Jury Proceedings
+Currentness
+(a) Grounds for Challenge.
+(1) A state grand jury may be challenged only on the ground that the state grand jurors were not drawn or selected according to law or Rule 12.22.
+(2) An individual state grand juror may be challenged only on the ground that the juror is not qualified to sit on the state grand jury or on a particular matter.
+(3) A defendant may challenge the grand jury proceeding under Rule 12.9.
+(b) Method of Challenge.
+(1) A challenge by the State to a state grand jury or a state grand juror must be directed to the assignment judge.
+(2) A defendant may not challenge a state grand jury or a state grand juror until after the indictment has been returned.
+(3) Any challenge made after the grand jurors are sworn must be in writing.
+(c) Relief. If the court grants a motion under Rule 12.9(a), the Attorney General or the Attorney General's designee may proceed with the prosecution of the case by filing a complaint under Rule 2 or by resubmitting the matter to the same state grand jury or to another grand jury. On motion or on its own, the court must dismiss the case without prejudice unless a complaint is filed, or a grand jury consideration begins, no later than 15 days after the order is entered granting the motion under Rule 12.9(a).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.28, AZ ST RCRP Rule 12.28
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 12.29. Expenses of Prospective and Selected State Grand Jurors
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 12. The Grand Jury (Refs & Annos)
+Section Two. Rules for State Grand Juries
+16A A.R.S. Rules Crim.Proc., Rule 12.29
+Rule 12.29. Expenses of Prospective and Selected State Grand Jurors
+Currentness
+(a) Generally. A person called for prospective grand jury impanelment or a person serving on a state grand jury is entitled to reimbursement for lodging and meal expenses if:
+(1) the session is held more than 50 miles from the person's residence; and
+(2) the expense is incurred either:
+(A) the night before the session; or
+(B) after the session, if the assignment judge determines that the session did not end early enough to permit the person to return to his or her residence by a reasonable hour.
+(b) Limitation of Expenses. The financial limitations on reimbursement of expenses are the same as those imposed by statute or regulation on employees of the State of Arizona.
+(c) Exceptional Circumstances. In exceptional circumstances, the assignment judge may authorize reimbursement of an expense incurred by a prospective or serving state grand juror that is not otherwise authorized in this rule.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 12.29, AZ ST RCRP Rule 12.29
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+R. 13, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+IV. Pretrial Procedures
+Rule 13. Indictment and Information
+16A A.R.S. Rules Crim.Proc., R. 13, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 13, Refs & Annos, AZ ST RCRP R. 13, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 13.1. Definitions and Construction
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 13. Indictment and Information (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 13.1
+Formerly cited as AZ ST RCRP Rule 13.2
+Rule 13.1. Definitions and Construction
+Currentness
+(a) General Definition. An “indictment” or “information” is a plain, concise statement of the facts sufficiently definite to inform the defendant of a charged offense.
+(b) Indictment Defined. An “indictment” is a written statement charging the defendant with the commission of a public offense, endorsed as a “true bill,” signed by a grand jury foreperson, and presented to the court by a grand jury.
+(c) Information Defined. An “information” is a written statement charging the defendant with the commission of a public offense, signed and presented to the court by the State.
+(d) Charging the Offense. Each count of an indictment or information must state the official or customary citation of the statute, rule, regulation or other provision of law the defendant allegedly violated.
+(e) Necessarily Included Offenses. An offense specified in an indictment, information, or complaint is a charge of that offense and all necessarily included offenses.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 13.1, AZ ST RCRP Rule 13.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 13.1. Definitions and Construction
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 13. Indictment and Information (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 13.1
+Formerly cited as AZ ST RCRP Rule 13.2
+Rule 13.1. Definitions and Construction
+Currentness
+(a) General Definition. An “indictment” or “information” is a plain, concise statement of the facts sufficiently definite to inform the defendant of a charged offense.
+(b) Indictment Defined. An “indictment” is a written statement charging the defendant with the commission of a public offense, endorsed as a “true bill,” signed by a grand jury foreperson, and presented to the court by a grand jury.
+(c) Information Defined. An “information” is a written statement charging the defendant with the commission of a public offense, signed and presented to the court by the State.
+(d) Charging the Offense. Each count of an indictment or information must state the official or customary citation of the statute, rule, regulation or other provision of law the defendant allegedly violated.
+(e) Necessarily Included Offenses. An offense specified in an indictment, information, or complaint is a charge of that offense and all necessarily included offenses.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 13.1, AZ ST RCRP Rule 13.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 13.2. Timeliness of an Information and Dismissal
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 13. Indictment and Information (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 13.2
+Formerly cited as AZ ST RCRP Rule 13.1
+Rule 13.2. Timeliness of an Information and Dismissal
+Currentness
+The State must file an information in superior court no later than 10 days after a magistrate finds probable cause or the defendant waives a preliminary hearing. If the State fails to file a timely information, a court must dismiss the information if the defendant files a motion seeking that relief under Rule 16.1(b). A dismissal under this rule is without prejudice, but if the prosecution is refiled, the time limits under Rule 8.2 must be computed from the defendant's initial appearance on the original complaint.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 13.2, AZ ST RCRP Rule 13.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 13.3. Joinder
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 13. Indictment and Information (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 13.3
+Rule 13.3. Joinder
+Currentness
+(a) Of Offenses. Two or more offenses may be joined in an indictment, information, or complaint if they are each stated in a separate count and if they:
+(1) are of the same or similar character;
+(2) are based on the same conduct or are otherwise connected together in their commission; or
+(3) are alleged to have been a part of a common scheme or plan.
+(b) Of Defendants. Two or more defendants may be joined if each defendant is charged with each alleged offense, or if the alleged offenses are part of an alleged common conspiracy, scheme, or plan, or are otherwise so closely connected that it would be difficult to separate proof of one from proof of the others.
+(c) Consolidation. If offenses or defendants are charged in separate proceedings, the court, on motion or on its own, may wholly or partly consolidate the proceedings in the interests of justice.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 13.3, AZ ST RCRP Rule 13.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 13.4. Severance
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 13. Indictment and Information (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 13.4
+Rule 13.4. Severance
+Currentness
+(a) Generally. On motion or on its own, and if necessary to promote a fair determination of any defendant's guilt or innocence of any offense, a court must order a severance of counts, defendants, or both.
+(b) As of Right. A defendant is entitled to a severance of offenses joined solely under Rule 13.3(a)(1), unless evidence of the other offense or offenses would be admissible if the offenses were tried separately.
+(c) Timeliness and Waiver. A defendant must move to sever at least 20 days before trial or as the court otherwise orders. If the motion is denied, the defendant must renew the motion during trial before or at the close of evidence. If a ground for severance previously unknown to a defendant arises during trial, the defendant must move for severance before or at the close of evidence. The right to severance is waived if the defendant fails to timely file and renew a proper motion for severance.
+(d) Jeopardy. The court may not grant the State's motion to sever offenses after trial begins unless the defendant consents. Offenses severed during trial on the defendant's motion or with the defendant's consent will not bar a later trial of that defendant on the severed offenses.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 13.4, AZ ST RCRP Rule 13.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+
+Rule 13.5. Amending Charges; Defects in the Charging Document
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 13. Indictment and Information (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 13.5
+Rule 13.5. Amending Charges; Defects in the Charging Document
+Currentness
+(a) Prior Convictions and Other Noncapital Sentencing Allegations; Challenges. Within the time limits of Rule 16.1(b), the State may amend an indictment, information, or complaint to add allegations of one or more prior convictions and other noncapital sentencing allegations that must be found by a jury. A defendant may challenge the legal sufficiency of the State's allegations by filing a motion under Rule 16.
+(b) Altering Charges; Amending to Conform to the Evidence. A preliminary hearing or grand jury indictment limits the trial to the specific charge or charges stated in the magistrate's order or the grand jury indictment. Unless the defendant consents, a charge may be amended only to correct mistakes of fact or remedy formal or technical defects. The charging document is deemed amended to conform to the evidence admitted during any court proceeding. Nothing in this rule precludes the defendant from consenting to the addition of a charge as part of a plea agreement.
+(c) Amending to Conform to Capital Sentencing Allegation; Challenges. The filing of a notice to seek the death penalty that includes aggravating circumstances amends the charging document, and the State is not required to file any further pleading. A defendant may challenge the legal sufficiency of the State's allegation by filing a motion under Rule 16.
+(d) Defects in Charging Document. A defendant may object to a defect in the charging document only by filing a motion under Rule 16.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 13.5, AZ ST RCRP Rule 13.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 14, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+IV. Pretrial Procedures
+Rule 14. Arraignment
+16A A.R.S. Rules Crim.Proc., R. 14, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 14, Refs & Annos, AZ ST RCRP R. 14, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 14.1. General Provisions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 14. Arraignment (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 14.1
+Rule 14.1. General Provisions
+Currentness
+The purpose of an arraignment is to formally advise defendants of the charges against them and their legal rights, to assure they are provided counsel if applicable, to enter a plea, and to set a trial date or a later court date. At an arraignment, a magistrate informs defendants of the matters in Rule 14.4.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 14.1, AZ ST RCRP Rule 14.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+
+Rule 14.2. When an Arraignment is Held
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 14. Arraignment (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 14.2
+Formerly cited as AZ ST RCRP Rule 14.1
+Rule 14.2. When an Arraignment is Held
+Currentness
+(a) Generally. An arraignment must be held:
+(1) for defendants in custody, no later than 10 days after the filing of an indictment, information, or complaint; and
+(2) for defendants not in custody, no later than 30 days after the filing of an indictment, information, or complaint.
+(b) Exception for Special Situations. If the court cannot hold the arraignment within the time specified in (a) because the defendant has not yet been arrested or summoned, or is in custody elsewhere, the court must hold the arraignment as soon as possible after those time periods.
+(c) Exceptions for Limited Jurisdiction Courts. An arraignment is not necessary if:
+(1) the defense counsel has entered a plea of not guilty; or
+(2) the court permits a defendant to enter a not-guilty plea by mail and to receive notice of a court date by mail. Delivery of the notice is presumed if the notice is deposited in the U.S. mail, addressed to the defendant's last known address, and the notice is not returned to the court.
+(d) Exception for Superior Court. The superior court is not required to conduct an arraignment after the filing of an indictment or information if the presiding judge issues an order that Rule 14 does not apply to superior court cases in that county.
+(e) Combined Proceedings. If the defendant's first court appearance occurs after the State files a complaint and if the initial appearance is held in the trial court, the court may hold the arraignment in conjunction with the initial appearance before the magistrate. If the initial appearance is not held in the trial court, the court must order the defendant to appear for arraignment in the trial court no later than 10 days after the initial appearance, and a written notice of the arraignment date must be delivered to the defendant.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 14.2, AZ ST RCRP Rule 14.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 14.3. The Defendant's Presence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 14. Arraignment (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 14.3
+Formerly cited as AZ ST RCRP Rule 14.2
+Rule 14.3. The Defendant's Presence
+Currentness
+(a) Personal Presence Required. A defendant must be arraigned personally before the trial court or by an interactive video appearance under Rule 1.5.
+(b) Personal Presence Not Required if Waived. A defendant who personally appeared at an initial appearance may waive personal presence at an arraignment by filing a written waiver at least two days before the arraignment date. The defendant and defense counsel must sign and notarize the waiver. A defendant also must file a notarized affidavit no later than 20 days after arraignment stating that the defendant is aware of all scheduled court appearances and understands that failure to appear at sentencing may result in losing the right to a direct appeal.
+(c) Exception for Limited Jurisdiction Courts. A limited jurisdiction court may conduct a telephonic arraignment for misdemeanor offenses and for civil traffic offenses that are charged on the same complaint as misdemeanor offenses. For purposes of this rule, “telephonic” includes voice-only communications between the court and the parties.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 25, 2021, effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 14.3, AZ ST RCRP Rule 14.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 14.4. Proceedings at Arraignment
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 14. Arraignment (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 14.4
+Formerly cited as AZ ST RCRP Rule 14.3
+Rule 14.4. Proceedings at Arraignment
+Currentness
+At an arraignment, the court must:
+(a) enter the defendant's plea of not guilty, unless the defendant pleads guilty or no contest and the court accepts the plea;
+(b) decide motions concerning release conditions under Rule 7 if:
+(1) the arraignment is held with the defendant's initial appearance under Rule 4.2;
+(2) the moving party provides 5 days' notice of a contested release motion; or
+(3) all parties agree;
+(c) set the date for trial or a pretrial conference;
+(d) provide written notice of the dates of further proceedings and other important deadlines;
+(e) inform the defendant of the following:
+(1) the right to counsel and the right to court-appointed counsel if eligible;
+(2) the right to jury trial, if applicable;
+(3) the right to be present at all future proceedings;
+(4) the failure to appear at future proceedings may result in the defendant being charged with a new offense and the court issuing an arrest warrant;
+(5) all proceedings may be held in the defendant's absence, other than sentencing;
+(6) the defendant may lose the right to a direct appeal if the defendant's absence from sentencing causes sentencing to occur more than 90 days after any conviction;
+(7) conviction of a crime may have collateral consequences, including but not limited to immigration consequences; and
+(8) conviction of a felony offense will result in certain civil rights being suspended;
+(f) appoint counsel if applicable;
+(g) order a summoned defendant to be 10-print fingerprinted no later than 20 calendar days by the appropriate law enforcement agency at a designated time and place if:
+(1) the defendant is charged with a felony offense; a violation of an offense listed in Title 13, Chapters 12, 14, 15 except A.R.S. § 13-1509, 18, 20 through 23, 32, 34, or 34.1; a domestic violence offense as defined in A.R.S. § 13-3601; a violation of A.R.S. §§ 13-1604, 13-2406, 13-2904, 13-2907 to 13-2907.05, 13-2910, 13-2916, 13-3102, 13-3103, 13-3513, 13-3555, 13-3558, 13-3613, 13-3619, 13-3623, 13-3704, or 46-215; or a violation of an offense listed in Title 28, Chapter 4; and
+(2) the defendant does not present a completed mandatory fingerprint compliance form to the court, or if the court has not received the process control number.
+(v) Victims' Rights. If the court under (b) decides a release motion at the defendant's arraignment, a victim has the rights provided in Rule 7.2(v).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Aug. 29, 2022, effective Jan. 1, 2023, permanently adopted with additional amendments Dec. 8, 2022, effective Jan. 1, 2023. Amended Dec. 8, 2022, effective July 1, 2023; Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 14.4, AZ ST RCRP Rule 14.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 14.5. Proceedings in Counties Where No Arraignment is Held
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 14. Arraignment (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 14.5
+Rule 14.5. Proceedings in Counties Where No Arraignment is Held
+Currentness
+In a county where an arraignment is not held as provided in Rule 14.2(d), a defendant must be brought before a magistrate no later than 10 days after the indictment is returned. The defendant may waive personal presence under Rule 14.3(b). The magistrate must comply with Rule 14.4.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 14.5, AZ ST RCRP Rule 14.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 15, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+IV. Pretrial Procedures
+Rule 15. Disclosure
+16A A.R.S. Rules Crim.Proc., R. 15, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 15, Refs & Annos, AZ ST RCRP R. 15, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 15.1. The State's Disclosures
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 15.1
+Rule 15.1. The State's Disclosures
+Currentness
+(a) Initial Disclosures in a Felony Case. Unless a local rule provides or the court orders otherwise:
+(1) the State must make available to the defendant all reports containing information identified in (b)(3) and (b)(4) that the charging attorney possessed when the charge was filed; and
+(2) the State must make these reports available by the preliminary hearing or, if no preliminary hearing is held, the arraignment.
+(b) Supplemental Disclosure. Except as provided by Rule 39(b), the State must make available to the defendant the following material and information within the State's possession or control:
+(1) the name and address of each person the State intends to call as a witness in the State's case-in-chief and any relevant written or recorded statement of the witness;
+(2) any statement of the defendant and any co-defendant;
+(3) all existing original and supplemental reports prepared by a law enforcement agency in connection with the charged offense;
+(4) for each expert who has examined a defendant or any evidence in the case, or who the State intends to call at trial:
+(A) the expert's name, address, and qualifications;
+(B) any report prepared by the expert and the results of any completed physical examination, scientific test, experiment, or comparison conducted by the expert; and
+(C) if the expert will testify at trial without preparing a written report, a summary of the general subject matter and opinions on which the expert is expected to testify;
+(5) a list of all documents, photographs, other tangible objects, and electronically stored information the State intends to use at trial or that were obtained from or purportedly belong to the defendant;
+(6) a list of the defendant's prior felony convictions the State intends to use at trial;
+(7) a list of the defendant's other acts the State intends to use at trial;
+(8) all existing material or information that tends to mitigate or negate the defendant's guilt or would tend to reduce the defendant's punishment;
+(9) whether there has been any electronic surveillance of any conversations to which the defendant was a party, or of the defendant's business or residence;
+(10) whether a search warrant has been executed in connection with the case; and
+(11) whether the case involved an informant, and, if so, the informant's identity, subject to the restrictions under Rule 15.4(b)(2).
+(c) Time for Supplemental Disclosures. Unless the court orders otherwise, the State must disclose the material and information listed in (b) no later than:
+(1) in the superior court, 30 days after arraignment.
+(2) in a limited jurisdiction court, at the first pretrial conference.
+(d) Prior Felony Convictions. The State must make available to a defendant a list of prior felony convictions of each witness the State intends to call at trial and a list of the prior felony convictions the State intends to use to impeach a disclosed defense witness at trial:
+(1) in a felony case, no later than 30 days before trial or 30 days after the defendant's request, whichever occurs first; and
+(2) in a misdemeanor case, no later than 10 days before trial.
+(e) Disclosures upon Request.
+(1) Generally. Unless the court orders otherwise, the State must make the following items available to the defendant for examination, testing, and reproduction no later than 30 days after receiving a defendant's written request:
+(A) any of the items specified in the list submitted under (b)(5);
+(B) any 911 calls existing at the time of the request that the record's custodian can reasonably ascertain are related to the case; and
+(C) any completed written report, statement, and examination notes made by an expert listed in (b)(1) and (b)(4) related to the case.
+(2) Conditions. The State may impose reasonable conditions, including an appropriate stipulation concerning chain of custody to protect physical evidence or to allow time for the examination or testing of any items.
+(f) Scope of the State's Disclosure Obligation. The State's disclosure obligation extends to material and information in the possession or control of any of the following:
+(1) the prosecutor, other attorneys in the prosecutor's office, and members of the prosecutor's staff;
+(2) any law enforcement agency that has participated in the investigation of the case and is under the prosecutor's direction or control; and
+(3) any other person who is under the prosecutor's direction or control and who participated in the investigation or evaluation of the case.
+(g) Disclosure by Court Order.
+(1) Disclosure Order. On the defendant's motion, a court may order any person to make available to the defendant material or information not included in this rule if the court finds:
+(A) the defendant has a substantial need for the material or information to prepare the defendant's case; and
+(B) the defendant cannot obtain the substantial equivalent by other means without undue hardship.
+(2) Modifying or Vacating Order. On the request of any person affected by an order, the court may modify or vacate the order if the court determines that compliance would be unreasonable or oppressive.
+(h) Disclosure of Rebuttal Evidence. Upon receiving the defendant's notice of defenses under Rule 15.2(b), the State must disclose the name and address of each person the State intends to call as a rebuttal witness, and any relevant written or recorded statement of the witness.
+(i) Additional Disclosures in a Capital Case.
+(1) Notice of Intent to Seek the Death Penalty.
+(A) Generally. No later than 60 days after a defendant's arraignment in superior court on a charge of first-degree murder, the State must provide notice to the defendant of whether the State intends to seek the death penalty.
+(B) Time Extensions. The court may extend the State's deadline for providing notice by an additional 60 days if the parties file a written stipulation agreeing to the extension. If the court approves the extension, the case is considered a capital case for all administrative purposes, including, but not limited to, scheduling, appointment of counsel under Rule 6.8, and the assignment of a mitigation specialist. The court may grant additional extensions if the parties file written stipulations agreeing to them.
+(2) Aggravating Circumstances. If the State files a notice of intent to seek the death penalty, the State must, at the same time, provide the defendant with a list of aggravating circumstances that the State intends to prove in the aggravation phase of the trial.
+(3) Initial Disclosures.
+(A) Generally. No later than 30 days after filing a notice of intent to seek the death penalty, the State must disclose the following to the defendant:
+(i) the name and address of each person the State intends to call as a witness at the aggravation hearing to support each alleged aggravating circumstance, and any written or recorded statement of the witness;
+(ii) the name and address of each expert the State intends to call at the aggravation hearing to support each alleged aggravating circumstance, and any written or recorded statement of the expert or other disclosure as required in (b)(4);
+(iii) a list of all documents, photographs, other tangible objects, or electronically stored information the State intends to use to support each identified aggravating circumstance at the aggravation hearing; and
+(iv) all material or information that might mitigate or negate the finding of an aggravating circumstance or mitigate the defendant's culpability.
+(B) Time Extensions. The court may extend the deadline for the State's initial disclosures under (i)(3) or allow the State to amend those disclosures only if the State shows good cause or the parties stipulate to the deadline extension.
+(4) Rebuttal and Penalty Phase Disclosures. No later than 60 days after receiving the defendant's disclosure under Rule 15.2(h)(1), the State must disclose the following to the defendant:
+(A) the name and address of each person the State intends to call as a rebuttal witness on each identified aggravating circumstance, and any written or recorded statement of the witness;
+(B) the name and address of each person the State intends to call as a witness at the penalty hearing, and any written or recorded statement of the witness;
+(C) the name and address of each expert the State intends to call at the penalty hearing, and any report the expert has prepared or other disclosure as required in (b)(4); and
+(D) a list of all documents, photographs, other tangible objects, or electronically stored information the State intends to use during the aggravation and penalty hearings.
+(j) Item Prohibited by A.R.S. §§ 13-3551 et seq. or is the Subject of a Prosecution Under A.R.S. § 13-1425.
+(1) Scope. This rule applies to an item that cannot be produced or possessed under A.R.S. §§ 13-3551 et seq. or is an image that is the subject of a prosecution under A.R.S. § 13-1425, but is included in the list disclosed under (b)(5).
+(2) Disclosure Obligation. The State is not required to reproduce the item or release it to the defendant for testing or examination except as provided in (j)(3), (j)(4), and (v)(2). The State must make the item reasonably available for inspection by the defendant, but only under such terms and conditions necessary to protect a victim's rights.
+(3) Court-Ordered Disclosure for Examination or Testing.
+(A) Generally. The court may order the item's reproduction or its release to the defendant for examination or testing if the defendant makes a substantial showing that it is necessary for the effective investigation or presentation of a defense, including an expert's analysis.
+(B) Conditions. A court must issue any order necessary to document the chain of custody, or protect physical evidence. The court may issue an order under (v)(3) to protect a victim's rights.
+(4) General Restrictions. In addition to any court order issued, the following restrictions apply to the reproduction or release of any item to the defendant for examination or testing:
+(A) the item must not be further reproduced or distributed except as the court order allows;
+(B) the item may be viewed or possessed only by the persons authorized by the court order;
+(C) the item must not be possessed or viewed by the defendant outside the direct supervision of defense counsel, advisory counsel, or a defense expert;
+(D) the item must be delivered to defense counsel or advisory counsel, or if expressly permitted by court order, to a specified defense expert; and
+(E) the item must be returned to the State by a deadline set by the court.
+(v) Victims' Rights.
+(1) Victim's Identifying or Locating Information. The State is not required to disclose a victim's identifying or locating information unless the court finds, after considering the rights of the victim, that disclosure is required to protect the defendant's constitutional rights. If disclosure of personal identifying or locating information is made to the defendant's attorney, the defendant's attorney must not disclose the information to any person other than the defendant's attorney's staff and designated investigator. The information provided to the defendant's attorney must not be conveyed to the defendant without prior court authorization. Rule 15.5(e) applies to information withheld under this rule.
+(2) Disclosure of Items Under (j); Court Orders. Disclosure by the State to a defendant of any item described in (j) must be accompanied by terms and conditions that are necessary to protect a victim's rights. A court also may issue an order necessary to protect a victim's rights regarding disclosure of any such item.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 28, 2018, effective Jan. 1, 2019; Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 15.1, AZ ST RCRP Rule 15.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 15.2. The Defendant's Disclosures
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 15.2
+Rule 15.2. The Defendant's Disclosures
+Currentness
+(a) Physical Evidence.
+(1) Generally. At any time after the filing of an indictment, information or complaint, and upon the State's written request, the defendant must, in connection with the particular offense with which the defendant is charged:
+(A) appear in a line-up;
+(B) speak for identification by one or more witnesses;
+(C) be fingerprinted, palm-printed, foot-printed, or voice printed;
+(D) pose for photographs not involving a re-enactment of an event;
+(E) try on clothing;
+(F) permit the taking of samples of hair, blood, saliva, urine, or other specified materials if doing so does not involve an unreasonable intrusion of the defendant's body;
+(G) provide handwriting specimens; and
+(H) submit to a reasonable physical or medical inspection of the defendant's body, but such an inspection must not include a psychiatric or psychological examination.
+(2) Presence of Counsel. The defendant is entitled to have counsel present when the State takes evidence under this rule.
+(3) Other Procedures. This rule supplements and does not limit any other procedures established by law.
+(b) Notice of Defenses.
+(1) Generally. By the deadline specified in (d), the defendant must provide written notice to the State specifying all defenses the defendant intends to assert at trial, including, but not limited to, alibi, insanity, self-defense, defense of others, entrapment, impotency, marriage, insufficiency of a prior conviction, mistaken identity, and good character.
+(2) Witnesses. For each listed defense, the notice must specify each person, other than the defendant, that the defendant intends to call as a witness at trial in support of the defense.
+(3) Signature and Filing. Defense counsel-or if the defendant is self-represented, the defendant-must sign the notice and file it with the court.
+(c) Content of Disclosure. At the same time the defendant files a notice of defenses under (b), the defendant must provide the following information:
+(1) the name and address of each person, other than the defendant, the defendant intends to call as a witness at trial, and any written or recorded statement of the witness;
+(2) for each expert the defendant intends to call at trial:
+(A) the expert's name, address, and qualifications;
+(B) any report prepared by the expert and the results of any completed physical examination, scientific test, experiment, or comparison conducted by the expert; and
+(C) if the expert will testify at trial without preparing a written report, a summary of the general subject matter and opinions on which the expert is expected to testify; and
+(3) a list of all documents, photographs, other tangible objects, and electronically stored information the defendant intends to use at trial.
+(d) Time for Disclosures. Unless the court orders otherwise, the defendant must disclose the material and information listed in (b) and (c) no later than:
+(1) in superior court, 40 days after arraignment, or 10 days after the State's disclosure under Rule 15.1(b), whichever occurs first;
+(2) in a limited jurisdiction court, 20 days after the State's disclosure under Rule 15.1(b).
+(e) Additional Disclosures upon Request.
+(1) Generally. Unless the court orders otherwise, the defendant must make the following items available to the State for examination, testing, and reproduction no later than 30 days after receiving the State's written request:
+(A) any of the items specified in the list submitted under (c)(3); and
+(B) any completed written report, statement, and examination notes made by an expert listed in (c)(2) in connection with the particular case.
+(2) Conditions. The defendant may impose reasonable conditions, including an appropriate stipulation concerning chain of custody for physical evidence or to allow time for the examination or testing of any items.
+(f) Scope of Disclosure. A defendant's disclosure obligation extends to material and information within the possession or control of the defendant, defense counsel, staff, agents, investigators, or any other persons who have participated in the investigation or evaluation of the case and who are under the defendant's direction or control.
+(g) Disclosure by Court Order.
+(1) Disclosure Order. On the State's motion, a court may order any person to make available to the State material or information not included in this rule if the court finds:
+(A) the State has a substantial need for the material or information for the preparation of the State's case;
+(B) the State cannot obtain the substantial equivalent by other means without undue hardship; and
+(C) the disclosure of the material or information would not violate the defendant's constitutional rights.
+(2) Modifying or Vacating Order. The court may modify or vacate an order if the court determines that compliance would be unreasonable or oppressive.
+(h) Additional Disclosures in a Capital Case.
+(1) Initial Disclosures.
+(A) Generally. No later than 180 days after receiving the State's initial disclosure under Rule 15.1(i)(3), the defendant must disclose the following to the State:
+(i) a list of all mitigating circumstances the defendant intends to prove;
+(ii) the name and address of each person, other than the defendant, the defendant intends to call as a witness during the aggravation and penalty hearings, and any written or recorded statement of the witness;
+(iii) the name and address of each expert the defendant intends to call during the aggravation and penalty hearings, and any written or recorded statements of the expert or other disclosure as required in (c)(2), excluding any portions containing statements by the defendant; and
+(iv) a list of all documents, photographs, other tangible objects, or electronically stored information the defendant intends to use during the aggravation and penalty hearings.
+(B) Time Extensions. The court may extend the deadline for the defendant's initial disclosures under (h)(i) or allow the defendant to amend those disclosures only if the defendant shows good cause or the parties stipulate to the deadline extension.
+(2) Later Disclosures. No later than 60 days after receiving the State's supplemental disclosure under Rule 15.1(i)(4), the defendant must disclose the following to the State:
+(A) the name and address of each person the defendant intends to call as a rebuttal witness, and any written or recorded statement of the witness; and
+(B) the name and address of each expert the defendant intends to call as a witness at the penalty hearing, and any report the expert has prepared.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 28, 2018, effective Jan. 1, 2019.
+16A A. R. S. Rules Crim. Proc., Rule 15.2, AZ ST RCRP Rule 15.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 15.3. Depositions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 15.3
+Rule 15.3. Depositions
+Currentness
+(a) Availability. A party or a witness may file a motion requesting the court to order the examination of any person, except the defendant, by oral deposition under the following circumstances:
+(1) a party shows that the person's testimony is material to the case and that there is substantial likelihood that the person will not be available at trial; or
+(2) a party shows that the person's testimony is material to the case or necessary to adequately prepare a defense or investigate the offense, that the person was not a witness at the preliminary hearing or at the probable cause phase of the juvenile transfer hearing, and that the person will not cooperate in granting a personal interview; or
+(3) a witness is incarcerated for failing to give satisfactory security that the witness will appear and testify as a trial or hearing.
+(b) Follow-up Examination. If a witness testifies at a preliminary hearing or probable cause phase of a juvenile transfer hearing, the court may order the person to attend and give testimony at a follow-up deposition if:
+(1) the magistrate limited the person's previous testimony under Rule 5.3; and
+(2) the person will not cooperate in granting a personal interview.
+(c) Motion for Taking Deposition; Notice; Service.
+(1) Requirements. A motion to take a deposition must:
+(A) state the name and address of the person to be deposed;
+(B) show that a deposition may be ordered under (a) or (b);
+(C) specify the time and place for taking the deposition; and
+(D) designate any nonprivileged documents, photographs, other tangible objects, or electronically stored information that the person must produce at the deposition.
+(2) Order. If the court grants the motion, it may modify any of the moving party's proposed terms and specify additional conditions governing how the deposition will be conducted.
+(3) Notice and Subpoena. If the court grants the motion, the moving party must notice the deposition in the manner provided in Arizona Rule of Civil Procedure 30(b). The notice must specify the terms and conditions in the court's order granting the deposition. The moving party also must serve a subpoena on the deponent in the manner provided in A.R.S. § 13-4072(A)-(E) or as otherwise ordered by the court.
+(d) Manner of Taking.
+(1) Generally. Unless this rule provides or the court orders otherwise, the parties must conduct depositions in the manner provided in Rules 28(a) and 30 of the Arizona Rules of Civil Procedure.
+(2) Deposition by Written Questions. If the parties consent, the court may order that a deposition be taken on written questions in the manner provided in Rule 31 of the Arizona Rules of Civil Procedure.
+(3) Deponent Statement. Before the deposition, a party who possesses a statement of a deponent must make it available to any other party who would be entitled to the statement at trial.
+(4) Recording. A deposition may be recorded by someone other than a certified reporter. If someone other than a certified reporter records the deposition, the party taking the deposition must provide every other party with a copy of the recording no later than 14 days after the deposition, or no later than 10 days before trial, whichever is earlier.
+(5) Remote Means. The parties may agree or the court may order that the parties conduct the deposition by telephone or other remote means.
+(e) The Defendant's Right to Be Present. A defendant has the right to be present at any deposition ordered under (a)(1) or (a)(3). If a defendant is in custody, the moving party must notify the custodial officer of the deposition's time and place. Unless the defendant waives the right to be present, the officer must produce the defendant for the deposition and remain with the defendant until it is completed.
+(f) Use. A party may use a deposition in the same manner as former testimony.
+(v) Victims' Rights. A victim has the right to refuse a deposition by the defendant, defendant's attorney, or other person acting on behalf of the defendant.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 28, 2018, effective Jan. 1, 2019. Amended on an emergency basis Oct. 18, 2018, effective Oct. 24, 2019, adopted on a permanent basis Aug. 27, 2019; amended on an emergency basis, effective Sept. 30, 2021, adopted on a permanent basis effective Jan. 1, 2022; amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 15.3, AZ ST RCRP Rule 15.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 15.4. Disclosure Standards
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 15.4
+Rule 15.4. Disclosure Standards
+Currentness
+(a) Statements.
+(1) Definition of a “Statement.” In Rule 15, the term “statement” includes:
+(A) a writing prepared, signed or otherwise adopted or approved by a person;
+(B) a recording of a person's oral communications or a transcript of the communication; or
+(C) a written record or summary of a person's oral communications.
+(2) Definition of a “Writing.” A “writing” consists of words or their equivalent, recorded in physical, electronic, or other form.
+(3) Exclusion of Superseded Notes. Handwritten notes are not a statement if they were substantially incorporated into a document or report no later than 30 calendar days of their creation, or were preserved electronically, mechanically, or by verbatim dictation.
+(b) Materials Not Subject to Disclosure.
+(1) Work Product. A party is not required to disclose legal research or records, correspondence, reports, or memoranda to the extent they contain the opinions, theories, or conclusions of the prosecutor or defense counsel, members of their respective legal or investigative staff, or law enforcement officers.
+(2) Informants. A party is not required to disclose the existence or identity of an informant who will not be called to testify if:
+(A) disclosure would result in substantial risk to the informant or to the informant's operational effectiveness; and
+(B) a failure to disclose will not infringe on the defendant's constitutional rights.
+(c) Failure to Call a Witness or Raise a Defense. At trial, a party may not comment on the fact that a witness's name or a defense is on a list furnished under Rule 15, yet not called or raised, unless the court allows the comment after finding that inclusion of the witness's name or the defense constituted an abuse of the applicable disclosure rule.
+(d) Use of Materials. Any materials furnished to a party or counsel under Rule 15 must not be disclosed to the public, and may be disclosed only to the extent necessary for the proper conduct of the case.
+(e) Requests for Disclosure. All requests for disclosure must be made to the opposing party.
+(f) Filing of Papers; Exception for Misdemeanors and Petty Offenses Filed in Limited Jurisdiction Courts. For misdemeanor and petty offenses triable in limited jurisdiction courts, parties must not file materials disclosed under Rules 15.1 and 15.2, or notices of their service, unless the court orders otherwise or they are filed as attachments or exhibits to other documents relevant to the determination of an issue before the court.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 15.4, AZ ST RCRP Rule 15.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 15.5. Excision and Protective Orders
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 15.5
+Rule 15.5. Excision and Protective Orders
+Currentness
+(a) A Court's Discretion to Deny, Defer or Regulate Disclosure.
+(1) Witness Identity. For good cause, a court may grant a request to defer disclosing a witness's identity for a reasonable period of time, but no later than 5 days before trial.
+(2) Other Matters. A court may order that other disclosures required by Rule 15 be denied, deferred, or regulated if it finds that:
+(A) disclosure would result in a risk or harm outweighing any usefulness of the disclosure to any party; and
+(B) the risk cannot be eliminated by a less substantial restriction of discovery rights.
+(b) A Court's Discretion to Authorize Excision. If the court finds that only a portion of material or other information is subject to disclosure under Rule 15, it may enter an order authorizing the disclosing party to excise the portion that is not subject to disclosure.
+(c) Protective and Excision Order Proceedings. If a party files a motion seeking a protective or excision order or requesting the court to determine whether any material or other information is subject to disclosure, the court may conduct an in camera inspection of the material. Counsel for all parties have the right to be heard on the matter before any in camera inspection is conducted.
+(d) Preserving the Record. If the court orders that any portion of any material or information is not subject to disclosure under Rule 15, the entire text of the material or information must be sealed and preserved in the record for appeal.
+(e) Claims of Privilege or Protection. A party who redacts a portion of a disclosed document must clearly identify the redaction and state the legal basis, if it is not clear from the context.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 15.5, AZ ST RCRP Rule 15.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 15.6. Continuing Duty to Disclose; Final Disclosure Deadline; Extension
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 15.6
+Rule 15.6. Continuing Duty to Disclose; Final Disclosure Deadline; Extension
+Currentness
+(a) Continuing Duties. The parties' duties under Rule 15 are continuing duties without awaiting a specific request from any other party.
+(b) Additional Disclosures. Any party who anticipates a need to provide additional disclosure no later than 30 days before trial must immediately notify both the court and all other parties of the circumstances and when the party will make the additional disclosure.
+(c) Final Deadline for Disclosure. Unless otherwise permitted, all disclosure required by Rule 15 must be completed at least 7 days before trial.
+(d) Disclosure After the Final Deadline.
+(1) Motion to Extend Disclosure. If a party seeks to use material or information that was disclosed less than 7 days before trial, the party must file a motion to extend the disclosure deadline and to use the material or information. The moving party also must file a supporting affidavit setting forth facts justifying an extension.
+(2) Order Granting Motion. The court must extend the disclosure deadline and allow the use of the material or information if it finds the material or information:
+(A) could not have been discovered or disclosed earlier with due diligence; and
+(B) was disclosed immediately upon its discovery.
+(3) Order Denying Motion or Granting Continuance; Sanctions. If the court finds that the moving party has failed to establish facts sufficient to justify an extension under (d)(2), it may:
+(A) deny the motion to extend the disclosure deadline and deny the use of the material or information; or
+(B) extend the disclosure deadline and allow the use of the material or information and, if it extends the deadline, the court may impose any sanction listed in Rule 15.7 except preclusion or dismissal.
+(e) Extension of Time for Completion of Testing.
+(1) Motion. Before the final disclosure deadline in (c), a party may move to extend the deadline to permit the completion of scientific or other testing. The motion must be supported by an affidavit from a crime laboratory representative or other scientific expert stating that additional time is needed to complete the testing or a report based on the testing. The affidavit must specify how much additional time is needed.
+(2) Order. If a motion is filed under (e)(1), the court must grant reasonable time to complete disclosure unless the court finds that the need for the extension resulted from dilatory conduct or neglect, or that the request is being made for an improper reason by the moving party or a person listed in Rule 15.1(f) or 15.2(f).
+(3) Extending Time. If the court grants a motion under (e)(2), the court may extend other disclosure deadlines as necessary.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 15.6, AZ ST RCRP Rule 15.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 15.7. Disclosure Violations and Sanctions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 15.7
+Rule 15.7. Disclosure Violations and Sanctions
+Currentness
+(a) Motion. Any party may move to compel disclosure or request an appropriate sanction for a disclosure violation of Rule 15 or both. Any motion to compel disclosure or for sanctions must include a separate statement that the moving party has personally consulted with opposing counsel and has made good faith efforts to resolve the matter. Any motion filed without the separate statement will not be heard or scheduled for a hearing.
+(b) Order. If the court finds that a party violated a disclosure obligation under Rule 15, it must order disclosure as necessary and impose an appropriate sanction, unless the court finds that:
+(1) the failure to comply was harmless; or
+(2) the party could not have disclosed the information earlier with due diligence and the party disclosed the information immediately upon its discovery.
+(c) Sanctions. In considering an appropriate sanction for nondisclosure or untimely disclosure, a court must determine the significance of the information not timely disclosed, the violation's impact on the overall administration of the case, the sanction's impact on the party and the victim, and the stage of the proceedings when the party ultimately made the disclosure. Available sanctions include, but are not limited to:
+(1) precluding or limiting a witness, the use of evidence, or an argument supporting or opposing a charge or defense;
+(2) dismissing the case with or without prejudice;
+(3) granting a continuance or declaring a mistrial if necessary in the interests of justice;
+(4) holding in contempt a witness, a party, or a person acting under the direction or control of a party;
+(5) imposing costs of continuing the proceeding; or
+(6) any other appropriate sanction.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 15.7, AZ ST RCRP Rule 15.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 15.8. Disclosure Before a Plea Agreement Expires or is Withdrawn; Sanctions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 15.8
+Rule 15.8. Disclosure Before a Plea Agreement Expires or is Withdrawn; Sanctions
+Currentness
+(a) Disclosure Obligation. If the State has filed an indictment or information in superior court and extends a plea offer to a defendant, the State must disclose to the defendant when it makes the offer the items listed in Rule 15.1(b) to the extent that it possesses the required information and has not previously made such a disclosure.
+(b) Violation. If the State makes the disclosure less than 30 days before the offer expires or is withdrawn, a court may sanction the State under (d) unless the State shows that the prosecutor reasonably believed, based on newly discovered information, that an offer should be withdrawn because it was contrary to the interests of justice.
+(c) Effect on Other Required Disclosures. This rule does not affect any disclosure obligation otherwise imposed by law. While a plea offer is pending, the prosecutor must continue to comply with Rule 15.6, but additional disclosures under that rule do not extend the 30-day period specified in (b). Disclosure of evidence after the offer expires or is withdrawn, including the results of any scientific testing, does not violate this rule if the evidence did not exist, or the State was not aware of it, when the State extended the offer.
+(d) Sanctions. On a defendant's motion alleging a violation of this rule, the court must consider the impact of any violation of (a) on the defendant's decision to accept or reject a plea offer. If the court finds that the State's failure to provide a required disclosure materially affected the defendant's decision and if the State declines to reinstate the lapsed or withdrawn plea offer, the court--as a presumptive minimum sanction--must preclude the admission at trial of any evidence not disclosed as required by (a).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 15.8, AZ ST RCRP Rule 15.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 15.9. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 15. Disclosure (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 15.9
+Rule 15.9. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 15.9, AZ ST RCRP Rule 15.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 16, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings
+16A A.R.S. Rules Crim.Proc., R. 16, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 16, Refs & Annos, AZ ST RCRP R. 16, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 16.1. General Provisions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 16.1
+Rule 16.1. General Provisions
+Currentness
+(a) Scope. Rule 16 governs court procedures between arraignment and trial, unless another rule provides a more specific procedure.
+(b) Pretrial Motions. All motions must meet the requirements of Rules 1.6 and 1.9 and be served as provided in Rule 1.7. Parties must make all motions no later than 20 days before trial, except that lack of jurisdiction may be raised at any time. Responsive pleadings are allowed as provided in Rule 1.9. The court may modify motion deadlines.
+(c) Effect of a Failure to File or Make a Timely Motion. The court may preclude any motion, defense, objection, or request not timely raised by motion under (b), unless the basis was not then known and could not have been known through reasonable diligence, and the party raises it promptly after the basis is known.
+(d) Finality of Pretrial Determinations. A court may not reconsider an issue previously decided in the case except for good cause or as these rules provide otherwise.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 16.1, AZ ST RCRP Rule 16.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 16.2. Procedure on Pretrial Motions to Suppress Evidence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 16.2
+Rule 16.2. Procedure on Pretrial Motions to Suppress Evidence
+Currentness
+(a) Definition. For purposes of this rule, “suppress” refers to the exclusion of evidence that was unlawfully obtained due to a constitutional violation.
+(b) Burden of Proof on Pretrial Motions to Suppress Evidence.
+(1) Generally. Subject to (b)(2), the State has the burden of proving by a preponderance of the evidence the lawfulness in all respects of the acquisition of all evidence that the State will use at trial.
+(2) Defendant's Burden. If any of the conditions listed below are present, the State's burden of proof under (b)(1) arises only after the defendant alleges specific circumstances and establishes a prima facie case supporting the suppression of the evidence at issue:
+(A) the evidence involves a confession, identification, search, or seizure, and the defendant is entitled under Rule 15 to discover how the evidence was obtained;
+(B) defense counsel was present when the evidence was taken; or
+(C) the evidence was obtained under a warrant.
+(c) Duty of Court to Inform the Defendant. If an issue arises before trial concerning the constitutionality of using specific evidence against the defendant and the defendant is not represented by counsel, the court must inform the defendant that:
+(1) the defendant may, but is not required to, testify at a pretrial hearing about the circumstances surrounding the acquisition of the evidence;
+(2) if the defendant testifies at the hearing, the defendant will be subject to cross-examination;
+(3) by testifying at the hearing, the defendant does not waive the right to remain silent at trial; and
+(4) the defendant's testimony at the hearing, including the fact that such testimony occurred, will not be disclosed to the jury unless the defendant testifies at trial concerning the same matters.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 16.2, AZ ST RCRP Rule 16.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 16.3. Pretrial Conference
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: August 29, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings (Refs & Annos)
+Effective: August 29, 2022
+16A A.R.S. Rules Crim.Proc., Rule 16.3
+Formerly cited as AZ ST RCRP Rule 16.5
+Rule 16.3. Pretrial Conference
+Currentness
+(a) Generally. A court may conduct one or more pretrial conferences. The court may establish procedures and requirements that are necessary to accomplish a conference's objectives, including identifying appropriate cases for pretrial conferences, identifying who must attend, and determining sanctions for failing to attend. A superior court must conduct at least one pretrial conference.
+(b) Objectives. The objectives of a pretrial conference may include:
+(1) providing a forum and a process for the fair, orderly, and just disposition of cases without trial;
+(2) permitting the parties, without prejudice to their rights to trial, to engage in disclosure and to conduct negotiations for dispositions without trial;
+(3) discussing compliance with discovery requirements set forth in these rules and constitutional law; and
+(4) enabling the court to set a trial date.
+(c) Duty to Confer. Before the conference, the court may require the parties to confer and submit memoranda, including questions for a case-specific written questionnaire and all other oral and written questions to be asked of prospective jurors during voir dire.
+(d) Scope of Proceeding. At the conference, the court may:
+(1) hear motions made at or filed before the conference;
+(2) set additional pretrial conferences and evidentiary hearings as appropriate;
+(3) obtain stipulations to relevant facts;
+(4) discuss the use of case-specific written questionnaires and determine the areas of inquiry and specific questions to be asked by the court and the parties during voir dire, including any limitations on written or oral examination and whether to permit the parties to give brief pre-voir dire opening statements; and
+(5) discuss and determine any other matters that will promote a fair and expeditious trial, including imposing time limits on trial proceedings, using juror notebooks, giving preliminary instructions, and managing documents and exhibits effectively during trial.
+(e) Stipulated Evidence. At a pretrial conference or any time before the start of an evidentiary hearing, the parties may submit any issue to the court for decision based on stipulated evidence.
+(f) Record of Proceedings. Proceedings at a pretrial conference must be on the record.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Dec. 8, 2021, effective Jan. 1, 2022; amended on a permanent basis, effective Aug. 29, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 16.3, AZ ST RCRP Rule 16.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 16.4. Dismissal of Prosecution
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 16.4
+Formerly cited as AZ ST RCRP Rule 16.6
+Rule 16.4. Dismissal of Prosecution
+Currentness
+(a) On the State's Motion. On the State's motion and for good cause, the court may order a prosecution dismissed without prejudice if it finds that the dismissal is not to avoid Rule 8 time limits.
+(b) On a Defendant's Motion. On a defendant's motion, the court must order a prosecution's dismissal if it finds that the indictment, information, or complaint is insufficient as a matter of law.
+(c) Record. If the court grants a motion to dismiss a prosecution, it must state on the record its reasons for ordering dismissal.
+(d) Effect of Dismissal. Dismissal of a prosecution is without prejudice to commencing another prosecution, unless the court finds that the interests of justice require that the dismissal to be with prejudice.
+(e) Release of Defendant; Exoneration of Bond. If a court dismisses a prosecution, the court must order the release of the defendant from custody, unless the defendant also is being held on another charge. It also must exonerate any appearance bond.
+(v) Victims' Rights. On the victim's request, the victim must have an opportunity to confer with the prosecutor before the prosecutor moves to dismiss under (a).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 16.4, AZ ST RCRP Rule 16.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 16.5. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 16.5
+Rule 16.5. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 16.5, AZ ST RCRP Rule 16.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 16.6. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 16.6
+Rule 16.6. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 16.6, AZ ST RCRP Rule 16.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 16.7. Deleted, effective Aug. 1, 1975
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IV. Pretrial Procedures
+Rule 16. Pretrial Motions and Hearings (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 16.7
+Rule 16.7. Deleted, effective Aug. 1, 1975
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 16.7, AZ ST RCRP Rule 16.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 17, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record
+16A A.R.S. Rules Crim.Proc., R. 17, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 17, Refs & Annos, AZ ST RCRP R. 17, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 17.1. The Defendant's Plea
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record (Refs & Annos)
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 17.1
+Rule 17.1. The Defendant's Plea
+Currentness
+(a) Jurisdiction; Personal Appearance.
+(1) Jurisdiction. Only a court having jurisdiction to try the offense may accept a plea of guilty or no contest.
+(2) Personal Appearance. Except as provided in these rules, a court may accept a plea only if the defendant makes it personally in open court. If the defendant is a corporation, defense counsel or a corporate officer may enter a plea for the corporation. For purposes of this rule, a defendant who makes an appearance under Rule 1.5 is deemed to personally appear.
+(b) Voluntary and Intelligent Plea. A court may accept a plea of guilty or no contest only if the defendant enters the plea voluntarily and intelligently. Courts must use the procedures in Rules 17.2, 17.3, and 17.4 to assure compliance with this rule.
+(c) No Contest Plea. A plea of no contest may be accepted only after the court gives due consideration to the parties' views and to the interest of the public in the effective administration of justice.
+(d) Record of a Plea. The court must make a complete record of all plea proceedings.
+(e) Waiver of Appeal. A defendant who pleads guilty or no contest in a noncapital case waives the right to file a notice of appeal and to have an appellate court review the proceedings on a direct appeal under Rule 31. A defendant who pleads guilty or no contest may seek relief under Rule 33 by filing a Notice Requesting Post-Conviction Relief and a Petition for Post-Conviction Relief in the trial court.
+(f) Limited Jurisdiction Court Alternatives for Entering a Plea and Sentencing. The parts of Rule 17 and Rule 26.9 requiring a defendant to be present are met by the defendant complying with this rule's requirements.
+(1) Telephonic Pleas. “Telephonic” means voice only communications between the court and the parties. This rule's provisions concerning telephonic pleas also apply to pleas submitted through an online dispute resolution (“ODR”) system approved by the Administrative Office of the Courts.
+(A) Discretionary. A limited jurisdiction court has discretion to accept a telephonic plea of guilty or no contest to any misdemeanor offense.
+(B) Procedure. The defendant must submit the plea in writing to the court, and the writing must be substantially in the form set forth in Rule 41, Form 28. If the court authorizes it, the defendant may submit plea documents through an ODR system, and Form 28 may be used for that process. The documents the defendant submits for a telephonic plea must include the following:
+(i) a statement by the defendant that the defendant has read and understands the information in the form, waives applicable constitutional rights for a plea, and enters a plea of guilty or no contest to each of the offense(s) in the complaint, or to the offense(s) described in a written plea agreement
+(ii) a legible photocopy of the defendant's driver's license or other government-issued photo identification that contains the defendant's name and birth date; and
+(iii) any other forms the prosecutor provides that are deemed necessary by the parties for completing a plea under the circumstances of the case.
+(C) Fingerprint.
+(i) If the defendant is entering a plea to an offense described in A.R.S. § 13-607(A), Form 28 also must contain a signed certification from a law enforcement officer in the state in which the defendant resides that the defendant personally appeared before the officer and signed Form 28, and that the officer affixed the defendant's fingerprint to the form.
+(ii) If the defendant is entering a plea to an offense described in A.R.S. § 13-607(A) and the defendant's plea form does not include the defendant's fingerprint and the law enforcement officer's certification as this rule requires, the court may defer the plea's acceptance until the defendant has submitted the required fingerprint and certification, or until the defendant appears in open court for sentencing and provides a fingerprint at that time.
+(iii) In extraordinary circumstances, instead of requiring a certification and fingerprint, the court may permit another method of proving the defendant's identification on Form 28, including allowing the defendant to use a notarial officer to witness the defendant's signature on the form.
+(D) Judicial Findings. Before accepting a plea, the court must hold an in-person or telephonic hearing with the parties, advise the defendant of the items set forth in Form 28, inform the defendant that the offense(s) may be used as a prior conviction, and find:
+(i) a factual basis exists for believing the defendant is guilty of the offense(s); and
+(ii) the defendant's plea is knowingly, voluntarily, and intelligently entered.
+(E) Sentencing. After entry and acceptance of a telephonic plea, the court may sentence the defendant, either on the same day or later, in-person, telephonically (if the parties stipulate to it), or using an interactive audiovisual system (if the parties stipulate to it under Rule 1.5(c)(3)).
+(2) Plea by Mail.
+(A) Eligibility. A limited jurisdiction court has discretion to accept by mail a written plea of guilty or no contest to a misdemeanor or petty offense if the court finds that a personal appearance by the defendant would constitute an undue hardship such as illness, physical incapacity, substantial travel distance, or incarceration. The presiding judge of each court must establish a policy for the State's participation in pleas submitted by mail.
+(B) When a Plea May Not Be Accepted by Mail. A court may not accept a plea by mail in a case:
+(i) involving a victim;
+(ii) in which the court may impose a jail term, unless the defendant is sentenced to time served or the defendant is currently incarcerated and the proposed term of incarceration would be served concurrently and not extend the period of incarceration;
+(iii) in which the court may sentence the defendant to a term of probation;
+(iv) involving an offense for which A.R.S. § 13-607 requires the taking of a fingerprint upon sentencing; or
+(v) in which this method of entering a plea would not be in the interests of justice.
+(C) Procedure. The defendant must submit the plea in writing substantially in the form set forth in Rule 41, Form 28(a). The defendant must sign the plea form, which must include the following:
+(i) a statement that the defendant has read and understands the information on the form, waives applicable constitutional rights for a plea, and enters a plea of guilty or no contest to each of the offenses in the complaint and consents to the entry of judgment; and
+(ii) a statement for the court to consider when determining the sentence.
+(D) Mailing. The court must mail a copy of the judgment to the defendant.
+(3) Remote Pleas by Interactive Audiovisual Means. For the purpose of Rule 17.1(f)(3), “remote plea” means a plea entered by a defendant appearing through audiovisual means using an interactive audiovisual system under Rule 1.5 and ACJA § 5-208. The plea can be a plea directly to the court or by plea agreement.
+(A) Generally. To the extent they are consistent, Rule 17's requirements apply to remote plea proceedings in the same manner as in-person plea proceedings.
+(B) Procedure. The court must provide instructions to the participants on how to initiate the remote plea proceeding.
+(C) Submission of Plea Documents. If the court authorizes it, the plea agreement and any other documents necessary for the court to accept the plea may be submitted to the court electronically.
+(D) Sentencing. After entry and acceptance of a remote plea, the court may sentence the defendant, either on the same day or later, in-person, telephonically (if the parties stipulate to it), or using an interactive audiovisual system (if the parties stipulate to it under Rule 1.5(c)(3)).
+(E) Fingerprint. If the court is sentencing the defendant for an offense described in A.R.S. § 13-607(A), the court must obtain the defendant's fingerprint in compliance with Rule 26.10(d).
+(F) Open Court. Any requirement that something be done in open court is met if it is done during a remote plea proceeding held according to Rule 17.1(f)(3).
+(G) Continued Application. Rule 17.1(f)(3) continues to apply if, after the remote plea proceeding has started, a party's video connection stops working but the person's audio connection still works, and the court has sufficiently verified the person's identity.
+(v) Victims' Rights. In a telephonic or remote plea proceeding, a victim has the same rights under Rule 39 to notice and participation as if the defendant physically appeared in the courtroom. The court may not accept a plea by mail in a case involving a victim.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 29, 2019, effective Jan. 1, 2020; Aug. 27, 2020, effective Jan. 1, 2021; amended on an emergency basis, effective Aug. 29, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023; amended Dec. 8, 2022, effective July 1, 2023; Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 17.1, AZ ST RCRP Rule 17.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 17.2. Advising of Rights and Consequences of a Guilty or No Contest Plea
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 17.2
+Rule 17.2. Advising of Rights and Consequences of a Guilty or No Contest Plea
+Currentness
+(a) Generally. Except as provided in Rule 17.1(f)(2), before accepting a plea of guilty or no contest, the court must address the defendant personally, inform the defendant of the following, and determine that the defendant understands:
+(1) the nature of the charges to which the defendant will plead;
+(2) the range of possible sentences for the offenses to which the defendant is pleading, any special conditions regarding sentencing, parole, or commutation imposed by statute;
+(3) the constitutional rights that the defendant foregoes by pleading guilty or no contest, including the right to counsel if defendant is not represented by counsel;
+(4) the right to plead not guilty; and
+(5) in a noncapital case, the defendant's plea of guilty or no contest will waive the right to appellate court review of the proceedings on a direct appeal; and that the defendant may seek review only by filing a petition for post-conviction relief under Rule 33 and, if it is denied, a petition for review.
+(b) Collateral Consequences.
+(1) Civil Rights. In pleading to a felony offense, the court must advise that a plea will affect the defendant's civil rights and specifically state:
+“If you are convicted of a felony offense, certain civil rights will be suspended. These rights include the right to vote, serve as a juror, hold public office, and possess a firearm.”
+(2) Immigration. The court must advise that a plea may have immigration consequences and specifically state:
+“If you are not a citizen of the United States, pleading guilty or no contest to a crime may affect your immigration status. Admitting guilt may result in deportation even if the charge is later dismissed. Your plea or admission of guilt could result in your deportation or removal, could prevent you from ever being able to get legal status in the United States, or could prevent you from becoming a United States citizen.”
+(3) Other Collateral Consequences. The court must generally advise that a plea may have other collateral consequences but need not specify precisely what they may be.
+(4) Advisement Before Admission of Facts. A court also must give the advisement in (b) before any admission of facts sufficient to warrant a finding of guilt, or before any submission on the record.
+(c) Disclosure of Immigration Status. A court may not require a defendant to disclose his or her legal status in the United States.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended effective Sept. 9, 2022; Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 17.2, AZ ST RCRP Rule 17.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 17.3. A Court's Duty to Determine Whether a Plea is Entered Voluntarily and Intelligen...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 17.3
+Rule 17.3. A Court's Duty to Determine Whether a Plea is Entered Voluntarily and Intelligently
+Currentness
+(a) Required Judicial Determination. Except as provided in Rule 17.1(f)(2), a court may not accept a plea of guilty or no contest unless it determines, after addressing the defendant personally in open court, that:
+(1) the defendant wishes to forego the constitutional rights of which the defendant has been advised; and
+(2) the defendant's plea is voluntary and not the result of force, threats or promises (other than that which is included in the plea agreement).
+(b) Determining a Factual Basis. The court must find a factual basis for all guilty or no contest pleas. When making this finding, the court may consider the defendant's statements, police reports, certified transcripts of grand jury proceedings, or other satisfactory information. The court may make this finding at the time of the plea, or it may defer that determination until judgment is entered.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 17.3, AZ ST RCRP Rule 17.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 17.4. Plea Negotiations and Agreements
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 17.4
+Rule 17.4. Plea Negotiations and Agreements
+Currentness
+(a) Plea Negotiations.
+(1) Generally. The parties may negotiate and reach agreement on any aspect of a case.
+(2) Judicial Participation. At either party's request or on its own, a court may order counsel with settlement authority to participate in good faith discussions to resolve the case in a manner that serves the interests of justice. The assigned trial judge may participate in this discussion only if the parties consent. In all other cases, the discussion must be before another judge. If settlement discussions do not result in an agreement, the case must be returned to the trial judge.
+(b) Plea Agreement. The terms of a plea agreement must be in writing and be signed by the defendant, defense counsel (if any), and the prosecutor. The parties must file the agreement with the court. Any party may withdraw from an agreement before the court accepts it.
+(c) Determining Accuracy, Voluntariness, and Intelligent Acceptance of the Agreement. Before accepting the plea agreement, the court must address the defendant and confirm that the written plea agreement contains all the agreement's terms and that the defendant understands and agrees to the terms.
+(d) Accepting the Plea. After making the determinations required by (c) and considering the victim's comments under (v)(2), the court must either accept or reject the submitted plea. The court is not bound by any provision in the plea agreement regarding the sentence or probation terms and conditions if, after accepting the agreement and reviewing a presentence report, the court rejects the provision as inappropriate.
+(e) Rejecting the Plea. If the court rejects a plea agreement or any provision in the agreement, it must give the defendant an opportunity to withdraw the plea. The court must inform the defendant that if the plea is not withdrawn, the disposition of the case may be less favorable to the defendant than what the agreement provided.
+(f) Admissibility or Inadmissibility of a Plea, Plea Discussions, and Related Statements. Arizona Rule of Evidence 410 governs the admissibility of a plea, a plea discussion, and any related statement.
+(g) Change of Judge if Plea Withdrawn. A defendant who withdraws a plea after a presentence report is submitted may exercise a change of judge as a matter of right under Rule 10.2 if the defendant has not previously exercised that right.
+(v) Victims' Rights.
+(1) Victim Participation During Plea Discussions. The victim must have an opportunity to confer with the prosecutor, if they have not already conferred, before any case resolution. The prosecutor or the victim's representative must inform the court and defense counsel of the victim's position. If the defendant is present during settlement discussions, the victim also must have the opportunity to be present and to be heard regarding settlement.
+(2) Before the Court Accepts or Rejects a Plea Agreement. Before the court makes the determinations required by (c) and accepts or rejects the plea agreement, it must afford the victim the opportunity to be heard and consider any comments expressed by the victim.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 17.4, AZ ST RCRP Rule 17.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 17.5. Withdrawal of a Plea
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 17.5
+Rule 17.5. Withdrawal of a Plea
+Currentness
+The court may allow a defendant to withdraw a plea of guilty or no contest if it is necessary to correct a manifest injustice. Upon withdrawal of a plea, the charges against the defendant will be reinstated automatically as they existed before the plea agreement.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 17.5, AZ ST RCRP Rule 17.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 17.6. Admitting a Prior Conviction
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 17.6
+Rule 17.6. Admitting a Prior Conviction
+Currentness
+The court may accept the defendant's admission to an allegation of a prior conviction only under the procedures of this rule, unless the defendant admits the allegation while testifying in court.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 17.6, AZ ST RCRP Rule 17.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 17.7. Submitting a Case on the Record
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+V. Pleas of Guilty and NO Contest
+Rule 17. Pleas of Guilty and NO Contest; Submitting a Case on the Record (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 17.7
+Rule 17.7. Submitting a Case on the Record
+Currentness
+(a) Submission; Advising of Rights and Consequences of a Submission on the Record. If a defendant and the State agree, the parties may submit a case to the court on a stipulated record. The court must address the defendant personally and inform the defendant:
+(1) the judge will determine guilt or innocence based solely on the submitted record;
+(2) of the range of sentence and any special conditions of sentencing;
+(3) of all Rule 17.2 disclosures under Rule 17.2(a)(1)-(4) and (b) about plea rights and consequences;
+(4) of the defendant's waiver of the right to a jury trial (if the offense is eligible);
+(5) the defendant's waiver of the right to be represented by counsel at such a trial; and
+(6) if the defendant is found guilty, the defendant has the right to appeal.
+(b) Accepting the Submission. A court may accept an agreement to submit the case on a stipulated record only if it determines that the defendant has entered the agreement voluntarily and intelligently.
+(v) Victims' Rights. Before the State agrees to submit a case on the record, the victim must have an opportunity to confer with the prosecutor.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 17.7, AZ ST RCRP Rule 17.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+R. 18, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+VI. Trial
+Rule 18. Trial by Jury; Waiver; Selection and Preparation of Jurors
+16A A.R.S. Rules Crim.Proc., R. 18, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 18, Refs & Annos, AZ ST RCRP R. 18, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 18.1. Trial by Jury
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 18. Trial by Jury; Waiver; Selection and Preparation of Jurors (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 18.1
+Rule 18.1. Trial by Jury
+Currentness
+(a) By Jury. The number of jurors required to try a case and render a verdict is provided by law.
+(b) Waiver.
+(1) Generally. The defendant may waive the right to a trial by jury if the State and the court consent. If the State and the court agree, a defendant also may waive the right to have a jury determine aggravation or the penalty in a capital case.
+(2) Voluntariness. Before accepting a defendant's waiver of a jury trial, the court must address the defendant personally, inform the defendant of the defendant's right to a jury trial, and determine that the defendant's waiver is knowing, voluntary, and intelligent.
+(3) Form of Waiver. A defendant's waiver of a jury trial must be in writing or on the record in open court.
+(4) Withdrawal of Waiver. With the court's permission, a defendant may withdraw a waiver of jury trial, but a defendant may not withdraw a waiver after the court begins taking evidence.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 18.1, AZ ST RCRP Rule 18.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 18.2. Additional Jurors
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 18. Trial by Jury; Waiver; Selection and Preparation of Jurors (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 18.2
+Rule 18.2. Additional Jurors
+Currentness
+As deemed necessary, the court may empanel jurors in excess of the number required to render a verdict as it deems necessary. All jurors are deemed trial jurors until alternate jurors are designated under Rule 18.5(h).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 18.2, AZ ST RCRP Rule 18.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 18.3. Jurors' Information
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 18. Trial by Jury; Waiver; Selection and Preparation of Jurors (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 18.3
+Rule 18.3. Jurors' Information
+Currentness
+(a) Information Provided to the Parties. Before conducting oral voir dire examination, the court must provide each party with a list of the names of the prospective jurors on the panel called for the case. The list must include each prospective juror's zip code, employment status, occupation, employer, residency status, education level, prior jury duty experience, and any prior felony conviction within a specified time established by the jury commissioner or the court.
+(b) Confidentiality of Eligibility and Biographical Information. The court must obtain and maintain juror information in a manner and form approved by the Supreme Court as set forth in statute, rule, Administrative Code or Administrative order, and this information may be used only for the purpose of jury selection. The court must keep all jurors' dates of birth, email addresses, home and business telephone numbers and addresses confidential, and may not disclose them unless by order of the court for good cause shown.
+(c) Confidentiality of Case-Specific Written Questionnaires. If the court requires prospective jurors to complete case-specific written questionnaires, any completed case-specific questionnaires must be filed under seal and must be maintained in a manner and form approved by the court as part of the case file. Before conducting oral voir dire, the prospective jurors' responses to the case-specific written questionnaires must be provided to each party by the clerk or court. Any party or counsel receiving a copy of responses to the case-specific written questionnaires must not disclose the information to the public and may disclose the information only to the extent necessary for the proper conduct of the case. When jury selection is completed, counsel for either party may retain copies of case-specific written questionnaires containing work product within their case files. Otherwise, each recipient must destroy or return to the court all copies of the responses to the case-specific written questionnaires.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Dec. 8, 2021, effective Jan. 1, 2022; permanently adopted effective Aug. 29, 2022; amended on an emergency basis Aug. 22, 2024, effective Sept. 14, 2024, permanently adopted Dec. 3, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 18.3, AZ ST RCRP Rule 18.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 18.4. Challenges
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 18. Trial by Jury; Waiver; Selection and Preparation of Jurors (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 18.4
+Rule 18.4. Challenges
+Currentness
+(a) Challenge to the Panel. Any party may challenge the panel on the ground that its selection involved a material departure from the requirements of law. Challenges to the panel on this ground must be in writing, specify the factual basis for the challenge, and make a showing of prejudice to the party. A party must make, and the court must decide, a challenge to a panel before the examination of any individual prospective juror.
+(b) Challenge for Cause. The court, on motion or on its own, must excuse a prospective juror or jurors from service in the case if there is a reasonable ground to believe that the juror or jurors cannot render a fair and impartial verdict. A challenge for cause may be made at any time, but the court may deny a challenge if the party was not diligent in making it.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 30, 2021, effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 18.4, AZ ST RCRP Rule 18.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 18.5. Procedure for Jury Selection
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: August 29, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 18. Trial by Jury; Waiver; Selection and Preparation of Jurors (Refs & Annos)
+Effective: August 29, 2022
+16A A.R.S. Rules Crim.Proc., Rule 18.5
+Rule 18.5. Procedure for Jury Selection
+Currentness
+(a) Swearing the Jury Panel. Each prospective juror must swear or affirm that the answers provided in response to the case-specific written questionnaire are truthful. Before oral voir dire, each prospective juror must swear or affirm that they will truthfully answer all questions concerning their qualifications.
+(b) Explanation of Voir Dire. At the beginning of any written or oral examination, the court must provide information on the purpose of voir dire, how the court and the parties will use the prospective jurors' information, and who may have access to the information prospective jurors provide. Any case-specific written questionnaires used should include this information in an introduction.
+(c) Case-Specific Written Questionnaires. Unless the court orders otherwise, the court should require each prospective juror to complete a case-specific written questionnaire in a manner and form approved by the court. The written questionnaire should include questions about the prospective juror's qualifications to serve in the case, any hardships that would prevent the prospective juror from serving, and whether the prospective juror could render a fair and impartial verdict.
+(d) Calling Jurors for Examination. The court must conduct voir dire orally. During oral examination, the court may call to the jury box a number of prospective jurors equal to the number to serve plus the number of alternates. Alternatively, and at the court's discretion, all members of the panel may be examined.
+(e) Inquiry by the Court; Brief Opening Statements. Before orally examining the prospective jurors, the court must identify the parties and their counsel and, briefly outline the nature of the case. The court must then ask any necessary questions about the prospective jurors' qualifications to serve in the case. With the court's permission and before oral voir dire examination, the parties may present brief opening statements to the entire jury panel.
+(f) Voir Dire Examination. In courts of record, voir dire examination must be conducted on the record. The court must conduct a thorough oral examination of the prospective jurors and control the voir dire examination. Upon request, the court must allow the parties sufficient time, with other reasonable limitations, to conduct a further oral examination of the prospective jurors. A party's failure to submit questions to the court prior to examination should not be grounds to deny a party the opportunity to conduct an oral examination. Nothing in this rule precludes submitting written questionnaires to the prospective jurors or examining individual prospective jurors outside the presence of other prospective jurors. The court retains the discretion to manage voir dire, including to preclude improper, excessive, or abusive questioning.
+(g) Scope of Examination. The court must ensure the reasonable protection of the prospective jurors' privacy. Questioning must be limited to inquiries designed to elicit information relevant to asserting a possible challenge for cause.
+(h) Challenge for Cause. Challenges for cause must be on the record and made out of the hearing of the prospective jurors. The party challenging a juror for cause has the burden to establish by a preponderance of the evidence that the juror cannot render a fair and impartial verdict. In making its determination, the court must consider the totality of a prospective juror's conduct and answers given during voir dire as stated on the record by the trial court. If insufficient prospective jurors remain on the list, the court must add a prospective juror from a new panel.
+(i) Stipulation to Remove a Prospective Juror for Cause. The court may excuse a prospective juror upon stipulation of the parties that, in their good faith belief, the prospective juror cannot render a fair and impartial verdict.
+(j) Selection of Jury; Alternate Jurors.
+(1) Trial Jurors. After the court has resolved any challenges for cause, the prospective jurors remaining in the jury box or on the list of prospective jurors constitute the trial jurors.
+(2) Selection of Alternates and Instruction. Just before the jury retires to begin deliberations, the clerk or court official must determine the alternate juror or jurors by lot or stipulation. When the jury retires to deliberate, the alternate or alternates may not participate, but the court must instruct the alternate juror or jurors to continue to observe the admonitions to jurors until the court informs them that a verdict has been returned or the jury has been discharged.
+(3) Replacing a Deliberating Juror. If the court excuses a deliberating juror due to the juror's inability or disqualification to perform the required duties, the court may substitute an alternate juror to join the deliberations, choosing the alternate from among the qualified alternates in the order previously designated. If an alternate joins the deliberations, the court must instruct the jury to begin its deliberations anew.
+(k) Deliberations in a Capital Case.
+(1) Retaining Alternates. In a capital case, alternate jurors not selected to participate in the guilt phase deliberations must not be excused if the jury returns a guilty verdict of first-degree murder. This rule governs their continued participation in the case.
+(A) Aggravation Phase. During the aggravation phase, the alternate jurors must listen to the evidence and argument presented to the jury. When the jury retires to deliberate on aggravation, the alternate or alternates may not participate, but the court must instruct the alternates to continue to observe the admonitions to jurors until the court informs the alternates that they are discharged.
+(B) Penalty Phase. If the jury returns a verdict finding one or more aggravating factors, the alternate jurors must listen to the evidence and argument presented at the penalty phase. When the jury retires to deliberate on the penalty, the alternate or alternates may not participate, but the court must instruct the alternates to continue to observe the admonitions to jurors until the court informs the alternates that they are discharged.
+(2) Replacing a Deliberating Juror.
+(A) Generally. If a deliberating juror is excused during either the aggravation or penalty phases due to the juror's inability or disqualification to perform required duties, the court may substitute an alternate juror to join the deliberations, choosing from among the qualified alternates in the order previously designated.
+(B) Scope of Deliberations. If an alternate or alternates are substituted during the aggravation or penalty deliberations, the jurors must begin their deliberations anew only for the phase that they are currently deliberating. The jurors may not deliberate anew a verdict already reached and entered.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 30, 2021, effective Jan. 1, 2022; amended on an emergency basis Dec. 8, 2021, effective Jan. 1, 2022; amended on a permanent basis, effective Aug. 29, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 18.5, AZ ST RCRP Rule 18.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 18.6. Jurors' Conduct
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 18. Trial by Jury; Waiver; Selection and Preparation of Jurors (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 18.6
+Rule 18.6. Jurors' Conduct
+Currentness
+(a) Information. The court may provide prospective jurors with orientation information about jury service.
+(b) Oath. Each juror must take the following oath:
+“Do you swear (or affirm) that you will give careful attention to the proceedings, follow the court's instructions, including the admonition, and render a verdict in accordance with the law and evidence presented to you, (so help you God)?”
+If a juror affirms, the clause “so help you God” must be omitted. In justice court cases, the court should give jurors the oath prescribed by A.R.S. § 22-322.
+(c) Preliminary Instructions. After the jury is sworn, the court must instruct the jury concerning its duties, its conduct, the order of proceedings, the procedure for submitting written questions to witnesses or the court as set forth in (e), and legal principles that will govern the proceeding. Instructions should be as readily understandable as possible by individuals unfamiliar with the legal system.
+(d) Juror Note Taking and Notebooks.
+(1) Juror Note Taking. The court must instruct the jurors that they may take notes. The court must provide materials suitable for this purpose.
+(2) Juror Notebooks. To aid the jurors in performing their duties, the court may authorize the parties to provide the jurors with notebooks containing documents and exhibits.
+(3) Juror Access. Jurors must have access to their notes and notebooks during recesses and deliberations. In a capital case, the jurors must have access to their notes from the trial and all phases of the proceeding until the jury renders a penalty verdict or is dismissed.
+(4) Disposal of Juror Notes. When the jury is discharged, all juror notes, including deliberation notes, must be promptly collected and destroyed.
+(e) Juror Questions. Jurors must be instructed that they are permitted to submit to the court written questions directed to witnesses or to the court and that the court will give the parties an opportunity to object to those questions outside the jury's presence. Despite this general rule, the court may prohibit or limit the submission of questions to witnesses for good cause.
+(f) Additional Communications. During the course of the trial, the court must provide additional instructions to the jury as necessary. All communications between the judge and members of the jury panel must be in writing or on the record.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 18.6, AZ ST RCRP Rule 18.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+R. 19, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+VI. Trial
+Rule 19. Trial
+16A A.R.S. Rules Crim.Proc., R. 19, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 19, Refs & Annos, AZ ST RCRP R. 19, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 19.1. Conduct of Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 19. Trial (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 19.1
+Rule 19.1. Conduct of Trial
+Currentness
+(a) Generally.
+(1) Application. This rule generally applies to all trials, but portions of this rule may not apply to non-jury trials.
+(2) Modification. With permission of the court, the parties may agree to a different method of proceeding than described in this rule.
+(b) Order of Proceedings. A trial proceeds in the following order unless the court directs otherwise:
+(1) the court reads the indictment, information, or complaint to the jury and states the defendant's plea;
+(2) the State may make an opening statement;
+(3) the defendant may make or defer an opening statement;
+(4) the State must offer evidence in support of the charge;
+(5) the defendant may make an opening statement if it was deferred, and offer evidence in his or her defense;
+(6) the parties may offer evidence in rebuttal unless the court, for good cause, allows a party's case-in-chief to be reopened;
+(7) the parties may present arguments, with the State having an opening and a closing argument; and
+(8) the court must instruct the jury.
+(c) Proceedings if the Defendant Is Charged with Prior Convictions or Noncapital Sentencing Allegations.
+(1) During Determination of Guilt or Innocence. If a prior conviction or noncapital sentencing allegation must be found following a guilty verdict, the trial must proceed initially as though there were no prior conviction or sentencing allegations, unless the conviction or sentencing allegation is an element of the charged crime.
+(A) When the court reads the indictment, information or complaint, it must omit all references to prior conviction or sentencing allegations.
+(B) During trial, the court must not instruct, refer to, or admit evidence concerning a prior conviction or noncapital sentencing allegation, except as permitted by the Arizona Rules of Evidence.
+(2) After a Guilty Verdict. If the jury renders a guilty verdict:
+(A) the defendant may admit any noncapital sentencing allegation;
+(B) the State must prove to the jury any noncapital sentencing allegation not admitted by the defendant, but it need not do so for any aggravator that is already an element of the offense; and
+(C) the court decides the existence of any prior conviction allegation.
+(d) Aggravation Phase in a Capital Case. If a defendant is convicted of first-degree murder and the State has filed a notice of intent to seek the death penalty, the aggravation phase proceeds as follows:
+(1) the court must read the alleged aggravators to the jury;
+(2) the State may make an opening statement;
+(3) the defendant may make or defer an opening statement;
+(4) the State must offer evidence in support of the alleged aggravating circumstances;
+(5) the defendant may make an opening statement if it was deferred, and offer evidence in defense of the alleged aggravating circumstances;
+(6) the parties may offer evidence in rebuttal unless the court, for good cause, allows a party's case-in-chief to be reopened;
+(7) the parties may present arguments, with the State having an opening and a closing argument; and
+(8) the court must instruct the jury.
+(e) Penalty Phase in a Capital Case. If a jury finds one or more aggravating circumstances, the penalty phase proceeds as follows:
+(1) the defendant may make an opening statement;
+(2) the State may make or defer an opening statement;
+(3) the victim's survivors may make a statement relating to the victim's characteristics and the crime's impact on the victim's family, but they may not offer any opinion or recommendation about an appropriate sentence;
+(4) the defendant may offer evidence in support of mitigation;
+(5) the State may make an opening statement if it was deferred, and offer any evidence relevant to mitigation;
+(6) the defendant may offer evidence in rebuttal, unless the court, for good cause, allows a party's case-in-chief to be reopened;
+(7) the defendant may present statements of allocution to the jury;
+(8) the parties may present argument, with the defendant having the opening and closing arguments; and
+(9) the court must instruct the jury.
+(f) Use of a Facility Dog. The court will allow the assistance of a facility dog as directed by A.R.S. § 13-4442.
+(v) Victims' Rights.
+(1) Victim's Opportunity to Confer with the Prosecutor. The victim must have an opportunity to confer with the prosecutor about trial before the trial begins.
+(2) Identifying and Locating Information. A victim has the right to refuse to testify regarding any identifying or locating information, unless the victim consents or the court orders disclosure after finding a compelling need for the information. The court must conduct a proceeding on a motion to require such testimony in camera.
+(3) Representative of a Minor or Incapacitated Victim. If a representative of a minor victim or an incapacitated victim requests to be recognized during trial, the representative must notify the prosecutor, who must then inform the court of the request outside the presence of the jury. Any communications between the representative and the court during trial must be conducted in the presence of the parties or their counsel, and outside the jury's presence. Any substantive communications must be on the record.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 19.1, AZ ST RCRP Rule 19.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 19.2. Presence of the Defendant at Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 19. Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 19.2
+Rule 19.2. Presence of the Defendant at Trial
+Currentness
+A defendant in a felony or misdemeanor trial has the right to be present at every stage of the trial, including, if applicable, the impaneling of the jury, the giving of additional instructions under Rule 22, and the return of the verdict. This right may be waived under Rule 9.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 19.2, AZ ST RCRP Rule 19.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 19.3. Admonitions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 19. Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 19.3
+Rule 19.3. Admonitions
+Currentness
+The court must admonish jurors not to:
+(a) converse among themselves or with anyone else on any subject connected with the trial until instructed to deliberate;
+(b) permit themselves to be exposed to news accounts about the proceeding;
+(c) form or express any opinion about the case until it is finally submitted to them;
+(d) view in person or through technological means the place where the offense allegedly was committed; or
+(e) conduct any independent research, investigation, or experiments, or otherwise consult any outside source about any issue in the case.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 19.3, AZ ST RCRP Rule 19.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 19.4. A Judge's Death, Illness, or Other Incapacity
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 19. Trial (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 19.4
+Formerly cited as AZ ST RCRP Rule 19.5
+Rule 19.4. A Judge's Death, Illness, or Other Incapacity
+Currentness
+If the judge who is hearing or trying a criminal proceeding becomes ill or is otherwise incapacitated, that judge may be replaced by another judge of the same court. If no other judge is available, the clerk or bailiff must recess the court and notify the presiding judge or, if unavailable, the Supreme Court Chief Justice, who will enter an order continuing the trial until selection of another judge to resume the proceeding. A court of appeals judge or a judge pro tempore may be appointed as a substitute. If the new judge believes after reviewing the record that continuing the proceeding would be unduly prejudicial, the judge must order a new trial or proceeding. The judge should consider the manifest necessity of declaring a mistrial over the objection of the defendant before ordering it.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 19.4, AZ ST RCRP Rule 19.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 19.5. Sequestration
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 19. Trial (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 19.5
+Formerly cited as AZ ST RCRP Rule 19.6
+Rule 19.5. Sequestration
+Currentness
+The court may permit jurors to separate or, on motion or on its own, may sequester jurors under the charge of a proper officer whenever they leave the jury box.
+Credits
+Formerly Rule 19.6. added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 19.5 Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 19.5, AZ ST RCRP Rule 19.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 20. Judgment of Acquittal or Unproven Aggravator
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 20. Judgment of Acquittal or Unproven Aggravator
+16A A.R.S. Rules Crim.Proc., Rule 20
+Rule 20. Judgment of Acquittal or Unproven Aggravator
+Currentness
+(a) Before Verdict.
+(1) Acquittal. After the close of evidence on either side, and on motion or on its own, the court must enter a judgment of acquittal on any offense charged in an indictment, information, or complaint if there is no substantial evidence to support a conviction.
+(2) Aggravation. After the close of evidence on either side in an aggravation phase, and on motion or on its own, the court must enter a judgment that an aggravating circumstance or other sentence enhancement was not proven if there is no substantial evidence to support the allegation.
+(3) Timing. The court must rule on a defendant's motion with all possible speed. Until the motion is decided, the defendant is not required to proceed.
+(b) After Verdict.
+(1) On Motion. A defendant may make or renew a motion for judgment of acquittal or unproven aggravator or other sentence enhancement on any conviction or allegation no later than 10 days after any verdict is returned.
+(2) On Court's Own Initiative. After the verdict, if the court determines that there is no substantial evidence to support the verdict, the court on its own must order a judgment of acquittal or find an aggravator or other sentence enhancement not proven.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 20, AZ ST RCRP Rule 20
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 21.1. Applicable Law
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 21. Jury Instructions and Verdict Forms
+16A A.R.S. Rules Crim.Proc., Rule 21.1
+Rule 21.1. Applicable Law
+Currentness
+Except as otherwise provided, the procedures in Arizona Rule of Civil Procedure 51 apply in criminal proceedings.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 21.1, AZ ST RCRP Rule 21.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 21.2. Requests for Instructions and Verdict Forms
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 21. Jury Instructions and Verdict Forms
+16A A.R.S. Rules Crim.Proc., Rule 21.2
+Rule 21.2. Requests for Instructions and Verdict Forms
+Currentness
+At a time the court directs, but no later than the close of the evidence, the parties must submit to the court written requests for instructions and may submit to the court proposed verdict forms. Requested instructions and proposed verdict forms must be provided to the other parties, including co-defendants.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 21.2, AZ ST RCRP Rule 21.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 21.3. Rulings on Instructions and Verdict Forms
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 21. Jury Instructions and Verdict Forms
+16A A.R.S. Rules Crim.Proc., Rule 21.3
+Rule 21.3. Rulings on Instructions and Verdict Forms
+Currentness
+(a) Conference. The court must confer with the parties before closing argument and inform them of its proposed jury instructions and verdict forms.
+(b) Record of Objections. Any objection to the court's giving or failing to give any instruction or a portion of an instruction or a form of verdict must be made before the jury retires to consider its verdict. The objection must be on the record and distinctly state the matter to which the party objects and the grounds for the objection. If a party does not make a proper objection, appellate review may be limited.
+(c) Source of the Instructions. The court must not inform the jury which instructions were requested by a particular party.
+(d) Jurors' Copies. The court's preliminary and final instructions must be in writing, and the court must furnish a copy of the instructions to each juror before the court reads them.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 21.3, AZ ST RCRP Rule 21.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 21.4. Verdict Forms for Necessarily Included Offenses or Attempts
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 21. Jury Instructions and Verdict Forms
+16A A.R.S. Rules Crim.Proc., Rule 21.4
+Rule 21.4. Verdict Forms for Necessarily Included Offenses or Attempts
+Currentness
+(a) Generally. On request by any party and if supported by the evidence, the court must submit forms of verdicts to the jury for:
+(1) all offenses necessarily included in the offense charged;
+(2) an attempt to commit the offense charged if such an attempt is a crime; and
+(3) all offenses necessarily included in an attempt.
+(b) If No Form is Provided. If the court did not submit to the jury a form of verdict for an offense, the jury may not find the defendant guilty of that offense.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 21.4, AZ ST RCRP Rule 21.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 22.1. Instructions and Retirement
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 22. Deliberations
+16A A.R.S. Rules Crim.Proc., Rule 22.1
+Rule 22.1. Instructions and Retirement
+Currentness
+(a) Retirement.
+(1) Instructions. Before the jury begins its deliberations, the court must instruct the jury on the applicable law, the procedures it must follow during deliberations, and the appropriate method to report the results of its deliberations. The instructions must be recorded or in writing, and be available to the jurors during deliberations.
+(2) Foreperson. The court must appoint, or instruct the jurors to elect, a foreperson.
+(3) Retirement. After instructing the jury, the court must direct the jury to retire under the charge of a court official to begin its deliberations.
+(b) Permitting the Jury to Disperse. The court may permit the jurors to disperse after they begin their deliberations. The court must instruct the jurors when to reassemble and admonish the jury under Rule 19.3.
+(c) Length of Jury Deliberations. The court must not require a jury to deliberate after normal working hours unless the court, after consulting with the jury and the parties, determines that evening or weekend deliberations are necessary in the interest of justice and will not impose an undue hardship on the jurors.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 22.1, AZ ST RCRP Rule 22.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 22.2. Materials Used During Deliberations
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 22. Deliberations
+16A A.R.S. Rules Crim.Proc., Rule 22.2
+Rule 22.2. Materials Used During Deliberations
+Currentness
+(a) Generally. Upon retiring for deliberations, jurors must take into the jury room:
+(1) forms of verdict approved by the court;
+(2) jurors' copies of the court's instructions;
+(3) jurors' notes; and
+(4) tangible evidence as the court directs.
+(b) Verdict Form Limitation. The form of verdict must not indicate whether the described offense is a felony or a misdemeanor.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 22.2, AZ ST RCRP Rule 22.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 22.3. Repeating Testimony and Additional Instructions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 22. Deliberations
+16A A.R.S. Rules Crim.Proc., Rule 22.3
+Rule 22.3. Repeating Testimony and Additional Instructions
+Currentness
+(a) Repeating Testimony. If, after the jury retires, jurors request that any testimony be repeated, the court may recall the jury to the courtroom and order the testimony read or replayed. The court also may order other testimony repeated so as not to give undue emphasis to particular testimony.
+(b) Additional Instructions. If, after the jury retires, the jury or a party requests additional instructions, the court may recall the jury to the courtroom and further instruct the jury as appropriate.
+(c) Notice. The court must give the parties notice before testimony is repeated or before giving additional instructions.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 22.3, AZ ST RCRP Rule 22.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 22.4. Assisting Jurors at Impasse
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 22. Deliberations
+16A A.R.S. Rules Crim.Proc., Rule 22.4
+Rule 22.4. Assisting Jurors at Impasse
+Currentness
+If the jury advises the court that it has reached an impasse in its deliberations, the court may, in the parties' presence, ask the jury to determine whether and how the court and counsel can assist the jury's deliberations. After receiving the jurors' response, if any, the court may direct further proceedings as appropriate.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 22.4, AZ ST RCRP Rule 22.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 22.5. Discharging a Jury
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 22. Deliberations
+16A A.R.S. Rules Crim.Proc., Rule 22.5
+Rule 22.5. Discharging a Jury
+Currentness
+(a) Generally. The court must discharge the jury:
+(1) when its verdict has been recorded under Rule 23;
+(2) if the court determines there is no reasonable probability that the jurors can agree upon a verdict; or
+(3) when the court determines a necessity exists for its discharge.
+(b) Disclosures and Release from Confidentiality. When discharging a jury at the conclusion of the case, the court must advise the jurors that they are released from service. If appropriate, the court must release them from their duty of confidentiality and explain their rights regarding inquiries from counsel, the media, or any person.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 22.5, AZ ST RCRP Rule 22.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 23.1. Form of Verdict; Sealed Verdict
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 23. Verdict
+16A A.R.S. Rules Crim.Proc., Rule 23.1
+Rule 23.1. Form of Verdict; Sealed Verdict
+Currentness
+(a) Form of Verdict. The jury's verdict must be in writing, signed by the foreperson, and returned to the judge in open court. The foreperson may sign the verdict, either by affixing his or her signature on the verdict or by writing his or her juror number and initials on the verdict.
+(b) Sealed Verdicts.
+(1) Procedure. The court may instruct the jurors that if they agree on a verdict during a temporary adjournment of the court, the foreperson may sign the verdict as provided in (a), seal it in an envelope, and deliver it to the officer in charge. The jurors then may disperse and reassemble at a specified time and place. The officer must deliver the sealed verdict to the clerk as soon as practical. When the jurors have reassembled in the courtroom, the clerk must return the envelope to the judge in open court.
+(2) Admonition. If the court authorizes a sealed verdict, it must admonish the jurors not to make any disclosure concerning their verdict, or speak with others concerning the case, until the verdict has been returned and the jury has been discharged.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 23.1, AZ ST RCRP Rule 23.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 23.2. Types of Verdicts
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 23. Verdict
+16A A.R.S. Rules Crim.Proc., Rule 23.2
+Rule 23.2. Types of Verdicts
+Currentness
+(a) General Verdicts. Except as this rule specifies otherwise, in every case the jury must render a verdict finding the defendant either guilty or not guilty.
+(b) Insanity Verdicts. If a jury that determines a defendant is guilty except insane, it must state this determination in its verdict.
+(c) Different Offenses. If an indictment or information charges different counts or offenses, the verdict must specify each count or offense for which the jury has found the defendant guilty or not guilty.
+(d) Different Degrees. If the verdict of guilty is to an offense that is divided into degrees, the verdict must specify the degree of the offense for which the jury has found the defendant guilty.
+(e) Aggravation Verdict. After a guilty verdict and an aggravation phase, the jury must render a verdict determining whether the State proved each of the alleged aggravating circumstances submitted to the jury.
+(f) Penalty Verdict in a Capital Case. At the conclusion of the penalty phase in a capital case, the jury must render a verdict stating whether to impose a sentence of death or life.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 23.2, AZ ST RCRP Rule 23.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 23.3. Polling the Jury
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 23. Verdict
+16A A.R.S. Rules Crim.Proc., Rule 23.3
+Formerly cited as AZ ST RCRP Rule 23.4
+Rule 23.3. Polling the Jury
+Currentness
+(a) Generally. After the jury returns a verdict and before the court dismisses the jury, the court must poll the jury at the request of any party or on the court's own initiative. If the jurors' responses to the poll do not support the verdict, the court may direct them to deliberate further or the court may dismiss the jury.
+(b) Juror Confidentiality. When polling a jury, the court must not identify individual jurors by name, but must use such other methods or form of identification that are appropriate to ensure the jurors' privacy and an accurate record of the poll.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 23.3, AZ ST RCRP Rule 23.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 23.4. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VI. Trial
+Rule 23. Verdict
+16A A.R.S. Rules Crim.Proc., Rule 23.4
+Rule 23.4. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 23.4, AZ ST RCRP Rule 23.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 24.1. Motion for New Trial
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 24. Post-Trial Motions
+16A A.R.S. Rules Crim.Proc., Rule 24.1
+Rule 24.1. Motion for New Trial
+Currentness
+(a) The Court's Authority. After a verdict in any phase of trial, capital or noncapital, the court may order a new trial or phase of trial on the defendant's motion or on its own, with the defendant's consent.
+(b) Timeliness. A party must file a motion for a new trial no later than 10 days after return of the verdict being challenged. This deadline is jurisdictional and the court may not extend it.
+(c) Grounds. The court may grant a new trial or phase of trial if:
+(1) the verdict is contrary to law or the weight of the evidence;
+(2) the State is guilty of misconduct;
+(3) one or more jurors committed misconduct by:
+(A) receiving evidence not admitted during the trial or phase of trial;
+(B) deciding the verdict by lot;
+(C) perjuring himself or herself, or willfully failing to respond fully to a direct question posed during the voir dire examination;
+(D) receiving a bribe or pledging his or her vote in any other way;
+(E) being intoxicated during trial proceedings or deliberations; or
+(F) conversing before the verdict with any interested party about the outcome of the case;
+(4) the court erred in deciding a matter of law or in instructing the jury on a matter of law; or
+(5) for any other reason, not due to the defendant's own fault, the defendant did not receive a fair and impartial trial or phase of trial.
+(d) Admissibility of Juror Evidence to Impeach the Verdict. If a verdict's validity is challenged under (c)(3), the court may receive the testimony or affidavit of any witness, including members of the jury, that relates to the conduct of a juror, a court official, or a third person. But the court may not receive testimony or an affidavit that relates to the subjective motives or mental processes leading a juror to agree or disagree with the verdict.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 24.1, AZ ST RCRP Rule 24.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 24.2. Motion to Vacate Judgment
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: September 9, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 24. Post-Trial Motions
+Effective: September 9, 2022
+16A A.R.S. Rules Crim.Proc., Rule 24.2
+Rule 24.2. Motion to Vacate Judgment
+Currentness
+(a) Grounds. The court must vacate a judgment if it finds that:
+(1) the court did not have jurisdiction;
+(2) newly discovered material facts exist satisfying the standards in Rules 32.1(e) and 33.1(e); or
+(3) the conviction was obtained in violation of the United States or Arizona constitutions.
+(b) Time for Filing. A party must file a motion under this rule no later than 60 days after the entry of judgment and sentence, or, if a notice of appeal has already been filed under Rule 31, no later than 15 days after the appellate clerk distributes a notice under Rule 31.9(e) that the record on appeal has been filed.
+(c) Motion Filed After Notice of Appeal. If a party files a motion to vacate judgment after a notice of appeal is filed, the superior court clerk must immediately send copies of the motion to the Attorney General and to the clerk of the appellate court in which the appeal was filed.
+(d) Appeal from a Decision on the Motion. In noncapital cases, the party appealing a final decision on the motion must file a notice of appeal with the trial court clerk no later than 20 days after entry of the decision for a superior court case, or no later than 14 days after entry of the decision for a limited jurisdiction court case. In a capital case, if the court denies the motion, it must order the clerk to file a notice of appeal from that denial.
+(e) State's Motion to Vacate Judgment. Notwithstanding (b), the State may move the court to vacate the judgment at any time after the entry of judgment and sentence if:
+(1) clear and convincing evidence exists establishing that the defendant was convicted of an offense that the defendant did not commit; or
+(2) the conviction was based on an erroneous application of the law.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended effective Sept. 9, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 24.2, AZ ST RCRP Rule 24.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 24.3. Modification of Sentence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 24. Post-Trial Motions
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 24.3
+Rule 24.3. Modification of Sentence
+Currentness
+(a) Generally. No later than 60 days of the entry of judgment and sentence or, if a notice of appeal has already been filed under Rule 31, no later than 15 days after the appellate clerk distributes a notice under Rule 31.9(e) that the record on appeal has been filed, the court may correct any unlawful sentence or one imposed in an unlawful manner.
+(b) Mitigation. Unless otherwise provided by law, the court may mitigate a monetary obligation imposed at sentencing.
+(c) Appeal.
+(1) Noncapital Cases. In noncapital cases, the party appealing a final decision under Rule 24.3 must file a notice of appeal with the trial court clerk no later than 20 days after entry of the decision in superior court cases, or no later than 14 days after entry of the decision in limited jurisdiction court cases.
+(2) Capital Cases. In capital cases, after denying modification of a sentence of death, the court must order the clerk to file a notice of appeal from the denial.
+(v) Victims' Rights. The provisions of Rule 39 apply to any criminal proceeding concerning mitigation of a monetary obligation, including mitigation under (b).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 13, 2018, effective Jan. 1, 2019; Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 24.3, AZ ST RCRP Rule 24.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 24.4. Clerical Error
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 24. Post-Trial Motions
+16A A.R.S. Rules Crim.Proc., Rule 24.4
+Rule 24.4. Clerical Error
+Currentness
+The court on its own or on a party's motion may, at any time, correct clerical errors, omissions, and oversights in the record. The court must notify the parties of any correction.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 24.4, AZ ST RCRP Rule 24.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 25. Procedure After a Verdict or Finding of Guilty Except Insane
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 6, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 25. Procedure After a Verdict or Finding of Guilty Except Insane
+Effective: December 6, 2023
+16A A.R.S. Rules Crim.Proc., Rule 25
+Rule 25. Procedure After a Verdict or Finding of Guilty Except Insane
+Currentness
+After a verdict or finding under A.R.S. § 13-502 of guilty except insane, the court must commit the defendant to a secure mental health facility under the procedures provided in A.R.S. § 13-3992.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Aug. 24, 2023, permanently adopted effective Dec. 6, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 25, AZ ST RCRP Rule 25
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 26, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence
+16A A.R.S. Rules Crim.Proc., R. 26, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 26, Refs & Annos, AZ ST RCRP R. 26, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 26.1. Definitions; Scope
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.1
+Rule 26.1. Definitions; Scope
+Currentness
+(a) Determination of Guilt. “Determination of guilt” means the court's acceptance of a guilty or no contest plea or a guilty verdict by a jury or the court.
+(b) Judgment. “Judgment” means the court's adjudication that the defendant is guilty or not guilty based on the jury's or the court's verdict, or the defendant's plea.
+(c) Sentence. “Sentence” means the court's pronouncement of the penalty imposed on the defendant after a judgment of guilty.
+(d) Scope. Rule 26 does not apply to minor traffic offenses. Rules 26.4, 26.5, 26.6, 26.7, 26.8, and 26.15 apply only to the superior court.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.1, AZ ST RCRP Rule 26.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 26.2. Time to Render Judgment
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.2
+Rule 26.2. Time to Render Judgment
+Currentness
+(a) Upon Acquittal. If a defendant is found not guilty of any charge or any count of any charge, the court must immediately enter judgment pertaining to that count or charge.
+(b) Upon Conviction. Upon a determination of guilt on any charge or on any count of any charge, the court must enter judgment and either pronounce sentence or set a date for sentencing under Rule 26.3.
+(c) Upon a Death Verdict. Upon a death verdict, the court must immediately enter the judgment and sentence. The court must send, or direct the clerk to send, to the Department of Corrections the sentencing order and copies of all medical and mental health reports prepared for, or relating to, the defendant.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.2, AZ ST RCRP Rule 26.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 26.3. Sentencing Date and Time Extensions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.3
+Rule 26.3. Sentencing Date and Time Extensions
+Currentness
+(a) Sentencing Date.
+(1) Superior Court.
+(A) Generally. Upon a determination of guilt, the court must set a date for sentencing.
+(B) Deadline for Sentencing. The court must pronounce sentence no less than 15 nor more than 30 days after the determination of guilt unless the court, after informing the defendant of the right to a presentence report, grants the defendant's request that the court pronounce sentence earlier.
+(C) The Defendant's Presence or Absence. When setting a sentencing date, the court must order the defendant to be present for sentencing and, if the defendant fails to appear, issue a warrant for the defendant's arrest. Additionally, following a conviction based on a trial, the court must notify the defendant that if the defendant's absence prevents the court from sentencing the defendant no later than 90 days after the determination of guilt, the defendant will lose the right to have an appellate court review the trial proceedings by direct appeal.
+(2) Limited Jurisdiction Courts. A limited jurisdiction court may pronounce sentence immediately upon determining guilt unless the court orders, on its own or on a party's or a victim's request, that the court will pronounce sentence at a later date that is not more than 30 days after the determination of guilt.
+(b) Time Extension. If a presentencing hearing is requested under Rule 26.7 or for good cause, the court may reset the sentencing date, but the new date should be no later than 60 days after the determination of guilt.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.3, AZ ST RCRP Rule 26.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.4. Presentence Report
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.4
+Rule 26.4. Presentence Report
+Currentness
+(a) When Required. The court must order a presentence report in every case in which it has discretion over the penalty. However, a presentence report is optional if:
+(1) the defendant may only be sentenced to imprisonment for less than one year;
+(2) the court granted a request under Rule 26.3(a)(1)(B); or
+(3) a presentence report concerning the defendant is already available.
+(b) When Prepared. A presentence report may not be prepared until after the court makes a determination of guilt or the defendant enters a plea of guilty or no contest.
+(c) When Due. Unless the court grants a request under Rule 26.3(a)(1)(B) for an earlier sentencing, the presentence report must be delivered to the sentencing judge and to all counsel at least two days before the date set for sentencing.
+(d) Inadmissibility. Neither a presentence report nor any statement made in connection with its preparation is admissible as evidence in any proceeding bearing on the issue of guilt.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.4, AZ ST RCRP Rule 26.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.5. Diagnostic Evaluation and Mental Health Examination
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.5
+Rule 26.5. Diagnostic Evaluation and Mental Health Examination
+Currentness
+At any time before the court pronounces sentence, it may order the defendant to undergo a mental health examination or diagnostic evaluation. Unless the court orders otherwise, any report concerning such an examination or evaluation is due at the same time as the presentence report.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.5, AZ ST RCRP Rule 26.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.6. Court Disclosure of Reports Before Sentencing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 26.6
+Rule 26.6. Court Disclosure of Reports Before Sentencing
+Currentness
+(a) Disclosure to the Parties. The court must permit the State, defense counsel, and a self-represented defendant to review all presentence, diagnostic, and mental health reports concerning the defendant. If the court makes a portion of any report unavailable to one party, it must not make that portion available to any other party.
+(b) Date of Disclosure. A report prepared under Rule 26.7(c) must be available to the parties no later than two days after it is delivered to the court and no less than two days before a presentencing hearing, unless the parties agree otherwise.
+(c) Excision.
+(1) Generally. The court may excise from copies of presentence, diagnostic and mental health reports disclosed to the parties:
+(A) diagnostic opinions that might seriously disrupt a program of rehabilitation;
+(B) sources of information obtained on a promise of confidentiality; and
+(C) information that would disrupt an ongoing law enforcement investigation.
+(2) Disclosure. The court must inform the parties if a portion of a report is not disclosed, and must state on the record its reasons for not disclosing it.
+(d) Court Disclosure of Reports After Sentencing.
+(1) Disclosure to Personnel Responsible for the Defendant. After sentencing, the court must furnish to persons having direct responsibility for the defendant's custody, rehabilitation, treatment, or release all diagnostic, mental health, and presentence reports, except for portions excised under (d)(1)(B) and (C).
+(2) Disclosure to Courts. The court must make an unexcised version of any report listed in (e)(1) available to:
+(A) a reviewing court when a relevant issue has been raised; and
+(B) a court sentencing the defendant after a later conviction.
+(e) Public Disclosure of Reports. A report prepared under Rules 26.4, 26.5, or 26.7(c) is a public record unless the court orders otherwise or it is confidential by law.
+(v) Victims' Rights. The court must permit the victim to read the presentence report, excluding any portions the court excises or that are confidential by law, after it makes the report available to the defendant. If the victim requests, the prosecutor must provide the victim with an excised copy of the report.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 26.6, AZ ST RCRP Rule 26.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 26.7. Presentencing Hearing; Prehearing Conference
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 26.7
+Rule 26.7. Presentencing Hearing; Prehearing Conference
+Currentness
+(a) Request for a Presentencing Hearing. If the court has discretion concerning the imposition of a penalty, it may--and, on any party's request, must--hold a presentencing hearing before sentencing.
+(b) Timing and Conduct of a Presentencing Hearing.
+(1) Timing. The court may not hold a presentencing hearing until the parties have had an opportunity to review all reports concerning the defendant prepared under Rules 26.4 and 26.5.
+(2) Presenting Evidence. At the hearing, any party may introduce any reliable, relevant evidence, including hearsay, to show aggravating or mitigating circumstances, to show why the court should not impose a particular sentence, or to correct or amplify the presentence, diagnostic, or mental health reports.
+(3) Record. A presentencing hearing must be held in open court, and the court must make a complete record of the proceedings.
+(c) Prehearing Conference.
+(1) Generally. On motion or on its own, the court may hold a prehearing conference to determine what matters are in dispute, and to limit or otherwise expedite a presentencing hearing.
+(2) Attendance of Probation Officer. The court may order the probation officer who prepared the presentence report to attend a prehearing conference.
+(3) Postponing Sentencing and Presentencing Hearing. At the conference, the court may postpone the date of sentencing for no more than 10 days beyond the maximum extension permitted by Rule 26.3(b), and may delay the presentencing hearing accordingly, to allow the probation officer to investigate any matter the court specifies, or to refer the defendant for mental health examinations or diagnostic tests.
+(v) Victims' Rights. The victim has a right to be heard at a presentencing hearing under (b).
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 26.7, AZ ST RCRP Rule 26.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.8. The State's Disclosure Duty; Objections and Corrections to a Presentence Report
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.8
+Rule 26.8. The State's Disclosure Duty; Objections and Corrections to a Presentence Report
+Currentness
+(a) The State's Disclosure Duty. The State must disclose any information in its possession or control it has not already disclosed that would tend to reduce the defendant's punishment.
+(b) Notice of Objections. At least one day before the presentencing hearing, each party must notify the court and other parties of the party's objections, if any, to the contents of any report prepared under Rules 26.4, 26.5 or 26.7(c).
+(c) Corrections to a Presentence Report. If the court sustains any objection to a presentence report's contents, it may take appropriate action, including but not limited to:
+(1) excising portions of the report, including any objectionable language;
+(2) ordering a new presentence report to be prepared with specific instructions and directions;
+(3) directing that a different probation officer prepare a new presentence report; or
+(4) ordering the presentence report sealed.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.8, AZ ST RCRP Rule 26.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 26.9. The Defendant's Presence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.9
+Rule 26.9. The Defendant's Presence
+Currentness
+The defendant has a right to be present at a presentencing hearing and must be present at sentencing.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.9, AZ ST RCRP Rule 26.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.10. Pronouncement of Judgment and Sentence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 26.10
+Rule 26.10. Pronouncement of Judgment and Sentence
+Currentness
+(a) Judgment. In pronouncing judgment on any noncapital count, the court must indicate whether the defendant's conviction is pursuant to a plea or trial, the offense for which the defendant was convicted, and whether the offense falls in the categories of dangerous, non-dangerous, repetitive, or non-repetitive offenses.
+(b) If the defendant has not previously been convicted of a felony offense, the court's judgment of guilt and sentencing order or minute entry must include an explanation of the civil rights that will be automatically restored on the completion of probation or absolute discharge from imprisonment and payment of all victim restitution. If the defendant is not eligible for automatic restoration, the court's judgment of guilt and sentencing order or minute entry must include an explanation of when the defendant can apply to have civil rights restored.
+(c) Sentence. When the court pronounces sentence, it must:
+(1) give the defendant an opportunity to address the court;
+(2) state that it has considered the time the defendant has spent in custody on the present charge;
+(3) explain to the defendant the terms of the sentence or probation;
+(4) specify the beginning date for the term of imprisonment and the amount of time to be credited against the sentence as required by law; and
+(5) if the court sentences the defendant to a prison term, the court must send, or direct the clerk to send, to the Department of Corrections the sentencing order and copies of all presentence reports, probation violation reports, and medical and mental health reports prepared for, or relating to, the defendant.
+(d) Fingerprinting. For any felony offense or a violation of A.R.S. §§ 13-1802, 13-1805, a domestic violence offense as defined in A.R.S. § 13-3601, a violation of Title 13, chapter 14, or a violation of Title 28, chapter 4, the court must arrange to permanently affix the defendant's fingerprint to the judgment of guilt and sentencing order or minute entry, or obtain the defendant's two fingerprint biometric-based identifier and record it in the court case file, at sentencing or, unless the court orders otherwise, no later than 30 days after sentencing.
+(v) Victims' Rights.
+(1) Victim's Opportunity to Address the Court. Before the court pronounces sentence, it also must give the victim an opportunity to address the court.
+(2) Information from the Prosecutor. A victim has a right to be informed by the prosecutor of:
+(A) the disposition of the case;
+(B) the right to restitution, the items of loss within the scope of restitution, and the procedures for invoking that right; and
+(C) the procedures for opting-in to post-conviction notification.
+(3) Restitution. A victim has the right to present evidence or information and to make an argument to the court, personally or through counsel, at any proceeding to determine the amount of restitution under A.R.S § 13-804.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended and effective on an emergency basis August 9, 2017, adopted on a permanent basis Dec. 13, 2017; amended on an emergency basis Aug. 25, 2021, effective Sept. 29, 2021, adopted on a permanent basis effective Jan. 1, 2022; amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023. Amended Dec. 8, 2022, effective July 1, 2023; Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 26.10, AZ ST RCRP Rule 26.10
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.11. A Court's Duty After Pronouncing Sentence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 26.11
+Rule 26.11. A Court's Duty After Pronouncing Sentence
+Currentness
+(a) Disclosures. After pronouncing judgment and sentence, the court must:
+(1) inform the defendant:
+(A) of the right to appeal the judgment, sentence, or both;
+(B) of the right to seek post-conviction relief;
+(C) that the failure to file a timely notice of appeal or timely notice of post-conviction relief will result in the loss of those rights;
+(D) of the right to apply to have the judgment of conviction set aside, except as provided in A.R.S. § 13-905(P);
+(E) on the record of the right to the restoration of civil rights; and
+(F) that the defendant may be eligible under A.R.S. § 13-911 to petition the court for an order that seals all case records of the defendant's arrest, conviction, and sentence that are related to the offense.
+(2) advise that:
+(A) if the defendant is indigent, as defined in Rule 6.1(g), the court will appoint counsel to represent the defendant on appeal;
+(B) if the defendant is unable to pay for certified copies of the record on appeal and a certified transcript, the county will provide them; and
+(C) the defendant may waive the right to appellate counsel by filing a written notice no later than 30 days after filing the notice of appeal.
+(b) Written Notice. The court must provide the defendant with a written notice of the rights set forth in (a) and the procedures the defendant must follow to exercise them. The record must show affirmatively the defendant's receipt of the notice.
+(c) Order for Lifetime No-Contact Injunction. If the defendant is convicted of an offense listed in A.R.S. § 13-719(A), upon request by the prosecutor or victim at the time of sentencing, the court must issue a written Order for Lifetime No-Contact Injunction to prohibit the defendant from contacting the victim.
+(1) Confidential Victim Information Sheet. The prosecutor or victim must submit a Confidential Victim Information Sheet to the court before sentencing or at sentencing so that the court has the necessary information to issue the Order for Lifetime No-Contact Injunction.
+(2) Providing the Order to the Victim. The clerk must provide a copy of the Order for Lifetime No-Contact Injunction to the victim or to the prosecutor if the prosecutor is providing victim advocate services to the victim.
+(3) Serving the Defendant. The Order for Lifetime No-Contact Injunction must be served on the defendant if present at sentencing. The court must indicate on the Order for Lifetime No-Contact Injunction that the defendant was served with the order at sentencing. If the defendant is not present at the time of sentencing, Rule 43(i) of the Arizona Rules of Protective Procedure governs service of process.
+(4) Forwarding the Order to the Department of Public Safety (“DPS”). The clerk or other court staff must promptly forward a copy of the Order for Lifetime No-Contact Injunction and Confidential Victim Information Sheet to DPS. The Confidential Victim Information Sheet cannot otherwise be made available to the public or the defendant to inspect, obtain copies of, or otherwise have access.
+(5) Effective Date; Validity; Requests for Dismissal. An Order for Lifetime No-Contact Injunction is effective immediately upon service and is valid for the defendant's natural lifetime unless it is dismissed. Rule 43(j) of the Arizona Rules of Protective Order Procedure governs requests for dismissal.
+(6) Forms. For purposes of assisting law enforcement and other agencies with recognizing an Order for Lifetime No-Contact Injunction, courts and parties must use the forms approved under Rule 43(k) of the Arizona Rules of Protective Order Procedure. Courts may make margin and caption changes.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis June 15, 2018, effective Aug. 3, 2018, permanently adopted Dec. 13, 2018; amended on an emergency basis, effective Aug. 27, 2019, permanently adopted Dec. 12, 2019; amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022; amended on an emergency basis, effective Aug. 29, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023; amended on an emergency basis Dec. 8, 2022, permanently adopted with additional amendments Aug. 24, 2023, effective Oct. 30, 2023; amended on an emergency basis Aug. 24, 2023, effective Oct. 30, 2023, permanently adopted effective Dec. 6, 2023; amended on an emergency basis, effective Aug. 22, 2024, permanently adopted Dec. 3, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 26.11, AZ ST RCRP Rule 26.11
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 26.12. Defendant's Compliance with Monetary and Non-Monetary Terms of a Sentence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.12
+Rule 26.12. Defendant's Compliance with Monetary and Non-Monetary Terms of a Sentence
+Currentness
+(a) Method of Payment--Installments. The court may permit the defendant to pay any fine, restitution, or other monetary obligation within a specified period of time or in specified installments. The defendant must pay restitution as promptly as possible, given the defendant's ability to pay.
+(b) Method of Payment--to Whom. The defendant must pay a fine, restitution, or other monetary obligations to the court, unless the court orders otherwise. The court must apply the defendant's payments first to satisfy the restitution order and the payment of any restitution in arrears. The court must forward restitution payments to the victim as promptly as practicable.
+(c) Failure to Pay a Monetary Obligation or to Comply with Court Orders.
+(1) Defendants Not on Supervised Probation. If a defendant who is not on supervised probation fails to pay a fine, restitution, or other monetary obligation, or fails to comply with any other term or condition of sentence within the prescribed time, the court must promptly notify the State.
+(2) Defendants on Supervised Probation. If a defendant who is on supervised probation fails to pay a fine, restitution, or other monetary obligation, or fails to comply with any other term or condition of probation within the prescribed time, the court must promptly notify the defendant's probation officer.
+(3) Court Action upon Failure of a Defendant to Pay a Fine, Restitution, or Other Monetary Obligation or to Comply with Court Orders. If the defendant fails to timely pay a fine, restitution, or other monetary obligation, or otherwise fails to comply with a court order, and fails to respond to a court notice informing the defendant of the consequences and resolution options, the court may issue an arrest warrant or a summons and require the defendant to show cause why he or she should not be held in contempt. The court must issue a summons unless there is reason to believe a warrant is required to secure the defendant's appearance. A prosecutor who requests a warrant, or a judge who orders a warrant, must state the reasons for the issuance of a warrant rather than a summons.
+(4) Authority to Modify Monetary Obligation. If the court finds the defendant's default is not willful and the defendant is unable to pay all or part of the monetary obligation, unless otherwise provided by law, the court may mitigate the monetary obligation. In determining whether the defendant is unable to pay all or part of a financial sanction, the court may consider any relevant evidence including the factors listed in A.R.S. § 13-825.
+(5) Exclusion of Certain Income. Under federal and state law, in determining whether to find the defendant in contempt, the court must exclude income derived from the following sources:
+(A) The Temporary Assistance for Needy Families Program established by § 403 of Title IV of the Social Security Act (A.R.S. § 46-207.01);
+(B) The Supplemental Security Income Program (42 U.S.C. §§ 1381 through 1383f);
+(C) The Social Security Disability Insurance Program (42 U.S.C. §§ 401-433); and
+(D) Veterans Disability Compensation.
+(6) Incarceration for Contempt. If the court finds the defendant in contempt for failure to pay a monetary obligation or failure to comply with a court order, before ordering the defendant incarcerated for contempt, the court must determine that no reasonable measures other than incarceration are adequate to meet the State's interests and permit the defendant a reasonable period of time to pay the obligation in full or make other payment arrangements.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 13, 2017, effective Jan. 1, 2018; Dec. 13, 2018, effective Jan. 1, 2019.
+16A A. R. S. Rules Crim. Proc., Rule 26.12, AZ ST RCRP Rule 26.12
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.13. Multiple Sentences
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 26.13
+Rule 26.13. Multiple Sentences
+Currentness
+Except as otherwise provided by law, if multiple sentences of imprisonment are imposed on a person at the same time, the sentences imposed by the court may run consecutively or concurrently, as determined by the court. The court must state on the record the reason for its determination. This rule applies even if the offenses are not charged in the same indictment or information.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Aug. 22, 2024, permanently adopted Dec. 3, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 26.13, AZ ST RCRP Rule 26.13
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.14. Resentencing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.14
+Rule 26.14. Resentencing
+Currentness
+If a judgment or sentence, or both, have been set aside--either on appeal, by collateral attack, or on a post-trial motion--the court may not impose a sentence for the same offense, or a different offense based on the same conduct, which is more severe than the earlier sentence unless the court determines:
+(a) the earlier sentence is no longer appropriate based on evidence about the defendant's conduct occurring after the court pronounced the earlier sentence;
+(b) the earlier sentence was unlawful and it is corrected so the court may impose a lawful sentence; or
+(c) other circumstances exist and there is no reasonable likelihood that an increase in the sentence is the product of actual vindictiveness by the sentencing judge.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.14, AZ ST RCRP Rule 26.14
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.15. Special Procedures upon Imposing a Death Sentence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.15
+Rule 26.15. Special Procedures upon Imposing a Death Sentence
+Currentness
+After imposing a sentence of death, the court must order the clerk to file a notice of appeal from the judgment and sentence.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.15, AZ ST RCRP Rule 26.15
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 26.16. Entry of Judgment and Sentence; Warrant of Authority to Execute Sentence
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 26. Judgment, Presentence Report, Presentencing Hearing, Sentence (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 26.16
+Rule 26.16. Entry of Judgment and Sentence; Warrant of Authority to Execute Sentence
+Currentness
+(a) Entry of Judgment and Sentence. The judgment of conviction and sentencing on the judgment are complete and valid at the time the court orally pronounces them in open court.
+(b) Warrant of Authority.
+(1) Entry of Judgment and Sentence. The court must enter the exact terms of the judgment and sentence in the court's orders.
+(2) Notice to Appropriate Officer. The court must furnish a certified copy of the sentencing order, signed by the sentencing judge, to the appropriate officer. No other authority is necessary to execute any sentence the court imposes. If the sentence is for death or imprisonment, the appropriate officer must receive the defendant for execution of the sentence upon delivery to him or her of a signed, certified copy of the sentencing order.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 26.16, AZ ST RCRP Rule 26.16
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 27, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation
+16A A.R.S. Rules Crim.Proc., R. 27, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 27, Refs & Annos, AZ ST RCRP R. 27, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.1. Conditions and Regulations of Probation
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 27.1
+Rule 27.1. Conditions and Regulations of Probation
+Currentness
+(a) Definitions.
+(1) Condition. “Condition” means any court-ordered term of probation.
+(2) Regulation. “Regulation” means any specific instructions or directives given by a probation officer to a probationer to implement a court-imposed condition of probation.
+(b) Authority of the Court and the Probation Officer. The sentencing court may impose conditions on a probationer that promote rehabilitation and protect any victim. The probation officer also may impose regulations that are necessary to implement the court's conditions and that are consistent with them. The court and probation officer must give the probationer a written copy of the conditions and regulations. Unless there is an intergovernmental agreement to the contrary, references to and notice requirements for probation officers do not apply in limited jurisdiction courts.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 27, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 27.1, AZ ST RCRP Rule 27.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.2. Intercounty Transfers
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 27.2
+Rule 27.2. Intercounty Transfers
+Currentness
+(a) Definitions.
+(1) Courtesy Transfer of Probation Supervision. “Courtesy transfer of probation” means the transfer of the probationer's supervision to another jurisdiction. The sending court retains jurisdiction over the probationer.
+(2) Transfer of Probation Jurisdiction. “Transfer of probation jurisdiction” means the transfer of jurisdiction over a case to another jurisdiction, including the transfer of the probationer's supervision.
+(b) Courtesy Transfer of Probation Supervision.
+(1) Generally. The superior court or its adult probation department in the sending county may authorize a courtesy transfer of probation supervision to allow a probationer to reside in the receiving county if it verifies that the receiving county:
+(A) accepts the probationer; and
+(B) can supervise the probationer in accordance with the conditions of the individual's probation.
+(2) Amending Conditions. If the receiving county is unable to supervise the probationer in accordance with the conditions of probation, the court in the sending county, after a hearing, may amend the conditions to enable the transfer.
+(3) Retention of Jurisdiction. The court in the sending county retains jurisdiction over the probationer and any probation violation proceeding, and remains responsible for the collection of the probationer's monetary obligations.
+(c) Transfer of Probation Jurisdiction.
+(1) Authorizing Transfer. The superior court in the sending county may order the transfer of probation jurisdiction to another Arizona county upon agreement of the original prosecuting agency, the probationer, the sending and receiving county probation departments, and the superior court in the receiving county.
+(2) Transmitting Court Records. No later than 20 days after the transfer order is filed, the clerk in the sending county must certify the probationer's financial obligations in the case and forward the court's file and entire record, together with a transmittal letter, to the clerk in the receiving county. The clerk may transmit these records in either electronic or paper format. The entire record must include all exhibits, unless they were discarded under Rule 28. Upon receipt, the clerk in the receiving county must sign the transmittal letter and return it to the clerk in the sending county.
+(3) Transmitting Probation Records and Transferring Probationary Jurisdiction. The county probation department transferring jurisdiction over a probationer must send copies of the file and any other pertinent information to the chief probation officer in the receiving county. The transfer is deemed complete when the chief probation officer in the receiving county receives the file and the probationer checks in with the new probation officer. Until the transfer is complete, the sending county probation department retains jurisdiction over the probationer.
+(4) Assuming Jurisdiction in the Receiving County. Upon filing an order approving the transfer, the superior court in the receiving county assumes jurisdiction over the probationer's case and has all powers of the sentencing court, including the power to restore civil rights. The chief probation officer may request the court in the receiving county to conduct a hearing to affirm or modify the conditions of supervision, including the payment of fees and restitution.
+(5) Monetary Obligations. The court in the receiving county is responsible for collecting the probationer's monetary obligations. The receiving county must disperse to the sending county any money it collects for fees, costs or expenses that the probationer owes to the sending county.
+(6) Remand of the Case. If a probationer's case is remanded for a new trial, the receiving court must transfer the case back to the sending county. In all other remands, the receiving county may do one of the following:
+(A) retain jurisdiction;
+(B) transfer the case in its entirety back to the sending county; or
+(C) transfer the case back to the sending county and retain jurisdiction only over probation supervision and revocation.
+(7) Transmitting Court Records After a Remand for New Trial. No later than 20 days after an order is filed remanding a transferred case for a new trial, the clerk in the receiving county must return the court file and entire record, including exhibits, and send a transmittal letter to the clerk of the sending county. The clerk may transmit the file and record in either electronic or paper format. Upon receipt, the clerk in the sending county must sign the transmittal letter and return it to the clerk of the receiving county.
+(8) Transmitting Probation Records After a Remand for New Trial. Upon entry of an order remanding a case for a new trial, the receiving county's probation department must send a copy of its file and any other pertinent information to the chief probation officer in the sending county.
+(v) Victims' Rights. A victim of the offense may request an opportunity to be heard concerning a transfer of probation jurisdiction. The court in the sending county must give the victim notice of a proposed transfer and any hearing.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 27.2, AZ ST RCRP Rule 27.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.3. Modification of Conditions or Regulations
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 27.3
+Rule 27.3. Modification of Conditions or Regulations
+Currentness
+(a) By a Probation Officer. A probation officer may modify or clarify any regulation imposed.
+(b) By the Court.
+(1) Generally. Any modification of probation must comply with case law and statutes, due process, and statutory limitations. The court may modify or clarify any condition or regulation of probation after:
+(A) giving notice to the State, the probationer, and the probation department; and
+(B) considering an investigation report, when required by (b)(3) of this rule.
+(2) Who May Request Modification or Clarification. At any time before the probationer's absolute discharge, a probationer, probation officer, the State, or any other person the court designates, may ask the court to modify or clarify any condition or regulation.
+(3) Required Investigation Report. Upon any request for modification from supervised to unsupervised probation, the probation department must prepare and file an investigative report describing the probationer's compliance with conditions and regulations and recommending either for or against a request to modify.
+(4) Restitution. At any time before the probationer's absolute discharge, persons entitled to restitution under a court order may ask the court, based on changed circumstances, to modify or clarify the manner in which restitution is paid.
+(5) Hearing. The court may hold a hearing on any request for modification or clarification under (b)(2) or (b)(3).
+(c) Written Copy and Effect. The probationer and the probation department must be given a written copy of any modification or clarification of a condition or regulation of probation. A modification of a regulation may go into effect immediately. An oral modification may not be the sole basis for revoking probation unless the condition or regulation is in writing and both the probationer and the probation department received a copy before the violation.
+(v) Victims' Rights. Upon request, a victim has the right to notice of a hearing under (b)(5). The victim has the right to be present at that hearing, and to be heard on a modification of conditions or regulations of probation or intensive probation that would substantially affect the probationer's contact with, or safety of, the victim or that would affect restitution or incarceration status.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 27, 2019, effective Jan. 1, 2020. Amended effective Feb. 7, 2023; Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 27.3, AZ ST RCRP Rule 27.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.4. Early Termination of Probation
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 27.4
+Rule 27.4. Early Termination of Probation
+Currentness
+(a) Discretionary Probation Termination.
+(1) Generally. At any time during the term of probation, the court may terminate probation and discharge the probationer as provided by law after:
+(A) giving notice to the State, the probationer, and the probation department; and
+(B) considering an investigation report.
+(2) Who May Request Termination. At any time before the probationer's discharge from probation, the court may terminate probation and discharge the probationer on motion of the probationer, probation department, the State or the court.
+(3) Required Investigation Report. Upon any request for termination, the probation department must prepare and file an investigative report describing the probationer's compliance with conditions and regulations and recommending either for or against a request to modify.
+(4) Hearing. The court may hold a hearing on any request for early termination.
+(b) Earned Time Credit Probation Termination. The court may reduce the term or duration of supervised probation for earned time credit or work time credit as provided by law.
+(c) Written Copy and Effect. The court must provide probationer and the probation department a copy of the order terminating probation and specifying the effective date.
+(v) Victims' Rights. A victim has the right upon request to notice of any criminal proceeding involving the early termination of probation. A victim has a right to be present and to be heard at the hearing.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 27, 2019, effective Jan. 1, 2020; Dec. 8, 2022, effective July 1, 2023; amended on an emergency basis Aug. 24, 2023, permanently adopted Dec. 6, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 27.4, AZ ST RCRP Rule 27.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 27.5. Order and Notice of Discharge
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: January 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 27.5
+Rule 27.5. Order and Notice of Discharge
+Currentness
+(a) Generally. Upon expiration or if a court orders early termination of probation, the court must order the probationer's discharge from probation. Upon expiration of probation, the probationer is discharged from probation. Upon the probationer's request for a certified copy of the discharge or early termination order, the clerk must furnish the probationer with a certified copy of the discharge or early termination order.
+(b) Superior Court. Upon discharge from probation in the superior court, the probation department must provide a copy of the court's judgment of guilt and sentencing order or minute entry to the probationer.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 27.5, AZ ST RCRP Rule 27.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.6. Petition to Revoke Probation and Securing the Probationer's Presence; Release De...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: January 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 27.6
+Rule 27.6. Petition to Revoke Probation and Securing the Probationer's Presence; Release Determination
+Currentness
+The probation officer or the State may petition the court to revoke probation if there is reasonable cause to believe that a probationer has violated a written condition or regulation of probation. After a petition to revoke is filed, the court may issue a summons directing the probationer to appear on a specified date for a revocation hearing, or it may issue a warrant for the probationer's arrest. When the probationer appears in court under Rule 27.7 or Rule 27.8, the court must make a release determination as follows:
+(a) in the superior court, under Rule 7.2(c)(1)(A); and
+(b) in a limited jurisdiction court, by ordering release conditions under Rule 7.3(a) and (c) that will reasonably assure the probationer's appearance and protect the victim, any other person, or the community. If the court determines that the probationer in all reasonable probability will receive a sentence of incarceration, or if additional conditions under Rule 7.3(c) will not assure the probationer's appearance or protect the victim, another person, or the community, the court may order that the probationer be held in custody.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 29, 2022, effective Jan. 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 27.6, AZ ST RCRP Rule 27.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.7. Initial Appearance After Arrest
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 27.7
+Rule 27.7. Initial Appearance After Arrest
+Currentness
+(a) Probationer Arrested. If a probationer is arrested on a warrant issued under Rule 27.6 or is arrested by the probationer's probation officer under A.R.S. § 13-901(D), the probationer must be taken without unreasonable delay to the court with jurisdiction over the probationer.
+(b) Notice. If a probationer is arrested on a warrant issued under Rule 27.6, the court must immediately notify the probationer's probation officer of the initial appearance.
+(c) Procedure. At the initial appearance, the court must advise the probationer of the probationer's right to counsel under Rule 6, inform the probationer that any statement the probationer makes before the hearing may be used against the probationer, set the date of the revocation arraignment, and make a release determination.
+(v) Victims' Rights.
+(1) Notice of Arrest. A victim upon request has the right to be notified of a probationer's arrest pursuant to a warrant issued for a violation of supervised probation, as provided in A.R.S. § 13-4415(A)(3).
+(2) Notice of Hearing; Right to Be Heard. A victim upon request has the right to be notified of the probationer's initial appearance under (c). A victim has the right to be present and to be heard at that hearing regarding the probationer's release.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 27.7, AZ ST RCRP Rule 27.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 27.8. Probation Revocation
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 27.8
+Rule 27.8. Probation Revocation
+Currentness
+(a) Revocation Arraignment.
+(1) Timing. The court must hold a revocation arraignment no later than 7 days after the summons is served or after the probationer's initial appearance under Rule 27.7.
+(2) Conduct of the Proceeding. The court must inform the probationer of each alleged probation violation, and the probationer must admit or deny each allegation.
+(3) Setting a Violation Hearing. If the probationer does not admit to a violation or if the court does not accept an admission, the court must set a violation hearing, unless both parties agree that a violation hearing may proceed immediately after the arraignment.
+(b) Violation Hearing.
+(1) Timing. The court must hold a hearing to determine whether a probationer has violated a written condition or regulation of probation no less than 7 and no more than 20 days after the revocation arraignment, unless the probationer in writing or on the record requests, and the court agrees, to set the hearing for another date.
+(2) Probationer's Right to Be Present. The probationer has a right to be present at the violation hearing. If the probationer was previously arraigned under Rule 27.8, the hearing may proceed in the probationer's absence under Rule 9.1.
+(3) Conduct of the Hearing. A violation must be established by a preponderance of the evidence. Each party may present evidence and has the right to cross-examine any witness who testifies. The court may receive any reliable evidence, including hearsay, that is not legally privileged.
+(4) Admissions. An admission by the probationer at any hearing in the same case relating to the probationer's failure to pay a monetary obligation imposed in the case is inadmissible in the probation violation hearing, unless the probationer was represented by counsel at the hearing in which the admission was made.
+(5) Findings and Setting a Disposition Hearing. If the court finds that the probationer committed a violation of a condition or regulation of probation, it must make specific findings of the facts that establish the violation and then set a disposition hearing.
+(c) Disposition Hearing.
+(1) Timing. The court must hold a disposition hearing no less than 7 nor more than 20 days after making a determination that the probationer has violated a condition or regulation of probation.
+(2) Disposition. Upon finding that the probationer violated a condition or regulation of probation, the court may revoke, modify, or continue probation. If the court revokes probation, the court must pronounce sentence in accordance with Rule 26. The court may not find a violation of a condition or regulation that the probationer did not receive in writing.
+(d) Waiver of Disposition Hearing. If a probationer admits, or the court finds, a violation of a condition or regulation of probation, the probationer may waive a disposition hearing. If the court accepts the waiver, it may proceed immediately to a disposition under (c)(2).
+(e) Disposition upon Determination of Guilt for a Later Offense. If a court makes a determination of guilt under Rule 26.1(a) that the probationer committed a later criminal offense, the court need not hold a violation hearing and may set the matter for a disposition hearing at the time set for entry of judgment on the criminal offense.
+(f) Record. The court must make a record of the revocation arraignment, violation hearing, and disposition hearing.
+(v) Victims' Rights.
+(1) At the Violation Hearing. The victim has a right to be present at a violation hearing under (b).
+(2) At a Disposition Hearing. Upon request, a victim has the right to notice of a disposition hearing. A victim has the rights to be present and to be heard at a disposition hearing.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 27.8, AZ ST RCRP Rule 27.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.9. Admissions by the Probationer
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: September 9, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: September 9, 2022
+16A A.R.S. Rules Crim.Proc., Rule 27.9
+Rule 27.9. Admissions by the Probationer
+Currentness
+(a) Required Inquiries. Before accepting an admission that the probationer violated a condition or regulation of probation, the court must address the probationer personally and determine that the probationer understands:
+(1) the nature of the probation violation that the probationer will be admitting;
+(2) the right to counsel, if the probationer is not already represented by counsel;
+(3) the right to cross-examine witnesses who may testify against the probationer;
+(4) the right to present witnesses on the probationer's behalf;
+(5) that by admitting a violation of a condition or regulation of probation, the probationer waives the right to appellate court review by direct appeal, and may seek review only by filing a petition for post-conviction relief under Rule 33 and, if denied, by filing a petition for review; and
+(6) regardless of the outcome of the probation violation proceeding, if the alleged violation involves a criminal offense for which the probationer has not yet been tried, the probationer may still be tried for that offense, and any statement made by the probationer at the probation violation proceeding may be used to impeach the probationer's testimony at the trial of that other offense.
+(b) Required Determinations. The court may accept the probationer's admission only if it determines that:
+(1) the probationer wishes to forego the rights in (a);
+(2) the admission is voluntary and not the result of force, threats, or promises; and
+(3) the admission has a factual basis.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended effective Sept. 9, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 27.9, AZ ST RCRP Rule 27.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.10. Probation Review Hearing Regarding Sex Offender Registration
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 27.10
+Formerly cited as AZ ST RCRP Rule 27.11
+Rule 27.10. Probation Review Hearing Regarding Sex Offender Registration
+Currentness
+(a) Right to Hearing. The court must conduct a probation review hearing at least once a year if requested by a probationer who is:
+(1) under 22 years of age; and
+(2) serving a term of probation for an offense that:
+(A) requires registration under A.R.S. § 13-3821; and
+(B) was committed when the probationer was under 18 years of age.
+(b) Notice of Right to Hearing. The court must inform a probationer of the right to a hearing under (a) when it imposes probation.
+(c) Request for Hearing and Timing. To obtain a hearing, the probationer must file a request with the court and provide a copy of the request to the State. A probationer must file a request for a hearing no later than 30 days before the probationer's twenty-second birthday.
+(d) Setting a Hearing and Providing Notice.
+(1) Timing. The court must hold a hearing no later than 30 days after a timely request is filed.
+(2) Notice.
+(A) Generally. The court must notify the following of the hearing date:
+(i) the State, which in turn must notify any victim or victim's attorney entitled to be present and heard under the Arizona Constitution, statute, or court rule;
+(ii) the probationer's attorney, if any; and
+(iii) the probation officer.
+(B) Notice to the State. In any case involving a victim, the court must give the State at least 7 calendar days' notice of the hearing date.
+(e) Prehearing Conference. The court may hold a prehearing conference. The people who may be present and the conference's scope are specified by A.R.S. § 13-923.
+(f) Probation Review Report. The court must require the preparation of a probation review report before a probation review hearing. The probation office must deliver the report to the judge conducting the hearing at least 7 calendar days before the scheduled hearing date.
+(g) Scope of Hearing. At the hearing, the court must consider and decide whether to:
+(1) continue, modify, or terminate probation;
+(2) continue to require, suspend, or terminate the probationer's registration under A.R.S. § 13-3821; and
+(3) continue, defer, or terminate community notification under A.R.S. § 13-3825.
+Credits
+Formerly Rule 27.11, added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 27.10 and amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 27.10, AZ ST RCRP Rule 27.10
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 27.12. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 27. Probation and Probation Revocation (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 27.12
+Rule 27.12. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 27.12, AZ ST RCRP Rule 27.12
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 28.1. Duties of Clerk
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 28. Retention and Destruction of Records and Evidence
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 28.1
+Rule 28.1. Duties of Clerk
+Currentness
+(a) Retention of Records and Evidence. The clerk receives and maintains illustrative aids used under Rule 107 of the Arizona Rules of Evidence and all court filings and evidence in criminal cases, including:
+(1) exhibits offered for admission in evidence but not received in evidence; and
+(2) exhibits admitted in evidence.
+(b) Disposition of Certain Records.
+(1) Generally. When a case is no longer subject to modification, the clerk must dispose of certain records under retention and disposition schedules established by the Supreme Court.
+(2) Definition of “Subject to Modification.” A criminal case is no longer “subject to modification” when a defendant is acquitted on all charges. Absent an acquittal on all charges, a criminal case is no longer “subject to modification:”
+(A) one year after exhausting all state court remedies, if the defendant did not file a petition for a writ of habeas corpus in federal court, or
+(B) 90 days after a decision on the first petition for a writ of habeas corpus in federal court, if the defendant filed one.
+(3) Definition of “All State Court Remedies Are Exhausted.” All state court remedies are exhausted 90 days after:
+(A) the trial court dismisses, with or without prejudice, the charges against the defendant, unless a party files a notice of appeal;
+(B) the entry of judgment and sentence, unless a party files a notice of appeal, a post-trial motion or, when the defendant enters a guilty plea that is accepted, a timely notice requesting post-conviction relief under Rule 33;
+(C) the trial court denies a post-trial motion, unless a party files a notice of appeal from that denial of that motion;
+(D) the trial court receives an appellate court mandate affirming, unless the defendant files a timely notice requesting post-conviction relief under Rule 32; or
+(E) the final resolution of the first timely Rule 32 or 33 petition for post-conviction relief.
+(c) Certified Reporter Notes. Certified reporters' notes must be retained under retention and destruction schedules established by the Supreme Court.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, permanently adopted effective Jan. 1, 2022; amended on an emergency basis Aug. 28, 2025, effective Jan. 1, 2026, permanently adopted with additional changes, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 28.1, AZ ST RCRP Rule 28.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 28.2. Disposition of Evidence and Illustrative Aids
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 28. Retention and Destruction of Records and Evidence
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 28.2
+Rule 28.2. Disposition of Evidence and Illustrative Aids
+Currentness
+(a) Manner of Disposition. Unless the court orders otherwise, after the case is no longer subject to modification under Rule 28.1, the clerk must dispose of evidence and illustrative aids in the case as follows:
+(1) Any exhibit submitted through a digital evidence portal (a “digital exhibit”) must be deleted by the clerk without further notice.
+(2) For any exhibit or evidence not submitted through a digital evidence portal (a “physical exhibit”) and illustrative aids, the clerk must provide at least 30 days' notice to the party who submitted the physical exhibit or illustrative aid for that party to claim and, if claimed, return it to the party who submitted it. If the party who submitted the physical exhibit or illustrative aid does not claim it after 30 days from such notice, the clerk may dispose of the physical exhibit or illustrative aid.
+(b) Disposal of Evidence; Right to Examine and Record of Disposal.
+(1) Disposal of Evidence. Before disposing of any evidence seized or otherwise obtained for a filed criminal prosecution, a law enforcement agency must notify the responsible prosecuting agency and the Attorney General, who may:
+(A) photograph, reproduce, preserve in whole or in part, or identify the item;
+(B) transcribe all serial numbers, identification numbers, or other identifying markings; or
+(C) prepare, or have an expert prepare, a report identifying the item.
+(2) Notice. At least 20 days before disposing an item under this rule, the prosecuting agency or law enforcement agency must serve a notice of disposal, together with a copy of any record of disposal made under (b)(5) to any person and the person's counsel against whom the State has used or may use the item as evidence.
+(3) Examination. No later than 10 days after the disposal notice is served, the person may request a stay of disposal until after trial or may request permission to examine, test, analyze, or otherwise make his or her own record of disposal of the item.
+(4) Conditions. The State must permit an examination requested under (b)(3), but may impose reasonable conditions on any examination, testing, or analysis, including a stipulation concerning chain of title.
+(5) Record of Disposal. The prosecuting agency, law enforcement agency, or the Attorney General must prepare a record of disposal for any item disposed of under (b)(1).
+(c) Stay of Disposal. On any party's request or on its own, the court with jurisdiction over the case may stay disposal of any item for a reasonable time. The timely filing of a motion stays the disposal of any item until the court rules.
+(d) Use of Record of Disposal. A record of disposal that is made under (b)(5) is admissible for any purpose for which the item itself would be admissible.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis Aug. 28, 2025, effective Jan. 1, 2026, permanently adopted effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 28.2, AZ ST RCRP Rule 28.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 28.3. Retroactive Application
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 28. Retention and Destruction of Records and Evidence
+16A A.R.S. Rules Crim.Proc., Rule 28.3
+Rule 28.3. Retroactive Application
+Currentness
+The provisions of this rule apply to all records and evidence in the possession of the clerk, prosecuting agency, and law enforcement agency as of the effective date of these rules regardless of the date on which the records were made or the evidence obtained.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 28.3, AZ ST RCRP Rule 28.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 29, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction
+16A A.R.S. Rules Crim.Proc., R. 29, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 29, Refs & Annos, AZ ST RCRP R. 29, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 29.1. Grounds; Notice
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 29.1
+Rule 29.1. Grounds; Notice
+Currentness
+(a) Generally. A person who has completed probation or a sentence may apply in writing to the court to set aside a conviction under A.R.S. § 13-905. The court must provide a person with written notice of this opportunity at the time of sentencing.
+(b) Sex Trafficking Victims. Under A.R.S. § 13-909, a sex trafficking victim may apply in writing to the court to vacate the victim's conviction under A.R.S. § 13-3214, or a city or town ordinance that has the same or substantially similar elements.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended and effective on an emergency basis Aug. 9, 2017, adopted on a permanent basis Jan. 1, 2018. Amended on an emergency basis June 15, 2018, effective Aug. 3, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis, effective Aug. 27, 2019, adopted on a permanent basis Dec. 12, 2019; amended on an emergency basis Aug. 22, 2024, effective Sept. 14, 2024, permanently adopted Dec. 3, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 29.1, AZ ST RCRP Rule 29.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 29.2. Application
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 29.2
+Rule 29.2. Application
+Currentness
+(a) Contents. An application under this rule must include the applicant's name, address, date of birth, and signature, the offenses for which the applicant was convicted, the place and date of conviction, the sentence imposed, the status of victim restitution payment and other court-ordered monetary obligations, and the relief the applicant is requesting. The applicant must attach to the application any documents and affidavits required by law and may attach other supporting documents and affidavits.
+(b) Place of Filing and Filing Fee. The applicant must file an application with the court that sentenced the applicant. The clerk may not charge a fee for filing or docketing an application.
+(c) Processing of Application. The court must send a copy of the application to the applicable prosecuting agency no later than 10 days after filing.
+(d) Victim Notification. The victim has the right to be present and be heard at any proceeding in which the defendant has filed an application to have a judgment of conviction set aside. If the victim requested postconviction notice, the prosecuting agency must provide the victim with notice of the defendant's application, whether the defendant is eligible for a certificate of second chance, and of the rights provided to the victim. The prosecuting agency must provide notice to the victim of the opportunity to be heard if the victim requested post-conviction notification.
+Credits
+Added Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis June 15, 2018, effective Aug. 3, 2018, adopted on a permanent basis Dec. 13, 2018; amended on an emergency basis Aug. 25, 2021, effective Sept. 29, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 29.2, AZ ST RCRP Rule 29.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 29.3. State's Response
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 29.3
+Formerly cited as AZ ST RCRP Rule 29.4
+Rule 29.3. State's Response
+Currentness
+No later than 30 days after the application is filed, the State and victim may file a written response stating their reasons for opposing the application, if any. The State must send a copy of the response to the applicant's attorney or the applicant, if unrepresented.
+Credits
+Formerly Rule 29.4 added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 29.3 and amended on an emergency basis June 15, 2018, effective Aug. 3, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis Aug. 25, 2021, effective Sept. 29, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 29.3, AZ ST RCRP Rule 29.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 29.4. Reply
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 29.4
+Rule 29.4. Reply
+Currentness
+The applicant may file a reply but must do so no later than 15 days after the State's response is filed.
+Credits
+Added on an emergency basis June 15, 2018, effective Aug. 3, 2018, adopted on a permanent basis Dec. 13, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 29.4, AZ ST RCRP Rule 29.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 29.5. Hearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 29.5
+Rule 29.5. Hearing
+Currentness
+(a) Generally. On either party's request or on its own motion, the court may set a hearing. The hearing must be held no later than 120 days after the application's filing unless the court finds good cause for an extension.
+(v) Victims' Rights. If the victim requested post-conviction notification, the prosecuting agency must provide the victim notice of the hearing date. The victim has the right to be present and to be heard at the hearing.
+Credits
+Added on an emergency basis June 15, 2018, effective Aug. 3, 2018, adopted on a permanent basis Dec. 13, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 29.5, AZ ST RCRP Rule 29.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 29.6. Disposition
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 29.6
+Formerly cited as AZ ST RCRP Rule 29.7
+Rule 29.6. Disposition
+Currentness
+(a) Considerations. In determining whether to grant an application, the court must consider the following factors:
+(1) the nature and circumstances of the offense the conviction is based on;
+(2) the applicant's compliance with the conditions of probation, the sentence imposed, and the Department of Corrections' rules or regulations, if applicable;
+(3) any earlier or later convictions;
+(4) the victim's input and the status of victim restitution, if any;
+(5) the time that has elapsed since the completion of the applicant's sentence;
+(6) the applicant's age at the time of conviction; and
+(7) any other factor relevant to the application.
+(b) Denial. If the court denies an application, its order must state the reasons for the denial in writing and on the record.
+(c) Subsequent Application. If an application is denied, the applicant may file a new application after satisfying all requirements or after resolving any other reason for denial.
+(d) Order. The clerk must transmit the order to the applicant, the prosecutor, and the Department of Public Safety.
+Credits
+Formerly Rule 29.5, added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 29.6 and amended on an emergency basis June 15, 2018, effective Aug. 3, 2018, adopted on a permanent basis Dec. 13, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 29.6, AZ ST RCRP Rule 29.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 29.7. Certificate of Second Chance
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 6, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+Effective: December 6, 2023
+16A A.R.S. Rules Crim.Proc., Rule 29.7
+Rule 29.7. Certificate of Second Chance
+Currentness
+(a) If the court grants an application to set aside the judgment of guilt, the court's order must include a certificate of second chance if the defendant has not previously received a certificate of second chance on the set aside of a felony conviction and
+(1) the defendant was convicted of a misdemeanor;
+(2) the defendant was convicted of a class 4, 5 or 6 felony and at least 2 years have elapsed since the defendant fulfilled the conditions of probation or sentence; or
+(3) the defendant was convicted of a class 2 or 3 felony and at least 5 years have elapsed since the defendant fulfilled the conditions of probation or sentence.
+(b) If the court does not issue an order that includes a certificate of second chance when the defendant's conviction is set aside, the defendant may apply to the court for a certificate of second chance after meeting the requirements in A.R.S. § 13-905(K) unless the defendant has previously received a certificate of second chance on the set aside of a felony conviction. Rule 29.2 applies to such an application.
+Credits
+Added on an emergency basis Aug. 25, 2021, effective Sept. 29, 2021, permanently adopted effective Jan. 1, 2022. Amended on an emergency basis Aug. 24, 2023, effective Oct. 30, 2023, permanently adopted effective Dec. 6, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 29.7, AZ ST RCRP Rule 29.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 29.8. Special Provisions for Sex Trafficking Victims
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 29. Setting Aside a Conviction (Refs & Annos)
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 29.8
+Formerly cited as AZ ST RCRP Rule 29.6;  AZ ST RCRP Rule 29.7
+Rule 29.8. Special Provisions for Sex Trafficking Victims
+Currentness
+(a) Confidentiality. If a court grants an application submitted by a sex trafficking victim, all paper and electronic records of the vacated conviction become confidential. The record may be disclosed upon request to the sex trafficking victim but otherwise may be disclosed only by court order for good cause. The court must order that the pertinent law enforcement agencies and prosecuting agencies make notations in their records that the conviction was vacated and the applicant was a crime victim.
+(b) Order. The clerk must transmit the order vacating the conviction of a sex trafficking victim to the arresting agency, the prosecuting agency, the Department of Public Safety, and the applicant.
+Credits
+Formerly Rule 29.6, added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 29.7 and amended on an emergency basis June 15, 2018, effective Aug. 3, 2018, adopted on a permanent basis Dec. 13, 2018. Renumbered Rule 29.8 on an emergency basis Aug. 25, 2021, effective Sept. 29, 2021, adopted on a permanent basis effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 29.8, AZ ST RCRP Rule 29.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 30, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights
+16A A.R.S. Rules Crim.Proc., R. 30, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 30, Refs & Annos, AZ ST RCRP R. 30, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 30.1. Automatic Restoration; Exceptions; Notice
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights (Refs & Annos)
+Effective: January 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 30.1
+Rule 30.1. Automatic Restoration; Exceptions; Notice
+Currentness
+(a) Automatic Restoration for First Offense; Eligibility. Except as provided in (c)(1), if a person has not previously been convicted of any other felony, any civil rights that were lost or suspended by the conviction are automatically restored if the person:
+(1) completes a term of probation or receives an absolute discharge from imprisonment; and
+(2) pays all victim restitution imposed.
+(b) Second or Subsequent Offense; Unpaid Restitution; Application Required. A person who has been convicted of two or more felonies or has not paid all victim restitution and whose period of probation has been completed or has received an absolute discharge from imprisonment may have any civil rights that were lost or suspended by the conviction restored by the court. A person whose civil rights were lost or suspended by two or more felony convictions in another state or a United States District Court may apply to the superior court in the county in which the person now resides to have the person's civil rights restored. A person seeking to apply to have civil rights restored under this rule must file an application under Rule 30.2.
+(c) Firearm Rights.
+(1) Exception to Automatic Restoration. The right to possess a firearm is not automatically restored under (a) if the person is convicted of either:
+(A) a dangerous offense under A.R.S. § 13-704 or an offense committed outside the jurisdiction of this state that would be a dangerous offense if committed in this state, or
+(B) a serious offense under A.R.S. § 13-706 or an offense committed outside the jurisdiction of this state that would be a serious offense if committed in this state.
+(2) When an Application Must Be Filed. If the right to possess or carry a firearm was not automatically restored under (a), a person seeking to restore the right to possess a firearm must file an application under Rule 30.2. The following persons may not file to restore the right to possess a firearm:
+(A) a person convicted of a dangerous offense under A.R.S. § 13-704 or an offense committed outside the jurisdiction of this state that would be a dangerous offense if committed in this state; or
+(B) a person convicted of a serious offense as defined in A.R.S. § 13-706 or an offense committed outside the jurisdiction of this state that would be a serious offense if committed in this state until 10 years after the date of discharge from probation or from the date of absolute discharge from prison.
+(d) Other Circumstances When an Application Must Be Filed. If the offense was committed outside the jurisdiction of this state or absolute discharge was from a prison in another state or the federal bureau of prisons, an eligible person seeking automatic restoration of civil rights must file an application under Rule 30.2. If the court finds the person is eligible for automatic restoration, it must grant the application without receiving a response from the State or holding a hearing. An order granting the application must specify whether the person's right to possess a firearm is restored and must be transmitted as provided in Rule 30.6(g).
+(e) Application for Certification of Automatic Restoration. A person who is entitled to automatic restoration of civil rights may file an application under Rule 30.2 to obtain an order certifying that the person's rights have been automatically restored. If the court finds the person is entitled to automatic restoration, the court must grant the application without receiving a response from the State or holding a hearing. An order granting the application must specify whether the person's right to possess a firearm is restored and must be transmitted as provided in Rule 30.6(g).
+(f) Supporting Documentation. Nothing in this rule precludes the court from requesting supporting documentation from an eligible applicant for purposes of verifying that the applicant is entitled to automatic restoration.
+Credits
+Added on an emergency basis, effective June 15, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis, effective Aug. 27, 2019, adopted on a permanent basis Dec. 12, 2019. Amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 30.1, AZ ST RCRP Rule 30.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 30.2. Application
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights (Refs & Annos)
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 30.2
+Rule 30.2. Application
+Currentness
+(a) Contents. An application under this rule must include the applicant's name, address, date of birth, and signature, the offenses for which the applicant was convicted, the place and date of conviction, the sentence imposed, the status of victim restitution payment and other court-ordered monetary obligations, and the relief the applicant is requesting. The applicant must attach to the application any documents and affidavits required by law and may attach other supporting documents and affidavits.
+(b) Place of Filing and Filing Fee. The applicant must file an application with the court that sentenced the applicant. An applicant who was convicted in another state or a United States District Court may apply for restoration of rights in the superior court in the county where the person now resides. The clerk may not charge a fee for filing an application.
+(c) Processing of Application. The court must send a copy of the application to the applicable prosecuting agency or attorney general no later than 10 days after filing.
+(v) Victims' Rights.
+(1) Generally. The victim has the right to be present and be heard at any proceeding in which the defendant has filed an application to have civil rights restored.
+(2) Prosecutor's Notice to the Victim. If the victim in a state court matter has requested post-conviction notice, the prosecuting agency must provide the victim with notice of the defendant's application and the rights provided to the victim, including the victim's opportunity to be heard on the application and the status of restitution.
+Credits
+Added on an emergency basis, effective June 15, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis, effective Aug. 27, 2019, adopted on a permanent basis Dec. 12, 2019; amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 30.2, AZ ST RCRP Rule 30.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 30.3. State's Response
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights (Refs & Annos)
+Effective: January 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 30.3
+Rule 30.3. State's Response
+Currentness
+Except as provided in Rule 30.1, no later than 60 days after an application is filed under Rule 30.2, the State and victim may file a written response stating their reasons for opposing the application, if any. The State must send a copy of the response to the applicant's attorney or the applicant, if unrepresented.
+Credits
+Added on an emergency basis, effective June 15, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 30.3, AZ ST RCRP Rule 30.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 30.4. Reply
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 30.4
+Rule 30.4. Reply
+Currentness
+The applicant may file a reply but must do so no later than 15 days after the State's response is filed.
+Credits
+Added on an emergency basis, effective June 15, 2018, adopted on a permanent basis Dec. 13, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 30.4, AZ ST RCRP Rule 30.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 30.5. Hearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights (Refs & Annos)
+Effective: January 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 30.5
+Rule 30.5. Hearing
+Currentness
+Except as provided in Rule 30.1, on either party's request or on its own, the court may set a hearing. A hearing must be held no later than 120 days after the application's filing, unless the court finds good cause for an extension. The prosecuting agency must provide post-conviction victim notice of the hearing date and the right to be present and heard if the victim requested post-conviction notification.
+Credits
+Added on an emergency basis, effective June 15, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 30.5, AZ ST RCRP Rule 30.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 30.6. Disposition
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights (Refs & Annos)
+Effective: January 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 30.6
+Rule 30.6. Disposition
+Currentness
+(a) Considerations. Whether to restore civil rights is in the discretion of the judicial officer.
+(b) Additional Considerations for Applications Filed Under A.R.S. § 13-925. On the petition's filing the court must set a hearing. At the hearing, the person must present psychological or psychiatric evidence in support of the petition. The State must provide the court with the person's criminal history records, if any. The court must receive evidence on and consider the following before granting or denying a petition filed by a prohibited possessor under A.R.S. § 13-925:
+(1) the circumstances that resulted in the person being a prohibited possessor as defined in A.R.S. § 13-3101(A)(7)(a), or subject to 18 U.S.C. § 922(d)(4) or (g)(4);
+(2) the person's record, including the person's mental health record and criminal history record, if any;
+(3) the person's reputation based on character witness statements, testimony, or other character evidence;
+(4) whether the person is a danger to self or others or has persistent, acute, or grave disabilities or whether the circumstances that led to the original order, adjudication, or finding remain in effect;
+(5) any change in the person's condition or circumstances that is relevant to the relief sought; and
+(6) any other evidence deemed admissible by the court.
+(c) Burden of Proof. The petitioner must prove by clear and convincing evidence the following:
+(1) the petitioner is not likely to act in a manner that is dangerous to public safety; and
+(2) granting the requested relief is not contrary to the public interest.
+(d) Court Findings. At the hearing's conclusion, the court must issue findings of fact and conclusions of law.
+(e) Denial. If the court denies an application, its order must state the reasons for the denial in writing, including any statutory requirements the applicant has not met.
+(f) Subsequent Application. If an application is denied, the defendant may file a new application after satisfying all requirements or after resolving any other reason for denial.
+(g) Order. The clerk must transmit the order to the applicant, the prosecutor, and the Department of Public Safety. If the order is a result of an application filed under A.R.S. § 13-925, a copy of the order must be provided to the Supreme Court and the Department of Public Safety. The Supreme Court and the Department of Public Safety must update, correct, modify, or remove the person's record in any database available to the national instant criminal background check system. Within 10 court days after receiving the notification from the court, the Department of Public Safety must notify the United States Attorney General that the person no longer falls within the provisions of A.R.S. § 13-3101 (A)(7)(a) or 18 U.S.C. § 922(d)(4) or (g)(4).
+Credits
+Added on an emergency basis, effective June 15, 2018, adopted on a permanent basis Dec. 13, 2018. Amended on an emergency basis Sept. 15, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 30.6, AZ ST RCRP Rule 30.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 30.7. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VII. Post-Verdict Proceedings
+Rule 30. Restoring Civil Rights (Refs & Annos)
+16A A.R.S. Rules Crim.Proc., Rule 30.7
+Rule 30.7. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 30.7, AZ ST RCRP Rule 30.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.1. Scope, Procedure, Definitions, Victims' Rights
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section One. General Provisions
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 31.1
+Formerly cited as AZ ST RCRP Rule 30.1
+Rule 31.1. Scope, Procedure, Definitions, Victims' Rights
+Currentness
+(a) Scope.
+(1) Appeals from Limited Jurisdiction Courts. The Superior Court Rules of Appellate Procedure-Criminal govern appeals from justice courts and municipal courts.
+(2) Appeals from the Superior Court. The provisions of Rule 31 govern criminal appeals from the superior court to the Court of Appeals and the Supreme Court.
+(b) Precedence of Criminal Appeals. Appeals in criminal cases have precedence over all other appeals except those from juvenile actions or if otherwise provided by law. Capital case appeals have precedence over all other appeals.
+(c) Definitions. As used in this rule, the following terms have the following meanings:
+(1) “Appellate clerk” means the clerk of the court in which an appeal is pending.
+(2) “Appellate court” means the Supreme Court and the Court of Appeals, Divisions One and Two.
+(3) “Appellant” is a party that commences an appeal. An appellant also may be a cross-appellee.
+(4) “Appellee” is a party that responds to an appeal. An appellee also may be a cross-appellant.
+(5) “Decision” is a written disposition of an appeal, as provided in Rule 31.19.
+(6) “Entry” of a court order or decision occurs when it is filed by the clerk.
+(7) “Judgment” is an appealable order, whether identified as a “judgment,” an “order,” a “pronouncement of sentence,” or another term.
+(v) Victims' Rights. Before granting a request to extend a deadline under Rules 31.3, 31.9, 31.13, 31.14, or any other rule, the court must consider the victim's right to a prompt and final conclusion of the case.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 31.1, AZ ST RCRP Rule 31.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.2. Notice of Appeal or Notice of Cross-Appeal
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section One. General Provisions
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 31.2
+Formerly cited as AZ ST RCRP Rule 30.2
+Rule 31.2. Notice of Appeal or Notice of Cross-Appeal
+Currentness
+(a) Notice of Appeal or Cross-Appeal.
+(1) Filing a Notice. Except as provided in (b), a party appeals or cross-appeals a judgment or sentence by signing and filing a notice of appeal or a notice of cross-appeal with the superior court clerk.
+(2) Time for Filing.
+(A) A notice of appeal from a judgment of conviction and imposition of sentence must be filed no later than 20 days after the oral pronouncement of sentence.
+(B) A notice of appeal from a judgment or order other than (A) must be filed no later than 20 days after entry of the judgment or order.
+(C) A notice of cross-appeal, if any, must be filed no later than 20 days after the appellant's notice of appeal is filed.
+(3) Delayed Appeal. A notice of delayed appeal must be filed no later than 20 days after entry of the order granting a delayed appeal under Rule 32.1(f).
+(b) Automatic Appeal for a Defendant Sentenced to Death. As provided in Rule 26.15, when a defendant has been sentenced to death, the superior court clerk must file a notice of appeal on the defendant's behalf after the oral pronouncement of sentence. That notice constitutes a notice of appeal by the defendant with respect to all judgments entered and sentences imposed in that case. No later than 10 days after the notice of appeal is filed, the clerk must notify all assigned certified reporters or authorized transcribers that they are required to transmit their portions of the certified transcript to the Supreme Court clerk.
+(c) Content of the Notice of Appeal or Cross-Appeal.
+(1) The Appeal's Subject. A notice of appeal or cross-appeal must identify the order, judgment, or sentence that is being appealed. A notice of appeal of a judgment of conviction includes all appealable rulings made in the case before the imposition of sentence.
+(2) Victim's Rights Certification. If the State's notice of appeal or cross-appeal is based in whole or in part on a victims' rights violation, the State must certify in the notice of appeal or opening brief that the victim requested the appeal or cross-appeal.
+(3) Other Requirements. A notice of appeal also must include:
+(A) the defendant's name and address;
+(B) the name and address of defense counsel, if any;
+(C) the name and address (if known) of any co-defendant at trial; and
+(D) whether the defendant was indigent when sentenced or when the appealable order was entered.
+(d) Joint Notice of Appeal or Cross-Appeal. If two or more defendants are entitled to appeal from judgments, sentences, or orders arising out of the same proceeding, and they have common issues of law and fact, they may file a joint notice of appeal or cross-appeal.
+(e) Distribution of Notices by the Superior Court Clerk.
+(1) When a Defendant Appeals. No later than 8 days after the defendant files a notice of appeal, the superior court clerk must distribute a copy of the notice to:
+(A) the prosecuting agency that tried the case;
+(B) the attorney general;
+(C) the defendant, and each co-defendant at trial who is not a joint-appellant;
+(D) defense counsel of record, if any;
+(E) the appropriate certified reporter or reporters or, if the record was made by electronic or other means, to the court's designated transcript coordinator; and
+(F) the clerk of the proper appellate court.
+(2) When the State Appeals. No later than 8 days after the State files a notice of appeal or cross-appeal, the superior court clerk must distribute a copy of the notice to:
+(A) each defendant and defense counsel of record, if any;
+(B) the appropriate certified reporter or reporters, or if the record was made by electronic or other means, to the court's designated transcript coordinator; and
+(C) the clerk of the proper appellate court.
+(3) Notice to Unrepresented Defendant. When distributing the notice of appeal or cross-appeal, the superior court clerk must distribute a notice advising an unrepresented defendant of the right to counsel under Rule 6.
+(4) Notice to the Appellate Court of Pending Post-Trial Motions. When the superior court clerk sends a notice of appeal or cross-appeal to an appellate court, the clerk must include a copy of any motion filed by a party under Rule 24 that the superior court has not yet decided.
+(f) Entry by the Superior Court Clerk. When any party files a notice of appeal or cross-appeal, the superior court clerk must enter in the docket:
+(1) whether the defendant was indigent when the appealable order was entered; and
+(2) the name and address of each party to whom the clerk distributed copies of the notice of appeal or notice of cross-appeal, and when each notice was distributed.
+(g) Assignment of Appellate Case Number.
+(1) Timing. No later than 10 days after receiving a notice of appeal from the superior court clerk, the appellate clerk must assign an appellate case number to the appeal.
+(2) Case Title. The appellate clerk must use same case title used in the superior court. If the title does not contain the name of the appellant, the appellate clerk may modify the title. The clerk also must designate the parties as appellants, appellees, cross-appellants, or cross-appellees, as they will appear in the appellate court.
+(3) Notice. The appellate clerk must promptly notify each individual identified in Rule 31.2(e)(1) or (2) of the assignment of the appellate case number.
+(h) Amended Notice. If the superior court enters an order granting or denying relief under Rule 24 after a notice of appeal or cross-appeal has been filed, a party seeking review of the order must file an amended notice no later than 20 days after entry of the order.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended effective Jan. 16, 2019; amended on an emergency basis, effective Sept. 30, 2021, permanently adopted effective Jan. 1, 2022; amended Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 31.2, AZ ST RCRP Rule 31.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.3. Suspension of These Rules; Suspension of an Appeal; Computation of Time; Modifying a...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 13, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section One. General Provisions
+Effective: December 13, 2024
+16A A.R.S. Rules Crim.Proc., Rule 31.3
+Rule 31.3. Suspension of These Rules; Suspension of an Appeal; Computation of Time; Modifying a Deadline
+Currentness
+(a) Suspension of Rule 31. For good cause, an appellate court, on motion or on its own, may suspend any provision of this rule in a particular case, and may order such proceedings as the court directs.
+(b) Suspension of an Appeal.
+(1) Generally. An appellate court on motion or on its own may suspend an appeal if a motion under Rule 24 or a petition under Rule 32 is pending to permit the superior court to decide those matters.
+(2) Notice. If an appeal is suspended, the appellate clerk must notify the parties, the superior court clerk, and, if certified transcripts have not yet been filed, the certified reporters or authorized transcribers.
+(3) Later Notification. No later than 20 days after the superior court's decision on the Rule 24 motion or Rule 32 petition, the appellant must file with the appellate clerk either a notice of reinstatement of the appeal or a motion to dismiss the appeal under Rule 31.24(b), and must serve a copy of such documents on all persons entitled to notice under (b)(2).
+(c) New Matters. Other than a petition for post-conviction relief that is not otherwise precluded under Rule 32.2, a party to an appeal may not, without the appellate court's consent, file any new matter in the superior court later than 15 days after the appellate clerk distributes a notice under Rule 31.9(e) that the record on appeal has been filed.
+(d) Computation of Time. Rule 1.10 governs the computation of any time period in Rule 31, an appellate court order, or a statute regarding a criminal appeal, except that 5 calendar days are not added to the time for responding to an electronically served document.
+(e) Modifying a Deadline. A party seeking to modify a deadline in the appellate court must obtain an appellate court order authorizing the modified deadline. For good cause and after considering the rights of the victim, an appellate court may shorten or extend the time for doing any act required by Rule 31, a court order, or an applicable statute.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, permanently adopted effective Jan. 1, 2022. Amended effective Dec. 13, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 31.3, AZ ST RCRP Rule 31.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.4. Consolidation of Appeals
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section One. General Provisions
+16A A.R.S. Rules Crim.Proc., Rule 31.4
+Rule 31.4. Consolidation of Appeals
+Currentness
+(a) Consolidation by Appellate Court Order. On motion, by stipulation, or on its own, an appellate court may order appeals or cross-appeals consolidated at any time:
+(1) if those appeals or cross-appeals raise a common question of law or fact; and
+(2) the court has given the parties an opportunity to object.
+(b) Consolidation with the Appeal of a Post-Judgment Proceeding. Unless good cause exists not to do so, an appellate court must consolidate an appeal from a judgment or sentence with an appeal from a final decision on a Rule 24 motion or a petition for review from a final decision on a Rule 32 petition if the motion or petition was filed:
+(1) before a notice of appeal is filed; or
+(2) while an appeal is pending and the motion or petition was decided while the appeal is stayed.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.4, AZ ST RCRP Rule 31.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.5. Appointment of Counsel on Appeal; Waiver of the Right to Appellate Counsel
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section One. General Provisions
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 31.5
+Rule 31.5. Appointment of Counsel on Appeal; Waiver of the Right to Appellate Counsel
+Currentness
+(a) Determination that the Defendant is Indigent.
+(1) If Indigent in Superior Court. A defendant who was indigent when sentenced may proceed on appeal as indigent without further authorization, unless after a notice of appeal is filed, the superior court finds that the defendant is financially able to employ counsel and pay for a certified copy of the record on appeal, including a certified transcript.
+(2) If Not Indigent in Superior Court. A defendant who was not indigent when sentenced may proceed as indigent on appeal by filing in the superior court a request to proceed as indigent, together with a completed sworn questionnaire required under Rule 6.4(a). The superior court clerk must immediately provide a copy of the defendant's request and questionnaire to the State. The superior court may require the defendant to appear for an inquiry into his or her ability to pay. The court must promptly grant or deny the defendant's request.
+(3) Definition of “Indigent.” The term “indigent” is defined in Rule 6.1(g).
+(b) Contribution by the Defendant. The superior court may order an indigent defendant to contribute to the costs of appeal and the services of counsel in the manner provided in Rule 6.4(c).
+(c) Motion in the Appellate Court. If the superior court finds that a defendant is not entitled to proceed as indigent, the defendant may file a motion in the appellate court for permission to proceed as indigent, together with a copy of the sworn questionnaire required by (a)(2). The appellate court, or a single judge of that court, must promptly rule on the motion.
+(d) Notice of an Order to Proceed as Indigent. The clerk of the court that enters an order allowing a defendant to proceed as indigent on appeal must send a copy of that order to:
+(1) the superior court clerk or the appellate clerk, as the case may be;
+(2) the parties; and
+(3) the appropriate certified reporters or, if the record was made by electronic or other means, the court's designated transcript coordinator.
+(e) Appointment of Counsel. If a court allows a defendant's appointed attorney to withdraw, the superior court or the appellate court must appoint new counsel if the defendant is legally entitled to counsel on appeal.
+(f) Waiver of Right to Counsel.
+(1) Filing Deadline. A defendant may waive the right to appellate counsel by filing a written waiver no later than 30 days after filing a notice of appeal.
+(2) Where to File. If the waiver is filed before or when the defendant files a notice of appeal, the waiver must be filed with the superior court clerk. If the waiver is filed after filing a notice of appeal, the waiver must be filed with the superior court clerk and the appellate clerk.
+(3) Superior Court Determination. If the superior court determines that the defendant's waiver of the right to appellate counsel is made knowingly, intelligently, and voluntarily, the defendant will be allowed to represent himself or herself on appeal.
+(4) Advisory Counsel. The superior court or the appellate court may appoint advisory counsel for a self-represented defendant during any stage of the appellate proceedings. Advisory counsel must be given notice of all matters for which the defendant is entitled to notice.
+(5) Withdrawal of Waiver. In the interest of justice, the appellate court may grant a defendant's written request to withdraw a waiver of the right to appellate counsel. The defendant is not entitled to repeat any proceeding previously held or waived merely because counsel is later appointed or retained.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Aug. 22, 2024, permanently adopted Dec. 3, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 31.5, AZ ST RCRP Rule 31.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.6. Filing Documents with an Appellate Court; Document Format; Service and Proof of Serv...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2021
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section One. General Provisions
+Effective: January 1, 2021
+16A A.R.S. Rules Crim.Proc., Rule 31.6
+Rule 31.6. Filing Documents with an Appellate Court; Document Format; Service and Proof of Service; Motions
+Currentness
+(a) Filing. Documents filed in an appellate court must be filed with the appellate clerk. Rule 1.7(b) defines when a document is deemed filed.
+(b) Document Format. Documents filed with the appellate clerk other than briefs must comply with the formatting requirements of Rule 1.6, except that every typed document and footnote must use at least a 14-point typeface. Briefs must comply with the formatting requirements in Rule 31.12(b).
+(c) Service and Proof of Service. If a party files a document other than a brief with the appellate clerk, the party must serve a copy of the document on the same day on all other parties as provided in Rule 1.7(c) unless the filing party shows a need for confidentiality. Rule 31.13(d) governs service of briefs. The appellate clerk may permit a document to be filed without a proof of service, but the filing party must file one no later than 5 days after filing the document.
+(d) Word Limits. Word limits specified in Rules 31.12(a), 31.14(a), 31.18(d), 31.20(e), and 31.21(g) include footnotes and quotations, but do not include the cover page, the caption, the table of contents, the table of citations, paragraph numbers appearing at the beginning of each paragraph (if any), the date and signature block, a certificate of service, a certificate of compliance, or any appendix.
+(e) Motions. Rule 1.9 does not apply to motions filed in an appellate court. A party filing a motion, response, or reply in an appellate court must comply with ARCAP 6(a)(2) and (3). A party filing a motion for a procedural order must comply with ARCAP 6(b) and an appellate court will process and decide such a motion consistent with that rule's provisions.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 26, 2020, effective Jan. 1, 2021.
+16A A. R. S. Rules Crim. Proc., Rule 31.6, AZ ST RCRP Rule 31.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.7. Stay of Proceedings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section One. General Provisions
+16A A.R.S. Rules Crim.Proc., Rule 31.7
+Formerly cited as AZ ST RCRP Rule 31.6
+Rule 31.7. Stay of Proceedings
+Currentness
+(a) During a Defendant's Appeal.
+(1) Sentence of Imprisonment; Credit. If a defendant is released from custody pending appeal under Rule 7.2(c), a sentence of imprisonment is stayed pending appeal. A defendant who remains in custody during an appeal's pendency must receive credit for the time of incarceration pending the appeal's disposition.
+(2) Sentence of a Fine. A sentence to pay a fine is stayed pending appeal.
+(b) During an Appeal by the State. An appeal by the State does not stay an order in favor of the defendant, except when the State appeals from:
+(1) an order granting a new trial; or
+(2) an order granting a motion to suppress that directs the return of seized evidence.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.7, AZ ST RCRP Rule 31.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.8. The Record on Appeal
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 31.8
+Rule 31.8. The Record on Appeal
+Currentness
+(a) Composition of the Record on Appeal.
+(1) Generally. The record on appeal consists of:
+(A) all documents (including minute entries, exhibit lists, transcripts, and other items) filed in the superior court on or before the effective date of the filing of a notice of appeal, a notice of cross-appeal, or an amended notice of appeal;
+(B) the index prepared under Rule 31.9(b);
+(C) all documents, papers, books, and photographs introduced into evidence; and
+(D) certified transcripts of oral proceedings, as provided in Rule 31.8(b).
+(2) Additions and Deletions.
+(A) By Appellant. No later than 30 days after filing a notice of appeal, the appellant may file with the superior court clerk a designation to include in the record any item not within (a)(1)(C) that the appellant deems necessary, and to delete from the record all the documents, papers, books, and photographs the appellant deems unnecessary.
+(B) By Appellee. No later than 30 days after the opening brief is filed, the appellee may file with the superior court clerk a designation to include in the record any item not within (a)(1)(C) that the appellee deems necessary, and any document, paper, book, or photograph deleted by the appellant. The superior court clerk must supplement the record accordingly.
+(C) By the Appellate Court. An exhibit other than those listed in (a)(1)--including the excised portion, if any, of a presentence, diagnostic, or mental health report--may be added to the record on appeal only by order of the appellate court. The court may enter such an order at any time.
+(D) Notice to Other Parties. An appellant or appellee must serve any designation or request made under this rule on all other parties when the party submits the designation or request.
+(b) Certified Transcripts.
+(1) Generally. The record on appeal includes certified transcripts as follows:
+(A) if the defendant is sentenced to death, the record on appeal must include a certified transcript of all recorded proceedings, including grand jury proceedings; and
+(B) in all other cases, the record on appeal must include a certified transcript of the following proceedings:
+(i) any voluntariness hearing or hearing to suppress the use of evidence;
+(ii) all trial proceedings, including any trial or admission involving prior convictions;
+(iii) any aggravation or mitigation hearing;
+(iv) proceedings for the entry of judgment and sentence; and
+(v) any probation violation proceeding.
+(2) Additions and Deletions.
+(A) By Appellant. No later than 30 days after filing a notice of appeal, the appellant may request from the certified reporter or, if the record was made by electronic or other means, the court's designated transcript coordinator:
+(i) a certified transcript of any proceeding not automatically included under (b)(1); and
+(ii) to exclude from a certified transcript any portion of the proceedings the appellant deems unnecessary for a proper hearing of the appeal.
+(B) By Appellee. No later than 30 days after the opening brief is filed, the appellee may request from the certified reporter or, if the record was made by electronic or other means, the court's designated transcript coordinator, a certified transcript of:
+(i) any portion of a proceeding deleted by the appellant; and
+(ii) a proceeding not automatically included under (b)(1).
+(C) Untimely Request. For good cause shown, a party may request an addition to the record under (b)(2)(A) and (B).
+(D) Notice to Other Parties. An appellant or appellee must serve any designation or request made under this rule on all other parties when the party submits the designation or request.
+(c) Authorized Transcriber: Time to Prepare, and Payment Arrangements for, Certified Transcripts.
+(1) Generally. Every transcript in the record on appeal must be prepared by an authorized transcriber. An “authorized transcriber” as used in these rules has the same meaning as set forth in Supreme Court Rule 30(a)(2). There may be multiple authorized transcribers for a single case.
+(2) Certified Reporter. If a certified reporter attended a proceeding in the superior court, a party must order a certified transcript of proceedings directly from that certified reporter.
+(3) Audio or Video Recording. If the superior court created only an audio or audio-video recording of the proceeding, a party must order a certified transcript of the proceeding directly from an authorized transcriber. Unless the ordering party is an indigent defendant, the superior court will furnish the authorized transcriber with a copy of the designated electronic recording upon receiving a notice from the authorized transcriber that the authorized transcriber has reached a satisfactory arrangement for payment. All parties to the appeal must cooperate with the authorized transcriber by providing information that is necessary to facilitate transcription.
+(4) Time to Prepare. The authorized transcriber must prepare the certified transcript promptly upon receiving a notice of appeal either:
+(A) by the State; or
+(B) by the defendant if the notice indicates that the defendant was represented by appointed counsel when found guilty or when sentenced.
+(5) Non-Indigent Defendant. No later than 5 days after filing a notice of appeal or after the denial of a request during the appeal to proceed as indigent, a non-indigent defendant must make payment arrangements with the authorized transcriber for the certified transcript. The authorized transcriber then must promptly prepare the certified transcript. The authorized transcriber must notify the appellate court if the defendant fails to make satisfactory payment arrangements within the prescribed time.
+(6) Additions and Deletions. The authorized transcriber must promptly add or delete any portions requested by the parties. Non-indigent defendants must pay for all portions of the record on appeal and certified transcripts that they have designated or requested.
+(d) Authorized Transcriber: Manner of Delivering Transcripts.
+(1) Delivery to the Appellate and Trial Courts. The authorized transcriber must file a certified electronic transcript of proceedings with the appellate and trial court clerks within the time allowed for the superior court clerk to transmit the record to the appellate court under Rule 31.9(c).
+(2) Delivery to the State.
+(A) If an Appellee. If the State is the appellee, the authorized transcriber must deliver an electronic copy of the certified transcript to the Attorney General and the appropriate county attorney's office, if any.
+(B) If an Appellant. If the State is the appellant, the authorized transcriber must deliver an electronic copy of the certified transcript to the agency that prosecuted the case in the superior court.
+(3) Delivery to the Defendant.
+(A) Electronic. The authorized transcriber must submit the electronic transcript for the defendant to the superior court clerk, who will provide the electronic transcript to the defendant's appellate counsel or to the defendant, if self-represented.
+(B) Paper. If defense counsel or a self-represented defendant requires or requests a paper transcript rather than an electronic transcript, the authorized transcriber must submit the defendant's paper copy to the superior court clerk, who will transmit the copy to the defendant's appellate counsel or to the defendant, if self-represented.
+(C) Exception. If a local rule or administrative order prescribes a procedure different from (d)(3)(A) or (B), the authorized transcriber must distribute the defendant's copy as provided in that rule or order.
+(4) Notice of Service. The authorized transcriber must file with the appellate court a notice of service of the certified transcript. The notice must state when and on whom service was made.
+(e) Narrative Statement if No Record Is Available.
+(1) Clerk's Duty. If the court did not make a record of evidence or of an oral proceeding at trial, or if the transcript is unavailable, the superior court clerk must promptly notify the parties and the appellate clerk.
+(2) Narrative Statement.
+(A) Preparation. If no record of evidence or transcript of an oral proceeding is available, the appellant may prepare and file a narrative statement of the evidence or proceeding from the best available means, including the appellant's recollection.
+(B) Filing and Service. The appellant must file the narrative statement in the superior court no later than 30 days after filing a notice of appeal and must serve it on all other parties.
+(C) Objections. Any other party may file objections or proposed amendments to the narrative statement no later than 10 days after the statement is served.
+(D) If the Appellant Does Not File a Statement. If the appellant does not file a narrative statement within the time specified in (2)(B), any other party may prepare, file, and serve such a narrative statement. The appellant may file objections or proposed amendments to that statement no later than 10 days after the statement is served.
+(E) Court Review and Transmittal. After considering a narrative statement and any objections or proposed amendments, the superior court must settle and approve the narrative statement. The superior court clerk must then include it in the record transmitted to the appellate court under Rule 31.9(c).
+(f) Agreed Statement.
+(1) Generally. Instead of providing a transcript of oral proceedings to the appellate court, the parties may prepare an agreed statement that contains the evidence or proceedings that are essential to a decision of the issues presented by the appeal, and submit the statement to the superior court for settlement and approval. The agreed statement must include a statement of the issues the appellant and any cross-appellant intend to present on the appeal.
+(2) Notice. The parties must notify the superior court clerk and authorized transcribers at the earliest practical time of the parties' intent to submit an agreed statement.
+(3) Filing. The parties must file the agreed statement in the superior court no later than 30 days after a notice of appeal is filed.
+(4) Court Review and Transmittal. The superior court may make any additions and corrections it considers necessary to the issues presented by the appeal. The superior court clerk will then include the agreed statement, as corrected and modified by the court, in the record transmitted to the appellate court under Rule 31.9(c).
+(g) Correcting or Modifying the Record.
+(1) Generally. If anything material to either party is omitted from or misstated in the record, the omission or misstatement may be corrected and a supplemental record may be certified and forwarded:
+(A) on stipulation of the parties; or
+(B) by the superior court before or after the record has been forwarded.
+(2) Superior Court Review. If a dispute arises about whether the record accurately discloses what occurred in the superior court, the dispute must be submitted to and settled by the superior court and the record conformed accordingly.
+(3) Appellate Court Review. The parties must present all other questions as to the form and content of the record to the appellate court.
+(4) Order to Correct the Record. The appellate court may order the parties to correct an omission or misstatement in the record.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, permanently adopted effective Jan. 1, 2022; amended Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 31.8, AZ ST RCRP Rule 31.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.9. Transmission of the Record to the Appellate Court
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+16A A.R.S. Rules Crim.Proc., Rule 31.9
+Rule 31.9. Transmission of the Record to the Appellate Court
+Currentness
+(a) Transcripts. The authorized transcriber provides transcripts of superior court proceedings to the appellate court as provided in Rule 31.8(d).
+(b) Official Documents; Index. After a party files a notice of appeal, the superior court clerk must prepare a numerical index of the documents in the superior court's file (the “index”). The superior court clerk must promptly distribute a copy of the index to every party to the superior court judgment that is the subject of the appeal.
+(c) Electronic Transmission by the Superior Court Clerk.
+(1) Generally. No later than 45 days after a notice of appeal is filed, the superior court clerk must electronically transmit to the appellate clerk, and make available to all parties:
+(A) all documents filed in the superior court before the effective date of the filing of the notice of appeal, a notice of cross-appeal, or an amended notice of appeal, including minute entries, notices of appeal and cross-appeal, and the index;
+(B) every exhibit listed or designated under Rule 31.8(a) in paper, electronic, or photographic form, unless relieved by the appellate court of an obligation to do so; and
+(C) any other items requested by the appellate clerk.
+(2) Extension and Reduction of Time. For good cause and after considering the rights of the victim, the appellate court may grant one 20-day extension for transmitting the record on appeal. The appellate court also may order the superior court clerk to transmit the electronic record, or a portion of the record, at an earlier time or it may order physical transmission of the entire record or portions of the record under (d). The appellate clerk must distribute a copy of any order entered under this rule to the parties, the superior court clerk, and to the requesting authorized transcriber.
+(3) Supplementation. At any time during the appeal, the appellate court may direct the superior court clerk by an order or written request to transmit portions of the record that were not included in previous transmissions.
+(d) Physical Transmission by the Superior Court Clerk. The superior court clerk must notify the appellate clerk and the parties to the appeal of any items in the superior court's record of a size, bulk, or condition that makes their electronic transmission impractical. If any of those items are necessary for a determination of issues raised on appeal, the appellate court, on motion or on its own, may order that the superior court clerk transmit to the appellate court any or all of these items in physical form. Alternatively, the parties may stipulate to the method of transmitting the item.
+(e) Notice that the Record Was Received. When the appellate clerk receives all of the record on appeal, the appellate clerk must promptly give all parties notice of that fact and the date on which the clerk received the complete record.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.9, AZ ST RCRP Rule 31.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.10. Content of Briefs
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 31.10
+Formerly cited as AZ ST RCRP Rule 31.13
+Rule 31.10. Content of Briefs
+Currentness
+(a) Appellant's Opening Brief. An appellant's opening brief must set forth under headings and in the following suggested order the items listed below, except for items (4) and (9), which are optional:
+(1) a “table of contents” with page references. If the brief is filed electronically, if feasible, the table of contents should include bookmarks to sections of the brief described in items (2) through (9) below.
+(2) a “table of citations” that alphabetically arranges and indexes the cases, statutes and other authorities cited in the brief, and that refers to the pages of the brief on which each citation appears.
+(3) a “statement of the issues” presented for review. The statement of issues presented for review includes every subsidiary issue fairly comprised within the statement.
+(4) a short “introduction.”
+(5) a “statement of the case” that concisely states the nature of the case, the course of the proceedings, the disposition in the court from which the appeal is taken, and the basis of the appellate court's jurisdiction. The statement must include appropriate references to the record.
+(6) a “statement of facts” that are relevant to the issues presented for review, with appropriate references to the record. A party may combine a statement of facts with a statement of the case.
+(7) an “argument” that contains:
+(A) appellant's contentions with supporting reasons for each contention, and with citations of legal authorities and appropriate references to the portions of the record on which the appellant relies. The argument may include a summary.
+(B) for each issue, references to the record on appeal where the issue was raised and ruled on, and the applicable standard of appellate review with citation to supporting legal authority.
+(8) a short “conclusion” stating the precise relief sought.
+(9) an “appendix,” as provided in Rule 31.11.
+(b) Appellee's Answering Brief. The appellee's answering brief must follow the requirements of Rule 31.10(a), except that it does not need to include a statement of the case, a statement of facts, or a statement of the issues, unless the appellee finds the appellant's statements to be insufficient or incorrect.
+(c) Reply Brief. If the appellant files a reply brief, it must be strictly confined to the rebuttal of points made in the appellee's answering brief. A party may file additional briefs other than a reply only with the appellate court's permission.
+(d) References to the Record. In any brief, references to evidence or other parts of the record must include a citation to the index, exhibit, or page of a certified transcript, authorized transcription, narrative statement, or agreed statement where such evidence or other material appears. In Division One, a brief may cite to a document in the appendix in lieu of citing to the record, but only if the table of contents of the appendix complies with the requirements of Rule 31.11(c). If a party refers to a video or audio recording, the party must provide specific, time-coded references to the relevant portions of the recording.
+(e) References to Parties. In briefs and at oral argument, parties should minimize use of the terms “appellant” and “appellee.” For clarity, briefs should use the parties' actual names or the designations used in the superior court proceeding, or such descriptive terms as “the defendant” or “the State.”
+(f) Substitute Victim Identifier. Appellate briefs must use a victim identifier in place of the victim's name in any case in which the defendant was charged with an offense listed in A.R.S. §§ 13-1401 et seq., 13-3201 et seq., 13-3501 et seq., or 13-3551 et seq., or in any case in which the victim was a juvenile at the time of the offense. For purposes of this rule, “victim identifier” means a victim's initials, a pseudonym, or other substitute for the victim's actual name.
+(g) References to Case Law. Citation of Arizona case law must be to the volume, page number and, if available, the paragraph number, of the official Arizona reporters. Citation of non-Arizona case law must be to the volume and page number of the applicable regional or federal reporter.
+(h) Visual Images Used for Demonstrative Purposes. Visual images, including photographs, illustrations, tables, charts, graphs, and screenshots of text or images, may be reproduced in briefs using any method that results in a good copy of the original. If a visual image is taken from the record, it must be followed by a citation to its location in the record. If words in a visual image are intended to be read by the court, those words must be legible and must be manually counted and added to the certificate of compliance required under Rule 31.12(a)(5). Visual images should not be used to replace quotations from the record, and screenshots of lengthy excerpts of text are strongly disfavored. Parties should explain the image's relevance to a legal issue before the court. Visual images in briefs must comply with the margin requirements of Rule 1.6(b)(1)(D).
+(i) Briefs in Cases Involving Cross-Appeals. If a cross-appeal is filed, the combined brief under Rule 31.13(a)(4) must include a statement of the issues that are presented in the cross-appeal.
+(j) Briefs Involving Multiple Appellants or Appellees. In cases involving more than one appellant or more than one appellee, including consolidated cases, multiple parties may join in a single brief, or an appellant or appellee may adopt by reference any part of the brief of another party. Parties having contentions in common must make a good faith effort to join in a single brief. If there is a contention common to other parties, the filing party must make a good faith effort to adopt by reference the pertinent part of the previously filed brief of another party.
+(k) Briefs of Amicus Curiae. A brief of amicus curiae must comply with Rule 31.10(a)(1), (2), (3), (7), (8), and (9), and Rule 31.15.
+(l) Non-Compliance. The appellate court may strike a brief or other filing that does not substantially conform to the requirements of these rules.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 31.10, AZ ST RCRP Rule 31.10
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.11. Appendix
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+16A A.R.S. Rules Crim.Proc., Rule 31.11
+Formerly cited as AZ ST RCRP Rule 31.13
+Rule 31.11. Appendix
+Currentness
+(a) Applicability. A party may file an appendix with the party's brief in the Supreme Court and in Division One of the Court of Appeals. A party's appendix must be filed by the same method--paper or electronic--as the party's brief. An electronically filed brief in Division Two of the Court of Appeals must include electronic links when citing to the record on appeal and the brief must not include an appendix. A party may file an appendix in Division Two only if filing a paper brief.
+(b) Content of the Appendix. The appendix should include only those portions of the record and legal authorities that are cited in the briefs and that are essential to decide an issue on appeal.
+(c) Table of Contents. If there is more than a single item in the appendix, the appendix must begin with a table of contents that identifies each item included in the appendix. The table of contents must identify items in both of the following ways:
+(1) Location in the Record. If the item is included in the record on appeal, the table of contents must identify where each item is located in the record--by item number in the clerk's index (see Rule 31.9(b)), by transcript date, or by exhibit number, as appropriate.
+(2) Location in the Appendix. The table of contents also must identify the item's location in the appendix by page number, or by volume and page number.
+(d) Appendix Filed Electronically. A party that electronically files a brief may file a separate appendix or may file a combined brief and appendix as a single document, with the appendix following the brief. A combined filing must not exceed the size limits of the filing portal.
+(1) Page Numbering. The pages in an appendix must be numbered sequentially. An appendix page number should match the electronic page number of the viewing software. If a party files a combined brief and appendix, the first page of the appendix must include a number sequential to the last page of the brief. For a separately filed appendix, the numbers should start with the cover page of the appendix.
+(2) Multiple Volumes. If a separate appendix is more than one volume, page numbering should restart for each volume and include an identifier that distinguishes each volume (e.g., APPV1-001, APPV2-001).
+(3) Bookmarks and Hyperlinks. Each item in the appendix table of contents must include a bookmark or hyperlink to the item in the appendix. If feasible, a combined brief and appendix filed as a single document must contain bookmarks or hyperlinks to items in the appendix when these items are cited in the brief.
+(e) Appendix Filed in Paper.
+(1) Page Numbering. Pages of the appendix must be numbered sequentially, beginning with the appendix cover page.
+(2) Combined Filing. A party that files a brief in paper form may file a combined brief and appendix. If combined, the appendix must be located after the brief, and a blank page of distinctive color must separate the last page of the brief from the first page of the appendix.
+(3) Separate Filing. A party filing a paper appendix that is not combined with the brief must securely bind the appendix (for example, the pages of the appendix may be clipped or banded), but the binding must not use adhesives. The Supreme Court and Division One discourage the use of devices such as staples or two-pronged fasteners that perforate the pages of the appendix.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.11, AZ ST RCRP Rule 31.11
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.12. Length and Form of Briefs
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+16A A.R.S. Rules Crim.Proc., Rule 31.12
+Formerly cited as AZ ST RCRP Rule 31.13
+Rule 31.12. Length and Form of Briefs
+Currentness
+(a) Length of Briefs.
+(1) Opening/Answering Briefs. Opening briefs and answering briefs must not exceed 14,000 words.
+(2) Reply Briefs. Reply briefs must not exceed 7,000 words.
+(3) Combined Briefs. If a party is filing a combined brief involving a cross-appeal, each separate portion of the combined brief must not exceed the number of words that each of the separate briefs may contain.
+(4) Amicus Curiae Briefs. Amicus curiae briefs or responses to amicus curiae briefs must not exceed 12,000 words.
+(5) Certificate of Compliance. Every brief must be accompanied by a certificate that confirms compliance with the word limits in (a)(1)-(4). Form 30 is a template certificate of compliance. A party preparing a certificate of compliance may rely on the word count of the word processing system used to prepare the brief if it counts the required words, including any footnotes.
+(b) Format. Paper and electronic briefs must comply with the format requirements of Rule 1.6(b)-(c), except that the text and any footnotes in a typed brief must use at least a 14-point typeface. The first page of the brief must contain a caption that includes the information specified in Rule 1.6(a).
+(c) Paper Filing.
+(1) Binding. A party must securely bind a paper brief, for example by clipping or banding the pages, but the binding must not use adhesives. The Supreme Court and Division One discourage the use of devices such as staples or two-pronged fasteners that perforate the pages of the brief.
+(2) Cover Page. A paper brief must have a separate cover page that contains the caption.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.12, AZ ST RCRP Rule 31.12
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.13. Due Dates; Filing and Service of Briefs
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 31.13
+Rule 31.13. Due Dates; Filing and Service of Briefs
+Currentness
+(a) Time for Filing a Brief in a Noncapital Case.
+(1) Opening Brief. The appellant must file an opening brief no later than 40 days after the appellate clerk mails or otherwise distributes an initial notice under Rule 31.9(e). If an appellant does not timely file an opening brief, the appellate court may dismiss the appeal on motion or on its own.
+(2) Answering Brief. The appellee must file an answering brief no later than 40 days after the appellant's brief is served. If the appellee does not timely file an answering brief, the appellate court may deem the appeal submitted for decision based on the opening brief and the record.
+(3) Reply Brief. The appellant may file a reply brief no later than 20 days after the answering brief is served. In lieu of filing a reply brief, the appellant may file a notice that the appellant will not be filing a reply brief.
+(4) Combined Brief on Cross-Appeal. A cross-appealing party must file a combined answering brief on appeal and opening brief on cross-appeal no later than 40 days after the appellant's opening brief is served. The appellant/cross-appellee must then file a combined reply brief on appeal and answering brief on cross-appeal no later than 40 days after service of the combined answering brief on appeal/opening brief on cross-appeal.
+(5) Reply Brief on Cross-Appeal. The cross-appellant may file a reply brief no later than 20 days after the cross-appellee's combined brief is served. The reply brief must address only matters raised in the answering brief on cross-appeal. In lieu of filing a reply brief, the cross-appellant may file a notice that the cross-appellant will not be filing a reply brief.
+(6) Amicus Curiae Brief. An amicus curiae must file its brief by the deadlines provided in Rule 31.15(c) or (d).
+(7) Response to Amicus Curiae Brief. A party may respond to an amicus curiae brief. A response may only address points of disagreement with the amicus brief. If the amicus curiae files a brief with the consent of the parties or if a government entity or agency files an amicus curiae brief, a party has 30 days after the brief is served to file a response. If the appellate court grants a motion for leave to file an amicus curiae brief that has been lodged with the appellate court, a party has 30 days from entry of that order to file a response.
+(b) “At Issue.” The appeal will be deemed to be “at issue” when the final reply brief or a notice that no reply brief will be submitted is filed, or when the reply brief is due, whichever is earlier.
+(c) Manner of Filing Briefs.
+(1) Electronic Filing. If a party is represented by counsel, the party must file a brief electronically. Electronic filing of a brief is timely only if the appellate clerk actually receives it within the time allowed for filing.
+(2) Paper Filing. A defendant may file a paper brief only if self-represented. The filing of a paper brief is timely if:
+(A) the filing party places the brief in the United States Postal Service mail within the time allowed for filing;
+(B) the filing party delivers the brief to a third-party commercial carrier within the time allowed for filing, for the carrier's delivery to the appellate clerk within 3 calendar days;
+(C) the filing party hand-delivers the brief to the appellate clerk within the time allowed for filing; or
+(D) if the party is incarcerated, the party delivers the brief to jail or prison authorities for mailing within the time allowed for filing.
+(d) Service of Briefs and Appendices.
+(1) Service. A party must serve a brief and any separate appendix on all other parties to the appeal, as provided in Rule 1.7(c). A party that files a paper brief or separate paper appendix must serve two copies of the brief and appendix on every separately represented party. If a party files an electronic brief or appendix that includes bookmarks or hyperlinks, the party must serve on all other parties to the appeal an electronic copy of the brief or appendix that contains the same functioning bookmarks or hyperlinks.
+(2) Certificate of Service.
+(A) Generally. The party serving the brief and any separate appendix must file a certificate of service with the appellate clerk, as provided in Rule 1.7(c)(3). The filing party also must serve this certificate on all other parties.
+(B) Mailing or Carrier Delivery. If a brief is filed under (c)(2)(A) or (B), the certificate also must include the date the brief was delivered to the commercial carrier or placed in the United States Postal Service mail.
+(C) Hand Delivery. If a brief is filed under (c)(2)(C), the certificate also must include the date of delivery to the clerk.
+(D) Delivery to Prison Authorities. If a brief is filed under (c)(2)(D), the certificate also must include the date the brief was delivered to jail or prison authorities for mailing.
+(e) Extension of Time to File a Brief.
+(1) Extension Due to Transcript Unavailability.
+(A) Generally. If a party moves to extend the time for filing a brief based on a transcript's unavailability, the motion must:
+(i) certify that the party timely ordered and, if applicable, made payment arrangements for the transcript under Rule 31.8(c);
+(ii) provide the reason for the certified reporter's or authorized transcriber's inability to have the transcript completed; and
+(iii) state the certified reporter's or authorized transcriber's estimated date of completing and filing the transcript.
+(B) Order. If the appellate court grants a motion to extend time based on a transcript's unavailability, it will extend the time for filing the brief to 30 days after the transcript's estimated filing date.
+(2) Extensions for Other Reasons. A motion or stipulation to extend the time for filing a brief for any reason other than a transcript's unavailability must comply with Rule 31.3(e).
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Sept. 30, 2021, permanently adopted effective Jan. 1, 2022; amended Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 31.13, AZ ST RCRP Rule 31.13
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.14. Provisions Applicable Only to Briefs in Capital Cases
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 31.14
+Formerly cited as AZ ST RCRP Rule 31.13
+Rule 31.14. Provisions Applicable Only to Briefs in Capital Cases
+Currentness
+(a) Length of Briefs. Opening briefs and answering briefs in a capital case appeal must not exceed 28,000 words. Reply briefs must not exceed 14,000 words.
+(b) Time for Filing. An opening brief in a capital case must be filed no later than 90 days after the court issues a notice that the record is complete. An answering brief must be filed no later than 60 days after the appellant's brief is served. A reply brief must be filed no later than 30 days after the appellee's brief is served.
+(c) Request for Extension of Time to File a Brief. In ruling on any request for an extension of a time limit to file a brief, the court must consider the right of the defendant and the rights of the victim to a prompt and final conclusion of the case.
+(v) Victims' Rights
+(1) Generally. If the victim in a capital case has filed a notice of appearance as provided in A.R.S. § 13-4042, a party requesting an extension of time to file a brief must provide notice of the request to the victim.
+(2) Who must Receive Notice.
+(A) The victim may specify in the notice of appearance whether notification should be provided directly to the victim or to another person, including the prosecutor.
+(B) Unless the victim specifies a different method in the notice of appearance, notice must be provided through the prosecutor's office handling the appeal.
+(3) Timing.
+(A) If the victim has requested direct notification, the party requesting an extension of time must provide notice to the victim no later than 24 hours after filing the request.
+(B) If the prosecutor has the duty to notify the victim on behalf of the defendant, the prosecutor must provide notice to the victim no later than 24 hours after receiving the request.
+(4) Manner of Providing Notice.
+(A) The victim's notice of appearance may specify whether notice must be provided electronically, by telephone, or by regular mail.
+(B) Notice must be provided in the manner specified in the victim's notice of appearance. If no method is specified, notice must be provided by regular mail.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 31.14, AZ ST RCRP Rule 31.14
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.15. Amicus Curiae
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+16A A.R.S. Rules Crim.Proc., Rule 31.15
+Formerly cited as AZ ST RCRP Rule 31.25
+Rule 31.15. Amicus Curiae
+Currentness
+(a) Generally. Amicus curiae is not a party to the appeal and must be independent of any party to the appeal. Counsel for a party may not author an amicus curiae brief in whole or in part.
+(b) Requirements for Filing.
+(1) Allowance. An applicant may file a brief as amicus curiae only if:
+(A) the brief is filed with the parties' written consent, which is separately filed;
+(B) the applicant is the State of Arizona or an officer or agency of the State of Arizona, or is an Arizona county, city, or town; or
+(C) the appellate court grants a motion to file it.
+(2) Motion to File.
+(A) Requirements. If an applicant files a motion to file a brief as amicus curiae, the applicant must lodge the brief with the motion. The motion must identify the interest of the applicant, state that the applicant has read the relevant brief, petition, or motion, and state the reasons why the appellate court's acceptance of applicant's brief as amicus curiae would be desirable.
+(B) Grounds for Granting a Motion. An appellate court may grant a motion to permit the filing of an amicus curiae brief if:
+(i) a party has incompetent representation or is self-represented;
+(ii) amicus curiae has an interest in another case that the decision in the present case may affect; or
+(iii) amicus curiae can provide information, perspective, or argument that can help the appellate court beyond the help that the parties' lawyers provide.
+(3) Disclosure of Sponsor. Amicus curiae's brief must clearly identify the group or organization sponsoring the brief and the interests of the sponsoring entity in the outcome of the appeal.
+(4) Other Requirements. Except as these rules provide otherwise, briefs and other documents filed by amicus curiae must comply with the form, formatting, filing, certification of compliance, and service requirements applicable to briefs and other documents filed by parties.
+(c) Time to File or Submit Amicus Curiae Briefs in the Court of Appeals. In a case that is not a special action, a person filing a brief as amicus curiae in the Court of Appeals must file the brief, or lodge the brief with a motion, no later than 21 days after the deadline for filing the final reply brief.
+(d) Time to File Amicus Curiae Briefs in the Supreme Court. An applicant seeking to file a brief as amicus curiae in the Supreme Court must file the brief as provided in this rule.
+(1) Briefs Filed Before a Decision by the Supreme Court to Grant Review. Unless the Supreme Court orders otherwise, applicants must file (or, if by motion, lodge) amicus curiae briefs in support of a petition for review or a response to a petition for review no later than 21 days after the filing of the response or, if none is filed, the deadline for filing the response to the petition for review. Amicus curiae briefs must comply with the form and length requirements of Rule 31.21(g), exclusive of any appendix.
+(2) Briefs Filed After the Supreme Court Grants Review. After the Supreme Court grants review, and unless the Court orders otherwise, amicus curiae must file (or, if by motion, lodge) a brief no later than 10 days after the date ordered by the Court for the parties to file supplemental briefs. Amicus curiae briefs must not exceed the word or page limitation imposed for the parties' supplemental briefs.
+(3) Briefs Filed in Direct Appeals in Capital Cases. In a direct appeal in a capital case that is not a special action, a person filing a brief as amicus curiae in the Supreme Court must file the brief, or lodge the brief with a motion, no later than 21 days after the deadline for filing the final reply brief.
+(e) Oral Argument. Amicus curiae may participate in oral argument only with the appellate court's permission.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.15, AZ ST RCRP Rule 31.15
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.16. Supplemental Citation of Legal Authority
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+16A A.R.S. Rules Crim.Proc., Rule 31.16
+Formerly cited as AZ ST RCRP Rule 31.22
+Rule 31.16. Supplemental Citation of Legal Authority
+Currentness
+(a) Generally. A party may file a notice of supplemental legal authority at any time before the court enters its decision. If the court has set oral argument, the notice should be filed at least 5 days before argument, unless the party shows good cause for a later filing.
+(b) Form. The notice of supplemental legal authority must state concisely and without argument the legal proposition supported by the supplemental authority. The notice also must clearly identify the page numbers of the party's brief that the party intends to supplement and the relevant pages of the supplemental authority.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.16, AZ ST RCRP Rule 31.16
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.17. Oral Argument in the Court of Appeals
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Two. The Record on Appeal; Briefs and Argument
+16A A.R.S. Rules Crim.Proc., Rule 31.17
+Formerly cited as AZ ST RCRP Rule 31.14
+Rule 31.17. Oral Argument in the Court of Appeals
+Currentness
+(a) Request for Oral Argument.
+(1) Request. A party may file a separate request for oral argument no later than 10 days after the due date for the final reply brief, or no later than 10 days after the date the appellant or cross-appellant actually files the final reply brief, whichever is earlier. A party requesting extended oral argument must state the reasons as part of the request.
+(2) Order and Notice. If the Court of Appeals grants a request for oral argument, or if the Court of Appeals orders oral argument on its own, the Court of Appeals clerk will notify the parties of the time and place for oral argument and the allocation of time for each side. The Court of Appeals clerk will provide the notice at least 20 days before the date set for oral argument.
+(b) Declining a Request for Oral Argument.
+(1) Generally. Notwithstanding a party's request under (a)(1), the Court of Appeals may decide an appeal without oral argument if it determines that:
+(A) the appeal is frivolous;
+(B) the Court of Appeals has recently decided in another case the dispositive issues presented; or
+(C) the briefs and record adequately present the facts and legal arguments, and oral argument would not significantly aid the decisional process.
+(2) Notice. The Court of Appeals clerk must give the parties prompt written notice if the Court of Appeals determines the case will be submitted without the requested oral argument.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.17, AZ ST RCRP Rule 31.17
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.18. Petition for Transfer
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.18
+Rule 31.18. Petition for Transfer
+Currentness
+(a) Grounds for Transfer. The Supreme Court may permit the transfer of an appeal pending in the Court of Appeals to the Supreme Court if:
+(1) the appeal requests that a decision of the Supreme Court be overruled or qualified;
+(2) there are conflicting Court of Appeals decisions concerning an issue on appeal; or
+(3) other extraordinary circumstances justify transfer.
+(b) Transfer on Petition of a Party. A party to a case that is pending before the Court of Appeals may request the Supreme Court to transfer the case by filing a petition with the Supreme Court clerk on or before the date the appeal is at issue under Rule 31.13(b).
+(c) Transfer on Petition by the Court of Appeals. The chief judge of the division of the Court of Appeals in which the appeal is pending may request transfer of the case by filing a petition with the Supreme Court at any time after the appeal is at issue under Rule 31.13(b).
+(d) Form of a Petition. A petition filed under (b) must be no more than 1,400 words, must be in the form required by Rule 31.6(b), and must concisely explain why the Supreme Court should take jurisdiction of the case. The petitioner must serve a copy of the petition on each of the parties.
+(e) Response to Petition. A party may file a response to a petition to transfer no later than 5 days after the petition is served. The length of a response and its form must be the same as required for a petition under (d).
+(f) Transfer on Motion of the Supreme Court. On its own motion, the Supreme Court may order the transfer of a case pending before the Court of Appeals to the Supreme Court. The Supreme Court also may transfer a case filed in that court to the Court of Appeals.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.18, AZ ST RCRP Rule 31.18
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.19. An Appellate Court's Orders and Decisions
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.19
+Rule 31.19. An Appellate Court's Orders and Decisions
+Currentness
+(a) Notice of an Order or a Decision. When an appellate court enters an order or a decision, the appellate clerk must promptly notify all parties and amicus curiae by mail or electronic distribution. The notice must state the date the appellate court filed the order or decision, and the appellate clerk must include with the notice a copy of the order or decision or a hyperlink to the order or decision. The appellate clerk must note the date of mailing or electronic distribution in the appellate court's docket.
+(b) Order Pending a Decision. An appellate court may issue any order during the course of an appeal that it deems necessary or appropriate to facilitate or expedite the appeal's consideration.
+(c) Decision. The appellate court may reverse, affirm, or modify the action of a lower court, and it may issue any necessary and appropriate order in connection with its decision.
+(d) Modification of a Judgment upon Finding of Insufficient Evidence at Trial. An appellate court may modify a judgment to one of conviction for a lesser-included offense and remand the case for resentencing if:
+(1) the evidence introduced at trial is not legally sufficient to establish the defendant's guilt for the offense for which the defendant was convicted; but
+(2) the evidence is legally sufficient to establish defendant's guilt of a necessarily lesser-included offense.
+(e) Publication of Decisions; Depublication; Decisions as Precedent. Supreme Court Rule 111 governs the types of dispositions, the publication of decisions, depublication, and the precedential effect of decisions.
+(f) Partial Publication. If an appellate court concludes that only a portion of its decision meets the criteria for publication as an opinion, the court may issue that portion of the decision as a published opinion and the remainder of the decision as a separate memorandum decision not intended for publication.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.19, AZ ST RCRP Rule 31.19
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.20. Motion for Reconsideration
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.20
+Formerly cited as AZ ST RCRP Rule 31.18
+Rule 31.20. Motion for Reconsideration
+Currentness
+(a) Purpose and Necessity. A party may file a motion for reconsideration requesting an appellate court to reconsider whether its decision contained erroneous determinations of fact or law. A party need not file a motion for reconsideration in the Court of Appeals before filing a petition for review under Rule 31.21.
+(b) Required Showing. A motion for reconsideration must state with particularity the points of law or fact that the party believes the appellate court has erroneously determined, or any changes in the law after briefing or oral argument that may entitle the party to relief.
+(c) Filing and Timing. A party desiring reconsideration of a decision must file a motion for reconsideration in the appellate court no later than 15 days after entry of the decision. A motion to extend this deadline must be filed in the appellate court that issued the decision. A party may amend a motion for reconsideration only with the court's permission.
+(d) Response. A party may not file a response to a motion for reconsideration unless requested by the appellate court to do so, but the court will not grant the motion without requesting the opposing party to file a response.
+(e) Form and Length. A motion for reconsideration or a response to a motion for reconsideration must comply with Rule 31.6(b). A motion for reconsideration or a response to a motion for reconsideration may not exceed 3,500 words. A certificate of compliance, as provided in Form 30, must accompany a motion for reconsideration or a response. A party preparing this certificate may rely on the word count of the word processing system used to prepare the motion or response if it counts the required words including any footnotes.
+(f) Motions Not Permitted. Unless permitted by specific appellate court order, no party may file a motion for reconsideration of an order denying a motion for reconsideration, an order denying a petition for review by the Supreme Court, or an order declining to accept jurisdiction of a petition for special action.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.20, AZ ST RCRP Rule 31.20
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.21. Petition for Review
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2021
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+Effective: January 1, 2021
+16A A.R.S. Rules Crim.Proc., Rule 31.21
+Formerly cited as AZ ST RCRP Rule 31.19
+Rule 31.21. Petition for Review
+Currentness
+(a) Purpose. A party may ask the Supreme Court to review a decision of the Court of Appeals by filing a petition for review.
+(b) Place and Time for Filing.
+(1) Place for Filing. Any petition for review, cross-petition for review, response to a petition for review or cross-petition for review, or motion to extend the time for filing any of these documents, must be filed with the Supreme Court clerk.
+(2) Timing.
+(A) Petition. A party must file a petition for review no later than 30 days after the Court of Appeals enters its decision, unless a party files a timely motion for reconsideration in the Court of Appeals and, in that event, a party must file a petition for review no later than 15 days after the motion's final disposition.
+(B) Cross-Petition. A party may file a cross-petition for review no later than 15 days after service of a petition for review or no later than 30 days after the Court of Appeals enters its decision, whichever is later.
+(c) Stay Pending Motion for Reconsideration.
+(1) Generally. A petition for review is automatically stayed if the petition is filed before the Court of Appeals decides a timely filed motion for reconsideration.
+(2) Duration of the Stay.
+(A) If the Motion Is Denied. If the Court of Appeals denies the motion for reconsideration, the stay remains in effect until the Court of Appeals clerk notifies the parties and the Supreme Court clerk that the Court of Appeals has denied the motion.
+(B) If the Motion Is Granted. If the Court of Appeals grants the motion for reconsideration, the stay remains in effect until the Court of Appeals has made a final disposition.
+(3) Timing for Response or Cross-Petition. The time for filing a response to a petition for review, or a cross-petition, is computed as if that petition's filing occurred on the date the stay is lifted, as described in (c)(2).
+(4) Mootness. If a petition or cross-petition becomes moot because of the final disposition of a motion for reconsideration by the Court of Appeals, the petitioner or cross-petitioner must promptly file a written notice of mootness with the Supreme Court clerk.
+(d) Contents.
+(1) Generally. A petition or cross-petition must contain concise statements of the following:
+(A) the issues that were decided by the Court of Appeals that the petitioner is presenting for Supreme Court review. The petition must also list, separately and without argument, additional issues presented to, but not decided by, the Court of Appeals that the Supreme Court may need to decide if review is granted.
+(B) the facts material to a consideration of the issues presented to the Supreme Court for review, with appropriate references to the record on appeal. No evidentiary matter should be included if it is not material to proper consideration of the issues. If an evidentiary matter is material, the party must include a reference to the record where that evidence appears, as provided in Rule 31.10(d).
+(C) the reasons the petition should be granted, which may include, among others, that no Arizona decision controls the point of law in question, that a decision of the Supreme Court should be overruled or qualified, that there are conflicting decisions by the Court of Appeals, or that important issues of law have been incorrectly decided.
+(2) Attachments. A copy of the Court of Appeals' decision must accompany the petition. If the Court of Appeals' decision is an order declining to accept jurisdiction of a special action, a copy of the superior court's decision that was the subject of the special action also must accompany the petition.
+(e) Appendix.
+(1) Necessity. If there are documents in the record on appeal that are necessary for determination of the issues raised by the petition or cross-petition, and hyperlinking to the record is unavailable, the petitioner and cross-petitioner must file with the petition or cross-petition an appendix that contains only those documents.
+(2) Form. An appendix must comply with the requirements of Rule 31.11.
+(f) Response and Reply.
+(1) Timing and Necessity. A party may respond to a petition or cross-petition by filing a response with the Supreme Court clerk no later than 30 days after service of the petition or cross-petition. A party's failure to file a response to a petition or cross-petition will not be treated as an admission that the Supreme Court should grant the petition or cross-petition.
+(2) Additional Issues. A response must list, separately and without argument, any additional issues not listed by the petitioner that the parties presented to the Court of Appeals but were not decided and that the Supreme Court may need to decide if it grants review.
+(3) Appendix. The response may include an appendix as provided in (e), but the appendix to the response may only include documents that were not within the appendix to the petition or cross-petition.
+(4) Reply. The petitioner or cross-petitioner may not file a reply unless the Supreme Court enters an order specifically authorizing it, and then the petitioner or cross-petitioner must file the reply within the time set by that order.
+(g) Form and Length of Petition, Cross-Petition, and Responses.
+(1) Form. The caption of the petition must designate the parties as designated in the caption of filings in the Court of Appeals. The formatting requirements of Rule 31.6(b) apply to a petition, a cross-petition, and a response to a petition or cross-petition.
+(2) Length. A petition, a cross-petition, or a response to a petition or cross-petition must not exceed 3,500 words. A cross-petition combined with a response to a petition may not exceed 6,500 words.
+(3) Certificate of Compliance. A petition, a cross-petition, or a response to a petition or cross-petition must include a certificate of compliance as shown in Form 30. A party preparing this certificate may rely on the word count of the processing system used to prepare the petition, cross-petition, or response.
+(h) Service. A party filing a petition, a cross-petition, a response, a reply, or an appendix must serve a copy of the document in the manner provided in Rule 31.13(d) on all parties who were entitled to service in the Court of Appeals. The party also must file and serve a certificate of service in the manner provided in Rule 31.13(d)(2).
+(i) Order Denying Review. The Supreme Court clerk must promptly notify the parties and the Court of Appeals clerk if the Supreme Court has denied a petition or cross-petition for review. An order of the Supreme Court denying review must identify those Supreme Court justices, if any, who voted to grant review.
+(j) Order Granting Review.
+(1) Notice. The Supreme Court clerk must promptly notify the parties and the Court of Appeals clerk if the Supreme Court grants a petition or cross-petition for review.
+(2) Issues. A Supreme Court order granting review must specify the issue or issues the Supreme Court will review, and whether it will consider issues raised in, but not decided by, the Court of Appeals.
+(3) Supplemental Briefs and Oral Argument. The Supreme Court may permit the parties to file supplemental briefs, or it may set oral argument, or both. Unless otherwise ordered, oral argument may not be scheduled less than 30 days after entry of a written notice of oral argument or, if supplemental briefs are permitted, less than 30 days after the deadline for filing supplemental briefs.
+(4) Motion for Supplementation or Oral Argument. If an order granting review does not provide for supplemental briefs or oral argument, any party may file a motion specifying the reasons that supplementation or oral argument, or both, would be appropriate. A party must file this motion no later than 15 days after the Supreme Court clerk sends notice to the parties of the order granting review.
+(k) Availability of the Record. The Court of Appeals clerk must make the remaining record available to the Supreme Court clerk upon notification that the Supreme Court has granted a petition or cross-petition for review. After a petition for review is filed, the Court of Appeals clerk must make available portions of the record requested by the Supreme Court or its staff attorneys.
+(l) Disposition. If the Supreme Court grants review, it may decide the appeal in any manner specified in Rule 31.19(c) or (d). Additionally, the Supreme Court may do the following:
+(1) remand the appeal to the Court of Appeals for reconsideration in light of specified authority;
+(2) if issues were raised in, and not decided by, the Court of Appeals, the Supreme Court may consider and decide those issues, remand the appeal to the Court of Appeals to decide them, or dispose of those issues as deemed appropriate; or
+(3) if the parties by agreement resolve the appeal after a petition for review is filed, the Supreme Court may vacate the disposition of the Court of Appeals or order depublication of an opinion of the Court of Appeals.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 26, 2020, effective Jan. 1, 2021.
+16A A. R. S. Rules Crim. Proc., Rule 31.21, AZ ST RCRP Rule 31.21
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.22. Appellate Court Mandates
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.22
+Formerly cited as AZ ST RCRP Rule 31.23
+Rule 31.22. Appellate Court Mandates
+Currentness
+(a) Definition. The mandate is the final order of the appellate court, which may command another appellate court, superior court, or agency to take further proceedings or to enter a certain disposition of a case. An appellate court retains jurisdiction of an appeal until it issues the mandate.
+(b) Generally. Except in a capital case appeal in which the Supreme Court has affirmed a death sentence, an appellate court will issue the mandate in an appeal as follows:
+(1) if the parties did not file a petition for review, the Court of Appeals clerk will issue the mandate when the time expires for filing the petition for review;
+(2) if a party filed a petition for review, the Court of Appeals clerk will issue the mandate 15 days after the clerk receives a Supreme Court order denying the petition for review; and
+(3) when the Supreme Court has filed any disposition that requires the issuance of a mandate, the Supreme Court clerk will issue the mandate 15 days after the disposition is filed, or, if a party files a motion for reconsideration, 15 days after the motion's final disposition.
+(c) Capital Case Appeals.
+(1) Generally. In an appeal in which the Supreme Court has affirmed a death sentence, the Supreme Court clerk will issue the mandate:
+(A) when the time expires for filing a petition for writ of certiorari in the United States Supreme Court challenging the decision affirming the defendant's conviction or sentence on direct appeal; or
+(B) if the defendant has filed a petition for writ of certiorari, when the Supreme Court clerk receives notice from the United States Supreme Court of a denial of the petition or, in a case in which the United States Supreme Court grants the petition, receives notice that the United States Supreme Court has issued its mandate.
+(2) Petition for Rehearing. If the defendant files a petition for rehearing of a denial of a petition for writ of certiorari, the petition for rehearing does not stay or otherwise delay the Supreme Court clerk's issuance of the mandate.
+(d) Return of Papers. After the appellate court issues the mandate:
+(1) the appellate clerk will return to the superior court clerk or other transmitting body any original exhibit or record provided to the appellate court under Rule 31.9; and
+(2) the appellate clerk may destroy copies of the record as authorized by rule or appellate court administrative order.
+(e) Stay of Mandate Pending Application for Writ of Certiorari.
+(1) Request for Stay. A party may request an appellate court to stay issuance of the mandate pending application to the United States Supreme Court for a writ of certiorari as follows:
+(A) a party may file an application for a stay of issuance of the mandate with the Arizona Supreme Court clerk no later than 15 days after the filing of the Court's opinion, memorandum decision, or order denying a motion for reconsideration; or
+(B) a party may file an application for a stay of issuance of the mandate with the Court of Appeals clerk no later than 15 days after the Arizona Supreme Court enters an order denying a petition for review, or no later than 15 days in any other situation requiring the Court of Appeals to issue a mandate.
+(2) Duration. A stay may not exceed 90 days unless the appellate court extends the time for good cause. If, during this stay period, a party files a notice with the appellate clerk stating that the party has filed a petition for a writ of certiorari, the stay will continue until the appellate clerk receives notice from the United States Supreme Court of the denial of the petition or, in a case in which the United States Supreme Court grants the petition, receives notice that the United States Supreme Court has issued its mandate.
+(f) Mandates from the United States Supreme Court. Upon receiving a mandate from the United States Supreme Court, an Arizona appellate court will take action consistent with that mandate, including issuing its own mandate to the superior court that entered the original judgment. The Arizona appellate court's mandate will contain a verbatim recital of the United States Supreme Court mandate and command the superior court to take action as provided in the mandate.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.22, AZ ST RCRP Rule 31.22
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.23. Warrant of Execution
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.23
+Formerly cited as AZ ST RCRP Rule 31.17
+Rule 31.23. Warrant of Execution
+Currentness
+(a) Issuance of Warrant. After affirming a death sentence, the Supreme Court must issue a warrant of execution if the State files a notice stating that:
+(1) the defendant has not filed a first Rule 32 petition for post-conviction relief and the time for filing a petition has expired;
+(2) the defendant has not filed a petition for review seeking review of a superior court denial of the defendant's first Rule 32 petition for post-conviction relief and the time for filing a petition for review has expired; or
+(3) the defendant has not initiated habeas corpus proceedings in federal district court within 15 days after the Supreme Court's denial of a petition for review seeking review of the denial of the defendant's first Rule 32 petition for post-conviction relief.
+(b) Post-Habeas Warrant. On the State's motion, the Supreme Court must issue a warrant of execution when federal habeas corpus proceedings and habeas appellate review conclude.
+(c) Date and Time of Execution. The warrant of execution must specify an execution date that is 35 days after the warrant's issuance. If the Supreme Court finds that it is impracticable to carry out an execution on that date, it may extend the execution date but may not extend it more than 60 days after the warrant's issuance. Additionally, the warrant must:
+(1) state the date for starting the execution time period;
+(2) state that the warrant is valid for 24 hours beginning at an hour to be designated by the director of the Arizona Department of Corrections;
+(3) order the director to provide written notice of the designated hour of execution to the Supreme Court and each party at least 20 calendar days before the execution date; and
+(4) authorize the director to carry out the execution at any time during the warrant's duration.
+(d) Return on Warrant. The director of the Arizona Department of Corrections must make a return on the warrant to the Supreme Court showing the manner and time of execution.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.23, AZ ST RCRP Rule 31.23
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.24. Voluntary Dismissal
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.24
+Formerly cited as AZ ST RCRP Rule 31.15
+Rule 31.24. Voluntary Dismissal
+Currentness
+(a) Dismissal by the Superior Court. If the appellate clerk has not assigned an appellate case number under Rule 31.2(g), the superior court may dismiss the appeal on the filing of a stipulation signed by all parties, or on the appellant's motion with notice to all parties.
+(b) Dismissal by the Appellate Court. An appellate clerk may dismiss an appeal if the parties file a signed stipulation requesting dismissal. The appellate clerk, however, may not issue a mandate or other process without an order from the appellate court. The appellant also may file a motion to dismiss the appeal, which the appellate court may grant on terms as agreed to by the parties or as determined by the appellate court.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 31.24, AZ ST RCRP Rule 31.24
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 31.25. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.25
+Rule 31.25. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 31.25, AZ ST RCRP Rule 31.25
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 31.26. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.26
+Rule 31.26. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 31.26, AZ ST RCRP Rule 31.26
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 31.27. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 31. Appeals
+Section Three. Appellate Court Procedures and Decisions
+16A A.R.S. Rules Crim.Proc., Rule 31.27
+Rule 31.27. Abrogated Aug. 31, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 31.27, AZ ST RCRP Rule 31.27
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.1. Scope of Remedy
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.1
+Rule 32.1. Scope of Remedy
+Currentness
+Generally. A defendant may file a notice requesting post-conviction relief under this rule if the defendant was convicted and sentenced for a criminal offense after a trial or a contested probation violation hearing, or in any case in which the defendant was sentenced to death.
+No Filing Fee. There is no fee for filing a notice of post-conviction relief.
+Grounds for Relief. Grounds for relief are:
+(a) the defendant's conviction was obtained, or the sentence was imposed, in violation of the United States or Arizona constitutions;
+(b) the court did not have subject matter jurisdiction to render a judgment or to impose a sentence on the defendant;
+(c) the sentence as imposed is not authorized by law;
+(d) the defendant continues to be or will continue to be in custody after his or her sentence expired;
+(e) newly discovered material facts probably exist, and those facts probably would have changed the judgment or sentence. Newly discovered material facts exist if:
+(1) the facts were discovered after the trial or sentencing;
+(2) the defendant exercised due diligence in discovering these facts; and
+(3) the newly discovered facts are material and not merely cumulative or used solely for impeachment, unless the impeachment evidence substantially undermines testimony that was of such critical significance that the impeachment evidence probably would have changed the judgment or sentence.
+(f) the failure to timely file a notice of appeal was not the defendant's fault;
+(g) there has been a significant change in the law that, if applicable to the defendant's case, would probably overturn the defendant's judgment or sentence; or
+(h) the defendant demonstrates by clear and convincing evidence that the facts underlying the claim would be sufficient to establish that no reasonable fact-finder would find the defendant guilty of the offense beyond a reasonable doubt, or that no reasonable fact-finder would find the defendant eligible for the death penalty in an aggravation phase held pursuant to A.R.S. § 13-752.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.1, AZ ST RCRP Rule 32.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 32.2. Preclusion of Remedy
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: April 14, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: April 14, 2025
+16A A.R.S. Rules Crim.Proc., Rule 32.2
+Rule 32.2. Preclusion of Remedy
+Currentness
+(a) Preclusion. A defendant is precluded from relief under Rule 32.1(a) based on any ground:
+(1) still raiseable on direct appeal under Rule 31 or in a post-trial motion under Rule 24;
+(2) finally adjudicated on the merits in an appeal or in any previous post-conviction proceeding; or
+(3) waived at trial or on appeal, or in any previous post-conviction proceeding, except when the claim raises a violation of a constitutional right that can only be waived knowingly, voluntarily, and personally by the defendant.
+(b) Claims Not Precluded. Claims for relief based on Rule 32.1(b) through (h) are not subject to preclusion under Rule 32.2(a)(3), but they are subject to preclusion under Rule 32.2(a)(2). However, when a defendant raises a claim that falls under Rule 32.1(b) through (h) in a successive or untimely post-conviction notice, the defendant must explain the reasons for not raising the claim in a previous notice or petition, or for not raising the claim in a timely manner. If the notice does not provide sufficient reasons why the defendant did not raise the claim in a previous notice or petition, or in a timely manner, the court may summarily dismiss the notice. At any time, a court may determine by a preponderance of the evidence that an issue is precluded, even if the State does not raise preclusion.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended on an emergency basis Dec. 12, 2019, effective Jan. 1, 2020, permanently adopted Feb. 5, 2020; amended effective April 14, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 32.2, AZ ST RCRP Rule 32.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.3. Nature of a Post-Conviction Proceeding and Relation to Other Remedies
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.3
+Rule 32.3. Nature of a Post-Conviction Proceeding and Relation to Other Remedies
+Currentness
+(a) Generally. A post-conviction proceeding is part of the original criminal action and is not a separate action. It displaces and incorporates all trial court post-trial remedies except those obtainable by Rule 24 motions and habeas corpus.
+(b) Other Applications or Requests for Relief. If a court receives any type of application or request for relief--however titled--that challenges the validity of the defendant's conviction or sentence following a trial, it must treat the application as a petition for post-conviction relief. If that court is not the court that convicted or sentenced the defendant, it must transfer the application or request for relief to the court where the defendant was convicted or sentenced.
+(c) Defendant Sentenced to Death. A defendant sentenced to death in a capital case must proceed under Rule 32 rather than Rule 33 for all post-conviction issues, even if the defendant pled guilty to first-degree murder or other crimes.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.3, AZ ST RCRP Rule 32.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.4. Filing a Notice Requesting Post-Conviction Relief
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.4
+Rule 32.4. Filing a Notice Requesting Post-Conviction Relief
+Currentness
+(a) Generally. A defendant starts a Rule 32 proceeding by filing a Notice Requesting Post-Conviction Relief.
+(b) Notice Requesting Post-Conviction Relief.
+(1) Where to File; Forms. A defendant must file a notice requesting post-conviction relief under Rule 32 in the court where the defendant was sentenced. The court must make “notice” forms available for defendants.
+(2) Content of the Notice. The notice must contain the caption of the original criminal case or cases to which it pertains, and all information shown in Rule 41, Form 24(b).
+(3) Time for Filing.
+(A) Claims under Rule 32.1(a). A defendant must file the notice for a claim under Rule 32.1(a) within 90 days after the oral pronouncement of sentence or within 30 days after the issuance of the mandate in the direct appeal, whichever is later.
+(B) Claims under Rule 32.1(b) through (h). A defendant must file the notice for a claim under Rule 32.1(b) through (h) within a reasonable time after discovering the basis of the claim.
+(C) Time for Filing a Notice in a Capital Case. In a capital case, the Supreme Court clerk must expeditiously file a notice requesting post-conviction relief with the trial court upon the issuance of the mandate affirming the defendant's conviction and sentence on direct appeal.
+(D) Excusing an Untimely Notice. The court must excuse an untimely notice requesting post-conviction relief filed under subpart (3)(A) if the defendant adequately explains why the failure to timely file a notice was not the defendant's fault.
+(4) Duty of the Clerk upon Receiving a Notice.
+(A) Superior Court. Upon receiving a notice, the superior court clerk must file the notice in the record of each original case to which it pertains. The clerk must promptly send copies of the notice to the defendant, defendant's counsel, the prosecuting attorney's office, and the Attorney General. The clerk must note in the record the date and manner of sending copies of the notice.
+(B) Justice or Municipal Court. If the conviction occurred in a limited jurisdiction court, upon receiving a notice from a defendant, the limited jurisdiction court clerk must send a copy of the notice to the prosecuting attorney who represented the State at trial, and to defendant's counsel or the defendant, if self-represented. The clerk must note in the record the date and manner of sending copies of the notice.
+(C) Notice to an Appellate Court. If an appeal of the defendant's conviction or sentence is pending, the clerk must send a copy of the notice of post-conviction relief to the appropriate appellate court within 5 days of its filing and must note in the record the date and manner of sending the copy.
+(5) Duty of the State upon Receiving a Notice. Upon receiving a copy of a notice, the State must notify any victim who has requested notification of post-conviction proceedings.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.4, AZ ST RCRP Rule 32.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.5. Appointment of Counsel
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.5
+Formerly cited as AZ ST RCRP Rule 32.4(b)
+Rule 32.5. Appointment of Counsel
+Currentness
+(a) Noncapital Cases. No later than 15 days after the defendant has filed a timely first notice under Rule 32.4, the presiding judge must appoint counsel for the defendant if:
+(1) the defendant requests it;
+(2) the defendant is entitled to appointed counsel under Rule 6.1(b); and
+(3) there has been a previous determination that the defendant is indigent, or the defendant has completed a declaration of indigency and the court finds that the defendant is indigent.
+Upon filing of all other Rule 32 notices, the presiding judge or the judge's designee may appoint counsel for an indigent defendant.
+(b) Capital Cases. After the Supreme Court has affirmed an indigent capital defendant's conviction and sentence, the Supreme Court or its designee must appoint counsel who meets the standards of Rules 6.5 and 6.8 and A.R.S. § 13-4041. If the Supreme Court has authorized the presiding judge of the county where the case originated to appoint counsel, the presiding judge must file a copy of the appointment order with the Supreme Court. If a capital defendant files a successive notice, the presiding judge must appoint the defendant's previous post-conviction counsel, unless the defendant waives counsel or there is good cause to appoint another qualified attorney who meets the standards of Rules 6.5 and 6.8 and A.R.S. § 13-4041. On application and if the trial court finds that such assistance is reasonably necessary, it must appoint co-counsel.
+(c) Appointment of Investigators, Expert Witnesses, and Mitigation Specialists. On application and if the trial court finds that such assistance is reasonably necessary for an indigent defendant, it may appoint an investigator, expert witnesses, and a mitigation specialist, or any combination of them, under Rule 6.7.
+(d) Attorney-Client Privilege and Confidentiality for the Defendant. The defendant's prior counsel must share all files and other communications with post-conviction counsel. This sharing of information does not waive the attorney-client privilege or confidentiality claims.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.5, AZ ST RCRP Rule 32.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.6. Duty of Counsel; Self-Represented Defendant's Petition; Waiver of Attorney-Clien...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.6
+Formerly cited as AZ ST RCRP Rule 32.4(d)
+Rule 32.6. Duty of Counsel; Self-Represented Defendant's Petition; Waiver of Attorney-Client Privilege
+Currentness
+(a) Generally. In a Rule 32 proceeding, counsel must investigate the defendant's case for any colorable claims.
+(b) Discovery.
+(1) After Filing a Notice. After the filing of a notice but before the filing of a petition, and upon a showing of substantial need for material or information to prepare the defendant's case, the court may enter an order allowing discovery. To show substantial need, the defendant must demonstrate that the defendant cannot obtain the substantial equivalent by other means without undue hardship.
+(2) After Filing a Petition. After the filing of a petition, the court may allow discovery for good cause. To show good cause, the moving party must identify the claim to which the discovery relates and reasonable grounds to believe that the request, if granted, would lead to the discovery of evidence material to the claim.
+(c) Counsel's Notice of No Colorable Claims. If counsel determines there are no colorable claims, counsel must file a notice advising the court of this determination, and promptly provide a copy of the notice to the defendant. The notice must include or list, with citations to the record:
+(1) a summary of the facts and procedural history of the case;
+(2) the specific materials that counsel reviewed;
+(3) the date counsel provided the record to the defendant, and the contents of that record;
+(4) the dates counsel discussed the case with the defendant;
+(5) the charges and allegations presented in the complaint, information, or indictment.
+In the notice, counsel should also identify the following:
+(6) any adverse pretrial rulings affecting the course of trial (e.g., motions to suppress, motions in limine, motions to quash, speedy trial motions);
+(7) any adverse rulings during trial on objections or motions (e.g., objections regarding the admission or exclusion of evidence, objections premised on prosecutorial or judicial misconduct, mistrial motions, motions for directed verdict);
+(8) any adverse rulings on post-trial motions (e.g., motion for a new trial, motion to vacate judgment);
+(9) issues regarding jury selection, if the trial was to a jury;
+(10) issues regarding jury instructions, if the trial was to a jury;
+(11) any potential errors for which there were no objections, but which may rise to the level of fundamental error;
+(12) any determination of the defendant's competency that was raised prior to sentencing;
+(13) any objections raised at the time of sentencing;
+(14) the court's determination of the classification and category of offenses for which the defendant was sentenced;
+(15) the court's determination of pre-sentence incarceration credit;
+(16) the sentence imposed by the court;
+(17) issues raised by appellate counsel; and
+(18) any potential claims of ineffective assistance of trial or appellate counsel.
+(d) Self-Represented Defendants Petition. Upon receipt of counsel's notice under section (c), the defendant may file a petition on his or her own behalf. The court may extend the time for the defendant to file that petition by 45 days from the date counsel filed the notice. The court may grant additional extensions only on a showing of extraordinary circumstances.
+(e) Counsel's Duties after Filing a Notice Under Section (c). After counsel files a notice under section (c) and unless the court orders otherwise, counsel's role is limited to acting as advisory counsel until the trial court's final determination in the post-conviction proceeding.
+(f) Attorney-Client Privilege. By raising any claim of ineffective assistance of counsel, the defendant waives the attorney-client privilege as to any information necessary to allow the State to rebut the claim, as provided by Ariz. R. Sup. Ct. 42, ER 1.6(d)(4).
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.6, AZ ST RCRP Rule 32.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.7. Petition for Post-Conviction Relief
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 32.7
+Formerly cited as AZ ST RCRP Rule 32.4(c); AZ ST RCRP Rule 32.5
+Rule 32.7. Petition for Post-Conviction Relief
+Currentness
+(a) Deadlines for Filing a Petition for Post-Conviction Relief.
+(1) Noncapital Cases.
+(A) Generally. In every case except those in which the defendant was sentenced to death:
+(i) Appointed counsel must file a petition no later than 60 days after the date of appointment.
+(ii) A self-represented defendant must file a petition no later than 60 days after the notice is filed or the court denies the defendant's request for appointed counsel, whichever is later.
+(B) Time Extensions. For good cause and after considering the rights of the victim to a prompt and final conclusion of the case, the court may grant a defendant in a noncapital case a 30-day extension to file the petition. The court may grant additional 30-day extensions only on a showing of extraordinary circumstances.
+(2) Capital Cases.
+(A) Generally. In a capital case, the defendant must file a petition no later than 12 months after the first notice is filed.
+(B) Filing Deadline for Any Successive Petition. On a successive notice in a capital case, the defendant must file the petition no later than 30 days after the notice is filed.
+(C) Time Extensions. For good cause, the court may grant a capital defendant one 60-day extension in which to file a petition. After considering the rights of the victim to a prompt and final conclusion of the case, the court may grant additional extensions for good cause.
+(b) Form of Petition. A petition for post-conviction relief should contain the information shown in Rule 41, Form 25, and must include a memorandum that contains citations to relevant portions of the record and to relevant legal authorities.
+(c) Length of Petition.
+(1) Non-Capital Cases. In noncapital cases, the petition must not exceed 28 pages.
+(2) Capital Cases. In capital cases, the petition must not exceed 160 pages.
+(d) Declaration. A petition by a self-represented defendant must include a declaration stating under penalty of perjury that the information contained in the petition is true to the best of the defendant's knowledge and belief.
+(e) Attachments. The defendant must attach to the petition any affidavits, records, or other evidence currently available to the defendant supporting the allegations in the petition.
+(f) Effect of Non-Compliance. The court will return to the defendant any petition that fails to comply with this rule, with an order specifying how the petition fails to comply. The defendant has 40 days after that order is entered to revise the petition to comply with this rule, and to return it to the court for refiling. If the defendant does not return the petition within 40 days, the court may dismiss the proceeding with prejudice. The State's time to respond to a refiled petition begins on the date of refiling.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 32.7, AZ ST RCRP Rule 32.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.8. Transcript Preparation
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.8
+Formerly cited as AZ ST RCRP Rule 32.4(e)
+Rule 32.8. Transcript Preparation
+Currentness
+(a) Request for Transcripts. If the verbal record of trial court proceedings was not transcribed, the defendant may request that certified transcripts be prepared. The court or clerk must provide a form for the defendant to make this request.
+(b) Order Regarding Transcripts. The court must promptly review the defendant's request and order the preparation of only those transcripts it deems necessary for resolving issues the defendant has specified in the notice.
+(c) Deadlines. The defendant's deadline for filing a petition is extended by the time between the defendant's request and either the transcripts' final preparation or the court's denial of the request. Certified transcripts must be prepared and filed no later than 60 days after the entry of an order granting the defendant's request for transcripts.
+(d) Cost. If the defendant is indigent, the transcripts must be prepared at county expense.
+(e) Unavailability of Transcripts. If a transcript is unavailable, the parties may proceed in accordance with Rule 31.8(e) or Rule 31.8(f).
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.8, AZ ST RCRP Rule 32.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 32.9. Response and Reply; Amendments
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 32.9
+Formerly cited as AZ ST RCRP Rule 32.6
+Rule 32.9. Response and Reply; Amendments
+Currentness
+(a) State's Response.
+(1) Deadlines. The State must file its response no later than 45 days after the defendant files the petition. The court for good cause may grant the State a 30-day extension to file its response and may grant the State additional extensions only on a showing of extraordinary circumstances and after considering the rights of the victim to a prompt and final conclusion of the case.
+(2) Contents. The State's response must include a memorandum that contains citations to relevant portions of the record and to relevant legal authorities, and must attach any affidavits, records, or other evidence that contradicts the petition's allegations. The State must plead and prove any ground of preclusion by a preponderance of the evidence.
+(b) Defendant's Reply. The defendant may file a reply 15 days after a response is served. The court for good cause may grant one extension of time, and additional extensions only for extraordinary circumstances.
+(c) Length of Response and Reply.
+(1) Non-Capital Cases. In noncapital cases, the State's response must not exceed 28 pages, and defendant's reply, if any, must not exceed 11 pages.
+(2) Capital Cases. In capital cases, the State's response must not exceed 160 pages, and defendant's reply must not exceed 80 pages.
+(d) Amending the Petition. After the defendant files a petition for post-conviction relief, the court may permit amendments to the petition only for good cause.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 32.9, AZ ST RCRP Rule 32.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.10. Assignment of a Judge
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.10
+Formerly cited as AZ ST RCRP Rule 32.4(f)
+Rule 32.10. Assignment of a Judge
+Currentness
+(a) Generally. The presiding judge must, if possible, assign a proceeding for post-conviction relief to the sentencing judge. The provisions of Rules 10.1 and 10.2 apply in proceedings for post-conviction relief when the case is assigned to a new judge.
+(b) Dispute Regarding Public Records. The assigned judge may hear and decide a dispute within its jurisdiction, whether the dispute is raised by motion or by special action, that concerns access to public records requested for a post-conviction proceeding.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.10, AZ ST RCRP Rule 32.10
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.11. Court Review of the Petition, Response, and Reply; Further Proceedings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.11
+Formerly cited as AZ ST RCRP Rule 32.6(d)
+Rule 32.11. Court Review of the Petition, Response, and Reply; Further Proceedings
+Currentness
+(a) Summary Disposition. If, after identifying all precluded and untimely claims, the court determines that no remaining claim presents a material issue of fact or law that would entitle the defendant to relief under this rule, the court must summarily dismiss the petition.
+(b) Setting a Hearing. If the court does not summarily dismiss the petition, it must set a status conference or a hearing within 30 days.
+(c) Notice to Victim. If the court sets a hearing, the State must notify any victim of the time and place of the hearing if the victim has requested such notice under a statute or court rule relating to victims' rights.
+(d) Defendant's Competence. The court may order a competency evaluation if the defendant's competence is necessary for the presentation of a claim.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.11, AZ ST RCRP Rule 32.11
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.12. Informal Conference
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.12
+Formerly cited as AZ ST RCRP Rule 32.7
+Rule 32.12. Informal Conference
+Currentness
+(a) Generally. At any time, the court may hold an informal conference to expedite a proceeding for post-conviction relief.
+(b) Capital Cases. In a capital case, the court must hold an informal conference no later than 90 days after counsel is appointed on the first notice requesting post-conviction relief.
+(c) The Defendant's Presence. The defendant need not be present at an informal conference if defense counsel is present.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.12, AZ ST RCRP Rule 32.12
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.13. Evidentiary Hearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.13
+Formerly cited as AZ ST RCRP Rule 32.8
+Rule 32.13. Evidentiary Hearing
+Currentness
+(a) Generally. The defendant is entitled to a hearing to determine issues of material fact and has the right to be present and to subpoena witnesses for the hearing. The court may order the hearing to be held at the defendant's place of confinement if facilities are available and after giving at least 15 days' notice to the officer in charge of the confinement facility. In superior court proceedings, the court must make a verbatim record.
+(b) Evidence. The Arizona Rules of Evidence applicable to criminal proceedings apply at the hearing, except that the defendant may be called to testify.
+(c) Burden of Proof. The defendant has the burden of proving factual allegations by a preponderance of the evidence. If the defendant proves a constitutional violation, the State has the burden of proving beyond a reasonable doubt that the violation was harmless.
+(d) Decision.
+(1) Findings and Conclusions. The court must make specific findings of fact and expressly state its conclusions of law relating to each issue presented.
+(2) Decision in the Defendant's Favor. If the court finds in the defendant's favor, it must enter appropriate orders concerning:
+(A) the conviction, sentence, or detention;
+(B) any further proceedings, including a new trial and conditions of release; and
+(C) other matters that may be necessary and proper.
+(e) Transcript. On a party's request, the court must order the preparation of a certified transcript of the evidentiary hearing. The request must be made within the time allowed for filing a petition for review. If the defendant is indigent, preparation of the evidentiary hearing transcript will be at county expense.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.13, AZ ST RCRP Rule 32.13
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.14. Motion for Rehearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 32.14
+Formerly cited as AZ ST RCRP Rule 32.9(a); AZ ST RCRP Rule 32.9(b)
+Rule 32.14. Motion for Rehearing
+Currentness
+(a) Timing and Content. No later than 15 days after entry of the trial court's final decision on a petition or dismissal of a notice, any party aggrieved by the decision may file a motion for rehearing. The motion must state in detail the grounds of the court's alleged errors.
+(b) Response and Reply. An opposing party may not file a response to a motion for rehearing unless the court requests one, but the court may not grant a motion for rehearing without requesting and considering a response. If a response is filed, the moving party may file a reply no later than 10 days after the response is served.
+(c) Stay. The State's filing of a motion for rehearing automatically stays an order granting a new trial until the trial court decides the motion. For any relief the trial court grants to a defendant other than a new trial, whether to grant a stay pending further review is within the discretion of the trial court.
+(d) Effect on Appellate Rights. Filing of a motion for rehearing is not a prerequisite to filing a petition for review under Rule 32.16.
+(e) Disposition if Motion Granted. If the court grants the motion for rehearing, it may either amend its previous ruling without a hearing or grant a new hearing and then either amend or reaffirm its previous ruling. The court must state its reasons for amending a previous ruling. The State must notify the victim of any action taken by the court if the victim has requested notification.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 32.14, AZ ST RCRP Rule 32.14
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.15. Notification to the Appellate Court
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.15
+Rule 32.15. Notification to the Appellate Court
+Currentness
+If an appeal of a defendant’s conviction or sentence is pending, the defendant’s counsel or the defendant, if self-represented, must file any final ruling in the appellate court within 10 days after the ruling is filed.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.15, AZ ST RCRP Rule 32.15
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.16. Petition and Cross-Petition for Review
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 32.16
+Formerly cited as AZ ST RCRP Rule 32.9(c) to (i)
+Rule 32.16. Petition and Cross-Petition for Review
+Currentness
+(a) Time and Place for Filing.
+(1) Petition. No later than 30 days after the entry of the trial court's final decision on a petition or a motion for rehearing, or the dismissal of a notice, an aggrieved party may petition the appropriate appellate court for review of the decision. However, in a capital case, no later than 60 days after the entry of the trial court's final decision on a petition for post-conviction relief or a motion for rehearing, or a dismissal of a notice, an aggrieved party may petition the Supreme Court for review of the trial court's decision.
+(2) Cross-Petition. The opposing party may file a cross-petition for review no later than 15 days after a petition for review is served. However, in a capital case, the opposing party may file a cross-petition for review no later than 30 days after a petition for review is served.
+(3) Place for Filing. The parties must file the petition for review, cross-petition, and all responsive filings with the appellate court and not the trial court.
+(4) Extensions of Time for Filing Petition or Cross-Petition for Review; Requests for Delayed Petition or Cross-Petition for Review.
+(A) A party may seek an extension of time for filing the petition or cross-petition for review by filing a motion with the trial court, which must decide the motion promptly.
+(B) If the time for filing the petition or cross-petition for review has expired, the party may request the trial court's permission to file a delayed petition or cross-petition for review. If the court grants the request to file a delayed petition or cross-petition for review, the court must set a new deadline for the filing of the delayed petition or cross-petition for review and the party may file a delayed petition or cross-petition for review on or before that date.
+(b) Notice of Filing and Additional Record Designation. No later than 3 days after a petition or cross-petition for review is filed, the petitioner or cross-petitioner must file with the trial court a “notice of filing.” The notice of filing may designate additional items for the record described in section (j). These items may include additional certified transcripts of trial court proceedings prepared under Rule 32.13(e), or that were otherwise available to the trial court and the parties and are material to the issues raised in the petition or cross-petition for review.
+(c) Form and Contents of a Petition or Cross-Petition for Review.
+(1) Form and Length. Petitions and cross-petitions for review, along with other documents filed with the appellate clerk, must comply with the formatting requirements of Rule 31.6(b). The petition or cross-petition must contain a caption with the name of the appellate court, the title of the case, a space for the appellate court case number, the trial court case number, and a brief descriptive title. The caption must designate the parties as they appear in the trial court's caption. The petition or cross-petition for review must not exceed 6,000 words if typed or 22 pages if handwritten, exclusive of an appendix and copies of the trial court's rulings. However, a petition for review or cross-petition for review in a capital case must not exceed 12,000 words if typed or 44 pages if handwritten, exclusive of an appendix and copies of the trial court's rulings.
+(2) Contents. A petition or cross-petition for review must comply with Rule 31.10(e)-(h). Additionally, a petition or cross-petition for review must contain:
+(A) copies of the trial court's rulings entered under Rules 32.2, 32.11, 32.13, and 32.14;
+(B) a statement of issues the trial court decided that the defendant is presenting for appellate review;
+(C) a statement of material facts concerning the issues presented for review, including specific references to the record for each material fact; and
+(D) reasons why the appellate court should grant the petition, including citations to supporting legal authority, if known.
+(3) Effect of a Motion for Rehearing. The filing of a motion for rehearing under Rule 32.14 does not limit the issues a party may raise in a petition or cross-petition for review.
+(4) Waiver. A party's failure to raise any issue that could be raised in the petition for review or cross-petition for review constitutes a waiver of appellate review of that issue.
+(d) Appendix Accompanying a Petition or Cross-Petition. Unless otherwise ordered, a petition or cross-petition may be accompanied by an appendix. The petition or cross-petition must not incorporate any document by reference, except the appendix. An appendix that exceeds 15 pages in length, exclusive of the trial court's rulings, must be submitted separately from the petition or cross-petition. An appendix is not required, but the petition must contain specific references to the record to support all material factual statements.
+(e) Service of a Petition for Review, Cross-Petition for Review, Reply, or Related Filing. A party filing a petition, cross-petition, appendix, response, or reply, or another filing, must serve a copy of the filing on all other parties. The serving party must file a certificate of service complying with Rule 1.7(c)(3), identifying who was served and the date and manner of service.
+(f) Response to a Petition or Cross-Petition for Review; Reply.
+(1) Time and Place for Filing a Response; Extensions of Time.
+(A) No later than 30 days after a petition or cross-petition is served, a party opposing the petition or cross-petition may file a response in the appellate court. However, in a capital case, no later than 60 days after a petition or cross-petition is served, a party opposing the petition or cross-petition may file a response in the Supreme Court. Rule 31.3(d) governs computation of the deadline for filing the response.
+(B) A party may file a motion with the appellate court for an extension of the time to file a response or reply in accordance with Rule 31.3(e).
+(2) Form and Length of Response. The response must not exceed 6,000 words if typed and 22 pages if handwritten, exclusive of an appendix, and must comply with the form requirements in subpart (c)(1). However, in a capital case, the response must not exceed 12,000 words if typed and 44 pages if handwritten, exclusive of an appendix, and must comply with the form requirements of subpart (c)(1). An appendix to a response must comply with the form and substantive requirements in section (d).
+(3) Reply. No later than 10 days after a response is served, a party may file a reply. However, in a capital case, no later than 30 days after a response is served, a party may file a reply. The reply is limited to matters addressed in the response and may not exceed 3,000 words if typed and 11 pages if handwritten. It also must comply with the requirements in subpart (c)(1) and may not include an appendix. However, in a capital case, the reply is limited to matters addressed in the response and may not exceed 6,000 words if typed and 22 pages if handwritten. It also must comply with the requirements in subpart (c)(1) and may not include an appendix.
+(g) Computing and Modifying Appellate Court Deadlines. Except as otherwise provided herein, Rule 31.3(d) governs the computation of any appellate court deadline in this rule. An appellate court may modify any deadline in accordance with Rule 31.3(e).
+(h) Amicus Curiae. Rules 31.13(a)(7) and 31.15 govern filing and responding to an amicus curiae brief.
+(i) Stay Pending Appellate Review. The State's filing of a petition for review of an order granting a new trial automatically stays the order until appellate review is completed. For any relief the trial court grants to a defendant other than a new trial, granting a stay pending further review is within the discretion of the trial court.
+(j) Transmitting the Record to the Appellate Court. No later than 45 days after receiving a notice of filing under section (b), the trial court clerk must transmit the record to the appellate court. The record includes the entire trial court record, transcripts filed in the trial court, any exhibits admitted by the trial court in the post-conviction proceedings, and any documents or transcripts designated under section (b).
+(k) Disposition. The appellate court may grant review of the petition or cross-petition and may order oral argument. Upon granting review, the court may grant or deny relief and issue other orders it deems necessary and proper.
+(l) Reconsideration or Review of an Appellate Court Decision. The provisions in Rules 31.20 and 31.21 relating to motions for reconsideration and petitions for review in criminal appeals govern motions for reconsideration and petitions for review of an appellate court decision entered under section (k).
+(m) Return of the Record. After the disposition of the petition for review, the appellate clerk must return the record to the trial court clerk.
+(n) Notice to the Victim. Upon the victim's request, the State must notify the victim of any action taken by the appellate court.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended effective Jan. 5, 2021; Aug. 24, 2023, effective Jan. 1, 2024; Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 32.16, AZ ST RCRP Rule 32.16
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.17. Post-Conviction Deoxyribonucleic Acid Testing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.17
+Formerly cited as AZ ST RCRP Rule 32.12
+Rule 32.17. Post-Conviction Deoxyribonucleic Acid Testing
+Currentness
+(a) Generally. Any person who has been convicted and sentenced for a felony offense may petition the court at any time for forensic deoxyribonucleic acid (DNA) testing of any evidence:
+(1) in the possession or control of the court or the State;
+(2) related to the investigation or prosecution that resulted in the judgment of conviction; and
+(3) that may contain biological evidence.
+(b) Manner of Filing; Response. The defendant must file the petition under the same criminal cause number as the felony conviction, and the clerk must distribute it in the manner provided in Rule 32.4(b)(4). The State must respond to the petition no later than 45 days after it is served.
+(c) Appointment of Counsel. The court may appoint counsel for an indigent defendant at any time during proceedings under this rule.
+(d) Court Orders.
+(1) DNA Testing. After considering the petition and the State's response, the court must order DNA testing if the court finds that:
+(A) a reasonable probability exists that the defendant would not have been prosecuted, or the defendant's verdict or sentence would have been more favorable, if DNA testing would produce exculpatory evidence;
+(B) the evidence is still in existence; and
+(C) the evidence was not previously subjected to DNA testing, or the evidence was not subjected to the type of DNA testing that defendant now requests and the requested testing may resolve an issue not resolved by previous testing.
+(2) Laboratory; Costs. If the court orders testing, the court must select an accredited laboratory to conduct the testing. The court may require the defendant to pay the costs of testing.
+(3) Other Orders. The court may enter any other appropriate orders, including orders requiring elimination samples from third parties and designating:
+(A) the type of DNA analysis to be used;
+(B) the procedures to be followed during the testing; and
+(C) the preservation of some of the sample for replicating the testing.
+(e) Test Results.
+(1) Earlier Testing. If the State or defense counsel has previously subjected evidence to DNA testing, the court may order the party to provide all other parties and the court with access to the laboratory reports prepared in connection with that testing, including underlying data and laboratory notes.
+(2) Testing Under this Rule. If the court orders DNA testing under this rule, the court must order the production to all parties of any laboratory reports prepared in connection with the testing and may order the production of any underlying data and laboratory notes.
+(f) Preservation of Evidence. If a defendant files a petition for post-conviction DNA testing, the court must order the State to preserve during the pendency of the proceeding all evidence in the State's possession or control that could be subjected to DNA testing. The State must prepare an inventory of the evidence and submit a copy of the inventory to the defendant and the court. If evidence is destroyed after the court orders its preservation, the court may impose appropriate sanctions.
+(g) Unfavorable Test Results. If the results of the post-conviction DNA testing are not favorable to the defendant, the court must dismiss without a hearing any DNA-related claims asserted under Rule 32.1. The court may make further orders as it deems appropriate, including orders:
+(1) notifying the Board of Executive Clemency or a probation department;
+(2) requesting to add the defendant's sample to the federal combined DNA index system offender database; or
+(3) notifying the victim or the victim's family.
+(h) Favorable Test Results. Notwithstanding any other provision of law that would bar a hearing as untimely, the court must order a hearing and make any further orders that are required by statute or the Arizona Rules of Criminal Procedure if the results of the post-conviction DNA testing are favorable to the defendant. If there are no material issues of fact, the hearing need not be an evidentiary hearing, but the court must give the parties an opportunity to argue why the defendant should or should not be entitled to relief under Rule 32.1 as a matter of law. If requested, a victim must be given notice of this hearing.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.17, AZ ST RCRP Rule 32.17
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 32.18. Stay of Execution of a Death Sentence on a Successive Petition
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.18
+Formerly cited as AZ ST RCRP Rule 32.4(g)
+Rule 32.18. Stay of Execution of a Death Sentence on a Successive Petition
+Currentness
+If a defendant has been sentenced to death and the Supreme Court has fixed the time for executing the sentence, the superior court may not grant a stay of execution if the defendant files a successive petition. In those circumstances, the defendant must file an application for a stay with the Supreme Court, and the application must show with particularity any claims that are not precluded under Rule 32.2. If the Supreme Court grants a stay, the Supreme Court clerk must notify the defendant, the Attorney General, and the Director of the State Department of Corrections.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.18, AZ ST RCRP Rule 32.18
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.19. Review of an Intellectual Disability Determination in Capital Cases
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.19
+Formerly cited as AZ ST RCRP Rule 32.10
+Rule 32.19. Review of an Intellectual Disability Determination in Capital Cases
+Currentness
+No later than 10 days after the trial court makes a finding on intellectual disability in a capital case, the State or the defendant may file with the Court of Appeals a petition for special action challenging the finding. The Rules of Procedure for Special Actions govern the special action, except the Court of Appeals must accept jurisdiction and decide any issue raised.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.19, AZ ST RCRP Rule 32.19
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 32.20. Extensions of Time in a Capital Case; Victim Notice and Service
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 32. Post-Conviction Relief for Defendants Sentenced Following a Trial or a Contested Probation Violation Hearing
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 32.20
+Formerly cited as AZ ST RCRP Rule 32.11
+Rule 32.20. Extensions of Time in a Capital Case; Victim Notice and Service
+Currentness
+(a) Notice to the Victim. If the victim in a capital case has filed a notice of appearance under A.R.S. § 13-4234.01, a party requesting an extension of time to file a brief must serve or otherwise provide notice of the request to the victim.
+(b) Manner and Timing of Service or Notice.
+(1) Victim's Choice of the Manner of Service. The victim may specify in the notice of appearance whether service of the request should be to the victim or whether it should go to another person, including the prosecutor, and whether service of the notice should be electronic, by telephone, or by regular mail. Service must be made in the manner specified in the victim's notice of appearance or, if no manner is specified, by regular mail. If the victim has requested direct notification, the party requesting an extension of time must serve the victim with notice no later than 24 hours after filing the request.
+(2) Service Through the Prosecutor. If the victim has not specified a method of service or if the victim has requested service through the prosecutor, the party requesting the extension of time must serve the prosecutor's office handling the post-conviction proceeding. If the prosecutor has the duty to notify the victim on behalf of the defendant, the prosecutor must do so no later than 24 hours after receiving the request.
+(c) Victim's Response. A victim may file a response to the request no later than 10 days after it is served.
+(d) Factors. In ruling on any request for an extension of time to file a brief, the court must consider the rights of the defendant and the victim to a prompt and final conclusion of the case.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 32.20, AZ ST RCRP Rule 32.20
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.1. Scope of Remedy
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.1
+Formerly cited as AZ ST RCRP Rule 32.1
+Rule 33.1. Scope of Remedy
+Currentness
+Generally. A defendant may file a notice requesting post-conviction relief under this rule if the defendant pled guilty or no contest to a criminal offense, admitted a probation violation, or had an automatic probation violation based on a plea of guilty or no contest.
+To challenge the effectiveness of counsel in the first post-conviction proceeding, a defendant may file a second notice requesting post-conviction relief under this rule.
+No Filing Fee. There is no fee for filing a notice of post-conviction relief.
+Grounds for Relief. Grounds for relief are:
+(a) the defendant's plea or admission to a probation violation was obtained, or the sentence was imposed, in violation of the United States or Arizona constitutions;
+(b) the court did not have subject matter jurisdiction to render a judgment or to impose a sentence on the defendant;
+(c) the sentence as imposed is not authorized by law or by the plea agreement;
+(d) the defendant continues to be or will continue to be in custody after his or her sentence expired;
+(e) newly discovered material facts probably exist, and those facts probably would have changed the judgment or sentence. Newly discovered material facts exist if:
+(1) the facts were discovered after sentencing;
+(2) the defendant exercised due diligence in discovering these facts; and
+(3) the newly discovered facts are material and not merely cumulative or used solely for impeachment, unless the impeachment evidence substantially undermines testimony that was of such critical significance that the impeachment evidence probably would have changed the judgment or sentence.
+(f) the failure to timely file a notice of post-conviction relief was not the defendant's fault;
+(g) there has been a significant change in the law that, if applicable to the defendant's case, would probably overturn the defendant's judgment or sentence; or
+(h) the defendant demonstrates by clear and convincing evidence that the facts underlying the claim would be sufficient to establish that no reasonable fact-finder would find the defendant guilty of the offense beyond a reasonable doubt.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.1, AZ ST RCRP Rule 33.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.2. Preclusion of Remedy
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: April 14, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: April 14, 2025
+16A A.R.S. Rules Crim.Proc., Rule 33.2
+Formerly cited as AZ ST RCRP Rule 32.2
+Rule 33.2. Preclusion of Remedy
+Currentness
+(a) Preclusion. A defendant is precluded from relief under Rule 33.1(a) based on any ground:
+(1) waived by pleading guilty or no contest to the offense;
+(2) finally adjudicated on the merits in any previous post-conviction proceeding;
+(3) waived in any previous post-conviction proceeding, except when the claim raises a violation of a constitutional right that can only be waived knowingly, voluntarily, and personally by the defendant.
+(b) Claims Not Precluded.
+(1) Generally. Claims for relief based on Rule 33.1(b) through (h) are not subject to preclusion under Rule 33.2(a)(3), but they are subject to preclusion under Rule 33.2(a)(2). However, when a defendant raises a claim that falls under Rule 33.1(b) through (h) in a successive or untimely post-conviction notice, the defendant must explain the reasons for not raising the claim in a previous notice or petition, or for not raising the claim in a timely manner. If the notice does not provide sufficient reasons why the defendant did not raise the claim in a previous notice or petition, or in a timely manner, the court may summarily dismiss the notice. At any time, a court may determine by a preponderance of the evidence that an issue is precluded, even if the State does not raise preclusion.
+(2) Ineffective Assistance of Post-Conviction Counsel. A defendant is not precluded from filing a timely second notice requesting post-conviction relief claiming ineffective assistance of counsel in the first Rule 33 post-conviction proceeding.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended on an emergency basis Dec. 12, 2019, effective Jan. 1, 2020, permanently adopted Feb. 5, 2020; amended effective April 14, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 33.2, AZ ST RCRP Rule 33.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.3. Nature of a Post-Conviction Proceeding and Relation to Other Remedies
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: April 2, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: April 2, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.3
+Formerly cited as AZ ST RCRP Rule 32.3
+Rule 33.3. Nature of a Post-Conviction Proceeding and Relation to Other Remedies
+Currentness
+(a) Generally. A post-conviction proceeding is part of the original criminal action and is not a separate action. It replaces and incorporates all trial court post-plea remedies except those obtainable by Rule 24 motions and habeas corpus.
+(b) Other Applications or Requests for Relief. If a court receives any type of application or request for relief--however titled--that challenges the validity of the defendant's plea or admission of a probation violation, or a sentence following entry of a plea or admission of a probation violation, it must treat the application as a petition for post-conviction relief. If that court is not the court that sentenced the defendant, it must transfer the application or request for relief to the court where the defendant was sentenced.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended effective April 2, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.3, AZ ST RCRP Rule 33.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.4. Filing a Notice Requesting Post-Conviction Relief
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.4
+Formerly cited as AZ ST RCRP Rule 32.4
+Rule 33.4. Filing a Notice Requesting Post-Conviction Relief
+Currentness
+(a) Generally. A defendant starts a Rule 33 proceeding by filing a Notice Requesting Post-Conviction Relief.
+(b) Notice Requesting Post-Conviction Relief.
+(1) Where to File; Forms. The defendant must file a notice requesting post-conviction relief under Rule 33 in the court where the defendant was sentenced. The court must make “notice” forms available for defendants.
+(2) Content of the Notice. The notice must contain the caption of the original criminal case or cases to which it pertains, and all information shown in Rule 41, Form 24(b).
+(3) Time for Filing.
+(A) Claims Under Rule 33.1(a). A defendant must file the notice for a claim under Rule 33.1(a) within 90 days after the oral pronouncement of sentence.
+(B) Claims Under Rules 33.1(b) through (h). A defendant must file the notice for a claim under Rules 33.1(b) through (h) within a reasonable time after discovering the basis for the claim.
+(C) Successive Notice for Claims of Ineffective Assistance of Rule 33 counsel. A defendant may raise a claim of ineffective assistance of Rule 33 counsel in a successive Rule 33 proceeding if the defendant files a notice no later than 30 days after the trial court's final order in the first post-conviction proceeding, or, if the defendant seeks appellate review of that order, no later than 30 days after the appellate court issues its mandate in that proceeding.
+(D) Excusing an Untimely Notice. The court must excuse an untimely notice requesting post-conviction relief filed under subpart (3)(A) or (3)(C) if the defendant adequately explains why the failure to timely file a notice was not the defendant's fault.
+(4) Duty of the Clerk upon Receiving a Notice.
+(A) Superior court. Upon receiving a notice, the superior court clerk must file it in the record of each original case to which it pertains. The clerk must promptly send copies of the notice to the defendant, defendant's counsel, the prosecuting attorney's office, and the Attorney General. The clerk must note in the record the date and manner of sending copies of the notice.
+(B) Justice or Municipal Court. If the conviction occurred in a limited jurisdiction court, upon receiving a notice from a defendant, the limited jurisdiction court clerk must send a copy of the notice to the prosecuting attorney who represented the State, and to defendant's counsel or the defendant, if self-represented. The clerk must note in the record the date and manner of sending copies of the notice.
+(5) Duty of the State Upon Receiving a Notice. Upon receiving a copy of a notice, the State must notify any victim who has requested notification of post-conviction proceedings.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.4, AZ ST RCRP Rule 33.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.5. Appointment of Counsel
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.5
+Formerly cited as AZ ST RCRP Rule 32.4(b)
+Rule 33.5. Appointment of Counsel
+Currentness
+(a) Generally. No later than 15 days after the defendant has filed a timely first notice under Rule 33.4, or a notice under Rule 33.4(b)(3)(C), the presiding judge must appoint counsel for the defendant if:
+(1) the defendant requests it;
+(2) the defendant is entitled to appointed counsel under Rule 6.1(b); and
+(3) there has been a previous determination that the defendant is indigent, or the defendant has completed a declaration of indigency and the court finds that the defendant is indigent.
+Upon filing of all other Rule 33 notices, the presiding judge or the judge's designee may appoint counsel for an indigent defendant.
+(b) Appointment of Investigators, Expert Witnesses, and Mitigation Specialists. On application and if the trial court finds that such assistance is reasonably necessary for an indigent defendant, it may appoint an investigator, expert witnesses, and a mitigation specialist, or any combination of them, under Rule 6.7.
+(c) Attorney-Client Privilege and Confidentiality for the Defendant. The defendant's prior counsel must share all files and other communications with post-conviction counsel. This sharing of information does not waive the attorney-client privilege or confidentiality claims.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.5, AZ ST RCRP Rule 33.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 33.6. Duty of Counsel; Self-Represented Defendant's Petition; Waiver of Attorney-Clien...
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.6
+Formerly cited as AZ ST RCRP Rule 32.4(d)
+Rule 33.6. Duty of Counsel; Self-Represented Defendant's Petition; Waiver of Attorney-Client Privilege
+Currentness
+(a) Generally. In a Rule 33 proceeding, counsel must investigate the defendant's case for any colorable claims.
+(b) Discovery.
+(1) After Filing a Notice. After the filing of a notice but before the filing of a petition, and upon a showing of substantial need for material or information to prepare the defendant's case, the court may enter an order allowing discovery. To show substantial need, the defendant must demonstrate that the defendant cannot obtain the substantial equivalent by other means without undue hardship.
+(2) After Filing a Petition. After the filing of a petition, the court may allow discovery for good cause. To show good cause, the moving party must identify the claim to which the discovery relates and reasonable grounds to believe that the request, if granted, would lead to the discovery of evidence material to the claim.
+(c) Counsel's Notice of No Colorable Claims. If counsel determines there are no colorable claims, counsel must file a notice advising the court of this determination, and promptly provide a copy of the notice to the defendant. The notice must include or list:
+(1) a summary of the facts and procedural history of the case;
+(2) the specific materials that counsel reviewed;
+(3) the date counsel provided the record to the defendant, and the contents of that record;
+(4) the dates counsel discussed the case with the defendant;
+(5) the charges and allegations presented in the complaint, information, or indictment;
+In the notice, counsel should also identify the following:
+(6) that the plea agreement contains the correct classification of offenses and the correct sentencing range of each offense;
+(7) any potential errors related to the entry of the plea for which there were no objections, but which might rise to the level of fundamental error;
+(8) any determination of the defendant's competency that was raised prior to sentencing;
+(9) any objections raised at the time of sentencing;
+(10) the court's determination of the classification and category of offenses for which the defendant was sentenced under the plea agreement;
+(11) any aggravating factors are supported by the record;
+(12) the court considered any mitigation evidence that was offered;
+(13) the court's determination of pre-sentence incarceration credit;
+(14) the sentence imposed by the court;
+(15) if a sentence above the presumptive term was imposed, the court relied on at least one proven statutory aggravating factor; and
+(16) any potential claims of ineffective assistance of counsel.
+A notice of no colorable claims must also include or incorporate Form 25(b), with citations to the pertinent portions of the record.
+(d) Self-Represented Defendant's Petition. Upon receipt of counsel's notice under section (c), the defendant may file a petition on his or her own behalf. The court may extend the time for defendant to file that petition by 45 days from the date counsel filed the notice. The court may grant additional extensions only on a showing of extraordinary circumstances.
+(e) Counsel's Duties After Filing a Notice Under Section (c). After counsel files a notice under section (c) and unless the court orders otherwise, counsel's role is limited to acting as advisory counsel until the trial court's final determination in the post-conviction proceeding.
+(f) Attorney-Client Privilege. By raising any claim of ineffective assistance of counsel, the defendant waives the attorney-client privilege as to any information necessary to allow the State to rebut the claim as provided by Ariz. R. Sup. Ct. 42, ER 1.6(d)(4).
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.6, AZ ST RCRP Rule 33.6
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 33.7. Petition for Post-Conviction Relief
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 33.7
+Formerly cited as AZ ST RCRP Rule 32.4(c); AZ ST RCRP Rule 32.5
+Rule 33.7. Petition for Post-Conviction Relief
+Currentness
+(a) Deadlines for Filing a Petition for Post-Conviction Relief.
+(1) Defendant with Counsel. Appointed counsel must file a petition no later than 60 days after the date of appointment.
+(2) Self-Represented Defendant. A self-represented defendant must file a petition no later than 60 days after the notice is filed or the court denies the defendant's request for appointed counsel, whichever is later.
+(3) Time Extensions. For good cause and after considering the rights of the victim to a prompt and final conclusion of the case, the court may grant a defendant a 30-day extension to file the petition. The court may grant additional 30-day extensions only on a showing of extraordinary circumstances.
+(b) Form of Petition. A petition for post-conviction relief should contain the information shown in Rule 41, Form 25, and must include a memorandum that contains citations to relevant portions of the record and to relevant legal authorities.
+(c) Length of Petition. The petition must not exceed 28 pages.
+(d) Declaration. A petition by a self-represented defendant must include a declaration stating under penalty of perjury that the information contained in the petition is true to the best of the defendant's knowledge or belief.
+(e) Attachments. The defendant must attach to the petition any affidavits, records, or other evidence currently available to the defendant supporting the allegations in the petition.
+(f) Effects of Non-Compliance. The court will return to the defendant any petition that fails to comply with this rule, with an order specifying how the petition fails to comply. The defendant has 40 days after that order is entered to revise the petition to comply with this rule, and to return it to the court for refiling. If the defendant does not return the petition within 40 days, the court may dismiss the proceeding with prejudice. The State's time to respond to a refiled petition begins on the date of refiling.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 33.7, AZ ST RCRP Rule 33.7
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 33.8. Transcription Preparation
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.8
+Formerly cited as AZ ST RCRP Rule 32.4(e)
+Rule 33.8. Transcription Preparation
+Currentness
+(a) Request for Transcripts. If the verbal record of trial court proceedings was not transcribed, the defendant may request that certified transcripts be prepared. The court or clerk must provide a form for the defendant to make this request.
+(b) Orders Regarding Transcripts. The court must promptly review the defendant's request and order the preparation of only those transcripts it deems necessary for resolving issues the defendant has specified in the notice.
+(c) Deadlines. The defendant's deadline for filing a petition is extended by the time between the defendant's request and either the transcripts' final preparation or the court's denial of the request. Certified transcripts must be prepared and filed no later than 60 days after the entry of an order granting the defendant's request for transcripts.
+(d) Cost. If the defendant is indigent, the transcripts must be prepared at county expense.
+(e) Unavailability of Transcripts. If a transcript is unavailable, the parties may proceed in accordance with Rule 31.8(e) or Rule 31.8(f).
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.8, AZ ST RCRP Rule 33.8
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 33.9. Response and Reply; Amendments
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: July 1, 2023
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: July 1, 2023
+16A A.R.S. Rules Crim.Proc., Rule 33.9
+Formerly cited as AZ ST RCRP Rule 32.6
+Rule 33.9. Response and Reply; Amendments
+Currentness
+(a) State's Response.
+(1) Deadlines. The State must file its response no later than 45 days after the defendant files the petition. The court for good cause may grant the State a 30-day extension to file its response and may grant the State additional extensions only on a showing of extraordinary circumstances and after considering the rights of the victim to a prompt and final conclusion of the case.
+(2) Contents. The State's response must include a memorandum that contains citations to relevant portions of the record and to relevant legal authorities, and must attach any affidavits, records, or other evidence that contradicts the petition's allegations. The State must plead and prove any ground of preclusion by a preponderance of the evidence.
+(b) Defendant's Reply. The defendant may file a reply 15 days after a response is served. The court for good cause may grant one extension of time, and additional extensions only for extraordinary circumstances.
+(c) Length of Response and Reply. The State's response must not exceed 28 pages, and defendant's reply, if any, must not exceed 11 pages.
+(d) Amending the Petition. After the defendant files a petition for post-conviction relief, the court may permit amendments to the petition only for good cause.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended Dec. 8, 2022, effective July 1, 2023.
+16A A. R. S. Rules Crim. Proc., Rule 33.9, AZ ST RCRP Rule 33.9
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.10. Assignment of a Judge
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.10
+Formerly cited as AZ ST RCRP Rule 32.4(f)
+Rule 33.10. Assignment of a Judge
+Currentness
+(a) Generally. The presiding judge must, if possible, assign a proceeding for post-conviction relief to the sentencing judge. The provisions of Rules 10.1 and 10.2 apply in proceedings for post-conviction relief when the case is assigned to a new judge.
+(b) Dispute Regarding Public Records. The assigned judge may hear and decide a dispute within its jurisdiction, whether the dispute is raised by motion or by special action, that concerns access to public records requested for a post-conviction proceeding.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.10, AZ ST RCRP Rule 33.10
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 33.11. Court Review of the Petition, Response, and Reply; Further Proceedings
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.11
+Formerly cited as AZ ST RCRP Rule 32.6(d)
+Rule 33.11. Court Review of the Petition, Response, and Reply; Further Proceedings
+Currentness
+(a) Summary Disposition. If, after identifying all precluded and untimely claims, the court determines that no remaining claim presents a material issue of fact or law that would entitle the defendant to relief under this rule, the court must summarily dismiss the petition.
+(b) Setting a Hearing. If the court does not summarily dismiss the petition, it must set a status conference or a hearing within 30 days.
+(c) Notice to the Victim. If the court sets a hearing, the State must notify any victim of the time and place of the hearing if the victim has requested such notice under a statute or court rule relating to victims' rights.
+(d) Defendant's Competence. The court may order a competency evaluation if the defendant's competence is necessary for the presentation of a claim.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.11, AZ ST RCRP Rule 33.11
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.12. Informal Conference
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.12
+Formerly cited as AZ ST RCRP Rule 32.7
+Rule 33.12. Informal Conference
+Currentness
+(a) Generally. At any time, the court may hold an informal conference to expedite a proceeding for post-conviction relief.
+(b) The Defendant's Presence. The defendant need not be present at an informal conference if defense counsel is present.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.12, AZ ST RCRP Rule 33.12
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 33.13. Evidentiary Hearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.13
+Formerly cited as AZ ST RCRP Rule 32.8
+Rule 33.13. Evidentiary Hearing
+Currentness
+(a) Generally. The defendant is entitled to a hearing to determine issues of material fact and has the right to be present and to subpoena witnesses for the hearing. The court may order the hearing to be held at the defendant's place of confinement if facilities are available and after giving at least 15 days' notice to the officer in charge of the confinement facility. In superior court proceedings, the court must make a verbatim record.
+(b) Evidence. The Arizona Rules of Evidence applicable to criminal proceedings apply at the hearing, except that the defendant may be called to testify.
+(c) Burden of Proof. The defendant has the burden of proving factual allegations by a preponderance of the evidence. If the defendant proves a constitutional violation, the State has the burden of proving beyond a reasonable doubt that the violation was harmless.
+(d) Decision.
+(1) Findings and Conclusions. The court must make specific findings of fact and expressly state its conclusions of law relating to each issue presented.
+(2) Decision in the Defendant's Favor. If the court finds in the defendant's favor, it must enter appropriate orders concerning:
+(A) the conviction, sentence, or detention;
+(B) any further proceedings, including setting the matter for trial and conditions of release; and
+(C) other matters that may be necessary and proper.
+(e) Transcript. On a party's request, the court must order the preparation of a certified transcript of the evidentiary hearing. The request must be made within the time allowed for filing a petition for review. If the defendant is indigent, preparation of the evidentiary hearing transcript will be at county expense.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.13, AZ ST RCRP Rule 33.13
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.14. Motion for Rehearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 33.14
+Formerly cited as AZ ST RCRP Rule 32.9(a); AZ ST RCRP Rule 32.9(b)
+Rule 33.14. Motion for Rehearing
+Currentness
+(a) Timing and Content. No later than 15 days after entry of the trial court's final decision on a petition or dismissal of a notice, any party aggrieved by the decision may file a motion for rehearing. The motion must state in detail the grounds of the court's alleged errors.
+(b) Response and Reply. An opposing party may not file a response to a motion for rehearing unless the court requests one, but the court may not grant a motion for rehearing without requesting and considering a response. If a response is filed, the moving party may file a reply no later than 10 days after the response is served.
+(c) Stay. The State's filing of a motion for rehearing automatically stays an order granting a new trial until the trial court decides the motion. For any relief the trial court grants to a defendant other than a new trial, whether to grant a stay pending further review is within the discretion of the trial court.
+(d) Effect on Appellate Rights. Filing of a motion for rehearing is not a prerequisite to filing a petition for review under Rule 33.16.
+(e) Disposition if Motion Granted. If the court grants the motion for rehearing, it may either amend its previous ruling without a hearing or grant a new hearing and then either amend or reaffirm its previous ruling. The court must state its reasons for amending a previous ruling. The State must notify the victim of any action taken by the court if the victim has requested notification.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended Aug. 22, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 33.14, AZ ST RCRP Rule 33.14
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 33.15. Notification to the Appellate Court
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.15
+Rule 33.15. Notification to the Appellate Court
+Currentness
+If a petition for review of a defendant's conviction or sentence is pending, the defendant's counsel or the defendant, if self-represented, must file any final ruling in the appellate court within 10 days after the ruling is filed.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.15, AZ ST RCRP Rule 33.15
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 33.16. Petition and Cross-Petition for Review
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 33.16
+Formerly cited as AZ ST RCRP Rule 32.9(c) to (i)
+Rule 33.16. Petition and Cross-Petition for Review
+Currentness
+(a) Time and Place for Filing.
+(1) Petition. No later than 30 days after the entry of the trial court's final decision on a petition or a motion for rehearing, or the dismissal of a notice, an aggrieved party may petition the appropriate appellate court for review of the decision.
+(2) Cross-Petition. The opposing party may file a cross-petition for review no later than 15 days after a petition for review is served.
+(3) Place for Filing. The parties must file the petition for review, cross-petition, and all responsive filings with the appellate court and not the trial court.
+(4) Extensions of Time for Filing Petition or Cross-Petition for Review; Requests for Delayed Petition or Cross-Petition for Review.
+(A) A party may seek an extension of time for filing the petition or cross-petition for review by filing a motion with the trial court, which must decide the motion promptly.
+(B) If the time for filing the petition or cross-petition for review has expired, the party may request the trial court's permission to file a delayed petition or cross-petition for review. If the court grants the request to file a delayed petition or cross-petition for review, the court must set a new deadline for the filing of the delayed petition or cross-petition for review and the party may file a delayed petition or cross-petition for review on or before that date.
+(b) Notice of Filing and Additional Record Designation. No later than 3 days after a petition or cross-petition for review is filed, the petitioner or cross-petitioner must file with the trial court a “notice of filing.” The notice of filing may designate additional items for the record described in section (i). These items may include additional certified transcripts of trial court proceedings prepared under Rule 33.13(e), or that were otherwise available to the trial court and the parties and are material to the issues raised in the petition or cross-petition for review.
+(c) Form and Contents of a Petition or Cross-Petition for Review.
+(1) Form and Length. Petitions and cross-petitions for review, along with other documents filed with the appellate clerk, must comply with the formatting requirements of Rule 31.6(b). The petition or cross-petition must contain a caption with the name of the appellate court, the title of the case, a space for the appellate court case number, the trial court case number, and a brief descriptive title. The caption must designate the parties as they appear in the trial court's caption. The petition or cross-petition for review must not exceed 6,000 words if typed or 22 pages if handwritten, exclusive of an appendix and copies of the trial court's rulings.
+(2) Contents. A petition or cross-petition for review must comply with Rule 31.10(e)-(h). Additionally, a petition or cross-petition for review must contain:
+(A) copies of the trial court's rulings entered under Rules 33.2, 33.11, 33.13, and 33.14;
+(B) a statement of issues the trial court decided that the defendant is presenting for appellate review;
+(C) a statement of material facts concerning the issues presented for review, including specific references to the record for each material fact; and
+(D) reasons why the appellate court should grant the petition, including citations to supporting legal authority, if known.
+(3) Effect of a Motion Rehearing. The filing of a motion for rehearing under Rule 33.14 does not limit the issues a party may raise in a petition or cross-petition for review.
+(4) Waiver. A party's failure to raise any issue that could be raised in the petition for review or cross-petition for review constitutes a waiver of appellate review of that issue.
+(d) Appendix Accompanying a Petition or Cross-Petition. Unless otherwise ordered, a petition or cross-petition may be accompanied by an appendix. The petition or cross-petition must not incorporate any document by reference, except the appendix. An appendix that exceeds 15 pages in length, exclusive of the trial court's rulings, must be submitted separately from the petition or cross-petition. An appendix is not required, but the petition must contain specific references to the record to support all material factual statements.
+(e) Service of a Petition for Review, Cross-Petition for Review, Reply, or Related Filing. A party filing a petition, cross-petition, appendix, response, or reply, or another filing, must serve a copy of the filing on all other parties. The serving party must file a certificate of service complying with Rule 1.7(c)(3), identifying who was served and the date and manner of service.
+(f) Response to a Petition or Cross-Petition for Review; Reply.
+(1) Time and Place for Filing a Response; Extensions of Time.
+(A) No later than 30 days after a petition or cross-petition is served, a party opposing the petition or cross-petition may file a response in the appellate court. Rule 31.3(d) governs computation of the deadline for filing the response.
+(B) A party may file a motion with the appellate court for an extension of the time to file a response or reply in accordance with Rule 31.3(e).
+(2) Form and Length of Response. The response must not exceed 6,000 words if typed and 22 pages if handwritten, exclusive of an appendix, and must comply with the form requirements in subpart (c)(1) An appendix to a response must comply with the form and substantive requirements in section (d).
+(3) Reply. No later than 10 days after a response is served, a party may file a reply. The reply is limited to matters addressed in the response and may not exceed 3,000 words if typed and 11 pages if handwritten. It also must comply with the requirements in subpart (c)(1) and may not include an appendix.
+(g) Computing and Modifying Appellate Court Deadlines. Except as otherwise provided herein, Rule 31.3(d) governs the computation of any appellate court deadline in this rule.
+(h) Amicus Curiae. Rules 31.13(a)(7) and 31.15 govern filing and responding to an amicus curiae brief.
+(i) Stay Pending Appellate Review. The State's filing of a petition for review of an order granting a new trial automatically stays the order until appellate review is completed. For any relief the trial court grants to a defendant other than a new trial, granting a stay pending further review is within the discretion of the trial court.
+(j) Transmitting the Record to the Appellate Court. No later than 45 days after receiving a notice of filing under section (b), the trial court clerk must transmit the record to the appellate court. The record includes the entire trial court record, transcripts filed in the trial court, any exhibits admitted by the trial court in the post-conviction proceedings, and any documents or transcripts designated under section (b).
+(k) Disposition. The appellate court may grant review of the petition or cross-petition and may order oral argument. Upon granting review, the court may grant or deny relief and issue other orders it deems necessary and proper.
+(l) Reconsideration or Review of an Appellate Court Decision. The provisions in Rules 31.20 and 31.21 relating to motions for reconsideration and petitions for review in criminal appeals govern motions for reconsideration and petitions for review of an appellate court decision entered under section (k).
+(m) Return of the Record. After the disposition of the petition for review, the appellate clerk must return the record to the trial court clerk.
+(n) Notice to the Victim. Upon the victim's request, the State must notify the victim of any action taken by the appellate court.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020. Amended effective Jan. 5, 2021; Aug. 24, 2023, effective Jan. 1, 2024; Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 33.16, AZ ST RCRP Rule 33.16
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 33.17. Post-Conviction Deoxyribonucleic Acid Testing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+VIII. Appeal and Other Post-Conviction Relief
+Rule 33. Post-Conviction Relief for Defendants Who Pled Guilty or NO Contest, Who Admitted a Probation Violation, or Who Had an Automatic Probation Violation
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 33.17
+Formerly cited as AZ ST RCRP Rule 32.12
+Rule 33.17. Post-Conviction Deoxyribonucleic Acid Testing
+Currentness
+(a) Generally. Any person who has been convicted and sentenced for a felony offense may petition the court at any time for forensic deoxyribonucleic acid (DNA) testing of any evidence:
+(1) in the possession or control of the court or the State;
+(2) related to the investigation or prosecution that resulted in the judgment of conviction; and
+(3) that may contain biological evidence.
+(b) Manner of Filing; Response. The defendant must file the petition under the same criminal cause number as the felony conviction, and the clerk must distribute it in the manner provided in Rule 33.4(b)(4). The State must respond to the petition no later than 45 days after it is served.
+(c) Appointment of Counsel. The court may appoint counsel for an indigent defendant at any time during proceedings under this rule.
+(d) Court Orders.
+(1) DNA Testing. After considering the petition and the State's response, the court must order DNA testing if the court finds that:
+(A) a reasonable probability exists that the defendant would not have been prosecuted, or the defendant's sentence would have been more favorable, if DNA testing would produce exculpatory evidence;
+(B) the evidence is still in existence; and
+(C) the evidence was not previously subjected to DNA testing, or the evidence was not subjected to the type of DNA testing that defendant now requests and the requested testing may resolve an issue not resolved by previous testing.
+(2) Laboratory; Costs. If the court orders testing, the court must select an accredited laboratory to conduct the testing. The court may require the defendant to pay the costs of testing.
+(3) Other Orders. The court may enter any other appropriate orders, including orders requiring elimination samples from third parties and designating:
+(A) the type of DNA analysis to be used;
+(B) the procedures to be followed during the testing; and
+(C) the preservation of some of the sample for replicating the testing.
+(e) Test Results.
+(1) Earlier Testing. If the State or defense counsel has previously subjected evidence to DNA testing, the court may order the party to provide all other parties and the court with access to the laboratory reports prepared in connection with that testing, including underlying data and laboratory notes.
+(2) Testing Under this Rule. If the court orders DNA testing under this rule, the court must order the production to all parties of any laboratory reports prepared in connection with the testing and may order the production of any underlying data and laboratory notes.
+(f) Preservation of Evidence. If a defendant files a petition for post-conviction DNA testing, the court must order the State to preserve during the pendency of the proceeding all evidence in the State's possession or control that could be subjected to DNA testing. The State must prepare an inventory of the evidence and submit a copy of the inventory to the defendant and the court. If evidence is destroyed after the court orders its preservation, the court may impose appropriate sanctions.
+(g) Unfavorable Test Results. If the results of the post-conviction DNA testing are not favorable to the defendant, the court must dismiss without a hearing any DNA-related claims asserted under Rule 33.1. The court may make further orders as it deems appropriate, including orders:
+(1) notifying the Board of Executive Clemency or a probation department;
+(2) requesting to add the defendant's sample to the federal combined DNA index system offender database; or
+(3) notifying the victim or the victim's family.
+(h) Favorable Test Results. Notwithstanding any other provision of law that would bar a hearing as untimely, the court must order a hearing and make any further orders that are required by statute or the Arizona Rules of Criminal Procedure if the results of the post-conviction DNA testing are favorable to the defendant. If there are no material issues of fact, the hearing need not be an evidentiary hearing, but the court must give the parties an opportunity to argue why the defendant should or should not be entitled to relief under Rule 33.1 as a matter of law. If requested, a victim must be given notice of this hearing.
+Credits
+Added Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 33.17, AZ ST RCRP Rule 33.17
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 34. Subpoenas
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 34. Subpoenas
+16A A.R.S. Rules Crim.Proc., Rule 34
+Rule 34. Subpoenas
+Currentness
+(a) Generally. The process by which attendance of a witness before a court or magistrate is required is a subpoena. The subpoena must be substantially in the form shown in Rule 41, Form 27(a).
+(b) Alternative Form of Subpoena. If requested, a subpoena requiring a person to appear at a criminal proceeding may allow the person to appear in court on 30 minutes notice. If the subpoenaed person agrees to this option, the person must promise to appear when called and provide on the return of service a telephone number where the person can be contacted during regular court hours on the appearance date. The alternative subpoena must be substantially in the form shown in Rule 41, Form 27(b).
+(c) Multiple Subpoenas. A person served with two or more subpoenas that require simultaneous attendance in different courts must honor them in the following order: United States District Court, Superior Court, Justice of the Peace Court, and Municipal Court, and then must honor them based on the date of service. The person must immediately notify the parties requesting the subpoenas of the conflict.
+(d) ADA Notification. The subpoena must state that “Requests for reasonable accommodation for persons with disabilities must be made to the court by parties at least 3 working days in advance of a scheduled court proceeding.”
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 34, AZ ST RCRP Rule 34
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+R. 35, Refs & Annos
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+IX. Miscellaneous
+Rule 35. Criminal Contempt
+16A A.R.S. Rules Crim.Proc., R. 35, Refs & Annos
+Currentness
+16A A. R. S. Rules Crim. Proc., R. 35, Refs & Annos, AZ ST RCRP R. 35, Refs & Annos
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 35.1. Definition
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 35. Criminal Contempt (Refs & Annos)
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 35.1
+Rule 35.1. Definition
+Currentness
+A court may hold a person in contempt of court if the person:
+(a) willfully disobeys a lawful writ, process, order, or judgment of a court by doing or not doing an act or thing forbidden or required; or
+(b) willfully engages in any other unreasonable conduct that obstructs the administration of justice or lessens the court's dignity and authority.
+Credits
+Formerly Rule 33.1 added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 35.1 Aug. 29, 2019, effective January 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 35.1, AZ ST RCRP Rule 35.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 35.2. Summary Disposition of Contempt
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 35. Criminal Contempt (Refs & Annos)
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 35.2
+Rule 35.2. Summary Disposition of Contempt
+Currentness
+(a) Citation. The court may summarily find a person in contempt if the person commits a criminal contempt in the court's presence. The court must immediately notify the person of this finding, and prepare and file a written order reciting the grounds for the finding, including a statement that the court saw or heard the conduct constituting the contempt.
+(b) Procedure. The court must inform the person of the specific conduct on which the citation is based. The court must also provide the person a brief opportunity to present evidence or argument regarding the punishment the court will impose. The court may not impose punishment during the course of the proceeding at which the contempt occurs, unless prompt punishment is imperative.
+(c) Punishment. The court may not punish a person under this rule by imprisonment for longer than 6 months, or by a fine greater than $300, or both, unless the person either has been found guilty of contempt by a jury or has waived the right to a jury trial.
+Credits
+Formerly Rule 33.2 added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 35 Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 35.2, AZ ST RCRP Rule 35.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 35.3. Disposition of Contempt by Notice and Hearing
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 35. Criminal Contempt (Refs & Annos)
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 35.3
+Rule 35.3. Disposition of Contempt by Notice and Hearing
+Currentness
+Except as provided by law or Rule 35.2, the court may not find a person in criminal contempt without notifying the person of the charge and holding a hearing. The court must set the hearing on a date that will allow the person reasonable time to prepare a defense. The notice of hearing must state the hearing's time and place, and the essential facts constituting the charged contempt. A court may give the notice orally in open court in the presence of the person charged or by an order to show cause. The person charged with contempt has the right to subpoena witnesses for the hearing, and to release under Rule 7 pending the hearing.
+Credits
+Formerly Rule 33.3, added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 35.3 Aug. 29, 2019, effective Jan. 1, 2020. Amended effective Jan. 28, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 35.3, AZ ST RCRP Rule 35.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 35.4. Jury Trial; Disqualification of the Citing Judge
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2020
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 35. Criminal Contempt (Refs & Annos)
+Effective: January 1, 2020
+16A A.R.S. Rules Crim.Proc., Rule 35.4
+Rule 35.4. Jury Trial; Disqualification of the Citing Judge
+Currentness
+(a) Jury Trial. The court may not punish a person under this rule by imprisonment for longer than 6 months, or by a fine greater than $300, or both, unless the person either has been found guilty of contempt by a jury or has waived the right to a jury trial.
+(b) Disqualification of Judge. Unless prompt punishment is imperative, the citation must be transferred to another judge if the unreasonable conduct involves gross disrespect or a personal attack on the citing judge's character, or if the citing judge's conduct is so integrated with the contempt that the citing judge contributed to or was otherwise involved in it. Should the matter be transferred, any prior adjudication of guilt is void and the judge to whom the citation is transferred must hold a hearing to determine the person's guilt and punishment.
+Credits
+Formerly Rule 33.4, added Aug. 31, 2017, effective Jan. 1, 2018. Renumbered Rule 35.4 Aug. 29, 2019, effective Jan. 1, 2020.
+16A A. R. S. Rules Crim. Proc., Rule 35.4, AZ ST RCRP Rule 35.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 36. Expunging Marijuana Records and Restoring Civil Rights
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2022
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 36. Expunging Marijuana Records and Restoring Civil Rights
+Effective: January 1, 2022
+16A A.R.S. Rules Crim.Proc., Rule 36
+Rule 36. Expunging Marijuana Records and Restoring Civil Rights
+Currentness
+(a) Generally. This rule governs petitions to expunge records, vacate convictions, and restore civil rights that are filed under A.R.S. § 36-2862.
+(1) Contents of a Petition.
+(A) A petition must state the following:
+(i) the name, address, date of birth, and the email address, if known, for the subject of the petition;
+(ii) any name, if different from above used by the person who is the subject of the petition at the time of arrest or charge;
+(iii) the offense for which expungement is being requested;
+(iv) the name of the arresting agency; and
+(v) if charges were filed, the court's case number.
+(B) To assist the court in locating the records to be expunged, the petition should also state, if known:
+(i) the date of arrest;
+(ii) if charges were filed, the name of the prosecuting agency;
+(iii) if the case was initially filed in a justice court but was transferred to the superior court, the name of the justice court and the justice court case number;
+(iv) whether there are any outstanding warrants or active payment plans; and
+(v) whether the subject of the petition was sentenced to probation.
+(2) Petitioner's Signature; Attachments. If the petition is filed by the person who is the subject of the petition, the petitioner must sign the petition with the following declaration “I declare under penalty of perjury that the information I have provided in this Petition and any attachments is true and correct to the best of my knowledge.” The petitioner may attach supporting documents and affidavits to the petition.
+(3) Petitions Filed by a Prosecuting Agency. If a prosecuting agency files for expungement under A.R.S. § 36-2862(I), the petition must include the information required by (a)(1)(A), other than the email address, unless known, for the subject of the petition, and any information specified in (a)(1)(B) that the prosecutor knows at the time of filing.
+(4) Place of Filing; Filing Fee. If the subject of the petition was charged with the offense listed in the petition, the petition must be filed in the court where the complaint or citation was concluded. If the case commenced in a justice court and was transferred to a superior court, the petition must be filed in the superior court. If the subject of the petition was arrested but never charged, the petition must be filed in the superior court in the county where the arrest occurred. The clerk may not charge a fee for filing a petition.
+(b) Processing of Petition.
+(1) Dismissal of the Petition. The court may dismiss a petition that fails to provide sufficient information to identify the records to be expunged. Before dismissing the petition for this reason, the court should refer the petitioner to the instructions for the petition form that will be published under (f) and inform the petitioner that the petition will be dismissed if the required information is not filed within 45 days.
+(2) Transmitting Petition Filed by the Subject of the Petition. If the petition is not dismissed under (b)(1), the court must send a copy of the petition and supporting documentation submitted by the petitioner to the applicable prosecuting agency no later than 10 days after filing. The court must notify the prosecuting agency that the court may grant the petition if the State does not file a response within the time allowed by (b)(4).
+(3) Processing a Petition Filed by a Prosecuting Agency. If a prosecuting agency files a petition, the prosecuting agency must notify the person who is the subject of the petition. The person is not required to make an appearance or file a response.
+(4) Response. No later than 30 days after the petition is filed, an opposing party may file a response stating its objections to the petition, if any. The party filing the response must send a copy of the response to the petitioner.
+(5) Reply. The petitioner may file a reply no later than 15 days after the response is filed.
+(c) Hearing.
+(1) Basis for a Hearing. The court may set a hearing on the petition on either party's request or if the court concludes there are genuine issues of fact regarding whether the petition should be granted.
+(2) Time for Hearing. The hearing must be held no later than 120 days after the petition is filed, unless the court finds good cause for an extension.
+(d) Disposition.
+(1) Failure to Respond. The court may decide the petition without a hearing if no response is filed within the time allowed by (b)(4), or if the petition was filed by a prosecuting agency.
+(2) Stay of Sentence. The court has discretion to stay any aspect of the sentence imposed pending disposition of the petition.
+(3) Burden of Proof. The court must grant the petition unless the prosecuting agency establishes by clear and convincing evidence that the offense is not eligible for expungement or if the court finds that the offense identified in the petition is not eligible for expungement.
+(4) Action on Granting the Petition. If the court grants the petition, the court must, as to any applicable count, vacate the conviction and sentence, if any, order that any record of the arrest, charge, conviction and sentence be expunged, and restore the civil rights of the subject of the petition, including the right to possess a firearm unless otherwise prohibited.
+(5) Order. The court must enter a signed order stating the court's findings of fact and conclusions of law.
+(e) Notice by Clerk. If the court grants the petition, the clerk must transmit the order to the arresting law enforcement agency identified in the petition and the Department of Public Safety. If the order is issued by a superior court, the clerk must also transmit the order to the justice court identified in the petition and to the probation department, if a term of probation was imposed.
+(f) Forms. The Administrative Director of the Administrative Office of the Courts is authorized to create and modify forms and instructions for use by the public and the courts to implement this rule. The director shall make the forms available on the self-service page of the Arizona Judicial Branch website, azcourts.gov. Any substantial variation from these forms must first be approved by the Administrative Director. A petitioner may file a petition that varies from the approved form so long as it includes the information required by this rule and complies with Rule 1.6.
+Credits
+Adopted on an emergency basis, May 21, 2021, effective July 12, 2021. Adopted on a permanent basis Aug. 30, 2021, effective Jan. 1, 2022.
+16A A. R. S. Rules Crim. Proc., Rule 36, AZ ST RCRP Rule 36
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 36.1. Sealing Arrest, Conviction, and Sentencing Records
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Effective: January 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 36.1
+Rule 36.1. Sealing Arrest, Conviction, and Sentencing Records
+Currentness
+(a) Applicability. This rule governs petitions to seal records that are filed under A.R.S. § 13-911. “Case records” as used in this rule means all records that pertain to the person's arrest, conviction, and sentence for a particular offense and that may be sealed under A.R.S. § 13-911.
+(b) Eligibility. A person may file a petition to seal all case records related to an eligible criminal offense if the person has not previously had a petition denied in the past three years and the person was:
+(1) convicted of the offense and has completed all the terms and conditions of probation or sentence, including the payment of all monetary obligations and restitution to all victims, and the required timeframes in A.R.S. § 13-911(E) and (F) have passed;
+(2) charged with the offense and the charge was subsequently dismissed or resulted in a not guilty verdict at a trial; or
+(3) arrested for the offense and no charges were filed.
+(c) Petition.
+(1) Contents of a Petition.
+(A) A petition filed under A.R.S. § 13-911 must include:
+(i) the petitioner's name, address, date of birth, and the email address;
+(ii) any name, if different from (i) used by petitioner at the time of the arrest, charge, or conviction;
+(iii) the offense for which sealing is being requested;
+(iv) if charges were filed, the court's case number;
+(v) whether there are any outstanding fines, fees, restitution, or other court ordered financial obligations for the offense; and
+(vi) whether the petitioner has completed the conditions of their probation or sentence.
+(B) The petition should also state the following, if known:
+(i) the date of arrest;
+(ii) location of arrest;
+(iii) the name of the arresting agency;
+(iv) if charges were filed, the name of the prosecuting agency; and
+(v) if the case was initially filed in a justice court but was transferred to the superior court, the name of the justice court and the justice court case number.
+(2) Petitioner's Signature; Attachments. The petitioner must sign the petition with the following declaration, “I declare under penalty of perjury that the information I have provided in this petition and any attachments is true and correct to the best of my knowledge.” The petitioner may attach supporting documents and affidavits to the petition.
+(3) Place of Filing; Filing Fee.
+(A) If the petitioner was convicted of an offense listed in the petition, the petition must be filed in the court in which the person was convicted.
+(B) If an indictment, information, citation, or complaint was filed and all charges were dismissed, the person was found not guilty on all charges, or the person's conviction was vacated, the petition must be filed in the court in which the indictment, information, citation, or complaint was filed, except that if the case commenced in a justice court and was transferred to a superior court, the petition must be filed in the superior court.
+(C) If the petitioner had an initial appearance but no charges were filed, the petition must be filed in the court in which the initial appearance was held.
+(D) If the petitioner was arrested, did not have an initial appearance, and no charges were filed, the petition must be filed in the superior court in the county in which the arrest occurred.
+(E) The clerk may not charge a fee for filing a petition.
+(4) Victim Notification. The victim has a right to be present and heard at any proceeding in which the defendant has filed a petition to seal case records. If the victim has made a request for post-conviction notice, the prosecutor must provide the victim with notice of the defendant's petition and of the victim's rights under A.R.S. § 13-911.
+(d) Processing of Petition.
+(1) Dismissal for Failure to Provide Sufficient Information. No later than 10 days after the petition's filing, the court must make a determination as to whether the petition contains sufficient information to identify the records to be sealed. A petition that does not contain sufficient information to identify the records to be sealed must be dismissed. A dismissal under this rule may be made without a hearing. A dismissal for lack of providing sufficient information does not constitute a denial for purposes of (f)(4).
+(2) Providing the Petition to the Prosecutor and Victims. If the petition is not dismissed, the court must send a copy of the petition and supporting documentation submitted by the petitioner to the applicable prosecuting agency no later than 10 days after the petition's filing.
+(3) Response. No later than 30 days after the petition's filing, the prosecutor or victim may file a response stating any objections to the petition. The person filing the response must send a copy of the response to the petitioner's attorney or the petitioner, if unrepresented.
+(4) Reply. The petitioner may file a reply no later than 15 days after the response is filed.
+(5) Notification to the Department of Public Safety (DPS). If the petition is not dismissed, no later than 10 days after the petition's filing and on the approved form made available under (i), the court must notify DPS to request that DPS prepare and submit a report to the court that includes all of the petitioner's state and federal arrests, prosecutions, and convictions, and any other information that DPS believes will assist the court in making its determination.
+(e) Hearing.
+(1) Basis for a Hearing. The petitioner, prosecutor, or victim may request a hearing before the court has ruled on the petition. The court may sua sponte set a hearing before ruling on the petition.
+(2) Time for Hearing. A hearing under this section must be held no later than 90 days after the petition's filing, unless the court finds good cause for an extension.
+(3) Notice to Victims. The prosecuting agency must provide post-conviction victim notice of the hearing date and time and the right to be heard, if the victim requested post- conviction notification.
+(f) Disposition.
+(1) Timeframe for Ruling on the Petition. At least 60 days must elapse from the date of the petition's filing before the court can grant or deny a petition, unless the court receives notice that the prosecutor and all victims who have made a request for postconviction notice do not object to the petition.
+(2) Granting or Denying the Petition. The court must grant the petition if it determines that granting the petition is in the best interests of the petitioner and the public's safety, except that if the petitioner has another criminal charge pending or is charged with an offense after filing a petition and the charge could result in a conviction that cannot be sealed or that could extend the time to file a petition to seal case records, the court may not grant or deny the petition until the court disposes of that charge. Unless the petitioner, prosecutor, or victim requests a hearing, the court may grant or deny a petition without a hearing.
+(3) Order Granting Petition. If the court grants the petition, the court must, as to any applicable count, order sealed all case records related to the petitioner's arrest, conviction, and sentence.
+(4) Order Denying Petition and Refiling. If the court denies the petition, the petitioner must wait at least 3 years from the date of denial before refiling the petition.
+(g) Action by Clerk. If the court grants the petition, the clerk must seal all case records related to the petitioner's arrest, conviction, and sentence, and transmit the order to DPS and to the prosecutor. If the order is issued by a superior court, the clerk must also transmit the order to any limited jurisdiction court identified in the petition and to the probation department, if a term of probation was imposed.
+(h) Appeal. An appeal from an order denying a petition may be taken only when the basis of the appeal is the defendant's eligibility to petition the court.
+(i) Forms. The Administrative Director of the Administrative Office of the Courts is authorized to create and modify forms and instructions for use by the public and the courts to implement this rule. The director must make the forms available on the self- service page of the Arizona Judicial Branch website, azcourts.gov. Any substantial variation from these forms must first be approved by the Administrative Director. A petitioner may file a petition that varies from the approved form so long as it includes the information required by this rule and complies with Rule 1.6.
+Credits
+Added on an emergency basis Aug. 29, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023. Amended on an emergency basis Aug. 22, 2024, effective Sept. 14, 2024, permanently adopted Dec. 3, 2024, effective Jan. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 36.1, AZ ST RCRP Rule 36.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 37.1. Final Disposition Report
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 37. Report of Court Dispositions
+16A A.R.S. Rules Crim.Proc., Rule 37.1
+Rule 37.1. Final Disposition Report
+Currentness
+(a) Definition of “Final Disposition Report.” A “final disposition report” is a report on a Supreme Court approved form that a court must provide to the Department of Public Safety, which contains details regarding the disposition of a criminal proceeding. The report may be created and transmitted electronically.
+(b) Scope. The court must submit a final disposition report to the Department of Public Safety's central state repository in every criminal case if the defendant was fingerprinted as a result of the charge or incarcerated.
+(c) Timing. The court must send a final disposition report to the Department of Public Safety's central state repository no later than 10 days after the final disposition of a criminal proceeding.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 37.1, AZ ST RCRP Rule 37.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Rule 37.2. State's Duty to File a Disposition Form with the Court
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 37. Report of Court Dispositions
+16A A.R.S. Rules Crim.Proc., Rule 37.2
+Rule 37.2. State's Duty to File a Disposition Form with the Court
+Currentness
+(a) Generally. When the State files a criminal charge against a defendant who was fingerprinted or incarcerated following an arrest, the State must complete the applicable portions of the disposition form and forward it to the court.
+(1) When Filing a Complaint. If the State files a complaint, the State must attach a disposition form to the complaint. If a magistrate holds the defendant to answer before the superior court, the magistrate must forward the disposition form with the records listed in Rule 5.6 to the superior court.
+(2) When Filing an Indictment or Information. The State must complete the disposition form when it files an indictment or information in the superior court and forward it to the court.
+(b) When the Defendant Is Fingerprinted. No later than 5 days after the defendant is fingerprinted under Rule 3.2(b), the State must forward a disposition form to the same court where the complaint, information, or indictment was filed.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 37.2, AZ ST RCRP Rule 37.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 37.3. Reporting Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 37. Report of Court Dispositions
+16A A.R.S. Rules Crim.Proc., Rule 37.3
+Rule 37.3. Reporting Procedure
+Currentness
+(a) In the Superior Court. If the final disposition of a case occurs in superior court, the clerk must complete the disposition form and forward it to the Department of Public Safety's central state repository. The clerk must retain a copy of the completed disposition form in the court's file.
+(b) In a Limited Jurisdiction Court. If the final disposition of a case occurs in a limited jurisdiction court, the magistrate must retain the disposition form until the clerk has transmitted the record on appeal or the time for an appeal has expired. If the clerk has transmitted the record on appeal, the magistrate must forward the disposition form to the court where the appeal is pending. If the time for appeal has expired and no timely notice of appeal was filed, the magistrate must forward the disposition form to the Department of Public Safety's central state repository.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 37.3, AZ ST RCRP Rule 37.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 37.4. Procedure on Appeal
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 37. Report of Court Dispositions
+16A A.R.S. Rules Crim.Proc., Rule 37.4
+Rule 37.4. Procedure on Appeal
+Currentness
+(a) In the Superior Court. When the superior court clerk transmits the record on appeal, the court must forward a copy of the disposition form to the appellate court.
+(b) Reversed or Remanded Case. If the appellate court reverses a conviction or remands a case for a new trial or a new proceeding, the appellate court must forward to the Department of Public Safety's central state repository a copy of the disposition form that notes the change in the status of the disposition.
+(c) New Proceedings. If an appellate court remands a case for a new trial or a new proceeding, the State must forward a new disposition form to the trial court.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 37.4, AZ ST RCRP Rule 37.4
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 37.5. Abrogated Aug. 1, 2017, effective Jan. 1, 2018
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 37. Report of Court Dispositions
+16A A.R.S. Rules Crim.Proc., Rule 37.5
+Rule 37.5. Abrogated Aug. 1, 2017, effective Jan. 1, 2018
+Currentness
+16A A. R. S. Rules Crim. Proc., Rule 37.5, AZ ST RCRP Rule 37.5
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 38.1. Application for a Suspension Order
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 38. Suspension of Prosecution for a Deferred Prosecution Programs
+16A A.R.S. Rules Crim.Proc., Rule 38.1
+Rule 38.1. Application for a Suspension Order
+Currentness
+(a) Generally. After filing a complaint, indictment, or information, but before adjudication, the State may file a motion requesting that the court suspend further proceedings to allow a defendant to participate in a deferred prosecution program.
+(b) Motion's Content. The motion must state facts establishing that the defendant is legally eligible for participation in a deferred prosecution program. The motion must be accompanied by the defendant's signed consent agreeing to participate in the program. The consent also must be signed by defense counsel, if any.
+(c) Suspension Order. After reviewing the motion and the defendant's signed consent, and upon finding the defendant legally eligible for a deferred prosecution program, the court must suspend further proceedings for the period specified in the motion, not exceeding two years. If the defendant is in custody, the court may order the defendant's release.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 38.1, AZ ST RCRP Rule 38.1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 38.2. Resuming Prosecution
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2024
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 38. Suspension of Prosecution for a Deferred Prosecution Programs
+Effective: January 1, 2024
+16A A.R.S. Rules Crim.Proc., Rule 38.2
+Rule 38.2. Resuming Prosecution
+Currentness
+(a) Notice of Failure to Fulfill Deferred Prosecution Conditions. If the State is not satisfied that the defendant has fulfilled the conditions of the deferred prosecution program, it may file a written notice to that effect and request that the court vacate its order suspending prosecution. The State must serve a copy of the notice on the defendant.
+(b) Order to Resume Prosecution. After receiving a notice of the defendant's failure to fulfill the deferred prosecution conditions, the court must vacate the suspension order and order that the prosecution resume. The court must mail a copy of the order to the defendant and defense counsel, if any. After the court orders that the prosecution resume, the State may allow a defendant additional opportunities to participate in a deferred prosecution program as provided by Rule 38.1(a).
+(c) Time for Trial. Subject to Rule 8.4 and irrespective of the phase of the case when the prosecution was suspended, the defendant must be tried no later than 90 days after the filing of the order to resume prosecution.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended Aug. 24, 2023, effective Jan. 1, 2024.
+16A A. R. S. Rules Crim. Proc., Rule 38.2, AZ ST RCRP Rule 38.2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 38.3. Dismissal of Prosecution
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 38. Suspension of Prosecution for a Deferred Prosecution Programs
+16A A.R.S. Rules Crim.Proc., Rule 38.3
+Rule 38.3. Dismissal of Prosecution
+Currentness
+(a) At the End of Two Years. Two years after an order suspending prosecution is filed, the court may order the prosecution dismissed without prejudice.
+(b) On Successful Completion. If the State notifies the court that the defendant has satisfactorily completed the terms of the deferred prosecution program, the court must order a dismissal of the charges.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 38.3, AZ ST RCRP Rule 38.3
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 39. Victims' Rights
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: January 1, 2026
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 39. Victims' Rights
+Effective: January 1, 2026
+16A A.R.S. Rules Crim.Proc., Rule 39
+Rule 39. Victims' Rights
+Currentness
+(a) Definitions and Limitations.
+(1) Criminal Proceeding. As used in this rule, a “criminal proceeding” is any matter scheduled and held before a trial court, telephonically or in person, at which the defendant has the right to be present, including any post-conviction matter.
+(2) Identifying and Locating Information. As used in this rule, “identifying and locating information” includes a person's date of birth, social security number, official state or government issued driver license or identification number, the person's address, telephone number, email addresses, and place of employment.
+(3) Limitations.
+(A) Cessation of Victim Status. A victim retains the rights provided in these rules until the rights are no longer enforceable under A.R.S. §§ 13-4402, 13-4402.01, and 13-4433.
+(B) Legal Entities. The victim's rights of any corporation, partnership, association, or other similar legal entity are limited as provided in statute.
+(b) Victims' Rights.
+(1) the right to be treated with fairness, respect and dignity, and to be free from intimidation, harassment, or abuse, throughout the criminal justice process;
+(2) the right to notice regarding the rights available to a victim under this rule and any other provision of law, and the court must prominently post or read the statement of rights in accordance with A.R.S. § 13-4438;
+(3) upon request, the right to reasonable notice of the date, time, and place of any criminal proceeding in accordance with A.R.S. § 13-4409;
+(4) the right to be present at all criminal proceedings;
+(5) upon request, the right to be informed of any permanent or temporary release or any proposed release of the defendant;
+(6) upon request, the right to confer with the State regarding:
+(A) any decision about the preconviction release of the defendant;
+(B) any pretrial resolution including any diversion program or plea offer;
+(C) a decision not to initiate a criminal prosecution or to dismiss charges; and
+(D) the trial, before the trial begins;
+(7) upon request, the right to notice of and to be heard at any criminal proceeding involving:
+(A) the initial appearance;
+(B) the accused's post-arrest release or release conditions;
+(C) a proposed suspension of Rule 8 or a continuance of a trial date;
+(D) the court's consideration of a negotiated plea resolution;
+(E) sentencing;
+(F) the modification of any term of probation that will substantially affect the victim's safety, the defendant's contact with the victim, or restitution;
+(G) the early termination of probation;
+(H) a probation revocation disposition; and
+(I) post-conviction release.
+(8) the right to be accompanied at any interview, deposition, or criminal proceeding by a parent or other relative, or by an appropriate support person named by a victim, including a victim's caseworker or advocate, unless testimony of the person accompanying the victim is required in the case. If the court finds that a party's claim that a person is a prospective witness is not made in good faith, it may impose sanctions, including holding counsel in contempt;
+(9) if the victim is eligible, the right to the assistance of a facility dog when testifying as provided in A.R.S. § 13-4442;
+(10) the right to refuse to testify regarding any identifying or locating information unless the court orders disclosure after finding a compelling need for the information, and any proceeding on any motion to require such testimony must be in camera;
+(11) the right to require the prosecutor to withhold, during discovery and other proceedings, the victim's identifying and locating information as provided by A.R.S. § 13-4434.
+(A) Exception. A court may order disclosure of the victim's identifying and locating information as necessary to protect the defendant's constitutional rights or as otherwise provided by law. If disclosure is made to defense counsel, counsel must not disclose the information to any person other than counsel's staff and designated investigator, and must not convey the information to the defendant without prior court authorization.
+(B) Redactions. Rule 15.5(e) applies to information withheld under this rule;
+(12) the right to refuse an interview, deposition, or other discovery request by the defendant, the defendant's attorney, or other person acting on the defendant's behalf, and:
+(A) the defense must communicate requests to interview a victim to the prosecutor, not the victim. Defense counsel or an unrepresented defendant may request an interview with the victim by filing a written request with the court or making the request at a court hearing. Thereafter:
+(i) the prosecutor must act diligently to convey the request to the victim;
+(ii) no later than 30 days after the notice of request is filed or made on the record before the court, the prosecutor must notify defense counsel or an unrepresented defendant and the court of: the date(s) the prosecutor conveyed or attempted to convey the request; the means by which the prosecutor conveyed or attempted to convey the request; whether the victim wants the prosecutor to be present at the defense interview; and the date the victim responded to the request;
+(iii) a victim's response to such requests must be communicated through the prosecutor;
+(iv) if a victim consents to or declines an interview after the prosecutor provides the notice described in (12)(A)(ii), the prosecutor must promptly notify defense counsel or unrepresented defendant and the court in accord with (12)(A)(ii).
+(B) before the start of a defense interview, among other rights, the victim must be advised that the victim maintains:
+(i) the right to refuse an interview,
+(ii) the right to be treated with fairness, respect and dignity,
+(iii) the right to be free from intimidation, harassment, or abuse,
+(iv) the right to terminate the contact or interview at any time for any reason,
+(v) the right to confer with the prosecutor, and
+(vi) all other applicable statutory and constitutional rights;
+(13) at any interview or deposition conducted by defense counsel, the right to condition the interview or deposition on specification of a reasonable date, time, duration, and location of the interview or deposition, including a requirement that it be held at the victim's home, at the prosecutor's office, or at an appropriate location in the courthouse;
+(14) the right to terminate an interview at any time or refuse to answer any question during the interview;
+(15) the right to a copy of any presentence report provided to the defendant except those parts that are excised by the court or are confidential by law;
+(16) the right to be informed of the disposition of the case;
+(17) the right to a speedy trial or disposition and a prompt and final conclusion of the case after conviction and sentence; and
+(18) the right to be informed of a victim's right to restitution upon conviction of the defendant, of the items of loss included within the scope of restitution, and of the procedures for invoking the right.
+(c) Exercising the Right to Be Heard.
+(1) Nature of the Right. If a victim exercises the right to be heard, the victim does not do so as a witness and the victim is not subject to cross-examination. A victim is not required to disclose any statement to any party and is not required to submit any written statement to the court. The court must give any party the opportunity to explain, support, or refute the victim's statement. This subsection does not apply to victim impact statements made in a capital case under A.R.S. § 13-752(R).
+(2) Victims in Custody. If a victim is in custody for an offense, the victim's right to be heard under this rule is satisfied by affording the victim the opportunity to submit a written statement.
+(3) Victims Not in Custody. A victim who is not in custody may exercise the right to be heard under this rule through an oral statement or by submitting a written or recorded statement.
+(4) Before Disclosure of Identifying or Locating Information. Before a court orders disclosure of identifying or locating information under (b)(11)(A), the victim must be notified and given an opportunity to be heard.
+(5) At Sentencing. The right to be heard at sentencing allows the victim to present evidence, information, and opinions about the criminal offense, the defendant, the sentence, or restitution. The victim also may submit a written or oral impact statement to the probation officer for use in any presentence report.
+(d) Assistance and Representation.
+(1) Right to Prosecutor's Assistance. A victim has the right to the prosecutor's assistance in asserting rights enumerated in this rule or otherwise provided by law. The prosecutor must inform a victim of these rights and provide a victim with notices and information that a victim is entitled to receive from the prosecutor by these rules and by law.
+(2) Standing. The prosecutor has standing in any criminal proceeding, upon the victim's request, to assert any of the rights to which a victim is entitled by this rule or by any other provision of law.
+(3) Conflicts. If any conflict arises between the prosecutor and a victim in asserting the victim's rights, the prosecutor must advise the victim of the right to seek independent legal counsel and provide contact information for the appropriate state or local bar association.
+(4) Representation by Counsel. In asserting any of the rights enumerated in this rule or provided by any other provision of law, a victim has the right to be represented by personal counsel of the victim's choice. After a victim's counsel files a notice of appearance, all parties must endorse the victim's counsel on all pleadings. When present, the victim's counsel must be included in all bench conferences and in chambers meetings with the trial court that directly involve the victim's constitutional rights. At any proceeding to determine restitution, the victim has the right to present information and make argument to the court personally or through counsel.
+(e) Victim's Duties.
+(1) Generally. Any victim desiring to claim the notification rights and privileges provided in this rule must provide his or her full name, address, and telephone number to the entity prosecuting the case and to any other entity from which the victim requests notice, and to keep this information current.
+(2) Legal Entities.
+(A) Designation of a Representative. If a victim is a corporation, partnership, association, or other legal entity that has requested notice of the hearings to which it is entitled by law, that legal entity must promptly designate a representative by giving notice to the prosecutor and to any other entity from which the victim requests notice. The notice must include the representative's address and telephone number.
+(B) Notice. The prosecutor must notify the defendant and the court if the prosecutor receives notice under (e)(2)(A).
+(C) Effect. After notice is provided under (e)(2)(B), only the representative designated under (e)(2)(A) may assert the victim's rights on behalf of the legal entity.
+(D) Changes in Designation. The legal entity must provide any change in designation in writing to the prosecutor and to any other entity from which the victim requests notice. The prosecutor must notify the defendant and court of any change in designation.
+(f) Waiver. A victim may waive the rights and privileges enumerated in this rule. A prosecutor or a court may consider a victim's failure to provide a current address and telephone number, or a legal entity's failure to designate a representative, to be a waiver of notification rights under this rule.
+(g) Court Enforcement of Victim Notice Requirements.
+(1) Court's Duty to Inquire. At the beginning of any proceeding that takes place more than 7 days after the filing of charges by the State and at which the victim has a right to be heard, the court must inquire of the State or otherwise determine whether the victim has requested notice and has been notified of the proceeding.
+(2) If the Victim Has Been Notified. If the victim has been notified as requested, the court must further inquire of the State whether the victim is present. If the victim is present and the State advises the court that the victim wishes the court to address the victim, the court must inquire whether the State has advised the victim of their rights. If not, the court must recess the hearing and the State must immediately comply with (d)(1).
+(3) If the Victim Has Not Been Notified. If the victim has not been notified as requested, the court may not proceed unless public policy, the specific provisions of a statute, or the interests of due process require otherwise. In the absence of such considerations, the court may reconsider any ruling made at a proceeding at which the victim did not receive notice as requested.
+(h) Appointment of Victim's Representative. Upon request, the court must appoint a representative for a minor victim or for an incapacitated victim, as provided in A.R.S. § 13-4403. The court must notify the parties if it appoints a representative.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended on an emergency basis, effective Aug. 27, 2019, adopted on a permanent basis Dec. 12, 2019; amended on an emergency basis Aug. 29, 2022, effective Sept. 24, 2022, permanently adopted Dec. 8, 2022, effective Jan. 1, 2023; amended Aug. 28, 2025, effective Jan. 1, 2026.
+16A A. R. S. Rules Crim. Proc., Rule 39, AZ ST RCRP Rule 39
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Rule 40. Transfer for Juvenile Prosecution
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 40. Transfer for Juvenile Prosecution
+16A A.R.S. Rules Crim.Proc., Rule 40
+Rule 40. Transfer for Juvenile Prosecution
+Currentness
+(a) Scope. This rule applies to defendants who are eligible for transfer to juvenile court under A.R.S. § 13-504.
+(b) Initiation. The court must hold a hearing to determine whether prosecution of a defendant should be transferred to juvenile court if:
+(1) the defendant files a motion requesting transfer; or
+(2) the court enters an order stating that a transfer hearing is being set in the court's discretion or is required by law.
+(c) Contents of Motion and Court Order. The motion or order under (b) must designate the offense or offenses that are the subject of the transfer hearing.
+(d) Timing.
+(1) Request for Transfer. A motion for transfer or a court order setting a transfer hearing must be filed no later than 45 days after the arraignment date.
+(2) Hearing Date. The court must hold a transfer hearing no later than 45 days after a motion or order is filed under (b). The court may continue the hearing for good cause.
+(e) Disclosure. Setting a hearing under (d)(2) does not suspend the parties' Rule 15 disclosure duties.
+(f) Transfer Investigation. After the court sets a transfer hearing, it may order the adult or juvenile probation departments to conduct a transfer investigation and prepare a written report that addresses issues the court will consider at the transfer hearing. The adult and juvenile probation departments may confer as necessary to complete the investigation. The court must provide a copy of the report to all parties at least 5 days before the hearing, unless the parties waive the deadline.
+(g) Prior Transfer. The court may waive the provisions of (f) if an Arizona court has previously transferred the defendant for juvenile prosecution. The court may consider, and must provide to the parties, any prior orders of transfer, probation reports, or reports pertaining to physical, psychological, or psychiatric evaluations introduced into evidence in a prior transfer proceeding.
+(h) Transfer Hearing. At a transfer hearing, the court must determine whether the defendant has shown by clear and convincing evidence that public safety and the rehabilitation of the defendant, if adjudicated delinquent in juvenile court, would be best served by transferring the prosecution to juvenile court. The court must consider those factors provided in A.R.S. § 13-504(D).
+(i) Privilege.
+(1) Statements About Events Relating to Charged Offenses. Unless the defendant consents, the defendant's statements obtained under (f), or evidence resulting from those statements, concerning the events that form the basis of the charges against the defendant are inadmissible in any proceeding to determine the defendant's guilt of those charges.
+(2) Statements About Other Events or Transactions. Unless the defendant consents, the defendant's statements obtained under (f), or evidence resulting from those statements, concerning any other events or transactions are inadmissible in any proceeding to determine the defendant's guilt of other offenses based on those events or transactions.
+(3) Right to Remain Silent. A defendant's decision to testify at the transfer hearing does not waive the defendant's right to remain silent during the trial or adjudication hearing. Neither the fact that the defendant testified at the transfer hearing nor the defendant's testimony at the hearing may be mentioned to the trier of fact unless the defendant testifies at trial concerning the same matters.
+(j) Order of Transfer. After the transfer hearing, the court must determine with all possible speed whether to transfer the defendant to juvenile court. It must state its reasons in writing in a minute entry or order, and may not take any other action in the case until it makes this determination.
+(k) Further Juvenile Proceedings. If the court orders the defendant's transfer for juvenile prosecution, the indictment or information will serve as the juvenile petition for the transferred charges. No later than 48 hours after the order transferring prosecution is entered, the clerk must file a copy of the indictment or information in the juvenile court.
+(l) Release. If the court orders the defendant's transfer for juvenile prosecution, the court must determine if the defendant should be released or detained in a juvenile detention facility pending further proceedings. In making the release determination, the court must consider the factors listed in Rule 23(D), Rules of Procedure for the Juvenile Court.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018.
+16A A. R. S. Rules Crim. Proc., Rule 40, AZ ST RCRP Rule 40
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Rule 41. Forms
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 41. Forms
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Rule 41
+Rule 41. Forms
+Currentness
+Arizona courts are required to use Form 2(a) (Felony Arrest Warrant), Form 2(b) (Misdemeanor Arrest Warrant) and Form 2(c) (Pre-Charge Arrest Warrant (A.R.S. § 13-3897(A)), and are required to use Form 2(d) (Affidavit in Support of Pre-Charge Arrest Warrant (A.R.S. § 13-3897(A)) and Form 4(a) (Release Questionnaire/Law Enforcement) or their substantial equivalent, except that courts may make non-substantive and formatting modifications needed to implement electronic versions of these forms. The other forms in the following Appendix are recommended for use in Arizona courts and are sufficient to meet the requirements of these rules.
+Credits
+Added by Aug. 31, 2017, effective Jan. 1, 2018. Amended effective Feb. 26, 2021; amended Aug. 22, 2024, effective Jan. 1, 2025; amended on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Rule 41, AZ ST RCRP Rule 41
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Form 1. Reserved
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 41. Forms
+Forms
+16A A.R.S. Rules Crim.Proc., Form 1
+Form 1. Reserved
+Currentness
+16A A. R. S. Rules Crim. Proc., Form 1, AZ ST RCRP Form 1
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Form 2. Abrogated April 11, 2016, effective July 1, 2016
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 41. Forms
+Forms
+16A A.R.S. Rules Crim.Proc., Form 2
+Form 2. Abrogated April 11, 2016, effective July 1, 2016
+Currentness
+16A A. R. S. Rules Crim. Proc., Form 2, AZ ST RCRP Form 2
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+Form 2(a). Felony Arrest Warrant
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: November 26, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 41. Forms
+Forms
+Effective: November 26, 2025
+16A A.R.S. Rules Crim.Proc., Form 2(a)
+Form 2(a). Felony Arrest Warrant
+Currentness
+______________________________COURT
+____________________County, Arizona
+STATE OF ARIZONA, Plaintiff
+ARREST WARRANT
+For Court Use
+-vs
+CASE NO.
+Defendant(s) (First, MI, Last)
+[ ] DV [check if applicable]
+Address:
+Fingerprint instruction upon arrest:
+
+[ ] 01 criminal history [check if required]
+TO: ANY AUTHORIZED LAW ENFORCEMENT OFFICER
+YOU ARE COMMANDED to arrest and bring the defendant to the nearest or most accessible magistrate in this county except that if the defendant is not eligible for release on bond as indicated below, you must bring the defendant before this court. If this court is unavailable, you must take the defendant to the nearest or most accessible magistrate in this county. If the arrest is made in another county, you must take the defendant before the nearest or most accessible magistrate in that county or a magistrate in the county where the offense was committed.
+The defendant is accused of an offense or violation based on the following (examples: initial arrest warrant, failure to appear in court, probation violation):
+This offense or violation is described as follows:
+Offense Date
+Statute/Rule & Literal Description
+Class
+
+
+
+The defendant must NOT be released on bond without having an initial appearance before a magistrate.
+If the defendant is eligible for release at the initial appearance, the recommended amount for a
+[Empty Checkbox​ secured appearance] [Empty Checkbox​ unsecured appearance] [Empty Checkbox​ deposit] or [Empty Checkbox​ cash] bond is $ __________
+Empty Checkbox​ Explanation regarding the recommended amount: ____________________
+Empty Checkbox​ There is no recommendation.
+Empty Checkbox​ The defendant is not eligible for release on bond.[Explain / add additional orders of the court]
+Empty Checkbox​ Yes Empty Checkbox​ No Empty Checkbox​ Unknown The offense is, or is materially related to, a victims' rights applicable offense.
+BY ORDER OF: The Honorable _______________, Judge of ____________________ Court. [If signed by Superior Court Deputy Clerk]
+
+
+Date
+Printed name of the Judge or Deputy Clerk of the Superior Court:
+SEX:
+RACE:
+DOB:
+HGT:
+WGT:
+EYES:
+HAIR:
+ADDRESS: [TYPE:]
+COURT ORI:
+WARRANT #: *
+LE AGENCY: [Arresting Agency]
+CITATION #: *
+EXTRADITION: *
+PURGE DATE: *
+DL#: *
+STATE: *
+SSN (LAST 4)
+VIN:
+YEAR:
+MAKE:
+MODEL:
+STYLE:
+DR #: *
+[*optional information can vary by court and may include the last four digits of the defendant's SSN]
+CERTIFICATE OF EXECUTION
+I certify that the defendant was arrested at _ a.m./p.m. on ____________________(month) ______(day), 20______(year), and presented defendant before Judge ______________________________ at ____________________.
+
+
+Date
+Agency
+
+Deputy Sheriff / Officer
+Badge #
+Credits
+Added effective April 11, 2016, where available, mandatorily effective July 1, 2016. Amended Aug. 26, 2020, effective Jan. 1, 2021; amended on an emergency basis Aug. 28, 2025, effective Sept. 26, 2025, permanently adopted, effective Nov. 26, 2025.
+16A A. R. S. Rules Crim. Proc., Form 2(a), AZ ST RCRP Form 2(a)
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+Form 2(b). Misdemeanor Arrest Warrant
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: November 26, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 41. Forms
+Forms
+Effective: November 26, 2025
+16A A.R.S. Rules Crim.Proc., Form 2(b)
+Form 2(b). Misdemeanor Arrest Warrant
+Currentness
+______________________________COURT
+____________________County, Arizona
+STATE OF ARIZONA, Plaintiff
+ARREST WARRANT
+For Court Use
+-vs
+CASE NO.
+Defendant(s) (First, MI, Last)
+[ ] DV [check if applicable]
+Address:
+Fingerprint instruction upon arrest:
+
+[ ] 01 criminal history [check if required]
+TO: ANY AUTHORIZED LAW ENFORCEMENT OFFICER
+YOU ARE COMMANDED to arrest and bring the defendant to the nearest or most accessible magistrate in this county. If the arrest is made in another county, you must take the defendant before the nearest or most accessible magistrate in that county or a magistrate in the county where the offense was committed.
+The defendant is accused of an offense or violation based on the following: (examples: initial arrest warrant, failure to appear in court, probation violation):
+_____________________________________________
+This offense or violation is described as follows:
+Offense Date
+Statute/Rule & Literal Description
+Class
+
+
+
+Empty Checkbox​ Yes Empty Checkbox​ No The defendant may be released without having an initial appearance before a magistrate upon the posting of a [Empty Checkbox​ secured appearance] [Empty Checkbox​ unsecured appearance] [Empty Checkbox​ deposit] or [Empty Checkbox​ cash] bond in the amount of
+$ ________.
+Empty Checkbox​ Yes Empty Checkbox​ No Empty Checkbox​ Unknown The offense is, or is materially related to, a victims' rights applicable offense.
+BY ORDER OF: The Honorable __________________, Judge of ____________________ Court. [If signed by Superior Court Deputy Clerk]
+
+
+Date
+Printed name of the Judge or Deputy Clerk of the Superior Court:
+SEX:
+RACE:
+DOB:
+HGT:
+WGT:
+EYES:
+HAIR:
+ADDRESS: [TYPE:]
+COURT ORI:
+WARRANT #: *
+LE AGENCY: [Arresting Agency]
+CITATION #: *
+EXTRADITION: *
+PURGE DATE: *
+DL#: *
+STATE: *
+SSN (LAST 4)
+VIN:
+YEAR:
+MAKE:
+MODEL:
+STYLE:
+DR #: *
+[*optional information can vary by court and may include the last four digits of the defendant's SSN]
+CERTIFICATE OF EXECUTION
+I certify that the defendant was arrested at _ a.m./p.m. on ____________________(month) ______(day), 20______(year), and presented defendant before Judge ______________________________ at ____________________.
+
+
+Date
+Agency
+
+Deputy Sheriff / Officer
+Badge #
+Credits
+Added effective April 11, 2016, where available, mandatorily effective July 1, 2016. Amended Aug. 26, 2020, effective Jan. 1, 2021. Amended effective February 26, 2021; amended on an emergency basis Aug. 28, 2025, effective Sept. 26, 2025, permanently adopted, effective Nov. 26, 2025.
+16A A. R. S. Rules Crim. Proc., Form 2(b), AZ ST RCRP Form 2(b)
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
+
+Form 2(c). Pre-Charge Arrest Warrant (A.R.S. § 13-3897(A))
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure
+Effective: December 1, 2025
+Arizona Revised Statutes Annotated
+Rules of Criminal Procedure (Refs & Annos)
+IX. Miscellaneous
+Rule 41. Forms
+Forms
+Effective: December 1, 2025
+16A A.R.S. Rules Crim.Proc., Form 2(c)
+Form 2(c). Pre-Charge Arrest Warrant (A.R.S. § 13-3897(A))
+Currentness
+Image 1 within Form 2(c). Pre-Charge Arrest Warrant (A.R.S. § 13-3897(A))​
+Image 2 within Form 2(c). Pre-Charge Arrest Warrant (A.R.S. § 13-3897(A))​
+Credits
+Added on an emergency basis, effective Dec. 1, 2025.
+16A A. R. S. Rules Crim. Proc., Form 2(c), AZ ST RCRP Form 2(c)
+State Court Rules and the Code of Judicial Administration are current with amendments received through January 1, 2025. Some rules may be more current, see credits for details.
+
+
