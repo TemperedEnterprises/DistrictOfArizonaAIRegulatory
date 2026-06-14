@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CH4 JGFT Field Distribution</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:#04040c; color:#e2e2f0; font-family:'Courier New',monospace; overflow:hidden; }
+#canvas { position:fixed; inset:0; }
+#ui { position:fixed; top:0; left:0; right:0; padding:1rem 1.5rem; display:flex; justify-content:space-between; align-items:flex-start; pointer-events:none; z-index:10; }
+#title h1 { font-size:1rem; letter-spacing:0.15em; color:#e2e2f0; font-weight:400; }
+#title p  { font-size:0.62rem; color:#6b6b8a; margin-top:0.25rem; letter-spacing:0.08em; }
+#legend { font-size:0.62rem; letter-spacing:0.08em; line-height:2.1; text-align:right; }
+.leg { display:flex; align-items:center; gap:0.5rem; justify-content:flex-end; }
+.dot { width:9px; height:9px; border-radius:50%; flex-shrink:0; }
+#info { position:fixed; bottom:1.2rem; left:50%; transform:translateX(-50%); font-size:0.62rem; color:#6b6b8a; letter-spacing:0.1em; pointer-events:none; }
+#stats { position:fixed; bottom:1.2rem; right:1.5rem; font-size:0.62rem; color:#6b6b8a; letter-spacing:0.08em; line-height:1.8; text-align:right; }
+#controls { position:fixed; bottom:1.2rem; left:1.5rem; font-size:0.62rem; color:#6b6b8a; letter-spacing:0.08em; line-height:2.2; pointer-events:all; }
+#controls label { color:#9090b0; cursor:pointer; }
+#controls input[type=range] { accent-color:#7c6af7; width:80px; vertical-align:middle; }
+#controls input[type=checkbox] { accent-color:#7c6af7; }
+</style>
+</head>
+<body>
+<div id="canvas"></div>
+<div id="ui">
+  <div id="title">
+    <h1>CH&#x2084; METHANE &mdash; JGFT FIELD DISTRIBUTION</h1>
+    <p>10-pair F&#x2C7C; superposition &middot; tetrahedral geometry &middot; &alpha;, c, T, e, G only</p>
+  </div>
+  <div id="legend">
+    <div class="leg"><span style="color:#f97316">Carbon field (real)</span><div class="dot" style="background:#f97316"></div></div>
+    <div class="leg"><span style="color:#60a5fa">Hydrogen fields (real)</span><div class="dot" style="background:#60a5fa"></div></div>
+    <div class="leg"><span style="color:#a78bfa">Imaginary phase zones</span><div class="dot" style="background:#a78bfa"></div></div>
+    <div class="leg"><span style="color:#22c55e">Bond equilibrium</span><div class="dot" style="background:#22c55e"></div></div>
+    <div class="leg"><span style="color:#fbbf24">Field overlap nodes</span><div class="dot" style="background:#fbbf24"></div></div>
+  </div>
+</div>
+<div id="controls">
+  <label>Resolution <input type="range" id="res" min="15" max="50" value="28"></label><br>
+  <label>Field depth <input type="range" id="depth" min="1" max="8" value="3.5" step="0.5"></label><br>
+  <label>Real field  <input type="checkbox" id="showre" checked></label><br>
+  <label>Imag field  <input type="checkbox" id="showim" checked></label><br>
+  <label>Bonds       <input type="checkbox" id="showbonds" checked></label>
+</div>
+<div id="info">DRAG TO ROTATE &middot; SCROLL TO ZOOM &middot; DRAG TO STOP AUTO-ROTATE</div>
+<div id="stats">
+  Bond angle: <span style="color:#22c55e">109.47&deg;</span> (tetrahedral)<br>
+  C&ndash;H distance: <span style="color:#60a5fa">2.059 a&#x2080;</span><br>
+  Interaction pairs: <span style="color:#fbbf24">10</span><br>
+  Saturation r: <span id="satr">&mdash;</span>
+</div>
+<script>
+const alpha=7.2973525643e-3,c=2.99792458e8,T=2.418884254e-17,e_=Math.E,G=6.67430e-11;
+const satR=alpha*c*T,A0=4*alpha*alpha*c*c*T*T;
+document.getElementById('satr').textContent=satR.toExponential(3)+' m';
+
+// Tetrahedral CH4 geometry in Bohr radii
+const chDist=2.059;
+const s=chDist/Math.sqrt(3);
+const posC=[0,0,0];
+const posH1=[ s, s, s];
+const posH2=[ s,-s,-s];
+const posH3=[-s, s,-s];
+const posH4=[-s,-s, s];
+
+const mC=12.011,mH=1.008;
+
+// All 10 pairs
+const pairs=[
+  [posC,posH1,mC,mH],[posC,posH2,mC,mH],[posC,posH3,mC,mH],[posC,posH4,mC,mH],
+  [posH1,posH2,mH,mH],[posH1,posH3,mH,mH],[posH1,posH4,mH,mH],
+  [posH2,posH3,mH,mH],[posH2,posH4,mH,mH],[posH3,posH4,mH,mH]
+];
+
+function complexArcsin(x){
+  if(x<=1)return{re:Math.asin(x),im:0};
+  return{re:Math.PI/2,im:-Math.log(x+Math.sqrt(x*x-1))};
+}
+
+function FjTotal(px,py,pz){
+  let re=0,im=0;
+  for(const[p1,p2,m1,m2]of pairs){
+    for(const pole of[p1,p2]){
+      const dx=px-pole[0],dy=py-pole[1],dz=pz-pole[2];
+      const r=Math.sqrt(dx*dx+dy*dy+dz*dz)+1e-9;
+      const asin=complexArcsin(1/r);
+      const tr=2*asin.re,ti=2*asin.im;
+      re+=G*m1*m2*(tr*tr-ti*ti)/A0;
+      im+=G*m1*m2*(2*tr*ti)/A0;
+    }
+  }
+  return{re,im};
+}
+
+const scene=new THREE.Scene();
+const camera=new THREE.PerspectiveCamera(50,innerWidth/innerHeight,0.001,1000);
+const renderer=new THREE.WebGLRenderer({antialias:true,alpha:true});
+renderer.setPixelRatio(devicePixelRatio);
+renderer.setSize(innerWidth,innerHeight);
+renderer.setClearColor(0x04040c,1);
+document.getElementById('canvas').appendChild(renderer.domElement);
+
+let drag=false,prev={x:0,y:0},sph={theta:0.6,phi:1.1,r:9},autoRot=true;
+function updateCam(){
+  camera.position.set(sph.r*Math.sin(sph.phi)*Math.sin(sph.theta),sph.r*Math.cos(sph.phi),sph.r*Math.sin(sph.phi)*Math.cos(sph.theta));
+  camera.lookAt(0,0,0);
+}
+updateCam();
+const el=renderer.domElement;
+el.addEventListener('mousedown',e=>{drag=true;autoRot=false;prev={x:e.clientX,y:e.clientY};});
+el.addEventListener('mouseup',()=>drag=false);
+el.addEventListener('mousemove',e=>{if(!drag)return;sph.theta-=(e.clientX-prev.x)*0.01;sph.phi=Math.max(0.1,Math.min(Math.PI-0.1,sph.phi+(e.clientY-prev.y)*0.01));prev={x:e.clientX,y:e.clientY};updateCam();});
+el.addEventListener('wheel',e=>{sph.r=Math.max(3,Math.min(30,sph.r+e.deltaY*0.01));updateCam();});
+el.addEventListener('touchstart',e=>{drag=true;autoRot=false;prev={x:e.touches[0].clientX,y:e.touches[0].clientY};});
+el.addEventListener('touchend',()=>drag=false);
+el.addEventListener('touchmove',e=>{if(!drag)return;sph.theta-=(e.touches[0].clientX-prev.x)*0.01;sph.phi=Math.max(0.1,Math.min(Math.PI-0.1,sph.phi+(e.touches[0].clientY-prev.y)*0.01));prev={x:e.touches[0].clientX,y:e.touches[0].clientY};updateCam();});
+
+scene.add(new THREE.AmbientLight(0x111133,3));
+const dl=new THREE.DirectionalLight(0xffffff,2);dl.position.set(5,8,5);scene.add(dl);
+const pl=new THREE.PointLight(0xf97316,3,12);pl.position.set(0,0,0);scene.add(pl);
+
+function addAtom(pos,radius,color,opacity){
+  const m=new THREE.Mesh(new THREE.SphereGeometry(radius,32,32),new THREE.MeshPhongMaterial({color,transparent:true,opacity,shininess:120,emissive:color,emissiveIntensity:0.12}));
+  m.position.set(...pos);scene.add(m);
+  const n=new THREE.Mesh(new THREE.SphereGeometry(radius*0.09,8,8),new THREE.MeshBasicMaterial({color:0xff4444}));
+  n.position.set(...pos);scene.add(n);
+  const ring=new THREE.Mesh(new THREE.TorusGeometry(radius,0.012,8,64),new THREE.MeshBasicMaterial({color,transparent:true,opacity:0.35}));
+  ring.position.set(...pos);scene.add(ring);
+}
+addAtom(posC,0.75,0xf97316,0.22);
+addAtom(posH1,0.38,0x60a5fa,0.18);
+addAtom(posH2,0.38,0x60a5fa,0.18);
+addAtom(posH3,0.38,0x60a5fa,0.18);
+addAtom(posH4,0.38,0x60a5fa,0.18);
+
+const bondGroup=new THREE.Group();scene.add(bondGroup);
+function buildBonds(){
+  bondGroup.clear();
+  if(!document.getElementById('showbonds').checked)return;
+  for(const h of[posH1,posH2,posH3,posH4]){
+    const g=new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(...posC),new THREE.Vector3(...h)]);
+    bondGroup.add(new THREE.Line(g,new THREE.LineBasicMaterial({color:0x22c55e,transparent:true,opacity:0.5})));
+  }
+  for(const[h1,h2]of[[posH1,posH2],[posH1,posH3],[posH1,posH4],[posH2,posH3],[posH2,posH4],[posH3,posH4]]){
+    const g=new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(...h1),new THREE.Vector3(...h2)]);
+    bondGroup.add(new THREE.Line(g,new THREE.LineBasicMaterial({color:0x223344,transparent:true,opacity:0.18})));
+  }
+}
+buildBonds();
+
+const fieldGroup=new THREE.Group();scene.add(fieldGroup);
+function buildField(){
+  fieldGroup.clear();
+  const N=parseInt(document.getElementById('res').value);
+  const depth=parseFloat(document.getElementById('depth').value);
+  const showRe=document.getElementById('showre').checked;
+  const showIm=document.getElementById('showim').checked;
+  const step=(depth*2)/N;
+  const vRe=[],cRe=[],vIm=[],cIm=[],vNode=[],cNode=[];
+  for(let ix=0;ix<=N;ix++)for(let iy=0;iy<=N;iy++)for(let iz=0;iz<=N;iz++){
+    const x=-depth+ix*step,y=-depth+iy*step,z=-depth+iz*step;
+    const F=FjTotal(x,y,z);
+    const re=Math.abs(F.re),im=Math.abs(F.im);
+    if(showRe&&re>5e7){
+      const t=Math.min(1,Math.log10(re/5e7)/5);
+      vRe.push(x,y,z);
+      if(t>0.7)cRe.push(1,0.35+t*0.2,0.05,t*0.85);
+      else if(t>0.35)cRe.push(0.6+t*0.3,0.8,0.1,t*0.7);
+      else cRe.push(0.1,0.7+t*0.2,0.8,t*0.5);
+    }
+    if(showIm&&im>1e6){
+      const t=Math.min(1,Math.log10(im/1e6)/4);
+      vIm.push(x,y,z);cIm.push(0.55+t*0.2,0.3+t*0.1,1,t*0.55);
+    }
+    if(showRe&&re>1e10){vNode.push(x,y,z);cNode.push(1,0.75,0.1,0.9);}
+  }
+  function mp(v,col,sz){
+    if(!v.length)return;
+    const g=new THREE.BufferGeometry();
+    g.setAttribute('position',new THREE.Float32BufferAttribute(v,3));
+    g.setAttribute('color',new THREE.Float32BufferAttribute(col,4));
+    fieldGroup.add(new THREE.Points(g,new THREE.PointsMaterial({size:sz,vertexColors:true,transparent:true,sizeAttenuation:true})));
+  }
+  mp(vRe,cRe,0.09);mp(vIm,cIm,0.07);mp(vNode,cNode,0.14);
+}
+buildField();
+document.getElementById('res').addEventListener('change',buildField);
+document.getElementById('depth').addEventListener('change',buildField);
+document.getElementById('showre').addEventListener('change',buildField);
+document.getElementById('showim').addEventListener('change',buildField);
+document.getElementById('showbonds').addEventListener('change',buildBonds);
+window.addEventListener('resize',()=>{camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();renderer.setSize(innerWidth,innerHeight);});
+function animate(){requestAnimationFrame(animate);if(autoRot){sph.theta+=0.003;updateCam();}renderer.render(scene,camera);}
+animate();
+</script>
+</body>
+</html>

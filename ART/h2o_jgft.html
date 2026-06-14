@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>H₂O — JGFT Field Distribution</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:#05050e; color:#e2e2f0; font-family:'Courier New',monospace; overflow:hidden; }
+
+#canvas { position:fixed; inset:0; }
+
+#ui {
+  position:fixed; top:0; left:0; right:0;
+  padding:1rem 1.5rem;
+  display:flex; justify-content:space-between; align-items:flex-start;
+  pointer-events:none; z-index:10;
+}
+
+#title h1 { font-size:1rem; letter-spacing:0.15em; color:#e2e2f0; font-weight:400; }
+#title p  { font-size:0.62rem; color:#6b6b8a; margin-top:0.3rem; letter-spacing:0.08em; }
+
+#legend { font-size:0.62rem; letter-spacing:0.08em; line-height:2; text-align:right; }
+.leg { display:flex; align-items:center; gap:0.5rem; justify-content:flex-end; }
+.dot { width:9px; height:9px; border-radius:50%; }
+
+#info {
+  position:fixed; bottom:1.2rem; left:50%; transform:translateX(-50%);
+  font-size:0.62rem; color:#6b6b8a; letter-spacing:0.1em; text-align:center;
+  pointer-events:none;
+}
+
+#stats {
+  position:fixed; bottom:1.2rem; right:1.5rem;
+  font-size:0.62rem; color:#6b6b8a; letter-spacing:0.08em;
+  line-height:1.8; text-align:right;
+}
+
+#controls {
+  position:fixed; bottom:1.2rem; left:1.5rem;
+  font-size:0.62rem; color:#6b6b8a; letter-spacing:0.08em;
+  line-height:2;
+}
+#controls label { color:#9090b0; }
+#controls input { accent-color:#7c6af7; width:80px; vertical-align:middle; }
+</style>
+</head>
+<body>
+<div id="canvas"></div>
+
+<div id="ui">
+  <div id="title">
+    <h1>H₂O — JGFT FIELD DISTRIBUTION</h1>
+    <p>Three-body F&#x2C7C; superposition · real + imaginary components · α, c, T, e only</p>
+  </div>
+  <div id="legend">
+    <div class="leg"><span style="color:#f97316">Oxygen field (real)</span><div class="dot" style="background:#f97316"></div></div>
+    <div class="leg"><span style="color:#60a5fa">Hydrogen fields (real)</span><div class="dot" style="background:#60a5fa"></div></div>
+    <div class="leg"><span style="color:#a78bfa">Imaginary phase</span><div class="dot" style="background:#a78bfa"></div></div>
+    <div class="leg"><span style="color:#22c55e">Bond equilibrium</span><div class="dot" style="background:#22c55e"></div></div>
+  </div>
+</div>
+
+<div id="controls">
+  <label>Resolution <input type="range" id="res" min="20" max="60" value="35"></label><br>
+  <label>Field depth <input type="range" id="depth" min="1" max="10" value="4" step="0.5"></label><br>
+  <label>Show imag <input type="checkbox" id="imag" checked></label>
+</div>
+
+<div id="info">DRAG TO ROTATE · SCROLL TO ZOOM</div>
+<div id="stats">
+  Bond angle: <span id="bondangle">104.45°</span><br>
+  O–H distance: <span id="ohdist">—</span><br>
+  Saturation r: <span id="satr">—</span>
+</div>
+
+<script>
+// ── JGFT Constants ──
+const alpha = 7.2973525643e-3;
+const c     = 2.99792458e8;
+const T     = 2.418884254e-17;
+const e_    = Math.E;
+const G     = 6.67430e-11;
+
+const satR  = alpha * c * T;          // ~5.29e-11 m (Bohr radius)
+const A0    = 4*alpha*alpha*c*c*T*T;  // prime surface area
+const scaleF = 1/satR;                // normalise to Bohr units
+
+// H2O geometry (in Bohr radii)
+// O at origin, H1 and H2 at 104.45° bond angle, O-H = 1.809 Bohr
+const bondAngle = 104.45 * Math.PI / 180;
+const ohDist    = 1.809; // in Bohr radii (0.96 Å / a0)
+const halfAngle = bondAngle / 2;
+
+const posO  = [0, 0, 0];
+const posH1 = [ ohDist*Math.sin(halfAngle),  ohDist*Math.cos(halfAngle), 0];
+const posH2 = [-ohDist*Math.sin(halfAngle),  ohDist*Math.cos(halfAngle), 0];
+
+// Masses (relative, normalised)
+const mO = 15.999;
+const mH = 1.008;
+
+document.getElementById('ohdist').textContent = `${ohDist.toFixed(3)} a₀`;
+document.getElementById('satr').textContent   = `${satR.toExponential(3)} m`;
+
+// ── Complex arcsin ──
+function complexArcsin(x) {
+  if (x <= 1) return { re: Math.asin(x), im: 0 };
+  return {
+    re: Math.PI/2,
+    im: -Math.log(x + Math.sqrt(x*x - 1))
+  };
+}
+
+// ── Fj at a point, given two masses and their positions (Bohr units) ──
+function Fj(px, py, pz, m1, m2, pos1, pos2) {
+  const dx = px - pos1[0], dy = py - pos1[1], dz = pz - pos1[2];
+  const r  = Math.sqrt(dx*dx + dy*dy + dz*dz) + 1e-9;
+  const ratio = 1/r; // normalised: satR/r where r in Bohr units
+  const asin  = complexArcsin(ratio);
+  const th_re = 2*asin.re, th_im = 2*asin.im;
+  const th2_re = th_re*th_re - th_im*th_im;
+  const th2_im = 2*th_re*th_im;
+  return {
+    re: G * m1 * m2 * th2_re / A0,
+    im: G * m1 * m2 * th2_im / A0
+  };
+}
+
+// ── Scene setup ──
+const scene    = new THREE.Scene();
+const camera   = new THREE.PerspectiveCamera(50, innerWidth/innerHeight, 0.001, 1000);
+const renderer = new THREE.WebGLRenderer({ antialias:true, alpha:true });
+renderer.setPixelRatio(devicePixelRatio);
+renderer.setSize(innerWidth, innerHeight);
+renderer.setClearColor(0x05050e, 1);
+document.getElementById('canvas').appendChild(renderer.domElement);
+
+camera.position.set(0, 2, 8);
+camera.lookAt(0,0,0);
+
+// ── Spherical orbit controls ──
+let drag=false, prev={x:0,y:0}, sph={theta:0.1,phi:1.2,r:8};
+function updateCam(){
+  camera.position.set(
+    sph.r*Math.sin(sph.phi)*Math.sin(sph.theta),
+    sph.r*Math.cos(sph.phi),
+    sph.r*Math.sin(sph.phi)*Math.cos(sph.theta)
+  );
+  camera.lookAt(0,0,0);
+}
+updateCam();
+
+renderer.domElement.addEventListener('mousedown', e=>{ drag=true; prev={x:e.clientX,y:e.clientY}; });
+renderer.domElement.addEventListener('mouseup',   ()=>drag=false);
+renderer.domElement.addEventListener('mousemove', e=>{
+  if(!drag) return;
+  sph.theta -= (e.clientX-prev.x)*0.01;
+  sph.phi    = Math.max(0.1, Math.min(Math.PI-0.1, sph.phi+(e.clientY-prev.y)*0.01));
+  prev={x:e.clientX,y:e.clientY}; updateCam();
+});
+renderer.domElement.addEventListener('wheel', e=>{
+  sph.r = Math.max(2, Math.min(30, sph.r+e.deltaY*0.01)); updateCam();
+});
+renderer.domElement.addEventListener('touchstart', e=>{ drag=true; prev={x:e.touches[0].clientX,y:e.touches[0].clientY}; });
+renderer.domElement.addEventListener('touchend',   ()=>drag=false);
+renderer.domElement.addEventListener('touchmove',  e=>{
+  if(!drag) return;
+  sph.theta -= (e.touches[0].clientX-prev.x)*0.01;
+  sph.phi    = Math.max(0.1,Math.min(Math.PI-0.1,sph.phi+(e.touches[0].clientY-prev.y)*0.01));
+  prev={x:e.touches[0].clientX,y:e.touches[0].clientY}; updateCam();
+});
+
+// ── Atom spheres ──
+function addSphere(pos, radius, color, opacity=0.18) {
+  const geo = new THREE.SphereGeometry(radius, 32, 32);
+  const mat = new THREE.MeshPhongMaterial({ color, transparent:true, opacity, shininess:80 });
+  const m   = new THREE.Mesh(geo, mat);
+  m.position.set(...pos);
+  scene.add(m);
+  // wireframe
+  const wf = new THREE.LineSegments(
+    new THREE.WireframeGeometry(new THREE.SphereGeometry(radius,16,16)),
+    new THREE.LineBasicMaterial({ color, transparent:true, opacity:0.08 })
+  );
+  wf.position.set(...pos);
+  scene.add(wf);
+}
+
+addSphere(posO,  0.66, 0xf97316, 0.22); // oxygen - larger
+addSphere(posH1, 0.35, 0x60a5fa, 0.18); // H1
+addSphere(posH2, 0.35, 0x60a5fa, 0.18); // H2
+
+// ── Saturation boundary rings ──
+function addRing(pos, r, color) {
+  const geo = new THREE.TorusGeometry(r, 0.01, 8, 64);
+  const mat = new THREE.MeshBasicMaterial({ color, transparent:true, opacity:0.3 });
+  const m   = new THREE.Mesh(geo, mat);
+  m.position.set(...pos);
+  scene.add(m);
+}
+addRing(posO,  0.66, 0xf97316);
+addRing(posH1, 0.35, 0x60a5fa);
+addRing(posH2, 0.35, 0x60a5fa);
+
+// ── Bond lines ──
+function addBond(p1, p2, color) {
+  const geo = new THREE.BufferGeometry().setFromPoints([
+    new THREE.Vector3(...p1), new THREE.Vector3(...p2)
+  ]);
+  scene.add(new THREE.Line(geo, new THREE.LineBasicMaterial({ color, transparent:true, opacity:0.5 })));
+}
+addBond(posO, posH1, 0x22c55e);
+addBond(posO, posH2, 0x22c55e);
+
+// ── Lights ──
+scene.add(new THREE.AmbientLight(0x222244, 2));
+const dl = new THREE.DirectionalLight(0xffffff, 1.5);
+dl.position.set(5,5,5); scene.add(dl);
+const pl = new THREE.PointLight(0xf97316, 2, 10);
+pl.position.set(...posO); scene.add(pl);
+
+// ── Field volume points ──
+let fieldGroup = new THREE.Group();
+scene.add(fieldGroup);
+
+function buildField() {
+  fieldGroup.clear();
+  const N     = parseInt(document.getElementById('res').value);
+  const depth = parseFloat(document.getElementById('depth').value);
+  const showI = document.getElementById('imag').checked;
+
+  const step = (depth*2)/N;
+  const pts_re = [], cols_re = [];
+  const pts_im = [], cols_im = [];
+
+  for(let ix=0;ix<=N;ix++)
+  for(let iy=0;iy<=N;iy++)
+  for(let iz=0;iz<=N;iz++){
+    const x = -depth + ix*step;
+    const y = -depth + iy*step;
+    const z = -depth + iz*step;
+
+    // Superposition of Fj from O->H1, O->H2, H1->H2
+    const f1 = Fj(x,y,z, mO, mH, posO, posH1);
+    const f2 = Fj(x,y,z, mO, mH, posO, posH2);
+    const f3 = Fj(x,y,z, mH, mH, posH1, posH2);
+
+    const re_total = Math.abs(f1.re + f2.re + f3.re);
+    const im_total = Math.abs(f1.im + f2.im + f3.im);
+
+    if(re_total > 1e8) {
+      pts_re.push(x,y,z);
+      const t = Math.min(1, re_total/1e12);
+      cols_re.push(1, 0.4+t*0.3, 0.1, t*0.8);
+    }
+
+    if(showI && im_total > 1e7) {
+      pts_im.push(x,y,z);
+      const t = Math.min(1, im_total/1e11);
+      cols_im.push(0.6+t*0.2, 0.3+t*0.2, 1, t*0.6);
+    }
+  }
+
+  // Real field points
+  if(pts_re.length > 0) {
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.Float32BufferAttribute(pts_re, 3));
+    geo.setAttribute('color',    new THREE.Float32BufferAttribute(cols_re, 4));
+    const mat = new THREE.PointsMaterial({ size:0.08, vertexColors:true, transparent:true, sizeAttenuation:true });
+    fieldGroup.add(new THREE.Points(geo, mat));
+  }
+
+  // Imaginary field points
+  if(pts_im.length > 0) {
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.Float32BufferAttribute(pts_im, 3));
+    geo.setAttribute('color',    new THREE.Float32BufferAttribute(cols_im, 4));
+    const mat = new THREE.PointsMaterial({ size:0.06, vertexColors:true, transparent:true, sizeAttenuation:true });
+    fieldGroup.add(new THREE.Points(geo, mat));
+  }
+}
+
+buildField();
+
+document.getElementById('res').addEventListener('change', buildField);
+document.getElementById('depth').addEventListener('change', buildField);
+document.getElementById('imag').addEventListener('change', buildField);
+
+// ── Bond angle arc ──
+const arcPts = [];
+for(let a=-halfAngle; a<=halfAngle; a+=halfAngle/20){
+  arcPts.push(new THREE.Vector3(Math.sin(a)*1.2, Math.cos(a)*1.2, 0));
+}
+const arcGeo = new THREE.BufferGeometry().setFromPoints(arcPts);
+scene.add(new THREE.Line(arcGeo, new THREE.LineBasicMaterial({ color:0x22c55e, transparent:true, opacity:0.4 })));
+
+// ── Axis helpers ──
+const axisLen = 2;
+[[[0,0,0],[axisLen,0,0],0x444488],
+ [[0,0,0],[0,axisLen,0],0x448844],
+ [[0,0,0],[0,0,axisLen],0x884444]].forEach(([p1,p2,col])=>{
+  const g = new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(...p1),new THREE.Vector3(...p2)]);
+  scene.add(new THREE.Line(g, new THREE.LineBasicMaterial({color:col,transparent:true,opacity:0.2})));
+});
+
+// ── Animate ──
+window.addEventListener('resize',()=>{
+  camera.aspect=innerWidth/innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(innerWidth,innerHeight);
+});
+
+function animate(){
+  requestAnimationFrame(animate);
+  renderer.render(scene, camera);
+}
+animate();
+</script>
+</body>
+</html>
